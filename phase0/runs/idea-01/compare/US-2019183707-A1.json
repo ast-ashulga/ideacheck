@@ -1,0 +1,45 @@
+{
+  "publication_number": "US-2019183707-A1",
+  "legal_status": "not_active",
+  "one_line_summary": "L-shaped three-wheeled mover that hooks onto a hospital bed (which keeps its own four swivel wheels) and moves it omnidirectionally with two independently driven and oriented steering wheels, commanded by a joystick remote.",
+  "prior_art": {
+    "E1": {
+      "verdict": "partial",
+      "quote": "Hence, the device is normally equipped with two motor-driven steering wheels and one passive wheel, whereas a hospital bed is generally equipped with four passive swivel wheels.",
+      "location": "description",
+      "note": "The application is hospital beds. However, the mover is a separate three-wheeled L-shaped base that engages the bed, not a four-wheeled base with integrated drive."
+    },
+    "E2": {
+      "verdict": "partial",
+      "quote": "said first (41) and second (42) steering wheel comprise a motor (45) for driving the wheel and a motor 46 for orienting the wheel, which are independent of one another",
+      "location": "claim 11",
+      "note": "This is a true swerve module: separate drive and orient motors, and it can be oriented in any direction. There are exactly two active wheels, but on a three-wheeled mover rather than as two of four wheels on the cart itself. Claim 13 also allows a third driven wheel."
+    },
+    "E3": {
+      "verdict": "partial",
+      "quote": "The configuration adopted with two driving steering wheels, set along the two arms of the frame, and an idle wheel located at the intersection of said arms bestows on the device the possibility of performing a holonomous movement.",
+      "location": "description",
+      "note": "The two active wheels are at the ends of the two L arms, so roughly opposite each other across the corner, with an idle swivel wheel at the corner (claim 12). The bed's four passive swivel wheels carry the load. This is not a four-wheel diagonal layout of 2 active + 2 casters."
+    },
+    "E4": {
+      "verdict": "disclosed",
+      "quote": "characterized in that said control means (50) comprise a joystick and push-buttons.",
+      "location": "claim 16",
+      "note": "The joystick is on a cable-tethered remote control, not on handles or a handlebar, and there are no handle force sensors."
+    },
+    "E5": {
+      "verdict": "partial",
+      "quote": "the operator imposes on the rigid body formed by the ensemble constituted by the device and the load carried a motion, in the resting plane, of pure translation parallel to the rigid body itself.",
+      "location": "description",
+      "note": "In manoeuvre mode a pure-translation velocity vector is commanded, which matches the translation-only vector. But it comes from joystick inclination, not measured handle force, and there is no instantaneous speed or acceleration compensation. An advance mode (Ackermann) and rotation commands also exist."
+    },
+    "E6": {
+      "verdict": "disclosed",
+      "quote": "The desired configurations are a translation, through the kinematic model of the vehicle, of the quantities desired by the user (translational and angular velocity for the entire structure) into reference values of steering and rolling velocity for each motor-driven wheel",
+      "location": "description",
+      "note": "The desired motion is converted into a steering angle and a rolling velocity per active wheel, with closed-loop feedback (claim 11)."
+    }
+  },
+  "combination_note": "E2+E3: partial. There are exactly two independent steer-and-drive (swerve) wheels plus a passive swivel wheel, but on a three-wheeled L-shaped bed mover, not as a diagonal pair on a four-wheeled cart with two casters. E5->E6: the vector-to-per-wheel steering angle and velocity part (E6) is disclosed, including a pure-translation mode, but the input is a joystick. The closest gap is the absence of force sensing on the push handles and of speed/acceleration-aware vector generation, together with the different wheel layout and the separate mover.",
+  "claim_overlap": []
+}

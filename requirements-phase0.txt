@@ -1,0 +1,11 @@
+# Phase 0 tooling. Install with:
+#   uv venv --python 3.11 .venv && uv pip install --python .venv/bin/python -r requirements-phase0.txt
+patent-client-agents[mcp]==0.29.0
+# patent-client-agents 0.29.0 declares fastmcp>=3.2.3 with no upper bound,
+# but fastmcp 4.x removed fastmcp.tools.tool, which mcp-data-core imports.
+fastmcp>=3.2.3,<4
+google-cloud-bigquery>=3.25
+google-cloud-bigquery-storage
+pyarrow
+duckdb
+db-dtypes

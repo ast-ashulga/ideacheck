@@ -1,0 +1,154 @@
+{
+  "publication_number": "JP-2014046890-A",
+  "legal_status": "active",
+  "one_line_summary": "Power-assist omnidirectional trolley whose load rests on four free casters while spring-loaded, servo-driven omni wheels (four in a rectangle or three in a triangle) move it according to the force on a load-cell handle.",
+  "prior_art": {
+    "E1": {
+      "verdict": "partial",
+      "quote": "The omnidirectional mobile trolley 1 (hereinafter also referred to as “trolley”) having the power assist function of the present application normally includes four free casters under the pedestal.",
+      "location": "description",
+      "note": "A cart for heavy loads on four corner casters, but with 3-4 extra omni drive wheels underneath, so it is not a four-wheeled base."
+    },
+    "E2": {
+      "verdict": "absent",
+      "quote": "",
+      "location": "",
+      "note": "Drive is by omni wheels with fixed axles and no steering. The document explicitly avoids steered drive wheels. An omni wheel is not a steer-and-drive wheel."
+    },
+    "E3": {
+      "verdict": "partial",
+      "quote": "The carriage 1 of the present application is provided with the free casters 30 at the lower four corners of the carriage 40, the omni wheel 10 is arranged in a rectangular shape below the carriage 40",
+      "location": "description",
+      "note": "There are free-swivel casters, but four of them (all corners). The active wheels are four omni wheels in a rectangle (diagonal pairs with parallel axles), not two diagonal steer-and-drive wheels."
+    },
+    "E4": {
+      "verdict": "disclosed",
+      "quote": "The handle 20 is connected to the load cell 21 and the handle 20 is operated with three degrees of freedom of the rotation direction θ, the X axis, and the Y axis.",
+      "location": "description",
+      "note": "A push handle with a grip lever and a 3-axis load cell."
+    },
+    "E5": {
+      "verdict": "partial",
+      "quote": "Moreover, the output torque of each drive unit connected to the shaft of the omni wheel has a power assist function that is proportional to the external force applied to the load cell.",
+      "location": "description",
+      "note": "Handle force (X, Y, rotation) is measured and turned into motion, but the drive torque is simply proportional to force. Instantaneous speed or acceleration is not considered, and rotation is commanded, so the vector is not translation-only."
+    },
+    "E6": {
+      "verdict": "partial",
+      "quote": "arithmetic processing is performed by a control unit (not shown), and the rotation speed and rotation are applied to the drive unit connected to the shaft of each omni wheel.",
+      "location": "description",
+      "note": "Per-wheel commands are only rotation speed and direction of omni wheels. There is no steering angle."
+    }
+  },
+  "combination_note": "E2+E3: not disclosed. The document uses four (or three) unsteered omni drive wheels plus four free casters and rejects steered drive wheels as slow. E5->E6: partial. Handle force from a load cell drives the wheels with torque proportional to force, but there is no speed/acceleration-aware translation vector and no per-wheel steering angle. The closest gap is the wheel architecture: omni wheels instead of two diagonal swerve wheels.",
+  "claim_overlap": [
+    {
+      "claim": "1",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "In an omnidirectional mobile trolley having a power assist function that is moved by an omni wheel equipped with a drive motor",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "The idea moves the cart with steer-and-drive (swerve) wheels, not omni wheels."
+        },
+        {
+          "limitation": "a plurality of free casters are provided below the chassis, and the load is supported by the free casters",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "The idea has two free-swivel casters, but its active wheels are load-bearing wheels of the four-wheel base, so the load is probably not carried by the casters alone."
+        },
+        {
+          "limitation": "four omni wheels are arranged in a rectangular shape with their rolls in contact with the ground below the trolley",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "There are no omni wheels. The idea has two diagonal swerve wheels."
+        },
+        {
+          "limitation": "the axles of the two omni wheels on each diagonal are in the same direction",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "There are no omni wheels. The active wheels' axles are steered to any angle."
+        },
+        {
+          "limitation": "the contact pressure of the roll of each omni wheel is adjusted by a spring disposed between the omni wheel and the chassis",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "This depends on omni wheels, which the idea does not have. The idea does not specify spring-loaded drive wheels."
+        },
+        {
+          "limitation": "the omni wheel axle is connected to a drive unit composed of a servo motor and a speed reducer",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "There are no omni wheels. The idea's drive motor type is also unspecified."
+        },
+        {
+          "limitation": "the rotation direction and rotation speed of each omni wheel drive unit are independently controlled according to the external force applied to the external force detection sensor",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "The idea does control drive from handle force, but it also commands a steering angle for swerve wheels. Controlling omni wheel drive units is not met."
+        },
+        {
+          "limitation": "the trolley has a power assist function",
+          "met_by_idea": "yes",
+          "quote": "An omnidirectional mobile trolley having a power assist function that is controlled and has a power assist function.",
+          "reason": "The idea is a power-assisted cart that can move in any direction thanks to its free-swivel casters."
+        }
+      ]
+    },
+    {
+      "claim": "2",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "In an omnidirectional mobile trolley having a power assist function that is moved by an omni wheel equipped with a drive motor",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "The idea uses steer-and-drive wheels, not omni wheels."
+        },
+        {
+          "limitation": "a plurality of free casters are provided below the chassis, and the load is supported by the free casters",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "The idea has two free-swivel casters, but its active wheels probably also carry load."
+        },
+        {
+          "limitation": "three omni wheels are arranged in a triangular shape with their rolls in contact with the ground below the trolley",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "The idea has no omni wheels and uses two diagonal swerve wheels, not three wheels in a triangle."
+        },
+        {
+          "limitation": "the shaft of each omni wheel is disposed toward the center of the chassis",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "There are no omni wheels. The swerve wheel axles are steered."
+        },
+        {
+          "limitation": "the contact pressure of the roll of each omni wheel is adjusted by a spring disposed between the omni wheel and the chassis",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "This depends on omni wheels, which the idea does not have."
+        },
+        {
+          "limitation": "the omni wheel axle is connected to a drive unit composed of a servo motor and a speed reducer",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "There are no omni wheels."
+        },
+        {
+          "limitation": "the rotation direction and rotation speed of each omni wheel drive unit are independently controlled according to the external force applied to the external force detection sensor",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Force-based control is present in the idea, but of swerve wheels (steering angle plus drive), not omni wheel drive units."
+        },
+        {
+          "limitation": "the trolley has a power assist function",
+          "met_by_idea": "yes",
+          "quote": "An omnidirectional mobile trolley having a power assist function that is controlled and has a power assist function.",
+          "reason": "The idea is a power-assist cart."
+        }
+      ]
+    }
+  ]
+}

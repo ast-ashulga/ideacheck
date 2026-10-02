@@ -1,0 +1,124 @@
+{
+  "publication_number": "EP-2897566-B1",
+  "legal_status": "active",
+  "one_line_summary": "Powered patient support apparatus (bed/stretcher/cot) with motor-driven and motor-steered wheels controlled by a force sensing system that measures magnitude, direction and location (moment) of user forces and amplifies the motion the apparatus would naturally make.",
+  "prior_art": {
+    "E1": {
+      "verdict": "disclosed",
+      "quote": "patient support apparatus 20a includes four wheels 24, which are each generally positioned adjacent the four corners of apparatus 20a",
+      "location": "description",
+      "note": "Four-wheeled hospital bed/stretcher/cot base for delicate patient transport."
+    },
+    "E2": {
+      "verdict": "partial",
+      "quote": "Patient support apparatus 20e differs from patient support apparatus 20d in that the two driven wheels 24a have been replaced by two steered and driven wheels 24c.",
+      "location": "description",
+      "note": "FIG. 8 has exactly two steered-and-driven wheels 24c, but on a six-wheel base (four casters 24d plus two 24c), not two of four. FIG. 3/FIG. 6 have four steer-and-drive wheels (24c), not two. 360 degree steering range is not stated."
+    },
+    "E3": {
+      "verdict": "partial",
+      "quote": "wheels 24d of apparatus 20e are castered or otherwise free wheeling wheels that rotate to match the current direction of movement",
+      "location": "description",
+      "note": "Remaining wheels are free-swivel casters, but the two active wheels are not placed diagonally: FIG. 8 derives from FIG. 7 where the active pair sits side-by-side on a common axis. No diagonal arrangement found (grep 'diagonal' returns nothing). Claim 10 and the description only say steerable/powered wheels may be at 'one or more of the corners', a generic teaching, not a diagonal selection; no 'opposite corner' wording either."
+    },
+    "E4": {
+      "verdict": "disclosed",
+      "quote": "Handles 46 include one or more force sensors 52 positioned thereon, or they make pivoting contact with one or more force sensors 52 as a user manipulates them",
+      "location": "description",
+      "note": "Push handles with built-in force sensors (also side-rail and footboard sensors)."
+    },
+    "E5": {
+      "verdict": "partial",
+      "quote": "any detected force inputs from force sensors 52 will result in controller 50 causing purely translational motion of the support apparatus if the speed sensor(s) indicates that the support apparatus is currently traveling under a threshold speed",
+      "location": "description",
+      "note": "Difference: the idea is unconditionally translation-only, while EP is purely translational only below a threshold speed and otherwise adds powered rotation (claim 1 uses the moment of the force to command turning). Otherwise close: handle force (magnitude and direction) is turned into motion with 'a speed or acceleration that generally corresponds to the magnitude of the sensed forces', and the current measured speed is fed to the controller."
+    },
+    "E6": {
+      "verdict": "disclosed",
+      "quote": "controller 50 processes those readings and outputs appropriate steering and/or drive commands to motors 54 and/or 56",
+      "location": "description",
+      "note": "Per-wheel steering motor 56 and drive motor 54 receive commands derived from the force readings (FIG. 3/4: each wheel has its own steering and power motor)."
+    }
+  },
+  "combination_note": "E2+E3 not disclosed together: the only two-steer-and-drive-wheel embodiment (FIG. 8, apparatus 20e) has four free-wheeling casters (six wheels total) and the active pair is not diagonal; four-wheel embodiments use four steer-and-drive wheels, Ackermann, or a single central wheel. E5->E6 is close: force magnitude/direction -> speed/acceleration -> steering and drive commands per wheel, with a speed-dependent purely translational mode. Closest gap to the idea: the diagonal placement of exactly two swerve modules on a four-wheel base with two free casters, and an unconditional translation-only vector (EP uses moment/rotation in its main claim).",
+  "claim_overlap": [
+    {
+      "claim": "1",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "A patient support apparatus (20) comprising:",
+          "met_by_idea": "yes",
+          "quote": "A patient support apparatus (20) comprising: a base (22); a powered wheel (24a) and a steerable wheel (24b);",
+          "reason": "The idea explicitly covers a wheeled hospital bed; for that embodiment it is a patient support apparatus."
+        },
+        {
+          "limitation": "a base (22);",
+          "met_by_idea": "yes",
+          "quote": "A patient support apparatus (20) comprising: a base (22); a powered wheel (24a) and a steerable wheel (24b);",
+          "reason": "Four-wheeled base."
+        },
+        {
+          "limitation": "a powered wheel (24a) and a steerable wheel (24b);",
+          "met_by_idea": "yes",
+          "quote": "a base (22); a powered wheel (24a) and a steerable wheel (24b); a patient support deck (30) supported by said base (22)",
+          "reason": "Each swerve wheel is powered and steerable (claim 2 allows the same wheel)."
+        },
+        {
+          "limitation": "a patient support deck (30) supported by said base (22), said patient support deck (30) adapted to support a patient;",
+          "met_by_idea": "yes",
+          "quote": "a patient support deck (30) supported by said base (22), said patient support deck (30) adapted to support a patient;",
+          "reason": "Met for the hospital-bed embodiment (as with the preamble); a warehouse/DIY cart would not have a patient support deck."
+        },
+        {
+          "limitation": "a first motor (54) adapted to provide power to said powered wheel (24a);",
+          "met_by_idea": "yes",
+          "quote": "a first motor (54) adapted to provide power to said powered wheel (24a); a second motor (56) adapted to steer said steerable wheel (24b)",
+          "reason": "Traction drive of each active wheel."
+        },
+        {
+          "limitation": "a second motor (56) adapted to steer said steerable wheel (24b), characterized in that the apparatus further includes",
+          "met_by_idea": "yes",
+          "quote": "a first motor (54) adapted to provide power to said powered wheel (24a); a second motor (56) adapted to steer said steerable wheel (24b)",
+          "reason": "360 degree steering drive of each active wheel."
+        },
+        {
+          "limitation": "a force sensing system (50,52) adapted to detect both a direction and magnitude of forces exerted by a user and to determine a location of the applied forces relative to a reference location (90) on the patient support apparatus; and",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea measures handle force magnitude and direction, but does not specify determining the location of the force relative to a reference point (with sensors in two handles this could be computed)."
+        },
+        {
+          "limitation": "a controller (50) adapted to control said first and second motors (54, 56) in a manner that takes into account the magnitude, direction, and moment of the applied forces relative to the reference location, and to power the powered wheel (24a) and steer the steerable wheel (24b) in a manner that amplifies how the patient support apparatus would move if it were subjected to only the exerted forces.",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Claim requires using the moment of the forces and amplifying how the apparatus would move (including turning) under those forces; the idea's vector is translation only with no commanded rotation, so moment-based amplified rotation contradicts it. This is the key point to keep as a design-around."
+        }
+      ]
+    },
+    {
+      "claim": "13",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "A method of controlling movement of a patient support apparatus (20) having a steerable wheel (24b) and a powered wheel (24a), said method comprising:",
+          "met_by_idea": "yes",
+          "quote": "A method of controlling movement of a patient support apparatus (20) having a steerable wheel (24b) and a powered wheel (24a), said method comprising:",
+          "reason": "Hospital-bed embodiment with swerve wheels; method of operating it."
+        },
+        {
+          "limitation": "providing a force sensing system (50, 52) on said patient support apparatus (20), said force sensing system (50, 52) adapted to detect a magnitude and direction of forces applied by a user to the patient support apparatus (20) and to determine a location of the applied forces relative to a reference location (90) on the patient support apparatus;",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Force magnitude and direction at the handles are measured, but determining the location of the force relative to a reference location is not specified by the idea."
+        },
+        {
+          "limitation": "providing a controller (50) on said patient support apparatus (20) adapted to control steering of said steerable wheel (24b) and to control power delivered to said powered wheel (24a), characterized by controlling said powered wheel (24a) and said steerable wheel (24a) in a manner that takes into account the magnitude, direction, and moment of the applied force relative to the reference location (90), and that amplifies how the patient support apparatus (20) would turn if it were subjected to only the applied force.",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Requires controlling with the moment of the force so as to amplify how the apparatus would turn; the idea is translation-only with no commanded rotation."
+        }
+      ]
+    }
+  ]
+}

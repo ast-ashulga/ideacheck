@@ -1,0 +1,106 @@
+{
+  "publication_number": "JP-6837910-B2",
+  "legal_status": "active",
+  "one_line_summary": "Japanese patent for an omnidirectional moving vehicle with two (or more) active casters, each having a motor-driven 360 degree steering shaft and an offset drive wheel whose drive actuator is body-mounted and geared through the steering axis, the two casters being mirror-symmetric so drive-reaction disturbance torques on the steering shafts cancel.",
+  "prior_art": {
+    "E1": {
+      "verdict": "partial",
+      "quote": "The omnidirectional moving vehicle 1 is provided with four casters with respect to the vehicle body 2, and these four casters enable the vehicle body 2 to move freely with respect to the floor surface 3.",
+      "location": "description",
+      "note": "Four-caster wheeled vehicle base, but a generic omnidirectional moving vehicle; no cart, trolley, bed, heavy-load or delicate-transport application is mentioned."
+    },
+    "E2": {
+      "verdict": "disclosed",
+      "quote": "Of the four casters, two are active casters 5 having drive wheels 4 to which rotational torque is transmitted, and the remaining two are driven casters 6 that are pulled from the vehicle body 2 to rotate.",
+      "location": "description",
+      "note": "Exactly two of four casters are active, each with its own steering actuator 8 (360 degree rotation of support member 51) and drive actuator 9: steer-and-drive modules. Claim 1 also covers 'a plurality'; a variant with three or more active casters is mentioned."
+    },
+    "E3": {
+      "verdict": "partial",
+      "quote": "The two active casters 5 are provided closer to the front side of the vehicle body 2 (to the left of the paper in FIG. 2), and the two driven casters 6 are behind the vehicle body 2",
+      "location": "description",
+      "note": "The other two wheels are passive free-swivel (driven) casters 6, as in the idea, but the two active casters are both at the front side, coaxial when aligned forward (and claim 2 places them so drive axes coincide), i.e. side by side, not diagonal."
+    },
+    "E4": {
+      "verdict": "absent",
+      "quote": "",
+      "location": "",
+      "note": "No handlebar, joystick or handle sensors described; the user interface is not addressed."
+    },
+    "E5": {
+      "verdict": "absent",
+      "quote": "",
+      "location": "",
+      "note": "No user force sensing and no conversion of handle force into a motion vector; speed/acceleration mentioned only as wheel acceleration causing disturbance torque."
+    },
+    "E6": {
+      "verdict": "partial",
+      "quote": "the vehicle body 2 is arbitrarily controlled by coordinating the steering actuator 8 and the driving actuator 9 of the first active caster 5A and the second active caster 5B.",
+      "location": "description",
+      "note": "Coordinated control of each active caster's steering actuator and drive actuator to move the body in an arbitrary direction at any speed, i.e. per-wheel steering angle plus drive from a desired motion. But no derivation from a handle-force vector, and the control law is not detailed (also covers rotation, three DOF)."
+    }
+  },
+  "combination_note": "Discloses E2 (two 360 degree steer-and-drive active casters plus two passive free-swivel casters on a four-caster base) and, generically, E6 (coordinated steering angle and drive per active caster for arbitrary-direction motion). It does not place the active casters diagonally (they are side by side at the front, coaxial), so E2+E3 is only partially met. It has nothing on E4/E5: no push handle, no force sensing, no force-to-translation-vector conversion using speed/acceleration. Closest gap to the idea: diagonal placement and the handle-force-driven power-assist control chain E4->E5->E6.",
+  "claim_overlap": [
+    {
+      "claim": "1",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "An omnidirectional moving vehicle in which a plurality of active casters are mounted on the vehicle body and the vehicle body can be moved in all directions on the floor surface",
+          "met_by_idea": "yes",
+          "quote": "a plurality of active casters are mounted on the vehicle body and the vehicle body can be moved in all directions on the floor surface",
+          "reason": "Idea has two steer-and-drive (active caster-type) modules plus free-swivel casters, so the platform can translate in any direction."
+        },
+        {
+          "limitation": "The active caster has a steering shaft arranged along the vertical direction",
+          "met_by_idea": "yes",
+          "quote": "The active caster is Steering shafts arranged along the vertical direction,",
+          "reason": "A 360 degree steering drive necessarily rotates the wheel about a vertical steering axis."
+        },
+        {
+          "limitation": "A mounting portion fixed to the vehicle body that rotatably holds the steering shaft",
+          "met_by_idea": "yes",
+          "quote": "A mounting portion that is fixed to the vehicle body and rotatably holds the steering shaft,",
+          "reason": "Any steer module bolted to the cart frame has a housing that rotatably holds its steering axis."
+        },
+        {
+          "limitation": "A support member fixed to the steering shaft that is given a steering angle according to the rotation of the steering shaft",
+          "met_by_idea": "yes",
+          "quote": "A support member that is fixed to the steering shaft and is given a steering angle according to the rotation of the steering shaft.",
+          "reason": "The wheel fork/yoke of a steer-and-drive wheel turns with the steering axis to set the steering angle."
+        },
+        {
+          "limitation": "A drive wheel with a horizontal axle held by the support member at a position offset horizontally by a predetermined distance from the steering shaft rotation center (caster offset)",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea does not specify a caster trail/offset; many swerve modules have the contact point on the steering axis (zero offset)."
+        },
+        {
+          "limitation": "A steering actuator fixed to the mounting portion that rotationally drives the steering shaft",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea has a steering drive, but whether it is fixed to the body-side mounting portion is unspecified."
+        },
+        {
+          "limitation": "A drive actuator fixed to the mounting portion (not to the rotating support member) that rotationally drives the drive wheel",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea does not specify motor location; a hub motor on the rotating fork would not meet this."
+        },
+        {
+          "limitation": "A transmission means including at least one rotation transmitting member rotatably held relative to the steering shaft, converting vertical-axis rotation into horizontal-axis rotation and transmitting torque from the drive actuator to the drive wheel",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea does not specify the drive train (coaxial gear/bevel transmission versus in-wheel motor)."
+        },
+        {
+          "limitation": "The plurality of active casters include a first and a second active caster having structures mirror-symmetrical to each other with respect to the vertical axis",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea does not specify mirror-symmetric module construction; possible but not stated."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "publication_number": "JP-2023144611-A",
+  "legal_status": "active",
+  "one_line_summary": "Honda power-assist trolley with two rear driven omnidirectional wheels and two front casters, whose handle force/moment sensor sets target longitudinal, lateral and angular velocities, with lateral velocity reduced as angular velocity grows so turning does not cause unintended sideways drift.",
+  "prior_art": {
+    "E1": {
+      "verdict": "disclosed",
+      "quote": "a pair of omnidirectional wheels 3 are provided at the lower part of the rear portion 2A of the vehicle body 2. Further, left and right casters 13 are supported at the lower part of the front portion 2B",
+      "location": "description",
+      "note": "Four-wheeled trolley (2 rear omni wheels + 2 front casters) carrying devices such as an X-ray scanner; heavy-load/hospital-bed context is not stated explicitly."
+    },
+    "E2": {
+      "verdict": "partial",
+      "quote": "each omnidirectional wheel 3 includes a frame 17, a pair of drive disks 18 rotatably supported by the frame 17, and an annular main wheel 19 disposed between the pair of drive disks 18.",
+      "location": "description",
+      "note": "Exactly two of four wheels are active, but they are omnidirectional wheels driven by two drive disks each (lateral motion via roller differential), not steer-and-drive wheels with a 360 deg steering drive."
+    },
+    "E3": {
+      "verdict": "partial",
+      "quote": "Each caster 13 has a fork 13A rotatably coupled to the arm 14 about an axis extending vertically",
+      "location": "description",
+      "note": "The two passive wheels are swivel casters (front), but the two active wheels sit side by side on the rear axle (left and right), not diagonally."
+    },
+    "E4": {
+      "verdict": "disclosed",
+      "quote": "A handle 5 is supported by the handle holder 35 via a force sensor 6.",
+      "location": "description",
+      "note": "Push handle mounted on a three-axis force sensor (Fx, Fy, Mz)."
+    },
+    "E5": {
+      "verdict": "partial",
+      "quote": "the control device 7 sets a target longitudinal speed vt1 of the vehicle body 2 based on the longitudinal load fs1, sets a target lateral speed vt2 of the vehicle body 2 based on the lateral load fs2",
+      "location": "description",
+      "note": "Handle force is converted into a target translational velocity (longitudinal + lateral), but a target angular velocity from the handle moment is also commanded (idea is translation only), and no use of measured instantaneous speed/acceleration is described."
+    },
+    "E6": {
+      "verdict": "partial",
+      "quote": "The control device 7 sets each target rotational speed rt of the electric motor 25 based on the corrected target longitudinal speed vt1, corrected target lateral speed vt2, and corrected target angular speed ωt.",
+      "location": "description",
+      "note": "Target velocities are converted into per-motor rotation speeds for the drive disks of the omni wheels; there is no per-wheel steering angle command."
+    }
+  },
+  "combination_note": "E2+E3 not disclosed together: it has exactly two driven wheels plus two swivel casters, but the driven wheels are omnidirectional wheels (no steering drive) and are placed side by side at the rear, not diagonally. E5->E6 only partially: handle force -> target longitudinal/lateral (and angular) velocity -> per-motor speeds, without steering angles and without speed/acceleration-dependent interpretation. Closest gap: replace the two rear omni wheels with two diagonal swerve modules and drop the commanded rotation.",
+  "claim_overlap": [
+    {
+      "claim": "1",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "A trolley comprising a car body",
+          "met_by_idea": "yes",
+          "quote": "The car body and left and right omnidirectional wheels that are provided on the vehicle body",
+          "reason": "Idea is a cart with a body (only the car body part of this quote is relied on)."
+        },
+        {
+          "limitation": "left and right omnidirectional wheels provided on the body that move it in all directions along the floor",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "The idea uses steer-and-drive (swerve) wheels plus free-swivel casters, not omnidirectional (drive-disk/roller) wheels; under a strict reading an 'omnidirectional wheel' is a distinct wheel type. Also the idea's active wheels are diagonal, not a left/right pair."
+        },
+        {
+          "limitation": "left and right drive units that drive each of the omnidirectional wheels",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Depends on the omnidirectional wheels, which the idea does not have."
+        },
+        {
+          "limitation": "a handle provided on the vehicle body for receiving operation by a user",
+          "met_by_idea": "yes",
+          "quote": "a handle provided on the vehicle body for receiving operation by a user",
+          "reason": "Idea has push handles / handlebar receiving the user's force."
+        },
+        {
+          "limitation": "a sensor that detects a longitudinal load, a lateral load, and a moment around a vertical axis applied to the handle",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea measures handle force; whether a moment about the vertical axis is also sensed is not specified (not needed for translation-only control)."
+        },
+        {
+          "limitation": "a control device that controls the drive unit based on the longitudinal load, lateral load and moment about the vertical axis",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Idea commands translation only; it would not control the drive using the vertical-axis moment."
+        },
+        {
+          "limitation": "target longitudinal velocity set from the longitudinal load and target lateral velocity set from the lateral load",
+          "met_by_idea": "yes",
+          "quote": "A target longitudinal velocity of the vehicle body is set based on the longitudinal load, a target lateral velocity of the vehicle body is set based on the lateral load",
+          "reason": "Idea turns handle force into a translation vector, i.e. longitudinal and lateral target motion components."
+        },
+        {
+          "limitation": "target angular velocity about the vertical axis set from the moment",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Idea has no commanded rotation (translation only, per clarification)."
+        },
+        {
+          "limitation": "correcting the target lateral velocity so its absolute value decreases as the absolute target angular velocity increases",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "No target angular velocity exists in the idea, so this correction cannot occur."
+        },
+        {
+          "limitation": "controlling the drive unit based on the target longitudinal velocity, corrected target lateral velocity and target angular velocity",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Idea does not use a target angular velocity."
+        }
+      ]
+    }
+  ]
+}

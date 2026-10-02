@@ -1,0 +1,19 @@
+{
+  "remote": [
+    {"id": "G1", "keywords": ["(diagonal OR diagonally OR \"opposite corners\")", "(\"drive wheel\" OR \"driven wheel\" OR \"drive unit\")", "(steerable OR steering OR swivel)", "(caster OR castor)"]},
+    {"id": "G2", "keywords": ["(\"force sensor\" OR \"load cell\" OR \"strain gauge\" OR \"force sensing\")", "handle", "(\"steering motor\" OR \"swivel motor\" OR \"turning motor\" OR steerable)", "(\"drive motor\" OR \"traction motor\")"]},
+    {"id": "G3", "keywords": ["(omnidirectional OR holonomic OR \"any direction\")", "(\"power assist\" OR \"power-assisted\" OR \"assist force\")", "(cart OR trolley OR bed OR stretcher)"]},
+    {"id": "G4", "keywords": ["(\"active caster\" OR \"powered caster\" OR \"driven caster\" OR \"motorized caster\" OR \"steerable caster\")", "(handle OR \"operating force\")"]},
+    {"id": "G5", "keywords": ["(\"two drive wheels\" OR \"pair of drive wheels\" OR \"two steerable wheels\")", "(\"two casters\" OR \"two castors\" OR \"free casters\")"]},
+    {"id": "G6", "keywords": ["(swerve OR \"steer and drive\" OR \"drive and steer\" OR \"independently steerable\")", "(diagonal OR diagonally)"]},
+    {"id": "G7", "keywords": ["(steer OR steering OR swivel)", "(direction OR vector)"], "cpc": ["B62B5/0073"]},
+    {"id": "G8", "keywords": ["(\"force sensor\" OR \"load cell\" OR handle)", "(steer OR swivel OR omnidirectional)"], "cpc": ["A61G7/08"]},
+    {"id": "G9", "keywords": ["(\"operating force\" OR \"handle force\" OR \"push force\")", "(vector OR direction)", "(velocity OR acceleration)", "(assist OR \"target velocity\")"], "cpc": ["B62B5/0026"]},
+    {"id": "G10", "keywords": ["(\"manual mode\" OR \"manually guided\" OR \"hand guided\")", "(\"force sensor\" OR \"force sensing\")", "handle", "(omnidirectional OR swerve OR \"steerable drive\")"]}
+  ],
+  "local": [
+    {"id": "L1", "sql": "SELECT publication_number, title_en FROM publications WHERE len(title_en) > 0 AND regexp_matches(lower(title_en[1]), '(diagonal|caster|castor|steer|swivel|omnidirectional)') AND regexp_matches(lower(title_en[1]), '(assist|drive|motor|power)') ORDER BY publication_date DESC"},
+    {"id": "L2", "sql": "SELECT publication_number, title_en FROM publications WHERE list_contains(cpc, 'B62B5/0073') AND (list_contains(cpc, 'B62B3/001') OR len(list_filter(cpc, c -> c LIKE 'B62B2301/%')) > 0) ORDER BY publication_date DESC"},
+    {"id": "L3", "sql": "SELECT publication_number, title_en FROM publications WHERE list_contains(cpc, 'A61G7/08') AND len(list_filter(cpc, c -> c LIKE 'A61G2203/3%')) > 0 ORDER BY publication_date DESC"}
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "publication_number": "DE-202004010854-U1",
+  "legal_status": "not_active",
+  "one_line_summary": "German utility model for a power-assisted delivery/picking trolley whose two rear fixed castors each have a reversible electric motor driven in proportion to the push/pull force measured separately at each hand on the push bar, with safety switching that blocks drive or forces straight-ahead travel when a hand is released.",
+  "prior_art": {
+    "E1": {
+      "verdict": "disclosed",
+      "quote": "and rigid carriers  4  for rear castors  5  and yokes pivotable about vertical axes  6  for front castors  7  includes.",
+      "location": "description",
+      "note": "Four-wheeled delivery/picking trolley chassis with load area 2: two rear fixed castors 5 and front swivel castors 7 on vertical-axis yokes 6; intended to relieve the operator when moving a heavily loaded cart. Claim 1 requires only at least one swivel castor plus two fixed castors (3 or more wheels)."
+    },
+    "E2": {
+      "verdict": "partial",
+      "quote": "In both embodiments, with each of the rear fixed castors  5  in each case a direction of rotation reversible, under load starting electric motor  8th",
+      "location": "description",
+      "note": "Exactly two of the wheels are driven (one reversible electric motor per rear fixed castor), but they have traction drive only, with no steering drive at all, let alone 360 degree steering. Steering comes from differential motor power. The generic claim language says the driven pair may be the fixed or the swivel castors, but even then the swivel is passive, not motor-steered."
+    },
+    "E3": {
+      "verdict": "partial",
+      "quote": "and rigid carriers  4  for rear castors  5  and yokes pivotable about vertical axes  6  for front castors  7  includes.",
+      "location": "description",
+      "note": "The non-driven wheels are free-swivel front castors 7, as in the idea. But the two driven wheels are the rear pair on a common rigid axle 9 (same side, coaxial), not placed diagonally, and they are fixed, so the cart cannot move sideways in any direction."
+    },
+    "E4": {
+      "verdict": "disclosed",
+      "quote": "while the push bar  12  in the embodiment according to  2  illustrated distributor or. Delivery cart with additional, the traverse  14  outstanding handles  15  Is provided.",
+      "location": "description",
+      "note": "U-shaped push bar 12 (spars 13, crossbar 14) with additional handles 15 that contain the force sensors; sensors built into the push handles."
+    },
+    "E5": {
+      "verdict": "partial",
+      "quote": "in the handles  15  Sensors, in particular dynamometers  16  arranged by an operator on one or each of the handles  15  exerted forces, in particular tensile or shear forces, in corresponding control signals",
+      "location": "description",
+      "note": "Two spaced force gauges 16 in the handles measure push/pull force of each hand and turn it into control signals. But there is no motion vector: each hand's force simply sets its own motor's power (differential push = turning). No explicit use of instantaneous speed or acceleration, and no omnidirectional translation vector."
+    },
+    "E6": {
+      "verdict": "partial",
+      "quote": "a control and regulating device for powering the electric motors in relation to each by each of the two hands of the operator on the car exerted shear or traction",
+      "location": "description",
+      "note": "Per-wheel commands are traction power only, proportional to the force of the corresponding hand (differential drive); steering by differential wheel speed rather than a dedicated per-wheel steering angle. Second switching device equalises both motors for straight-ahead travel when one hand is released."
+    }
+  },
+  "combination_note": "Does not disclose E2+E3: the two driven wheels are traction-only fixed castors on one rear axle, not diagonal steer-and-drive modules; only the free-swivel passive castors match. Does not disclose E5->E6 as claimed in the idea: handle forces map directly to two motor powers (differential steering), with no translation vector, no speed/acceleration term and no steering angle. Closest overlap is the force-sensing push handles (E4) and power-assisted heavy trolley with two driven wheels plus swivel castors; the main gap is the diagonal pair of 360 degree steer-and-drive modules and vector-based steering-angle control. Status: expired utility model, so no claim overlap analysis.",
+  "claim_overlap": []
+}

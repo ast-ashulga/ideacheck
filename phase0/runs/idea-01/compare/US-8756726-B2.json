@@ -1,0 +1,148 @@
+{
+  "publication_number": "US-8756726-B2",
+  "legal_status": "active",
+  "one_line_summary": "Powered patient bed/stretcher with casters and a single motor-driven wheel that swivels 90 degrees between longitudinal and lateral orientations, controlled by forward/reverse and left/right user inputs on push handles, siderails and the foot end.",
+  "prior_art": {
+    "E1": {
+      "verdict": "partial",
+      "quote": "A plurality of casters **23** are coupled to base frame **16** and are in contact with the underlying floor **150** as shown in FIG.",
+      "location": "description",
+      "note": "Wheeled hospital bed/stretcher on casters for patient transport; a powered fifth wheel is added, and the number of casters (four) is not stated in the found passages."
+    },
+    "E2": {
+      "verdict": "partial",
+      "quote": "a motor driven wheel that can be raised out of contract with the floor, lowered into contact with the floor, and swiveled by ninety degrees between a first orientation",
+      "location": "description",
+      "note": "Only ONE driven wheel, and it swivels between two discrete orientations (90 degrees, longitudinal/lateral) rather than continuous 360 degree steering; it is an extra central drive wheel, not one of the four corner wheels."
+    },
+    "E3": {
+      "verdict": "partial",
+      "quote": "A plurality of casters **23** are coupled to base frame **16** and are in contact with the underlying floor **150** as shown in FIG.",
+      "location": "description",
+      "note": "The other wheels are casters, but there is no pair of diagonally placed active wheels; a single drive wheel is used."
+    },
+    "E4": {
+      "verdict": "disclosed",
+      "quote": "When the push handle **414** is pushed forwardly, the inner resistors forming the load cell **432** are compressed and the outer resistors forming the load cell **432** are stretched",
+      "location": "description",
+      "note": "Push handles with load cell or pivoting switch sensors, plus buttons on handles and siderails."
+    },
+    "E5": {
+      "verdict": "partial",
+      "quote": "the speed of the drive wheel motor **244** is proportional to the force with which one or both push handles **414** (FIG.",
+      "location": "description",
+      "note": "Handle force sets drive speed, but only along forward/reverse; lateral direction is chosen by buttons, not derived from the force vector. No instantaneous speed/acceleration feedback in the mapping (only discrete speed settings with an acceleration ramp)."
+    },
+    "E6": {
+      "verdict": "partial",
+      "quote": "then controller **30** will command swivel actuator **40** to move wheel **26** from the first orientation to the second orientation prior to commanding motor **42** to",
+      "location": "description",
+      "note": "Controller commands both a swivel (orientation) and a drive of the wheel, but the orientation is one of two discrete positions selected by buttons, for a single wheel, not a continuous steering angle per wheel computed from a force vector."
+    }
+  },
+  "combination_note": "E2+E3 not disclosed: one central swivel drive wheel (90 degrees, two positions) plus casters, no two diagonal steer-and-drive wheels. E5->E6 not disclosed: force on the handle only sets forward/reverse speed; lateral motion is selected by buttons and the wheel is swung to a discrete orientation. Closest gap: a continuous force-to-translation-vector mapping and two diagonally placed 360 degree swerve modules.",
+  "claim_overlap": [
+    {
+      "claim": "1",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "A patient support apparatus comprising",
+          "met_by_idea": "yes",
+          "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+          "reason": "Hospital-bed embodiment of the idea."
+        },
+        {
+          "limitation": "a frame,",
+          "met_by_idea": "yes",
+          "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+          "reason": "Cart base/frame."
+        },
+        {
+          "limitation": "a plurality of casters coupled to the frame,",
+          "met_by_idea": "yes",
+          "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+          "reason": "Two free-swivel casters."
+        },
+        {
+          "limitation": "a wheel coupled to the frame,",
+          "met_by_idea": "yes",
+          "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+          "reason": "At least one active wheel (the idea has two; 'a wheel' is open-ended)."
+        },
+        {
+          "limitation": "a motor coupled to the wheel and operable to rotate the wheel to propel the patient support apparatus along a floor, the wheel being movable relative to the frame so as to reorient a rotation axis of the wheel relative to the frame thereby to propel the patient support apparatus in different directions that are non-parallel with a longitudinal dimension of the frame,",
+          "met_by_idea": "yes",
+          "quote": "a motor coupled to the wheel and operable to rotate the wheel to propel the patient support apparatus along a floor, the wheel being movable relative to the frame so as to reorient a rotation axis of the wheel",
+          "reason": "Traction motor plus 360 degree steering reorients the wheel axis to propel in non-longitudinal directions."
+        },
+        {
+          "limitation": "an electrical system comprising a controller to control operation of the motor, the controller being configured to signal operation of the motor to rotate the wheel to propel the patient support apparatus along the floor,",
+          "met_by_idea": "yes",
+          "quote": "an electrical system comprising a controller to control operation of the motor, the controller being configured to signal operation of the motor to rotate the wheel",
+          "reason": "The idea has a controller commanding traction drive."
+        },
+        {
+          "limitation": "a push handle situated near a first end of the frame, and",
+          "met_by_idea": "yes",
+          "quote": "a push handle situated near a first end of the frame, and a plurality of user inputs coupled to the push handle",
+          "reason": "The idea uses push handles of the cart with built-in sensors."
+        },
+        {
+          "limitation": "a plurality of user inputs coupled to the push handle, a first user input of the plurality of user inputs being operable by a user to signal the controller to operate the motor to propel the patient support apparatus in a first direction parallel with the longitudinal dimension of the frame, and a second user input of the plurality of user inputs being operable by a user to signal the controller to operate the motor to propel the patient support apparatus in a second direction that is other than the longitudinal dimension relative to the frame, the first user input being spaced apart from the second user input.",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "The idea uses one force-sensing handle/joystick that yields a continuous direction vector; it does not specify two spaced-apart inputs, one for longitudinal and one for non-longitudinal propulsion. A two-handle sensor layout could arguably be read on it, so this is uncertain."
+        }
+      ]
+    },
+    {
+      "claim": "21",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "A patient support apparatus comprising",
+          "met_by_idea": "yes",
+          "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+          "reason": "Hospital-bed embodiment of the idea."
+        },
+        {
+          "limitation": "a frame,",
+          "met_by_idea": "yes",
+          "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+          "reason": "Cart base/frame."
+        },
+        {
+          "limitation": "a plurality of casters coupled to the frame,",
+          "met_by_idea": "yes",
+          "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+          "reason": "Two free-swivel casters."
+        },
+        {
+          "limitation": "a wheel coupled to the frame,",
+          "met_by_idea": "yes",
+          "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+          "reason": "At least one active wheel (the idea has two; 'a wheel' is open-ended)."
+        },
+        {
+          "limitation": "a motor coupled to the wheel and operable to rotate the wheel to propel the patient support apparatus along a floor, the wheel being movable relative to the frame so as to reorient a rotation axis of the wheel relative to the frame thereby to propel the patient support apparatus in different directions that are non-parallel with a longitudinal dimension of the frame,",
+          "met_by_idea": "yes",
+          "quote": "a motor coupled to the wheel and operable to rotate the wheel to propel the patient support apparatus along a floor, the wheel being movable relative to the frame so as to reorient a rotation axis of the wheel",
+          "reason": "Traction motor plus 360 degree steering reorients the wheel axis to propel in non-longitudinal directions."
+        },
+        {
+          "limitation": "an electrical system comprising a controller to control operation of the motor, the controller being configured to signal operation of the motor to rotate the wheel to propel the patient support apparatus along the floor, and",
+          "met_by_idea": "yes",
+          "quote": "an electrical system comprising a controller to control operation of the motor, the controller being configured to signal operation of the motor to rotate the wheel",
+          "reason": "The idea has a controller commanding traction drive."
+        },
+        {
+          "limitation": "a plurality of user inputs coupled to the electrical system, a first user input of the plurality of user inputs being operable by a user to signal the controller to operate the motor to propel the patient support apparatus in a first direction parallel with the longitudinal dimension of the frame, and a second user input of the plurality of user inputs being operable by a user to signal the controller to operate the motor to propel the patient support apparatus in a second direction that is other than the longitudinal dimension relative to the frame, the first user input being spaced apart from the second user input.",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "The idea uses one force-sensing handle/joystick that yields a continuous direction vector; it does not specify two spaced-apart inputs, one for longitudinal and one for non-longitudinal propulsion. A two-handle sensor layout could arguably be read on it, so this is uncertain."
+        }
+      ]
+    }
+  ]
+}

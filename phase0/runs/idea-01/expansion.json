@@ -1,0 +1,1332 @@
+[
+ {
+  "family_id": "52998236",
+  "publication_number": "US-10925781-B2",
+  "title": "Methods and systems for automatically articulating cots",
+  "hits": [
+   "knn:US-12564527-B2:8",
+   "knn:US-12564527-B2:9",
+   "knn:US-12564527-B2:10",
+   "knn:US-12564527-B2:13",
+   "knn:US-12564527-B2:14",
+   "knn:US-12564527-B2:15",
+   "knn:US-12564527-B2:18",
+   "knn:US-12564527-B2:19",
+   "knn:US-12564527-B2:25",
+   "sim:US-12564527-B2"
+  ]
+ },
+ {
+  "family_id": "43795619",
+  "publication_number": "JP-WO2011036849-A1",
+  "title": "",
+  "hits": [
+   "knn:US-2019183707-A1:5",
+   "knn:US-2019183707-A1:6",
+   "knn:US-2019183707-A1:7",
+   "knn:US-2019183707-A1:8",
+   "knn:US-2019183707-A1:9",
+   "knn:US-2019183707-A1:11",
+   "knn:US-2019183707-A1:14",
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "7881871",
+  "publication_number": "EP-0989042-A1",
+  "title": "Distribution or transport trolley",
+  "hits": [
+   "knn:DE-202020104319-U1:12",
+   "knn:DE-202020104319-U1:14",
+   "knn:DE-202020104319-U1:18",
+   "knn:DE-202004010854-U1:4",
+   "knn:DE-202004010854-U1:14",
+   "knn:DE-202004010854-U1:20",
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "92842054",
+  "publication_number": "WO-2024195547-A1",
+  "title": "Conveyance auxiliary device",
+  "hits": [
+   "knn:JP-7570286-B2:4",
+   "knn:JP-7570286-B2:7",
+   "knn:JP-7570286-B2:9",
+   "knn:JP-7570286-B2:12",
+   "knn:JP-7570286-B2:14",
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "57587519",
+  "publication_number": "US-2016367415-A1",
+  "title": "Patient support apparatuses with navigation and guidance systems",
+  "hits": [
+   "knn:US-2019183707-A1:20",
+   "knn:US-2019183707-A1:25",
+   "knn:US-2019183707-A1:26",
+   "knn:US-2019183707-A1:27",
+   "knn:US-2019183707-A1:28",
+   "knn:US-2019183707-A1:29"
+  ]
+ },
+ {
+  "family_id": "92841918",
+  "publication_number": "WO-2024195508-A1",
+  "title": "Transportation aid device",
+  "hits": [
+   "knn:JP-7570286-B2:5",
+   "knn:JP-7570286-B2:10",
+   "knn:JP-7570286-B2:11",
+   "knn:JP-7570286-B2:13",
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "92842056",
+  "publication_number": "WO-2024195548-A1",
+  "title": "Conveyance assistance device",
+  "hits": [
+   "knn:JP-7570286-B2:6",
+   "knn:JP-7570286-B2:8",
+   "knn:JP-7570286-B2:15",
+   "knn:JP-7570286-B2:17",
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "51421994",
+  "publication_number": "US-2015066278-A1",
+  "title": "Manually propelled vehicle",
+  "hits": [
+   "knn:JP-7570286-B2:21",
+   "knn:JP-7570286-B2:22",
+   "knn:JP-7570286-B2:30",
+   "knn:WO-2004071842-A1:23",
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "52688778",
+  "publication_number": "US-9474678-B2",
+  "title": "Pushcart",
+  "hits": [
+   "knn:WO-2004071842-A1:12",
+   "knn:WO-2004071842-A1:18",
+   "knn:WO-2004071842-A1:19",
+   "knn:WO-2004071842-A1:21",
+   "knn:WO-2004071842-A1:27"
+  ]
+ },
+ {
+  "family_id": "56411572",
+  "publication_number": "WO-2016192857-A2",
+  "title": "Robot-assisted transport of a mobile object",
+  "hits": [
+   "knn:DE-202020104319-U1:2",
+   "knn:DE-202020104319-U1:3",
+   "knn:DE-202020104319-U1:4",
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "65628672",
+  "publication_number": "US-2019269566-A1",
+  "title": "Moving device",
+  "hits": [
+   "knn:WO-2004071842-A1:14",
+   "knn:WO-2004071842-A1:17",
+   "knn:WO-2004071842-A1:22",
+   "knn:WO-2004071842-A1:30"
+  ]
+ },
+ {
+  "family_id": "57352748",
+  "publication_number": "DE-102015110555-A1",
+  "title": "",
+  "hits": [
+   "knn:DE-202020104319-U1:5",
+   "knn:DE-202020104319-U1:6",
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "95655608",
+  "publication_number": "DE-102023211690-B4",
+  "title": "",
+  "hits": [
+   "knn:DE-202020104319-U1:7",
+   "knn:DE-202020104319-U1:8",
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "57143940",
+  "publication_number": "JP-2016202609-A",
+  "title": "Walking aid vehicle",
+  "hits": [
+   "knn:WO-2004071842-A1:6",
+   "knn:WO-2004071842-A1:7",
+   "knn:WO-2004071842-A1:20"
+  ]
+ },
+ {
+  "family_id": "36228302",
+  "publication_number": "US-7533742-B2",
+  "title": "Bed transfer system",
+  "hits": [
+   "knn:US-12564527-B2:20",
+   "knn:US-12564527-B2:28",
+   "sim:US-12564527-B2"
+  ]
+ },
+ {
+  "family_id": "87759653",
+  "publication_number": "DE-202023103766-U1",
+  "title": "",
+  "hits": [
+   "knn:DE-202020104319-U1:11",
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "32920671",
+  "publication_number": "DE-10309621-A1",
+  "title": "Motor-powered, hand-guided transport vehicle, especially electric wheelchair, with intuitive grip control has sensors that detect forces/torques, pass measurement data to evaluation and control device",
+  "hits": [
+   "knn:DE-202020104319-U1:16",
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "79170987",
+  "publication_number": "EP-4255698-B1",
+  "title": "Coupling device, system comprising an autonomous vehicle and a patient transport device, and method for operating such a system",
+  "hits": [
+   "knn:DE-202020104319-U1:21",
+   "knn:DE-202020104319-U1:28"
+  ]
+ },
+ {
+  "family_id": "33521557",
+  "publication_number": "DE-10336303-A1",
+  "title": "",
+  "hits": [
+   "knn:DE-202020104319-U1:22",
+   "knn:DE-202020104319-U1:29"
+  ]
+ },
+ {
+  "family_id": "34559525",
+  "publication_number": "DE-10352324-B4",
+  "title": "",
+  "hits": [
+   "knn:DE-202004010854-U1:8",
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "52779610",
+  "publication_number": "WO-2015185232-A1",
+  "title": "Load cart provided with two motor-driven running wheels and a controller",
+  "hits": [
+   "knn:DE-202004010854-U1:9",
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "8008108",
+  "publication_number": "DE-29508100-U1",
+  "title": "",
+  "hits": [
+   "knn:DE-202004010854-U1:11",
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "48287725",
+  "publication_number": "DE-102011087069-A1",
+  "title": "Electrically operated transport carriage has wheel support, which is mounted on frame using mounting sleeve, such that wheel supports are freely rotatable around axis of wheel support",
+  "hits": [
+   "knn:DE-202004010854-U1:21",
+   "knn:DE-202004010854-U1:25"
+  ]
+ },
+ {
+  "family_id": "67308966",
+  "publication_number": "DE-102019102967-A1",
+  "title": "",
+  "hits": [
+   "knn:DE-202004010854-U1:30",
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "97177773",
+  "publication_number": "US-2025304135-A1",
+  "title": "Autonomous Robot with Force Sensing User Handlebar",
+  "hits": [
+   "knn:US-2019183707-A1:12",
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "55439789",
+  "publication_number": "US-2017166231-A1",
+  "title": "Pushcart",
+  "hits": [
+   "knn:WO-2004071842-A1:28",
+   "knn:WO-2004071842-A1:29"
+  ]
+ },
+ {
+  "family_id": "pub:JP-6471715-B2",
+  "publication_number": "JP-6471715-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A",
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "97230800",
+  "publication_number": "DE-102024203670-A1",
+  "title": "",
+  "hits": [
+   "knn:DE-202020104319-U1:9"
+  ]
+ },
+ {
+  "family_id": "97027599",
+  "publication_number": "DE-102024202977-A1",
+  "title": "",
+  "hits": [
+   "knn:DE-202020104319-U1:10"
+  ]
+ },
+ {
+  "family_id": "83997409",
+  "publication_number": "DE-202022001798-U1",
+  "title": "",
+  "hits": [
+   "knn:DE-202020104319-U1:13"
+  ]
+ },
+ {
+  "family_id": "25685981",
+  "publication_number": "WO-8503662-A1",
+  "title": "Telescopic handling apparatus",
+  "hits": [
+   "knn:DE-202020104319-U1:17"
+  ]
+ },
+ {
+  "family_id": "50424187",
+  "publication_number": "WO-2014131896-A2",
+  "title": "Hand truck with electric drive",
+  "hits": [
+   "knn:DE-202020104319-U1:19"
+  ]
+ },
+ {
+  "family_id": "85983553",
+  "publication_number": "DE-102022123837-A1",
+  "title": "",
+  "hits": [
+   "knn:DE-202020104319-U1:20"
+  ]
+ },
+ {
+  "family_id": "61167013",
+  "publication_number": "DE-102016216162-B4",
+  "title": "",
+  "hits": [
+   "knn:DE-202020104319-U1:23"
+  ]
+ },
+ {
+  "family_id": "51059414",
+  "publication_number": "DE-102013105869-A1",
+  "title": "",
+  "hits": [
+   "knn:DE-202020104319-U1:26"
+  ]
+ },
+ {
+  "family_id": "53365717",
+  "publication_number": "EP-2942313-A1",
+  "title": "Transport device and use",
+  "hits": [
+   "knn:DE-202020104319-U1:27"
+  ]
+ },
+ {
+  "family_id": "7952385",
+  "publication_number": "DE-20101747-U1",
+  "title": "",
+  "hits": [
+   "knn:DE-202004010854-U1:7"
+  ]
+ },
+ {
+  "family_id": "7955721",
+  "publication_number": "DE-20106485-U1",
+  "title": "",
+  "hits": [
+   "knn:DE-202004010854-U1:19"
+  ]
+ },
+ {
+  "family_id": "47007676",
+  "publication_number": "DE-102011018916-B4",
+  "title": "",
+  "hits": [
+   "knn:DE-202004010854-U1:22"
+  ]
+ },
+ {
+  "family_id": "5808040",
+  "publication_number": "DE-2124284-A1",
+  "title": "",
+  "hits": [
+   "knn:DE-202004010854-U1:23"
+  ]
+ },
+ {
+  "family_id": "42538974",
+  "publication_number": "DE-202010006436-U1",
+  "title": "",
+  "hits": [
+   "knn:DE-202004010854-U1:24"
+  ]
+ },
+ {
+  "family_id": "34745566",
+  "publication_number": "DE-202004016228-U1",
+  "title": "Steering aid for shopping and transporting trolleys has lever on handle of trolley and which when operated acts through Bowden cables on mechanism on each rear wheel to block wheels around vertical axis parallel to direction of travel",
+  "hits": [
+   "knn:DE-202004010854-U1:26"
+  ]
+ },
+ {
+  "family_id": "67688735",
+  "publication_number": "WO-2020030578-A1",
+  "title": "Transport aid vehicle for pulling or pushing a cart",
+  "hits": [
+   "knn:DE-202004010854-U1:27"
+  ]
+ },
+ {
+  "family_id": "26026424",
+  "publication_number": "EP-1298023-A1",
+  "title": "Distribution or transport trolley",
+  "hits": [
+   "knn:DE-202004010854-U1:28"
+  ]
+ },
+ {
+  "family_id": "33154441",
+  "publication_number": "DE-10318879-A1",
+  "title": "Hand-guided wheeled transport frame has two wheels in tandem linked to a handgrip by a frame for small loads or child&#39;s seat",
+  "hits": [
+   "knn:DE-202004010854-U1:29"
+  ]
+ },
+ {
+  "family_id": "95024700",
+  "publication_number": "WO-2025207261-A1",
+  "title": "Autonomous robot with force sensing user handlebar",
+  "hits": [
+   "knn:US-2019183707-A1:19"
+  ]
+ },
+ {
+  "family_id": "69059795",
+  "publication_number": "EP-3817900-A1",
+  "title": "Systems and methods for operating autonomous tug robots",
+  "hits": [
+   "knn:US-2019183707-A1:30"
+  ]
+ },
+ {
+  "family_id": "68243010",
+  "publication_number": "CN-110371170-B",
+  "title": "Intelligent power assisting device, system and method for controlling intelligent power assisting device to provide power assistance",
+  "hits": [
+   "knn:WO-2004071842-A1:8"
+  ]
+ },
+ {
+  "family_id": "58455624",
+  "publication_number": "EP-3595605-B1",
+  "title": "Mobility scooter with easy access",
+  "hits": [
+   "knn:WO-2004071842-A1:26"
+  ]
+ },
+ {
+  "family_id": "23315690",
+  "publication_number": "US-2003079923-A1",
+  "title": "Hospital bed power-assist",
+  "hits": [
+   "knn:US-12564527-B2:24"
+  ]
+ },
+ {
+  "family_id": "pub:JP-7128432-B2",
+  "publication_number": "JP-7128432-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:WO-2019245042-A1",
+  "publication_number": "WO-2019245042-A1",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:US-2006066268-A1",
+  "publication_number": "US-2006066268-A1",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:JP-5318216-B2",
+  "publication_number": "JP-5318216-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:JP-5330200-B2",
+  "publication_number": "JP-5330200-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:WO-2022059714-A1",
+  "publication_number": "WO-2022059714-A1",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2012030766-A",
+  "publication_number": "JP-2012030766-A",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2017169981-A",
+  "publication_number": "JP-2017169981-A",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:JP-6020386-B2",
+  "publication_number": "JP-6020386-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:US-2024326907-A1",
+  "publication_number": "US-2024326907-A1",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2018134970-A",
+  "publication_number": "JP-2018134970-A",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:JP-5062224-B2",
+  "publication_number": "JP-5062224-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2020164136-A",
+  "publication_number": "JP-2020164136-A",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2017043260-A",
+  "publication_number": "JP-2017043260-A",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2019043370-A",
+  "publication_number": "JP-2019043370-A",
+  "title": "",
+  "hits": [
+   "sim:JP-2023144611-A"
+  ]
+ },
+ {
+  "family_id": "pub:US-9186992-B2",
+  "publication_number": "US-9186992-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:US-11717462-B2",
+  "publication_number": "US-11717462-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2006025822-A",
+  "publication_number": "JP-2006025822-A",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-6464283-B2",
+  "publication_number": "JP-6464283-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2010215043-A",
+  "publication_number": "JP-2010215043-A",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-3826687-B2",
+  "publication_number": "JP-3826687-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2013101602-A",
+  "publication_number": "JP-2013101602-A",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2005271835-A",
+  "publication_number": "JP-2005271835-A",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-H106996-A",
+  "publication_number": "JP-H106996-A",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-H09294779-A",
+  "publication_number": "JP-H09294779-A",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-4867231-B2",
+  "publication_number": "JP-4867231-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-7776827-B2",
+  "publication_number": "JP-7776827-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-5797516-B2",
+  "publication_number": "JP-5797516-B2",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2002067962-A",
+  "publication_number": "JP-2002067962-A",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2010022435-A",
+  "publication_number": "JP-2010022435-A",
+  "title": "",
+  "hits": [
+   "sim:JP-7570286-B2"
+  ]
+ },
+ {
+  "family_id": "pub:DE-102011085019-C5",
+  "publication_number": "DE-102011085019-C5",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:EP-4051457-B1",
+  "publication_number": "EP-4051457-B1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-102017220576-B4",
+  "publication_number": "DE-102017220576-B4",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:EP-3158551-A1",
+  "publication_number": "EP-3158551-A1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-102014108486-A1",
+  "publication_number": "DE-102014108486-A1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-102010029745-A1",
+  "publication_number": "DE-102010029745-A1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-4239987-C2",
+  "publication_number": "DE-4239987-C2",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-212017000162-U1",
+  "publication_number": "DE-212017000162-U1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-102012009863-B4",
+  "publication_number": "DE-102012009863-B4",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-4425924-A1",
+  "publication_number": "DE-4425924-A1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-112006002551-T5",
+  "publication_number": "DE-112006002551-T5",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:WO-2021175355-A1",
+  "publication_number": "WO-2021175355-A1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:WO-2020094879-A1",
+  "publication_number": "WO-2020094879-A1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:EP-4040255-B1",
+  "publication_number": "EP-4040255-B1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:WO-2022069181-A1",
+  "publication_number": "WO-2022069181-A1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-102020001400-B4",
+  "publication_number": "DE-102020001400-B4",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:AT-521087-B1",
+  "publication_number": "AT-521087-B1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-10137955-A1",
+  "publication_number": "DE-10137955-A1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:EP-3699067-A1",
+  "publication_number": "EP-3699067-A1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-102012222383-A1",
+  "publication_number": "DE-102012222383-A1",
+  "title": "",
+  "hits": [
+   "sim:DE-202020104319-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-4032487-C2",
+  "publication_number": "DE-4032487-C2",
+  "title": "",
+  "hits": [
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "pub:EP-3188927-B1",
+  "publication_number": "EP-3188927-B1",
+  "title": "",
+  "hits": [
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "pub:EP-0277305-B1",
+  "publication_number": "EP-0277305-B1",
+  "title": "",
+  "hits": [
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "58993304",
+  "publication_number": "DE-102018107226-A1",
+  "title": "",
+  "hits": [
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "pub:EP-3318431-A1",
+  "publication_number": "EP-3318431-A1",
+  "title": "",
+  "hits": [
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "pub:EP-1086853-B1",
+  "publication_number": "EP-1086853-B1",
+  "title": "",
+  "hits": [
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "67659825",
+  "publication_number": "WO-2020030580-A1",
+  "title": "Transport auxiliary vehicle for pulling or pushing a carriage",
+  "hits": [
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "pub:AT-408877-B",
+  "publication_number": "AT-408877-B",
+  "title": "",
+  "hits": [
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-102007037764-B4",
+  "publication_number": "DE-102007037764-B4",
+  "title": "",
+  "hits": [
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "pub:DE-29817109-U1",
+  "publication_number": "DE-29817109-U1",
+  "title": "",
+  "hits": [
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "7827650",
+  "publication_number": "DE-19717375-A1",
+  "title": "System for moving group of trolleys",
+  "hits": [
+   "sim:DE-202004010854-U1"
+  ]
+ },
+ {
+  "family_id": "pub:US-8326473-B2",
+  "publication_number": "US-8326473-B2",
+  "title": "",
+  "hits": [
+   "sim:US-12564527-B2"
+  ]
+ },
+ {
+  "family_id": "64455612",
+  "publication_number": "EP-4162912-B1",
+  "title": "System, apparatus and method for supporting and/or positioning a patient before, during, or after a medical procedure",
+  "hits": [
+   "sim:US-12564527-B2"
+  ]
+ },
+ {
+  "family_id": "pub:US-12062927-B2",
+  "publication_number": "US-12062927-B2",
+  "title": "",
+  "hits": [
+   "sim:US-12564527-B2"
+  ]
+ },
+ {
+  "family_id": "pub:CN-113616342-A",
+  "publication_number": "CN-113616342-A",
+  "title": "",
+  "hits": [
+   "sim:US-12564527-B2"
+  ]
+ },
+ {
+  "family_id": "pub:KR-101976410-B1",
+  "publication_number": "KR-101976410-B1",
+  "title": "",
+  "hits": [
+   "sim:US-12564527-B2"
+  ]
+ },
+ {
+  "family_id": "pub:KR-102709983-B1",
+  "publication_number": "KR-102709983-B1",
+  "title": "",
+  "hits": [
+   "sim:US-12564527-B2"
+  ]
+ },
+ {
+  "family_id": "pub:CN-109771230-B",
+  "publication_number": "CN-109771230-B",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-3721973-B2",
+  "publication_number": "JP-3721973-B2",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:EP-1510441-A2",
+  "publication_number": "EP-1510441-A2",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:WO-2007102307-A1",
+  "publication_number": "WO-2007102307-A1",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2005022631-A",
+  "publication_number": "JP-2005022631-A",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2006117181-A",
+  "publication_number": "JP-2006117181-A",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2005022631-A5",
+  "publication_number": "JP-2005022631-A5",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-6229221-B2",
+  "publication_number": "JP-6229221-B2",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-4205442-B2",
+  "publication_number": "JP-4205442-B2",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:CN-107376312-B",
+  "publication_number": "CN-107376312-B",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2006109547-A",
+  "publication_number": "JP-2006109547-A",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:CN-113164809-A",
+  "publication_number": "CN-113164809-A",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-6377944-B2",
+  "publication_number": "JP-6377944-B2",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2009050604-A",
+  "publication_number": "JP-2009050604-A",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2009023412-A",
+  "publication_number": "JP-2009023412-A",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-3880688-B2",
+  "publication_number": "JP-3880688-B2",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:KR-102468606-B1",
+  "publication_number": "KR-102468606-B1",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2006123605-A",
+  "publication_number": "JP-2006123605-A",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-4692170-B2",
+  "publication_number": "JP-4692170-B2",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2009148312-A",
+  "publication_number": "JP-2009148312-A",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2006202213-A",
+  "publication_number": "JP-2006202213-A",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-4147854-B2",
+  "publication_number": "JP-4147854-B2",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2011212092-A",
+  "publication_number": "JP-2011212092-A",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-7065402-B2",
+  "publication_number": "JP-7065402-B2",
+  "title": "",
+  "hits": [
+   "sim:WO-2004071842-A1"
+  ]
+ },
+ {
+  "family_id": "pub:EP-3729345-B1",
+  "publication_number": "EP-3729345-B1",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-7106542-B2",
+  "publication_number": "JP-7106542-B2",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:EP-3906857-B1",
+  "publication_number": "EP-3906857-B1",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:US-2020407206-A1",
+  "publication_number": "US-2020407206-A1",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:US-10139816-B2",
+  "publication_number": "US-10139816-B2",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:EP-3919335-A1",
+  "publication_number": "EP-3919335-A1",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:US-10317448-B2",
+  "publication_number": "US-10317448-B2",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-2010122916-A",
+  "publication_number": "JP-2010122916-A",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:WO-2020263225-A1",
+  "publication_number": "WO-2020263225-A1",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:US-2022203551-A1",
+  "publication_number": "US-2022203551-A1",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:US-10391412-B2",
+  "publication_number": "US-10391412-B2",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:US-2022073329-A1",
+  "publication_number": "US-2022073329-A1",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:WO-2022001809-A1",
+  "publication_number": "WO-2022001809-A1",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-7495167-B2",
+  "publication_number": "JP-7495167-B2",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:JP-7749241-B2",
+  "publication_number": "JP-7749241-B2",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ },
+ {
+  "family_id": "pub:KR-102264692-B1",
+  "publication_number": "KR-102264692-B1",
+  "title": "",
+  "hits": [
+   "sim:US-2019183707-A1"
+  ]
+ }
+]

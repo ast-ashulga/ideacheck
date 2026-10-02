@@ -1,0 +1,81 @@
+{
+ "remote": [
+  {
+   "id": "R1",
+   "keywords": [
+    "obstacle",
+    "repulsive force OR virtual force OR repulsion"
+   ],
+   "cpc": [
+    "B62B5/0069"
+   ]
+  },
+  {
+   "id": "R2",
+   "keywords": [
+    "obstacle",
+    "distance",
+    "force sensor",
+    "handle"
+   ],
+   "cpc": [
+    "B62B5/0026"
+   ]
+  },
+  {
+   "id": "R3",
+   "keywords": [
+    "\"virtual repulsive force\"",
+    "cart OR trolley OR carriage"
+   ]
+  },
+  {
+   "id": "R4",
+   "keywords": [
+    "\"repulsive force\"",
+    "obstacle",
+    "operating force OR operation force",
+    "assist"
+   ],
+   "cpc": [
+    "B62B"
+   ]
+  },
+  {
+   "id": "R5",
+   "keywords": [
+    "\"potential field\" OR \"virtual force\"",
+    "obstacle",
+    "power assist",
+    "handle"
+   ]
+  },
+  {
+   "id": "R6",
+   "keywords": [
+    "obstacle",
+    "\"virtual force\" OR \"repulsive force\"",
+    "walker OR walking aid OR wheelchair",
+    "force sensor"
+   ]
+  }
+ ],
+ "local": [
+  {
+   "id": "L1",
+   "sql": "select publication_number,title_en from publications where list_contains(cpc,'B62B5/0069') and (lower(array_to_string(title_en,' ')) like '%obstacle%')"
+  },
+  {
+   "id": "L2",
+   "sql": "select publication_number,title_en from publications where (lower(array_to_string(title_en,' ')) like '%repuls%' or lower(array_to_string(title_en,' ')) like '%virtual force%' or lower(array_to_string(title_en,' ')) like '%potential field%')"
+  },
+  {
+   "id": "L3",
+   "sql": "select publication_number,title_en from publications where (list_contains(cpc,'B62B5/0069') or list_contains(cpc,'B62B5/0026') or list_contains(cpc,'B62B5/0073')) and (lower(array_to_string(title_en,' ')) like '%avoid%' or lower(array_to_string(title_en,' ')) like '%collision%')"
+  },
+  {
+   "id": "L4",
+   "sql": "select publication_number,title_en from publications where list_contains(cpc,'B62B5/0069') and len(list_filter(cpc, y -> y like 'G05D1/02%' or y like 'G01S%' or y like 'G05D1/6%'))>0"
+  }
+ ]
+}

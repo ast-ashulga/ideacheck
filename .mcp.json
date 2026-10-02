@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "patent-client-agents": {
+      "type": "stdio",
+      "command": "/Users/andreyshulga/projects/experimental/valery/ideacheck/.venv/bin/patent-client-agents-mcp",
+      "args": [],
+      "env": {}
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "publication_number": "JP-7853860-B2",
+  "legal_status": "active",
+  "one_line_summary": "Honda power-assist trolley with two rear driven omnidirectional wheels and two front free-swivel casters, featuring a handle with a rear crossbar, a pair of forward side rails and a connecting part mounted to the body through a force sensor, so the trolley can be pushed easily both lengthwise and sideways.",
+  "prior_art": {
+    "E1": {
+      "verdict": "disclosed",
+      "quote": "In this embodiment, a pair of omnidirectional wheels 3 are provided at the lower part of the rear 2A of the vehicle body 2. Furthermore, left and right casters 13 are supported at the lower part of the front 2B",
+      "location": "description",
+      "note": "Four-wheeled trolley (2 rear omni wheels + 2 front casters) supporting devices such as an X-ray scanner; heavy-load/hospital-bed context not explicit."
+    },
+    "E2": {
+      "verdict": "partial",
+      "quote": "each omnidirectional wheel 3 has a frame 17, a pair of drive discs 18 rotatably supported by the frame 17, and an annular main wheel 19 positioned between the pair of drive discs 18.",
+      "location": "description",
+      "note": "Two of four wheels are active, but they are drive-disk omnidirectional wheels, not steer-and-drive wheels with 360 deg steering drive."
+    },
+    "E3": {
+      "verdict": "partial",
+      "quote": "The fork 13A rotates freely relative to the arm 14, and the wheel 13B rotates freely relative to the fork 13A.",
+      "location": "description",
+      "note": "Passive wheels are explicitly free-swivel casters, but the two active wheels are a left/right pair at the rear, not diagonal."
+    },
+    "E4": {
+      "verdict": "disclosed",
+      "quote": "The handle 5 has a first part 5A that extends in the width direction and a second part 5B that extends in the front-to-back direction.",
+      "location": "description",
+      "note": "Ergonomic push handle (rear bar plus side rails) on a force sensor; the closest document to E4 of the three."
+    },
+    "E5": {
+      "verdict": "partial",
+      "quote": "The control device 7 determines the direction and speed of the vehicle body 2 based on the signal from the force sensor 6",
+      "location": "description",
+      "note": "Handle force (2-axis, translation only in the main embodiment) becomes a desired direction and speed, very close to the idea's translation vector, but no use of instantaneous speed/acceleration is described and the control law is not detailed."
+    },
+    "E6": {
+      "verdict": "partial",
+      "quote": "then determines the control amount for each electric motor 25 of the drive unit 4 based on the determined direction and speed of the vehicle body 2.",
+      "location": "description",
+      "note": "Direction/speed converted into per-motor commands for omni-wheel drive disks; no per-wheel steering angle."
+    }
+  },
+  "combination_note": "E2+E3 not disclosed: two driven wheels plus two free-swivel casters, but the driven wheels are rear left/right omnidirectional wheels, not diagonal steer-and-drive modules. E5->E6 partial: 2-axis handle force -> direction and speed (translation) -> per-motor commands, without steering angles or speed/acceleration-aware interpretation. Claims focus on handle geometry; closest gap is wheel type/layout.",
+  "claim_overlap": [
+    {
+      "claim": "1",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "A trolley with a car body",
+          "met_by_idea": "yes",
+          "quote": "The car body and, The vehicle body is provided with at least one omnidirectional wheel",
+          "reason": "Idea has a cart body (only the car body part of this quote is relied on)."
+        },
+        {
+          "limitation": "at least one omnidirectional wheel that moves the body in all directions along the floor",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "The idea uses steer-and-drive (swerve) wheels plus free-swivel casters, not omnidirectional (drive-disk/roller) wheels; under a strict reading an 'omnidirectional wheel' is a distinct wheel type."
+        },
+        {
+          "limitation": "a drive unit that drives the omnidirectional wheels",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Depends on omnidirectional wheels."
+        },
+        {
+          "limitation": "a handle provided on the vehicle body that accepts user input",
+          "met_by_idea": "yes",
+          "quote": "A handle provided on the vehicle body that accepts user input, A force sensor",
+          "reason": "Idea has push handles / handlebar."
+        },
+        {
+          "limitation": "a force sensor that detects loads on the handle in the width and longitudinal directions of the body",
+          "met_by_idea": "yes",
+          "quote": "A force sensor that detects loads applied to the steering wheel in the width direction and longitudinal direction of the vehicle body",
+          "reason": "Idea measures in-plane handle force to derive a translation vector."
+        },
+        {
+          "limitation": "a control device that controls the drive unit based on the detected load",
+          "met_by_idea": "yes",
+          "quote": "The system includes a control device that controls the drive unit based on the load detected by the force sensor",
+          "reason": "Idea's controller drives wheels from the handle force."
+        },
+        {
+          "limitation": "handle with a first part extending in the width direction, a pair of second parts extending forward from both ends, and a connecting part extending in the width direction joining the second parts",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea only says 'ergonomic handlebar / sensors in the cart handles'; this specific shape may or may not be used."
+        },
+        {
+          "limitation": "the connecting part is connected to the vehicle body via the force sensor",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Sensor mounting location is not specified in the idea."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+ {
+  "rank": 1,
+  "publication_number": "JP-5186041-B2",
+  "title": "Electric vehicle and control method (Panasonic, prio 2009; fam. EP-2383163-B1/US-8706332-B2)",
+  "why": "Hit by R1+R3('virtual repulsive force')+R4; B62B5/0069+0073+G01S17/931: power-assist cart with handle force and obstacle ranging"
+ },
+ {
+  "rank": 2,
+  "publication_number": "US-8676420-B2",
+  "title": "Electric vehicle and method for controlling the same (Panasonic, prio 2010)",
+  "why": "R3 'virtual repulsive force' phrase hit; Panasonic power-assist cart line"
+ },
+ {
+  "rank": 3,
+  "publication_number": "JP-2007055480-A",
+  "title": "Power assist vehicle (Toshiba Tec, prio 2005)",
+  "why": "Hit by R1+R3+R4 (repulsive force, operating force, assist) in B62B5/0069/0073; shopping-cart maker"
+ },
+ {
+  "rank": 4,
+  "publication_number": "EP-2743121-B1",
+  "title": "Electric vehicle and method for controlling the same (Panasonic, prio 2011)",
+  "why": "R1 obstacle+repulsive force in B62B5/0069; continuation of Panasonic assist-cart line"
+ },
+ {
+  "rank": 5,
+  "publication_number": "JP-2012090409-A",
+  "title": "Omni-directional movement type electric vehicle and control method (Panasonic, prio 2010)",
+  "why": "R3 'virtual repulsive force'; omni-directional assist vehicle, likely same family as US-8676420"
+ },
+ {
+  "rank": 6,
+  "publication_number": "JP-4738472-B2",
+  "title": "Mobility control device having obstacle avoidance function (Toshiba, prio 2008)",
+  "why": "R3 'virtual repulsive force'; obstacle-avoidance control of a moving device, operator-assist unclear"
+ },
+ {
+  "rank": 7,
+  "publication_number": "JP-6746921-B2",
+  "title": "Walking aid (NSK, prio 2016)",
+  "why": "R3 'virtual repulsive force'; powered walker, handle force likely"
+ },
+ {
+  "rank": 8,
+  "publication_number": "JP-4269055-B2",
+  "title": "Obstacle avoidance device and moving body (Hiroshima Univ, prio 2004)",
+  "why": "R3 'virtual repulsive force'; generic moving-body avoidance"
+ },
+ {
+  "rank": 9,
+  "publication_number": "US-8672081-B2",
+  "title": "Power assisted vehicle (Panasonic, prio 2009)",
+  "why": "Embedding kNN of seeds; B62B5/0073 force-measured power assist, obstacle part unknown"
+ },
+ {
+  "rank": 10,
+  "publication_number": "CN-107719447-A",
+  "title": "Manual-mode electric shopping cart avoiding bumping into people or shelves",
+  "why": "L3 title: hand-pushed electric cart with collision avoidance (C1,C3), repulsive force unknown"
+ },
+ {
+  "rank": 11,
+  "publication_number": "KR-20120045692-A",
+  "title": "Anti-collision shopping cart",
+  "why": "L3 title; B62B5/0069 cart with collision prevention"
+ },
+ {
+  "rank": 12,
+  "publication_number": "KR-20250143405-A",
+  "title": "Smart strollers with automatic avoidance and vibrotactile feedback of dynamic obstacle",
+  "why": "R1+L1+L3; B62B5/0069/0073 + G05D: assisted stroller avoiding obstacles"
+ },
+ {
+  "rank": 13,
+  "publication_number": "JP-2008296900-A",
+  "title": "Power vehicle (Panasonic Electric Works, prio 2008)",
+  "why": "Top embedding kNN neighbor of seeds; B62B5/0069"
+ },
+ {
+  "rank": 14,
+  "publication_number": "US-20250304135-A1",
+  "title": "Autonomous robot with force sensing user handlebar (Robust AI)",
+  "why": "R1: robotic cart with handlebar force sensing and obstacle handling"
+ },
+ {
+  "rank": 15,
+  "publication_number": "US-20240375291-A1",
+  "title": "Robots operating in an assisted drive mode (6 River Systems)",
+  "why": "R1: warehouse cart assisted drive with obstacle terms"
+ },
+ {
+  "rank": 16,
+  "publication_number": "EP-4293590-A1",
+  "title": "Collaborative transport technique (KELO Robotics)",
+  "why": "R3 'virtual repulsive force'; human-guided transport robot"
+ },
+ {
+  "rank": 17,
+  "publication_number": "US-11513532-B2",
+  "title": "Moving in power assist mode reflecting physical characteristics (LG)",
+  "why": "R2: LG cart robot power-assist via handle force sensor, with obstacle sensing"
+ },
+ {
+  "rank": 18,
+  "publication_number": "US-9216745-B2",
+  "title": "Shared control of semi-autonomous vehicles including collision avoidance (Disney)",
+  "why": "R6: shared human/automatic control with collision avoidance"
+ },
+ {
+  "rank": 19,
+  "publication_number": "US-20250172939-A1",
+  "title": "User-guided semi-automatic navigation of a mobile medical device (Siemens Healthineers)",
+  "why": "R1: user-pushed device with obstacle repulsion"
+ },
+ {
+  "rank": 20,
+  "publication_number": "JP-6393879-B2",
+  "title": "Mobility aid (Core Ingenuity)",
+  "why": "R6: walker with force sensor and obstacle avoidance terms"
+ }
+]

@@ -1,0 +1,5596 @@
+{
+ "G1": [
+  {
+   "publication_number": "JP-5936219-B2",
+   "title": "Automated diagnostic analyzer and method",
+   "assignee": "ジェン−プロウブ インコーポレイテッド",
+   "priority_date": "1998-05-01"
+  },
+  {
+   "publication_number": "US-11927968-B2",
+   "title": "Autonomous agriculture platform",
+   "assignee": "Salin 247, Inc.",
+   "priority_date": "2021-10-07"
+  },
+  {
+   "publication_number": "US-11039964-B2",
+   "title": "Systems and methods for facilitating movement of a patient transport apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-03-06"
+  },
+  {
+   "publication_number": "US-20210023934-A1",
+   "title": "Modular robotic vehicle",
+   "assignee": "Carla R. Gillett",
+   "priority_date": "2013-04-26"
+  },
+  {
+   "publication_number": "CN-112188879-B",
+   "title": "Walking auxiliary chair",
+   "assignee": "塔马齐工业株式会社",
+   "priority_date": "2018-05-31"
+  },
+  {
+   "publication_number": "EP-3162265-B1",
+   "title": "Autonomous travel-type cleaner",
+   "assignee": "Panasonic Intellectual Property Management Co., Ltd.",
+   "priority_date": "2014-06-30"
+  },
+  {
+   "publication_number": "JP-6908949-B2",
+   "title": "Flight device with a tubular rotating body",
+   "assignee": "有限会社渥美不動産アンドコーポレーション",
+   "priority_date": "2019-03-28"
+  },
+  {
+   "publication_number": "US-12319502-B2",
+   "title": "Order fulfillment system",
+   "assignee": "Symbotic Llc",
+   "priority_date": "2015-06-02"
+  },
+  {
+   "publication_number": "JP-6926015-B2",
+   "title": "Cleaning robot",
+   "assignee": "アイロボット・コーポレーション",
+   "priority_date": "2005-02-18"
+  },
+  {
+   "publication_number": "DE-112017004070-B4",
+   "title": "ROBOT CARTON UNLOADER",
+   "assignee": "Intelligrated Headquarters, Llc",
+   "priority_date": "2016-09-14"
+  },
+  {
+   "publication_number": "US-20240300737-A1",
+   "title": "Storage and retrieval system",
+   "assignee": "Walmart Apollo, Llc",
+   "priority_date": "2015-06-02"
+  },
+  {
+   "publication_number": "US-11564545-B2",
+   "title": "Self-propelled, dust-collecting robot",
+   "assignee": "Makita Corporation",
+   "priority_date": "2014-10-03"
+  },
+  {
+   "publication_number": "JP-7429289-B2",
+   "title": "Expanding/contracting device and transfer robot",
+   "assignee": "シャンハイ クイックトロン インテリジェント テクノロジー カンパニー リミテッド",
+   "priority_date": "2019-10-23"
+  },
+  {
+   "publication_number": "CN-110831536-B",
+   "title": "System and method for correcting for uncommanded instrument roll",
+   "assignee": "奥瑞斯健康公司",
+   "priority_date": "2017-12-06"
+  },
+  {
+   "publication_number": "US-12484473-B2",
+   "title": "Autonomous lawn mower",
+   "assignee": "Scythe Robotics, Inc.",
+   "priority_date": "2020-12-04"
+  },
+  {
+   "publication_number": "US-11803190-B2",
+   "title": "Cleaning robot and control method therefor",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "priority_date": "2016-05-02"
+  },
+  {
+   "publication_number": "CN-106572776-B",
+   "title": "Cleaning robot and control method thereof",
+   "assignee": "三星电子株式会社",
+   "priority_date": "2014-07-01"
+  },
+  {
+   "publication_number": "US-20240241522-A1",
+   "title": "Localization and mapping using physical features",
+   "assignee": "Irobot Corporation",
+   "priority_date": "2015-03-18"
+  },
+  {
+   "publication_number": "US-20190270591-A1",
+   "title": "Order fulfillment system",
+   "assignee": "Alert Innovation Inc.",
+   "priority_date": "2015-06-02"
+  },
+  {
+   "publication_number": "US-10059450-B2",
+   "title": "Cargo handling system, method and apparatus",
+   "assignee": "Israel Aerospace Industries Ltd.",
+   "priority_date": "2012-09-27"
+  },
+  {
+   "publication_number": "CN-113613681-B",
+   "title": "For example, robotic mobile devices that treat rooms by disinfecting them",
+   "assignee": "伽马保健有限公司",
+   "priority_date": "2019-01-22"
+  },
+  {
+   "publication_number": "EP-3834771-B1",
+   "title": "Electrical body care brush",
+   "assignee": "Trisa Holding AG",
+   "priority_date": "2017-03-31"
+  },
+  {
+   "publication_number": "JP-5970732-B2",
+   "title": "Drive arrangement for mobile robot floor cleaner",
+   "assignee": "ダイソン テクノロジー リミテッド",
+   "priority_date": "2011-09-09"
+  },
+  {
+   "publication_number": "US-10758104-B2",
+   "title": "Debris monitoring",
+   "assignee": "Irobot Corporation",
+   "priority_date": "2010-12-30"
+  },
+  {
+   "publication_number": "EP-3338752-B1",
+   "title": "Traveling vehicle and method of controlling the traveling vehicle",
+   "assignee": "Toyota Jidosha Kabushiki Kaisha",
+   "priority_date": "2016-12-26"
+  },
+  {
+   "publication_number": "EP-3297862-B1",
+   "title": "Method for controlling a wheel rotational speed of at least one wheel of a",
+   "assignee": "AVL Commercial Driveline & Tractor Engineering GmbH",
+   "priority_date": "2015-05-20"
+  },
+  {
+   "publication_number": "KR-102599510-B1",
+   "title": "Systems and methods for mobile imaging",
+   "assignee": "메드트로닉 내비게이션, 인코퍼레이티드",
+   "priority_date": "2017-09-29"
+  },
+  {
+   "publication_number": "US-11173089-B2",
+   "title": "Relocation module and methods for surgical equipment",
+   "assignee": "Augustine Biomedical + Design, LLC",
+   "priority_date": "2018-03-26"
+  },
+  {
+   "publication_number": "US-11766373-B2",
+   "title": "Relocation modules and methods for surgical field",
+   "assignee": "Augustine Biomedical + Design, LLC",
+   "priority_date": "2018-03-26"
+  },
+  {
+   "publication_number": "EP-2186392-B1",
+   "title": "Riding lawn mower",
+   "assignee": "Kanzaki Kokyukoki Mfg. Co., Ltd.",
+   "priority_date": "2007-01-15"
+  },
+  {
+   "publication_number": "US-8191342-B2",
+   "title": "Riding lawnmower vehicle",
+   "assignee": "Kanzaki Kokyukoki Manufacturing Company, Ltd.",
+   "priority_date": "2007-04-24"
+  },
+  {
+   "publication_number": "US-8590664-B2",
+   "title": "Steerable drive mechanism and omnidirectional moving vehicle",
+   "assignee": "National University Corporation Toyohashi University Of Technology",
+   "priority_date": "2009-06-19"
+  },
+  {
+   "publication_number": "JP-5292286-B2",
+   "title": "Vehicles that can move in all directions",
+   "assignee": "本田技研工業株式会社",
+   "priority_date": "2007-05-16"
+  },
+  {
+   "publication_number": "US-8684113-B1",
+   "title": "Attachable, powered drive apparatus for wheelchairs",
+   "assignee": "Gregory Edward Laconis",
+   "priority_date": "2012-02-28"
+  },
+  {
+   "publication_number": "US-9290226-B2",
+   "title": "Oil passage structure for electric vehicle",
+   "assignee": "Kawasaki Jukogyo Kabushiki Kaisha",
+   "priority_date": "2010-12-27"
+  },
+  {
+   "publication_number": "EP-2319751-B1",
+   "title": "Conveying vehicle and connecting mechanism",
+   "assignee": "Toyota Jidosha Kabushiki Kaisha",
+   "priority_date": "2008-07-31"
+  },
+  {
+   "publication_number": "US-8701806-B2",
+   "title": "Electric transaxle unit",
+   "assignee": "Kanzaki Kokyukoki Mfg. Co., Ltd.",
+   "priority_date": "2009-03-18"
+  },
+  {
+   "publication_number": "US-9216764-B2",
+   "title": "Vehicle steerable by movement of center of gravity",
+   "assignee": "Kubota Corporation",
+   "priority_date": "2012-12-27"
+  },
+  {
+   "publication_number": "US-12508183-B2",
+   "title": "Relocation module and methods for surgical equipment",
+   "assignee": "Augustine Biomedical + Design, LLC",
+   "priority_date": "2018-03-26"
+  },
+  {
+   "publication_number": "CN-104203778-B",
+   "title": "High efficient sorting conveyer with improved friction-driven motor sub-",
+   "assignee": "蔓蒂萨有限公司",
+   "priority_date": "2012-03-26"
+  },
+  {
+   "publication_number": "CN-100593997-C",
+   "title": "Cleaning robot",
+   "assignee": "三星电子株式会社",
+   "priority_date": "2006-12-18"
+  },
+  {
+   "publication_number": "DE-102013019726-B4",
+   "title": "Vehicle, in particular AGV or AGV",
+   "assignee": "Sew-Eurodrive Gmbh & Co Kg",
+   "priority_date": "2013-11-27"
+  },
+  {
+   "publication_number": "US-7980916-B2",
+   "title": "Wall racer toy vehicles",
+   "assignee": "Clark Jr Leonard R",
+   "priority_date": "2004-12-30"
+  },
+  {
+   "publication_number": "US-9414987-B2",
+   "title": "Walker",
+   "assignee": "Entropy Enterprises, LLC",
+   "priority_date": "2013-03-15"
+  },
+  {
+   "publication_number": "JP-5506794-B2",
+   "title": "Caster with hand brake",
+   "assignee": "株式会社日乃本錠前",
+   "priority_date": "2010-02-25"
+  },
+  {
+   "publication_number": "ES-2627481-T3",
+   "title": "Transfer and displacement device",
+   "assignee": "Tmsuk Co., Ltd.",
+   "priority_date": "2009-06-01"
+  },
+  {
+   "publication_number": "CA-2940468-C",
+   "title": "Heating cooker",
+   "assignee": "Sharp Kabushiki Kaisha",
+   "priority_date": "2014-08-29"
+  },
+  {
+   "publication_number": "JP-5562389-B2",
+   "title": "Autonomous surface treatment appliance",
+   "assignee": "ダイソン テクノロジー リミテッド",
+   "priority_date": "2011-09-09"
+  },
+  {
+   "publication_number": "CN-113924265-B",
+   "title": "Autonomous omnidirectional drive unit",
+   "assignee": "阿斯蒂移动机器人有限公司",
+   "priority_date": "2019-03-20"
+  },
+  {
+   "publication_number": "US-8523214-B2",
+   "title": "Mobile rocking patient chair and method of use",
+   "assignee": "Paul J. Johansson",
+   "priority_date": "2011-05-17"
+  },
+  {
+   "publication_number": "US-9701339-B2",
+   "title": "Vehicle with tilting frame",
+   "assignee": "Werner Krammel",
+   "priority_date": "2014-01-29"
+  },
+  {
+   "publication_number": "US-20160029555-A1",
+   "title": "Control sysytem for motor-driven lawnmower vehicle",
+   "assignee": "Kanzaki Kokyukoki Manufacturing Co., Ltd.",
+   "priority_date": "2007-01-15"
+  },
+  {
+   "publication_number": "JP-6706634-B2",
+   "title": "Method for steering a vehicle, controller for an automobile and automobile",
+   "assignee": "ツェットエフ、フリードリッヒスハーフェン、アクチエンゲゼルシャフトＺｆ Ｆｒｉｅｄｒｉｃｈｓｈａｆｅｎ Ａｇ",
+   "priority_date": "2015-06-30"
+  },
+  {
+   "publication_number": "US-9864396-B1",
+   "title": "Highly maneuverable mowing vehicle with Mecanum wheels",
+   "assignee": "Hydro-Gear Limited Partnership",
+   "priority_date": "2014-08-05"
+  },
+  {
+   "publication_number": "US-8733478-B2",
+   "title": "Camera crane mobile base",
+   "assignee": "Chapman/Leonard Studio Equipment, Inc.",
+   "priority_date": "2010-07-29"
+  },
+  {
+   "publication_number": "US-20090254218-A1",
+   "title": "Robot confinement",
+   "assignee": "Sandin Paul E",
+   "priority_date": "2006-03-17"
+  },
+  {
+   "publication_number": "CA-2946369-C",
+   "title": "Traveling vehicle",
+   "assignee": "Yanmar Co., Ltd.",
+   "priority_date": "2014-04-28"
+  },
+  {
+   "publication_number": "EP-3659755-B1",
+   "title": "Omnidirectional platform and omnidirectional transporter",
+   "assignee": "Universitat Politècnica De Catalunya",
+   "priority_date": "2017-07-26"
+  },
+  {
+   "publication_number": "JP-5280734-B2",
+   "title": "Belt junction conveyor",
+   "assignee": "三機工業株式会社",
+   "priority_date": "2007-06-26"
+  },
+  {
+   "publication_number": "US-20200110410-A1",
+   "title": "Device and method for processing map data used for self-position estimation,",
+   "assignee": "Nidec Corporation",
+   "priority_date": "2018-10-04"
+  },
+  {
+   "publication_number": "US-20150039171-A1",
+   "title": "Vehicle Having Independently Driven and Controlled Right and Left Drive Wheels",
+   "assignee": "Kubota Corporation",
+   "priority_date": "2011-06-15"
+  },
+  {
+   "publication_number": "US-8006849-B2",
+   "title": "Processing apparatus and method of operation thereof",
+   "assignee": "Rmt Robotics Limited",
+   "priority_date": "2005-11-08"
+  },
+  {
+   "publication_number": "US-8646952-B2",
+   "title": "Ride-on mower having headlight",
+   "assignee": "Kubota Corporation",
+   "priority_date": "2012-07-05"
+  },
+  {
+   "publication_number": "US-10130530-B2",
+   "title": "Mechanism and apparatus for wheelchair reconfiguration",
+   "assignee": "Stephen C. Golden, JR.",
+   "priority_date": "2015-12-21"
+  },
+  {
+   "publication_number": "KR-20200071745-A",
+   "title": "Admittance control of surgical robot arm",
+   "assignee": "아우리스 헬스, 인코포레이티드",
+   "priority_date": "2017-10-10"
+  },
+  {
+   "publication_number": "WO-2020010575-A1",
+   "title": "Suspension system and full piggy-back mobile robot",
+   "assignee": "苏州元谋智能机器人系统有限公司",
+   "priority_date": "2018-07-11"
+  },
+  {
+   "publication_number": "JP-6850107-B2",
+   "title": "Autonomous electric cleaner",
+   "assignee": "東芝ライフスタイル株式会社",
+   "priority_date": "2016-11-02"
+  },
+  {
+   "publication_number": "EP-4364392-A2",
+   "title": "Methods, apparatuses and systems for unattended package delivery",
+   "assignee": "DEKA Products Limited Partnership",
+   "priority_date": "2021-06-30"
+  },
+  {
+   "publication_number": "CN-113247141-B",
+   "title": "Driving wheel unit and running gear",
+   "assignee": "株式会社理光",
+   "priority_date": "2020-02-10"
+  },
+  {
+   "publication_number": "US-12564527-B2",
+   "title": "Patient support apparatus having motorized wheels",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2022-03-07"
+  },
+  {
+   "publication_number": "CN-103171639-B",
+   "title": "Homing guidance transfer robot",
+   "assignee": "南通皋液液压机有限公司",
+   "priority_date": "2013-03-22"
+  },
+  {
+   "publication_number": "US-7988172-B2",
+   "title": "Power-supplemented manual height-adjusting wheelchair",
+   "assignee": "Max Mobility, Llc",
+   "priority_date": "2008-12-16"
+  },
+  {
+   "publication_number": "JP-6715533-B2",
+   "title": "Transfer device",
+   "assignee": "株式会社アートプラン",
+   "priority_date": "2016-12-06"
+  },
+  {
+   "publication_number": "CN-112061053-A",
+   "title": "Automated guided vehicle, control device, and storage medium",
+   "assignee": "三菱重工业株式会社",
+   "priority_date": "2019-06-11"
+  },
+  {
+   "publication_number": "JP-7444460-B2",
+   "title": "charging station for robots",
+   "assignee": "Ｇｒｏｏｖｅ Ｘ株式会社",
+   "priority_date": "2018-12-03"
+  },
+  {
+   "publication_number": "EP-4289408-A2",
+   "title": "Bed systems",
+   "assignee": "Kap Medical, Inc.",
+   "priority_date": "2014-11-13"
+  },
+  {
+   "publication_number": "CN-111422264-B",
+   "title": "Trolley and conveying system",
+   "assignee": "夏普株式会社",
+   "priority_date": "2019-01-10"
+  },
+  {
+   "publication_number": "DE-102020211575-A1",
+   "title": "DEVICE FOR OPENING AND CLOSING VEHICLE DOORS",
+   "assignee": "Hyundai Motor Company",
+   "priority_date": "2019-12-10"
+  },
+  {
+   "publication_number": "JP-2011025801-A",
+   "title": "Wheeled platform",
+   "assignee": "Meidensha Corp",
+   "priority_date": "2009-07-24"
+  },
+  {
+   "publication_number": "US-20250345217-A1",
+   "title": "Braking and steering system for a mobile support",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2018-11-07"
+  },
+  {
+   "publication_number": "CN-105080149-A",
+   "title": "Driving power foot wheel component, omni-directional moving platform and",
+   "assignee": "中国科学院宁波材料技术与工程研究所",
+   "priority_date": "2014-07-16"
+  },
+  {
+   "publication_number": "JP-2012135435-A",
+   "title": "Bag caster lock device",
+   "assignee": "T & S Co Ltd",
+   "priority_date": "2010-12-27"
+  },
+  {
+   "publication_number": "WO-2012096570-A1",
+   "title": "Vehicle particularly transfer device",
+   "assignee": "VAN DROGENBROEK, Jan-Hein",
+   "priority_date": "2011-01-13"
+  },
+  {
+   "publication_number": "JP-2014046890-A",
+   "title": "Omnidirectional moving truck having power assist function",
+   "assignee": "Araki Seisakusho:Kk",
+   "priority_date": "2012-09-03"
+  },
+  {
+   "publication_number": "DE-102020119276-A1",
+   "title": "Support arm stacker, preferably as an AGV",
+   "assignee": "A & A Logistik-Equipment GmbH & Co. KG",
+   "priority_date": "2020-07-22"
+  },
+  {
+   "publication_number": "US-11918519-B2",
+   "title": "Systems and methods for moving a surgical table",
+   "assignee": "Verb Surgical Inc.",
+   "priority_date": "2020-03-19"
+  },
+  {
+   "publication_number": "CN-103422657-B",
+   "title": "A kind of plastering machine",
+   "assignee": "苏幸全",
+   "priority_date": "2013-08-27"
+  },
+  {
+   "publication_number": "US-20250346304-A1",
+   "title": "Autonomous mobile robot",
+   "assignee": "Oshkosh Corporation",
+   "priority_date": "2024-05-07"
+  },
+  {
+   "publication_number": "KR-101683228-B1",
+   "title": "Automatic guided vehicle",
+   "assignee": "한성웰텍(주)",
+   "priority_date": "2015-08-31"
+  },
+  {
+   "publication_number": "CN-105752246-A",
+   "title": "Novel inverted pendulum self-balancing locomotive",
+   "assignee": "刘岗",
+   "priority_date": "2015-01-06"
+  },
+  {
+   "publication_number": "ES-3052391-T3",
+   "title": "Mobility systems and methods",
+   "assignee": "Altimate Medical Inc",
+   "priority_date": "2020-03-09"
+  },
+  {
+   "publication_number": "CN-105984541-A",
+   "title": "Motor vehicle and control system",
+   "assignee": "刘岗",
+   "priority_date": "2015-01-06"
+  },
+  {
+   "publication_number": "US-20110297465-A1",
+   "title": "Retrofit Assembly for Self-Mobilization of a Transport Unit",
+   "assignee": "Huntley Paul N",
+   "priority_date": "2010-04-08"
+  },
+  {
+   "publication_number": "EP-2008629-A2",
+   "title": "Wheelchair transporter",
+   "assignee": "Dane Industries, Inc.",
+   "priority_date": "2007-06-28"
+  },
+  {
+   "publication_number": "JP-2021527805-A",
+   "title": "Soft target movement platform",
+   "assignee": "アンソニー ベスト ダイナミクス リミテッドＡｎｔｈｏｎｙ Ｂｅｓｔ Ｄｙｎａｍｉｃｓ Ｌｔｄ",
+   "priority_date": "2018-06-22"
+  },
+  {
+   "publication_number": "JP-2020068897-A",
+   "title": "Cleaning robot",
+   "assignee": "大成建設株式会社",
+   "priority_date": "2018-10-29"
+  },
+  {
+   "publication_number": "US-20210072751-A1",
+   "title": "Modular robotic vehicle",
+   "assignee": "Carla R. Gillett",
+   "priority_date": "2016-10-22"
+  },
+  {
+   "publication_number": "US-20210200213-A1",
+   "title": "Modular robotic vehicle",
+   "assignee": "Carla R. Gilett",
+   "priority_date": "2016-10-22"
+  },
+  {
+   "publication_number": "CN-114506183-B",
+   "title": "Independent drive wheel module and its installation method",
+   "assignee": "现代摩比斯株式会社",
+   "priority_date": "2020-11-17"
+  },
+  {
+   "publication_number": "KR-20190087018-A",
+   "title": "Omni-directional mobile robot with differential drive wheels",
+   "assignee": "금오공과대학교 산학협력단",
+   "priority_date": "2018-01-15"
+  }
+ ],
+ "G2": [
+  {
+   "publication_number": "JP-5131598-B2",
+   "title": "Minimally invasive surgery system",
+   "assignee": "エスアールアイ インターナショナル",
+   "priority_date": "1992-01-21"
+  },
+  {
+   "publication_number": "US-11067386-B2",
+   "title": "Instrument systems and methods utilizing optical fiber sensor",
+   "assignee": "Koninklijke Philips N.V.",
+   "priority_date": "2007-08-14"
+  },
+  {
+   "publication_number": "US-8840628-B2",
+   "title": "Surgical manipulator for a telerobotic system",
+   "assignee": "Intuitive Surgical Operations, Inc.",
+   "priority_date": "1995-06-07"
+  },
+  {
+   "publication_number": "CN-111565666-B",
+   "title": "Display Arrangement for Robotic-Assisted Surgery Platforms",
+   "assignee": "爱惜康有限责任公司",
+   "priority_date": "2017-12-28"
+  },
+  {
+   "publication_number": "JP-7603617-B2",
+   "title": "Actively controlled steerable medical device with passive bending modes",
+   "assignee": "キヤノン ユーエスエイ，インコーポレイテッド",
+   "priority_date": "2019-05-31"
+  },
+  {
+   "publication_number": "EP-2911594-B1",
+   "title": "Controlled steering functionality for implant-delivery tool",
+   "assignee": "Valtech Cardio, Ltd.",
+   "priority_date": "2012-10-23"
+  },
+  {
+   "publication_number": "EP-2897566-B1",
+   "title": "Powered patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2012-09-18"
+  },
+  {
+   "publication_number": "EP-3658058-B1",
+   "title": "Medical device handle",
+   "assignee": "Intuitive Surgical Operations, Inc.",
+   "priority_date": "2017-07-27"
+  },
+  {
+   "publication_number": "US-20210393340-A1",
+   "title": "Articulation mechanisms for robotic surgical tools",
+   "assignee": "Auris Health, Inc.",
+   "priority_date": "2020-06-18"
+  },
+  {
+   "publication_number": "CN-112689480-B",
+   "title": "Merging user interfaces for modular energy systems",
+   "assignee": "爱惜康有限责任公司",
+   "priority_date": "2018-09-07"
+  },
+  {
+   "publication_number": "US-9527394-B1",
+   "title": "Transportation system of combined vehicles multi-coupled at highway speeds for",
+   "assignee": "Dershuen Allen Tang",
+   "priority_date": "2013-05-02"
+  },
+  {
+   "publication_number": "US-20200305983-A1",
+   "title": "Systems and methods for optical strain sensing in medical instruments",
+   "assignee": "Auris Health, Inc.",
+   "priority_date": "2019-03-29"
+  },
+  {
+   "publication_number": "EP-3166527-B1",
+   "title": "Articulating robotic probes and systems",
+   "assignee": "Medrobotics Corporation",
+   "priority_date": "2014-06-05"
+  },
+  {
+   "publication_number": "CN-105373032-B",
+   "title": "Automatic cooking control via enhanced cooking equipment",
+   "assignee": "美亚知识产权有限公司",
+   "priority_date": "2014-08-19"
+  },
+  {
+   "publication_number": "CA-2875288-C",
+   "title": "Integrated touch screen display with multi-mode functionality",
+   "assignee": "The Raymond Corporation",
+   "priority_date": "2013-12-19"
+  },
+  {
+   "publication_number": "CN-107307909-B",
+   "title": "A kind of intervention robot remote operating system",
+   "assignee": "北京理工大学",
+   "priority_date": "2017-07-06"
+  },
+  {
+   "publication_number": "CN-208989133-U",
+   "title": "A kind of robot manipulation's platform",
+   "assignee": "首都医科大学附属北京天坛医院",
+   "priority_date": "2017-08-30"
+  },
+  {
+   "publication_number": "US-11723742-B2",
+   "title": "Surgical patient side cart with drive system and method of moving a patient",
+   "assignee": "Intuitive Surgical Operations, Inc.",
+   "priority_date": "2013-03-15"
+  },
+  {
+   "publication_number": "JP-6604894-B2",
+   "title": "Vehicle control apparatus and method",
+   "assignee": "日立オートモティブシステムズ株式会社",
+   "priority_date": "2016-04-12"
+  },
+  {
+   "publication_number": "US-10245937-B2",
+   "title": "Vehicle comprising autonomous steering column system",
+   "assignee": "Carla R. Gillett",
+   "priority_date": "2013-04-26"
+  },
+  {
+   "publication_number": "US-20200384243-A1",
+   "title": "Zero force catheter",
+   "assignee": "Boston Scientific Scimed, Inc.",
+   "priority_date": "2019-06-07"
+  },
+  {
+   "publication_number": "US-11141232-B2",
+   "title": "Teleoperated surgical instruments",
+   "assignee": "Intuitive Surgical Operations, Inc.",
+   "priority_date": "2018-03-29"
+  },
+  {
+   "publication_number": "US-20220331945-A1",
+   "title": "Inspection robots with flexible wheel/motor positioning",
+   "assignee": "Gecko Robotics, Inc.",
+   "priority_date": "2021-04-20"
+  },
+  {
+   "publication_number": "JP-7717062-B2",
+   "title": "Apparatus for automatically manipulating the insertion of a medical tool into a",
+   "assignee": "マイクロボット メディカル リミテッド",
+   "priority_date": "2019-11-28"
+  },
+  {
+   "publication_number": "US-20240207005-A1",
+   "title": "Systems and methods for positioning medical instruments",
+   "assignee": "Intuitive Surgical Operations, Inc.",
+   "priority_date": "2018-10-05"
+  },
+  {
+   "publication_number": "US-12035992-B2",
+   "title": "Teleoperated surgical instruments",
+   "assignee": "Intuitive Surgical Operations, Inc.",
+   "priority_date": "2018-03-29"
+  },
+  {
+   "publication_number": "US-20210015572-A1",
+   "title": "Surgical instrument actuation systems",
+   "assignee": "Intuitive Surgical Operations, Inc.",
+   "priority_date": "2018-03-29"
+  },
+  {
+   "publication_number": "US-20210022815-A1",
+   "title": "Surgical instrument actuation mechanisms",
+   "assignee": "Intuitive Surgical Operations, Inc.",
+   "priority_date": "2018-03-29"
+  },
+  {
+   "publication_number": "US-11034404-B2",
+   "title": "Scooter",
+   "assignee": "Etergo B.V.",
+   "priority_date": "2016-09-22"
+  },
+  {
+   "publication_number": "CN-110650691-B",
+   "title": "Hydraulic instrument drive systems for minimally invasive surgery",
+   "assignee": "阿森塞斯(美国)手术公司",
+   "priority_date": "2017-01-31"
+  },
+  {
+   "publication_number": "US-12539413-B2",
+   "title": "Intravascular fluid movement devices, systems, and methods of use",
+   "assignee": "Shifamed Holdings, Llc",
+   "priority_date": "2017-06-07"
+  },
+  {
+   "publication_number": "AU-2024201325-B2",
+   "title": "Mobility vehicle",
+   "assignee": "Pride Mobility Products Corporation",
+   "priority_date": "2017-02-25"
+  },
+  {
+   "publication_number": "US-12566099-B2",
+   "title": "Autonomous tire and wheel balancer, method therefor and robotic automotive",
+   "assignee": "Automated Tire, Inc.",
+   "priority_date": "2022-06-22"
+  },
+  {
+   "publication_number": "US-12174642-B2",
+   "title": "Modular robotic system",
+   "assignee": "Keith Guy",
+   "priority_date": "2016-06-21"
+  },
+  {
+   "publication_number": "US-20210206451-A1",
+   "title": "Two-wheel self-balancing vehicle with platform borne sensor control",
+   "assignee": "Shane Chen",
+   "priority_date": "2015-08-04"
+  },
+  {
+   "publication_number": "EP-2967470-B1",
+   "title": "Caster system for mobile apparatus",
+   "assignee": "Mobius Imaging, Llc",
+   "priority_date": "2013-03-15"
+  },
+  {
+   "publication_number": "US-12529291-B2",
+   "title": "Power system for downhole toolstring",
+   "assignee": "Fastcap Ultracapacitors Llc",
+   "priority_date": "2013-03-15"
+  },
+  {
+   "publication_number": "CN-110626455-B",
+   "title": "Adaptive Pedal Assist and Control Logic with Input Torque Filtering for Smart",
+   "assignee": "通用汽车环球科技运作有限责任公司",
+   "priority_date": "2018-06-25"
+  },
+  {
+   "publication_number": "KR-102382248-B1",
+   "title": "Methods and devices for table pose tracking using fiducial markers",
+   "assignee": "인튜어티브 서지컬 오퍼레이션즈 인코포레이티드",
+   "priority_date": "2014-03-17"
+  },
+  {
+   "publication_number": "US-11278703-B2",
+   "title": "Devices, systems, and methods for controlling active drive systems",
+   "assignee": "Auris Health, Inc.",
+   "priority_date": "2014-04-21"
+  },
+  {
+   "publication_number": "US-20250352717-A1",
+   "title": "Fluidics control system for multi catheter stack",
+   "assignee": "Imperative Care, Inc.",
+   "priority_date": "2023-05-17"
+  },
+  {
+   "publication_number": "EP-3656619-B2",
+   "title": "Electric drive and braking device",
+   "assignee": "Alois Kober GmbH",
+   "priority_date": "2018-11-19"
+  },
+  {
+   "publication_number": "US-12508093-B2",
+   "title": "Magnetic coupling through a sterile field barrier",
+   "assignee": "Imperative Care, Inc.",
+   "priority_date": "2023-05-31"
+  },
+  {
+   "publication_number": "US-20230356794-A1",
+   "title": "System and method for trailer propulsion",
+   "assignee": "Anamnesis Corporation",
+   "priority_date": "2021-06-24"
+  },
+  {
+   "publication_number": "KR-102360482-B1",
+   "title": "Methods and devices for tele-surgical table registration",
+   "assignee": "인튜어티브 서지컬 오퍼레이션즈 인코포레이티드",
+   "priority_date": "2014-03-17"
+  },
+  {
+   "publication_number": "EP-2622955-B1",
+   "title": "Agricultural machine with a system for automatically adjusting a processing",
+   "assignee": "Deere & Company",
+   "priority_date": "2012-01-31"
+  },
+  {
+   "publication_number": "US-8756726-B2",
+   "title": "User interface for power drive system of a patient support apparatus",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2006-10-13"
+  },
+  {
+   "publication_number": "CN-105979882-B",
+   "title": "Input device assembly for robotic surgery systems",
+   "assignee": "柯惠Lp公司",
+   "priority_date": "2014-02-07"
+  },
+  {
+   "publication_number": "JP-6213474-B2",
+   "title": "Mixed injection device",
+   "assignee": "株式会社湯山製作所",
+   "priority_date": "2012-10-25"
+  },
+  {
+   "publication_number": "US-11918116-B1",
+   "title": "Height adjustable support surface and system for encouraging human movement and",
+   "assignee": "Steelcase Inc.",
+   "priority_date": "2012-10-10"
+  },
+  {
+   "publication_number": "US-10296012-B2",
+   "title": "Pre-computation of kinematically feasible roadmaps",
+   "assignee": "X Development Llc",
+   "priority_date": "2016-12-21"
+  },
+  {
+   "publication_number": "US-11262200-B2",
+   "title": "Boolean satisfiability (SAT) reduction for geometry and kinematics agnostic",
+   "assignee": "Intrinsic Innovation Llc",
+   "priority_date": "2016-12-21"
+  },
+  {
+   "publication_number": "EP-3385497-B1",
+   "title": "Method of optimizing drilling operation using empirical data",
+   "assignee": "VAREL EUROPE (Société par Actions Simplifiée)",
+   "priority_date": "2017-04-04"
+  },
+  {
+   "publication_number": "JP-7528250-B2",
+   "title": "Cyber-physical system and control method for chassis-by-wire in smart",
+   "assignee": "南京航空航天大学",
+   "priority_date": "2021-03-01"
+  },
+  {
+   "publication_number": "US-9211160-B2",
+   "title": "Remotely controlled catheter insertion system with automatic control system",
+   "assignee": "Luiz Geraldo Pivotto",
+   "priority_date": "2008-01-16"
+  },
+  {
+   "publication_number": "EP-1986563-B1",
+   "title": "System and apparatus for measuring distal forces on a working instrument",
+   "assignee": "Hansen Medical, Inc.",
+   "priority_date": "2006-02-22"
+  },
+  {
+   "publication_number": "US-9650233-B2",
+   "title": "Method for operating an industrial vehicle to manage energy costs",
+   "assignee": "The Raymond Corporation",
+   "priority_date": "2008-04-18"
+  },
+  {
+   "publication_number": "US-8337266-B2",
+   "title": "Electrically powered watercraft",
+   "assignee": "Volt Boats Llc",
+   "priority_date": "2007-04-30"
+  },
+  {
+   "publication_number": "US-8744692-B2",
+   "title": "Method of identifying positions of wheel modules",
+   "assignee": "Volvo Lastvagnar Ab",
+   "priority_date": "2007-11-30"
+  },
+  {
+   "publication_number": "EP-2896392-B1",
+   "title": "User interface and control system for powered transport device of a patient",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2006-10-13"
+  },
+  {
+   "publication_number": "US-8986246-B2",
+   "title": "Remotely controlled catheter insertion system",
+   "assignee": "Catheter Robotics Inc.",
+   "priority_date": "2008-01-16"
+  },
+  {
+   "publication_number": "US-8140228-B2",
+   "title": "and method for dynamically maintaining the stability of a material handling",
+   "assignee": "The Raymond Corporation",
+   "priority_date": "2009-03-27"
+  },
+  {
+   "publication_number": "EP-2603408-B1",
+   "title": "Method and system for regulating driving stability",
+   "assignee": "Continental Teves AG & Co. oHG",
+   "priority_date": "2010-08-10"
+  },
+  {
+   "publication_number": "JP-5715567-B2",
+   "title": "Digital hydraulic system",
+   "assignee": "ノルルハイドロ・オサケユキテュア",
+   "priority_date": "2008-10-10"
+  },
+  {
+   "publication_number": "US-9978186-B2",
+   "title": "Information reporting system for managing a fleet of an industrial vehicles",
+   "assignee": "The Raymond Corporation",
+   "priority_date": "2009-01-09"
+  },
+  {
+   "publication_number": "CN-105339154-B",
+   "title": "Three-dimensional printing",
+   "assignee": "格雷戈里·托马斯·马克",
+   "priority_date": "2013-03-22"
+  },
+  {
+   "publication_number": "US-8483908-B2",
+   "title": "Method of identifying positions of wheel modules",
+   "assignee": "Volvo Lastvagnar Ab",
+   "priority_date": "2007-11-30"
+  },
+  {
+   "publication_number": "US-9216764-B2",
+   "title": "Vehicle steerable by movement of center of gravity",
+   "assignee": "Kubota Corporation",
+   "priority_date": "2012-12-27"
+  },
+  {
+   "publication_number": "CN-104191513-B",
+   "title": "Automatic production line of small plastic-concrete components",
+   "assignee": "济南栋源水泥制品有限公司",
+   "priority_date": "2014-08-18"
+  },
+  {
+   "publication_number": "US-8351104-B2",
+   "title": "Controllably coupled piezoelectric motors",
+   "assignee": "Zaifrani Silvio",
+   "priority_date": "2008-03-06"
+  },
+  {
+   "publication_number": "US-20110060346-A1",
+   "title": "Surgical manipulator for a telerobotic system",
+   "assignee": "Sri International, Inc.",
+   "priority_date": "1995-06-07"
+  },
+  {
+   "publication_number": "US-20120004668-A1",
+   "title": "Robotic catheter system",
+   "assignee": "Hansen Medical, Inc.",
+   "priority_date": "2004-03-05"
+  },
+  {
+   "publication_number": "CN-102692899-B",
+   "title": "The control system of industrial vehicle and method in operational facilities",
+   "assignee": "雷蒙德股份有限公司",
+   "priority_date": "2011-03-18"
+  },
+  {
+   "publication_number": "BR-112013030509-B1",
+   "title": "SURGICAL INSTRUMENT",
+   "assignee": "Ethicon Endo-Surgery, Inc",
+   "priority_date": "2011-05-27"
+  },
+  {
+   "publication_number": "CN-101442952-B",
+   "title": "Robotic instrument system",
+   "assignee": "航生医疗公司",
+   "priority_date": "2006-05-17"
+  },
+  {
+   "publication_number": "CN-102157056-B",
+   "title": "Systems and methods of remotely controlling a materials handling vehicle",
+   "assignee": "克朗设备公司",
+   "priority_date": "2006-09-14"
+  },
+  {
+   "publication_number": "US-12447083-B2",
+   "title": "Patient transport apparatus with controlled auxiliary wheel speed",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2019-12-30"
+  },
+  {
+   "publication_number": "EP-2143683-B1",
+   "title": "Pallet counter for lift truck",
+   "assignee": "The Raymond Corporation",
+   "priority_date": "2008-07-10"
+  },
+  {
+   "publication_number": "US-12600182-B2",
+   "title": "Self propelled trailer systems",
+   "assignee": "Fca Us Llc",
+   "priority_date": "2022-11-07"
+  },
+  {
+   "publication_number": "US-11111996-B2",
+   "title": "Differential system including stepped planetary gears with differential rate",
+   "assignee": "Shaun Chu",
+   "priority_date": "2017-09-08"
+  },
+  {
+   "publication_number": "CA-2734587-C",
+   "title": "Self-centering, torque-sensing joint assembly for a pallet truck power steering",
+   "assignee": "The Raymond Corporation",
+   "priority_date": "2010-03-22"
+  },
+  {
+   "publication_number": "CN-117063243-A",
+   "title": "Machine learning to improve iteration of artificial intelligence algorithms",
+   "assignee": "西拉格国际有限公司",
+   "priority_date": "2021-01-22"
+  },
+  {
+   "publication_number": "TWI588072B",
+   "title": "Automatic transport machine payload alignment and sensing",
+   "assignee": "辛波提克有限責任公司",
+   "priority_date": "2010-12-15"
+  },
+  {
+   "publication_number": "US-20190246858-A1",
+   "title": "Cleaning robot with arm and tool receptacles",
+   "assignee": "Nir Karasikov",
+   "priority_date": "2018-02-13"
+  },
+  {
+   "publication_number": "CN-104136221-B",
+   "title": "Screen printing apparatus",
+   "assignee": "雅马哈发动机株式会社",
+   "priority_date": "2012-02-21"
+  },
+  {
+   "publication_number": "CN-115361920-A",
+   "title": "Robotic spinal surgical system and method with haptic interface",
+   "assignee": "马科外科公司",
+   "priority_date": "2020-03-27"
+  },
+  {
+   "publication_number": "US-20200256182-A1",
+   "title": "Intelligent Control of Drill Pipe Torque",
+   "assignee": "Wellbore Integrity Solutions Llc",
+   "priority_date": "2015-05-20"
+  },
+  {
+   "publication_number": "CN-106647762-B",
+   "title": "System and method for sensing loads being transported by a materials handling",
+   "assignee": "雷蒙德股份有限公司",
+   "priority_date": "2015-10-29"
+  },
+  {
+   "publication_number": "JP-2022544510-A",
+   "title": "Motor vehicle for use in inventory management system",
+   "assignee": "オペックス コーポレーション",
+   "priority_date": "2019-08-14"
+  },
+  {
+   "publication_number": "CN-116997303-A",
+   "title": "Predicting hemostatic problems based on biomarker monitoring",
+   "assignee": "西拉格国际有限公司",
+   "priority_date": "2021-01-22"
+  },
+  {
+   "publication_number": "CN-116897023-A",
+   "title": "Predicting tissue irregularities based on biomarker monitoring",
+   "assignee": "西拉格国际有限公司",
+   "priority_date": "2021-01-22"
+  },
+  {
+   "publication_number": "CN-110775132-B",
+   "title": "Cart Control Handles and Carts",
+   "assignee": "深圳市精锋医疗科技股份有限公司",
+   "priority_date": "2019-02-21"
+  },
+  {
+   "publication_number": "CN-117043884-A",
+   "title": "Predicting blood perfusion difficulties based on biomarker monitoring",
+   "assignee": "西拉格国际有限公司",
+   "priority_date": "2021-01-22"
+  },
+  {
+   "publication_number": "US-10697528-B2",
+   "title": "Regenerative differential for differentially steered and front-wheel steered",
+   "assignee": "Shaun Chu",
+   "priority_date": "2016-03-23"
+  },
+  {
+   "publication_number": "US-20170252812-A1",
+   "title": "Spread forming deposition",
+   "assignee": "Desktop Metal, Inc.",
+   "priority_date": "2016-03-03"
+  },
+  {
+   "publication_number": "CN-114040702-A",
+   "title": "Imaging probe with fluid pressurizing element",
+   "assignee": "Gentuity有限责任公司",
+   "priority_date": "2019-04-30"
+  },
+  {
+   "publication_number": "JP-2022502171-A",
+   "title": "Systems and methods for docking medical devices",
+   "assignee": "オーリス ヘルス インコーポレイテッド",
+   "priority_date": "2018-09-28"
+  },
+  {
+   "publication_number": "US-20250082521-A1",
+   "title": "Patient Transport Apparatus With Auxiliary Wheel Control Systems",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2019-12-30"
+  },
+  {
+   "publication_number": "JP-2023500675-A",
+   "title": "Automatic total nail care system, device and method",
+   "assignee": "ネイルプロ・インコーポレイテッド",
+   "priority_date": "2019-10-29"
+  },
+  {
+   "publication_number": "US-8880300-B2",
+   "title": "Outdoor power equipment unit with condition responsive electronic control of",
+   "assignee": "The Toro Company",
+   "priority_date": "2012-09-08"
+  }
+ ],
+ "G3": [
+  {
+   "publication_number": "US-20190311611-A1",
+   "title": "System and Method for Dynamic Map Updating in a Conveyance.",
+   "assignee": "Autoconnect Holdings Llc",
+   "priority_date": "2011-11-16"
+  },
+  {
+   "publication_number": "JP-3216935-U",
+   "title": "Rear wheel drive device",
+   "assignee": "常州安耐雅康復器材有限公司Ｃｈａｎｇｚｈｏｕ Ａｎ Ｎａｉｙａ Ｒｅｈａｂｉｌｉｔａｔｉｏｎ Ｅｑｕｉｐｍｅｎｔ Ｃｏ．， Ｌｔｄ．",
+   "priority_date": "2017-04-14"
+  },
+  {
+   "publication_number": "JP-7010883-B2",
+   "title": "Auxiliary propulsion system, method and chassis",
+   "assignee": "アルジョ アイピー ホールディング アクチエボラグ",
+   "priority_date": "2013-05-21"
+  },
+  {
+   "publication_number": "JP-7349282-B2",
+   "title": "Gravity compensation for self-propelled robotic vehicles crawling on non-",
+   "assignee": "ザ・ボーイング・カンパニー",
+   "priority_date": "2018-07-25"
+  },
+  {
+   "publication_number": "JP-7163912-B2",
+   "title": "Imaging device, imaging method",
+   "assignee": "ソニーグループ株式会社",
+   "priority_date": "2017-05-18"
+  },
+  {
+   "publication_number": "CN-110022728-B",
+   "title": "Baby comfort/sleep aid device",
+   "assignee": "Hb创新股份有限公司",
+   "priority_date": "2016-10-17"
+  },
+  {
+   "publication_number": "US-20220009087-A1",
+   "title": "Apparatus and systems of a modular autonomous cart apparatus assembly for",
+   "assignee": "Fedex Corporate Services, Inc.",
+   "priority_date": "2018-03-14"
+  },
+  {
+   "publication_number": "US-20260041515-A1",
+   "title": "Light displays in a medical device",
+   "assignee": "Intuitive Surgical Operations, Inc.",
+   "priority_date": "2017-07-27"
+  },
+  {
+   "publication_number": "JP-2023062019-A",
+   "title": "Home autonomous item collection and transport robot system",
+   "assignee": "ラブラドール システムズ インコーポレイテッド",
+   "priority_date": "2017-11-03"
+  },
+  {
+   "publication_number": "CN-110809426-B",
+   "title": "Capsule endoscope control system",
+   "assignee": "上海安翰医疗技术有限公司",
+   "priority_date": "2018-06-02"
+  },
+  {
+   "publication_number": "JP-7322703-B2",
+   "title": "Image processing device, image processing method for image processing device,",
+   "assignee": "ソニーグループ株式会社",
+   "priority_date": "2017-07-14"
+  },
+  {
+   "publication_number": "US-9367061-B2",
+   "title": "Medical cart for dispensing medication",
+   "assignee": "Enovate Medical, Llc",
+   "priority_date": "2014-02-07"
+  },
+  {
+   "publication_number": "EP-3345811-B1",
+   "title": "Walking mechanism and electric power-assisted vehicle and toy equipped with",
+   "assignee": "B-Free Limited",
+   "priority_date": "2015-09-01"
+  },
+  {
+   "publication_number": "JP-6537567-B2",
+   "title": "Cordless power assisted medical cautery and cutting device",
+   "assignee": "コヴィディエン・アクチェンゲゼルシャフト",
+   "priority_date": "2007-11-28"
+  },
+  {
+   "publication_number": "US-9810057-B2",
+   "title": "Hybrid transponder system for long-range sensing and 3D localization",
+   "assignee": "Saudi Arabian Oil Company",
+   "priority_date": "2011-04-26"
+  },
+  {
+   "publication_number": "US-11730346-B2",
+   "title": "Two-part endoscope surgical device",
+   "assignee": "Great Belief International Limited",
+   "priority_date": "2009-04-23"
+  },
+  {
+   "publication_number": "US-10427703-B2",
+   "title": "Rolling cart with tiltable frame",
+   "assignee": "Aaron Crowley",
+   "priority_date": "2015-07-28"
+  },
+  {
+   "publication_number": "US-11672726-B2",
+   "title": "Systems and methods for exerting force on bodies",
+   "assignee": "Udaya Sankar Devanaboyina",
+   "priority_date": "2013-03-06"
+  },
+  {
+   "publication_number": "DE-102017102265-B4",
+   "title": "Method and system for determining whether a driver of a vehicle is in contact",
+   "assignee": "GM Global Technology Operations LLC",
+   "priority_date": "2016-02-12"
+  },
+  {
+   "publication_number": "US-10852037-B2",
+   "title": "Systems, methods, and devices including modular, fixed and transportable",
+   "assignee": "Spectra Systems & Technologies, Inc.",
+   "priority_date": "2009-08-28"
+  },
+  {
+   "publication_number": "US-11110302-B2",
+   "title": "Multi-robotic arm apparatus for intraoperative radiotherapy",
+   "assignee": "Cancer Hospital, Chinese Academy Of Medical Sciences",
+   "priority_date": "2017-05-15"
+  },
+  {
+   "publication_number": "US-9730518-B1",
+   "title": "Powered chairs for public venues, assemblies for use in powered chairs, and",
+   "assignee": "Matthew D. Jacobs",
+   "priority_date": "2014-07-15"
+  },
+  {
+   "publication_number": "US-11806284-B2",
+   "title": "Patient transport apparatus having powered drive system utilizing dual mode",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2018-03-29"
+  },
+  {
+   "publication_number": "CN-111971502-B",
+   "title": "System and method for providing multi-position display",
+   "assignee": "微软技术许可有限责任公司",
+   "priority_date": "2018-04-13"
+  },
+  {
+   "publication_number": "CN-111971503-B",
+   "title": "System and method for providing multi-position display",
+   "assignee": "微软技术许可有限责任公司",
+   "priority_date": "2018-04-13"
+  },
+  {
+   "publication_number": "US-12626589-B2",
+   "title": "Systems and methods for simulating traffic scenes",
+   "assignee": "Aurora Operations, Inc.",
+   "priority_date": "2020-11-17"
+  },
+  {
+   "publication_number": "ES-2768692-T3",
+   "title": "Portable robotic device",
+   "assignee": "Parker Hannifin Corp",
+   "priority_date": "2014-03-31"
+  },
+  {
+   "publication_number": "EP-3285708-B1",
+   "title": "A reconfigurable wheeled personal mobility device",
+   "assignee": "Brintal Limited",
+   "priority_date": "2015-04-22"
+  },
+  {
+   "publication_number": "CN-106428479-B",
+   "title": "A kind of unmanned remote controlled underwater robot and its control method",
+   "assignee": "欧舶智能科技（上海）有限公司",
+   "priority_date": "2015-08-06"
+  },
+  {
+   "publication_number": "US-12007728-B1",
+   "title": "Systems and methods for sensor data processing and object detection and motion",
+   "assignee": "Uatc, Llc",
+   "priority_date": "2020-10-14"
+  },
+  {
+   "publication_number": "JP-6643676-B2",
+   "title": "Assist wear, control method of control unit for assist wear, and program for",
+   "assignee": "パナソニックＩｐマネジメント株式会社",
+   "priority_date": "2015-02-19"
+  },
+  {
+   "publication_number": "JP-6643675-B2",
+   "title": "Assist wear, control method of control unit for assist wear, and program for",
+   "assignee": "パナソニックＩｐマネジメント株式会社",
+   "priority_date": "2015-02-19"
+  },
+  {
+   "publication_number": "US-20230322203-A1",
+   "title": "System and method for the management of regenerative-braking for battery",
+   "assignee": "Hydrogen Vehicle Systems Ltd",
+   "priority_date": "2022-04-11"
+  },
+  {
+   "publication_number": "US-11345187-B2",
+   "title": "Minimizing drag-induced forces on a wheeled vehicle",
+   "assignee": "Garth L. Magee",
+   "priority_date": "2012-12-21"
+  },
+  {
+   "publication_number": "CN-105416391-B",
+   "title": "Reduce prominent turn of automatic parking steering wheel",
+   "assignee": "福特全球技术公司",
+   "priority_date": "2014-09-17"
+  },
+  {
+   "publication_number": "US-9655458-B2",
+   "title": "Powered chairs for public venues, assemblies for use in powered chairs, and",
+   "assignee": "Matthew D. Jacobs",
+   "priority_date": "2014-07-15"
+  },
+  {
+   "publication_number": "US-10357107-B2",
+   "title": "Powered chairs for public venues, assemblies for use in powered chairs, and",
+   "assignee": "Matthew D. Jacobs",
+   "priority_date": "2017-03-27"
+  },
+  {
+   "publication_number": "US-10349744-B2",
+   "title": "Powered chairs for public venues, assemblies for use in powered chairs, and",
+   "assignee": "Matthew D. Jacobs",
+   "priority_date": "2017-03-27"
+  },
+  {
+   "publication_number": "US-20210384577-A1",
+   "title": "Lithium ion battery with lead acid form factor",
+   "assignee": "Cps Technology Holdings Llc",
+   "priority_date": "2013-07-30"
+  },
+  {
+   "publication_number": "US-9748548-B2",
+   "title": "Pouch frame with integral circuitry for battery module",
+   "assignee": "Johnson Controls Technology Company",
+   "priority_date": "2013-07-30"
+  },
+  {
+   "publication_number": "US-9312580-B2",
+   "title": "Battery module with phase change material",
+   "assignee": "Johnson Controls Technology Company",
+   "priority_date": "2013-07-30"
+  },
+  {
+   "publication_number": "US-9496588-B2",
+   "title": "Battery module with cooling features",
+   "assignee": "Johnson Controls Technology Company",
+   "priority_date": "2013-07-30"
+  },
+  {
+   "publication_number": "US-9438113-B2",
+   "title": "DC-DC convertor for batteries having multiple positive terminals",
+   "assignee": "Johnson Controls Technology Company",
+   "priority_date": "2013-07-30"
+  },
+  {
+   "publication_number": "CA-2949812-C",
+   "title": "Remote controlled mobile traffic control system and method",
+   "assignee": "Leo Beaulieu",
+   "priority_date": "2015-11-27"
+  },
+  {
+   "publication_number": "US-9525195-B2",
+   "title": "Remanufacturing methods for battery module",
+   "assignee": "Johnson Controls Technology Corporation",
+   "priority_date": "2013-07-30"
+  },
+  {
+   "publication_number": "US-10657810-B2",
+   "title": "Remote controlled mobile traffic control system and method",
+   "assignee": "Leo Beaulieu",
+   "priority_date": "2016-11-28"
+  },
+  {
+   "publication_number": "US-7854282-B2",
+   "title": "Hybrid electric vehicle",
+   "assignee": "International Humanities Center",
+   "priority_date": "2007-12-10"
+  },
+  {
+   "publication_number": "CN-102570694-B",
+   "title": "Drive apparatus",
+   "assignee": "株式会社电装",
+   "priority_date": "2009-06-24"
+  },
+  {
+   "publication_number": "EP-2883525-B1",
+   "title": "Walking assistance moving vehicle",
+   "assignee": "Funai Electric Co., Ltd.",
+   "priority_date": "2013-08-30"
+  },
+  {
+   "publication_number": "CN-107616879-B",
+   "title": "Wheel chair",
+   "assignee": "D·G·罗宾斯",
+   "priority_date": "2014-01-08"
+  },
+  {
+   "publication_number": "CN-104044574-B",
+   "title": "Automatic start-stop vehicle is controlled when close to controlled",
+   "assignee": "福特全球技术公司",
+   "priority_date": "2013-03-11"
+  },
+  {
+   "publication_number": "AU-2011285784-B2",
+   "title": "Rack type pipe feeder for a pipe fusion machine",
+   "assignee": "Mcelroy Manufacturing, Inc.",
+   "priority_date": "2010-08-06"
+  },
+  {
+   "publication_number": "CN-101636142-B",
+   "title": "Rehabilitation Aids",
+   "assignee": "国立大学法人筑波大学",
+   "priority_date": "2007-03-22"
+  },
+  {
+   "publication_number": "TWI429545B",
+   "title": "Amphibian",
+   "assignee": "Gibbs Tech Ltd",
+   "priority_date": "2006-08-24"
+  },
+  {
+   "publication_number": "US-9553343-B2",
+   "title": "Printed circuit board interconnect for cells in a battery system",
+   "assignee": "Johnson Controls Technology Company",
+   "priority_date": "2013-07-30"
+  },
+  {
+   "publication_number": "US-8676420-B2",
+   "title": "Electric vehicle and method for controlling the same",
+   "assignee": "Panasonic Corporation",
+   "priority_date": "2010-10-19"
+  },
+  {
+   "publication_number": "CN-102333689-B",
+   "title": "Electric motor vehicle and method for controlling the same",
+   "assignee": "松下电器产业株式会社",
+   "priority_date": "2009-06-02"
+  },
+  {
+   "publication_number": "CN-102551994-B",
+   "title": "Recovery walking aiding robot and control system thereof",
+   "assignee": "华中科技大学",
+   "priority_date": "2011-12-20"
+  },
+  {
+   "publication_number": "JP-5313609-B2",
+   "title": "Frame structure of wearable motion assist device.",
+   "assignee": "国立大学法人 筑波大学",
+   "priority_date": "2008-09-26"
+  },
+  {
+   "publication_number": "US-12186049-B2",
+   "title": "Expandable instrument actuator",
+   "assignee": "Asensus Surgical Us, Inc.",
+   "priority_date": "2018-12-31"
+  },
+  {
+   "publication_number": "JP-4150055-B1",
+   "title": "Track vehicle drive system and track vehicle using the same",
+   "assignee": "北海道旅客鉄道株式会社",
+   "priority_date": "2007-04-05"
+  },
+  {
+   "publication_number": "CN-103622796-B",
+   "title": "A kind of wearable lower limb device for healing and training",
+   "assignee": "哈尔滨工程大学",
+   "priority_date": "2013-12-17"
+  },
+  {
+   "publication_number": "US-12138214-B2",
+   "title": "Textile actuator and harness system",
+   "assignee": "President And Fellows Of Harvard College",
+   "priority_date": "2018-12-05"
+  },
+  {
+   "publication_number": "US-11893004-B2",
+   "title": "Anomaly detection in multidimensional sensor data",
+   "assignee": "Ford Global Technologies, Llc",
+   "priority_date": "2020-08-26"
+  },
+  {
+   "publication_number": "JP-5942311-B2",
+   "title": "ROBOT, ROBOT CONTROL DEVICE AND CONTROL METHOD, AND ROBOT CONTROL PROGRAM",
+   "assignee": "パナソニックＩｐマネジメント株式会社",
+   "priority_date": "2013-02-25"
+  },
+  {
+   "publication_number": "US-9943174-B1",
+   "title": "Powered chairs for public venues, assemblies for use in powered chairs, and",
+   "assignee": "Matthew D. Jacobs",
+   "priority_date": "2016-04-03"
+  },
+  {
+   "publication_number": "CN-103814187-B",
+   "title": "The control of mobile rail bar",
+   "assignee": "亨特道格拉斯公司",
+   "priority_date": "2011-03-07"
+  },
+  {
+   "publication_number": "CN-102667011-B",
+   "title": "Engine hood for construction machine",
+   "assignee": "株式会社小松制作所",
+   "priority_date": "2010-01-26"
+  },
+  {
+   "publication_number": "US-11654589-B2",
+   "title": "Power operated rotary knife with notched rotary knife blade and trim guide",
+   "assignee": "Bettcher Industries, Inc.",
+   "priority_date": "2015-07-25"
+  },
+  {
+   "publication_number": "US-9287579-B2",
+   "title": "Battery cell with integrated heat fin",
+   "assignee": "Johnson Controls Technology Company",
+   "priority_date": "2013-07-30"
+  },
+  {
+   "publication_number": "US-8585071-B2",
+   "title": "Releasable forward wheel apparatus for a wheelchair",
+   "assignee": "Stephen C. Golden, JR.",
+   "priority_date": "2010-12-31"
+  },
+  {
+   "publication_number": "US-9385355-B2",
+   "title": "System and method for crimping interconnection of battery cells",
+   "assignee": "Johnson Controls Technology Company",
+   "priority_date": "2013-07-30"
+  },
+  {
+   "publication_number": "US-8882611-B2",
+   "title": "Divot repair tool",
+   "assignee": "Philip J. Schaaf",
+   "priority_date": "2008-03-14"
+  },
+  {
+   "publication_number": "US-10632919-B2",
+   "title": "Vehicle hitch assist system",
+   "assignee": "Ford Global Technologies, Llc",
+   "priority_date": "2018-06-27"
+  },
+  {
+   "publication_number": "EP-2702247-B1",
+   "title": "Methods of employing and using a hybrid transponder system for long-range",
+   "assignee": "Saudi Arabian Oil Company",
+   "priority_date": "2011-04-26"
+  },
+  {
+   "publication_number": "US-9420832-B2",
+   "title": "Progressive mobility assistance garment for rehabilitation",
+   "assignee": "Jeanne Margaret Arnold",
+   "priority_date": "2012-02-01"
+  },
+  {
+   "publication_number": "CN-101950170-B",
+   "title": "Interaction control device and method oriented to intelligent indoor assisting",
+   "assignee": "中国科学院自动化研究所",
+   "priority_date": "2010-09-10"
+  },
+  {
+   "publication_number": "JP-7705675-B2",
+   "title": "Active reeling and steering control of a vine-like robot",
+   "assignee": "ザ リージェンツ オブ ザ ユニバーシティ オブ カリフォルニア",
+   "priority_date": "2021-03-12"
+  },
+  {
+   "publication_number": "US-20190013960-A1",
+   "title": "Switched Wireless Signaling",
+   "assignee": "Innosys, Inc.",
+   "priority_date": "2016-02-29"
+  },
+  {
+   "publication_number": "US-9975248-B2",
+   "title": "Replicating the remote environment of a proxy robot",
+   "assignee": "Kenneth Dean Stephens, Jr.",
+   "priority_date": "2012-03-21"
+  },
+  {
+   "publication_number": "CN-110435623-A",
+   "title": "A self-adjusting hierarchical automatic emergency braking control system for",
+   "assignee": "吉林大学",
+   "priority_date": "2019-08-28"
+  },
+  {
+   "publication_number": "US-9337451-B2",
+   "title": "System and method for roller interconnection of battery cells",
+   "assignee": "Johnson Controls Technology Company",
+   "priority_date": "2013-07-30"
+  },
+  {
+   "publication_number": "CN-109477354-B",
+   "title": "Automatic vehicle closure system",
+   "assignee": "麦格纳国际公司",
+   "priority_date": "2016-07-29"
+  },
+  {
+   "publication_number": "US-20170238401-A1",
+   "title": "Solid State Lighting Systems",
+   "assignee": "Innosys, Inc.",
+   "priority_date": "2014-01-25"
+  },
+  {
+   "publication_number": "US-20160189544-A1",
+   "title": "Method and system for vehicle data collection regarding traffic",
+   "assignee": "Autoconnect Holdings Llc",
+   "priority_date": "2011-11-16"
+  },
+  {
+   "publication_number": "JP-2019163034-A5",
+   "title": "Patent JP2019163034A5",
+   "assignee": "",
+   "priority_date": ""
+  },
+  {
+   "publication_number": "US-10096806-B2",
+   "title": "System and method for clamping interconnection of battery cells",
+   "assignee": "Johnson Controls Technology Company",
+   "priority_date": "2013-07-30"
+  },
+  {
+   "publication_number": "US-20150223890-A1",
+   "title": "Medical Cart Application Distribution",
+   "assignee": "Enovate Medical,Llc",
+   "priority_date": "2014-02-07"
+  },
+  {
+   "publication_number": "JP-5331507-B2",
+   "title": "Endoscope",
+   "assignee": "富士フイルム株式会社",
+   "priority_date": "2009-02-18"
+  },
+  {
+   "publication_number": "US-20150223892-A1",
+   "title": "Work platform for a wheeled medical cart",
+   "assignee": "Enovate Medical, Llc",
+   "priority_date": "2014-02-07"
+  },
+  {
+   "publication_number": "US-20150223891-A1",
+   "title": "Medical cart access control",
+   "assignee": "Enovate Medical Llc",
+   "priority_date": "2014-02-07"
+  },
+  {
+   "publication_number": "US-20150037662-A1",
+   "title": "System and method for sealing a battery cell",
+   "assignee": "Johnson Controls Technology Company",
+   "priority_date": "2013-07-30"
+  },
+  {
+   "publication_number": "US-20130211594-A1",
+   "title": "Proxy Robots and Remote Environment Simulator for Their Human Handlers",
+   "assignee": "Kenneth Dean Stephens, Jr.",
+   "priority_date": "2012-02-15"
+  },
+  {
+   "publication_number": "US-20130151088-A1",
+   "title": "Method and system for vehicle data collection regarding traffic",
+   "assignee": "Flextronics Ap, Llc",
+   "priority_date": "2011-11-16"
+  },
+  {
+   "publication_number": "US-20120216347-A1",
+   "title": "Reciprocating Rocking Device",
+   "assignee": "Tundo Vincent E",
+   "priority_date": "2011-02-24"
+  },
+  {
+   "publication_number": "US-20090082661-A1",
+   "title": "System and method to automatically assist mobile image acquisition",
+   "assignee": "General Electric Company",
+   "priority_date": "2007-09-20"
+  },
+  {
+   "publication_number": "EP-2186754-B1",
+   "title": "Picking system and method for operating same with a picking cart",
+   "assignee": "Manfred Langen",
+   "priority_date": "2008-11-10"
+  },
+  {
+   "publication_number": "US-20170003682-A1",
+   "title": "System of self-mobile carts with their own navigation system",
+   "assignee": "Segman Aerospace & Coffee Ltd.",
+   "priority_date": "2014-08-31"
+  },
+  {
+   "publication_number": "CN-102908178-A",
+   "title": "Electrically self-powered surgical instrument with cryptographic identification",
+   "assignee": "爱惜康内镜外科公司",
+   "priority_date": "2007-02-21"
+  },
+  {
+   "publication_number": "US-20110028099-A1",
+   "title": "Mobile directional antenna",
+   "assignee": "Searete Llc",
+   "priority_date": "2005-10-17"
+  }
+ ],
+ "G4": [
+  {
+   "publication_number": "JP-6393879-B2",
+   "title": "Mobility aid",
+   "assignee": "コア インジェニュイティ ホールディングス Ｌｌｃ",
+   "priority_date": "2012-08-17"
+  },
+  {
+   "publication_number": "US-11179591-B1",
+   "title": "Adjustable resistance weight sled with bias correction, wheel skid control, and",
+   "assignee": "Sahm Bazargan",
+   "priority_date": "2020-07-02"
+  },
+  {
+   "publication_number": "JP-6887176-B1",
+   "title": "Omnidirectional trolley transport mechanism",
+   "assignee": "スキューズ株式会社",
+   "priority_date": "2019-12-16"
+  },
+  {
+   "publication_number": "US-20260070736-A1",
+   "title": "Autonomous transport vehicle with vision system",
+   "assignee": "Symbotic Llc",
+   "priority_date": "2021-08-12"
+  },
+  {
+   "publication_number": "US-20230143695-A1",
+   "title": "Technologies for transportation",
+   "assignee": "Aaron Benjamin Aders",
+   "priority_date": "2013-12-05"
+  },
+  {
+   "publication_number": "US-11245288-B2",
+   "title": "Techniques for power transfer through wheels of a patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-10-24"
+  },
+  {
+   "publication_number": "US-12049359-B2",
+   "title": "Autonomous domestic robotic systems for item retrieval and transport",
+   "assignee": "Labrador Systems, Inc.",
+   "priority_date": "2017-11-03"
+  },
+  {
+   "publication_number": "US-12399501-B2",
+   "title": "Method of lightweight simultaneous localization and mapping performed on a real",
+   "assignee": "AI Incorporated",
+   "priority_date": "2020-12-10"
+  },
+  {
+   "publication_number": "JP-7339365-B2",
+   "title": "robot cleaner",
+   "assignee": "シャークニンジャ オペレーティング エルエルシー",
+   "priority_date": "2019-06-05"
+  },
+  {
+   "publication_number": "US-20250172942-A1",
+   "title": "Obstacle recognition method for autonomous robots",
+   "assignee": "AI Incorporated",
+   "priority_date": "2016-02-29"
+  },
+  {
+   "publication_number": "US-20220066456-A1",
+   "title": "Obstacle recognition method for autonomous robots",
+   "assignee": "AI Incorporated",
+   "priority_date": "2016-02-29"
+  },
+  {
+   "publication_number": "US-12266129-B1",
+   "title": "Method for estimating distance using point measurement and color depth",
+   "assignee": "AI Incorporated",
+   "priority_date": "2016-03-01"
+  },
+  {
+   "publication_number": "US-10703401-B2",
+   "title": "Powered utility cart and compliant drive wheel therefor",
+   "assignee": "Caster Concepts, Inc",
+   "priority_date": "2015-11-06"
+  },
+  {
+   "publication_number": "US-9656687-B2",
+   "title": "Vehicle having independently driven and controlled right and left drive wheels",
+   "assignee": "Kubota Corporation",
+   "priority_date": "2011-06-15"
+  },
+  {
+   "publication_number": "US-9801592-B2",
+   "title": "Caster system for mobile apparatus",
+   "assignee": "Mobius Imaging, Llc",
+   "priority_date": "2013-03-15"
+  },
+  {
+   "publication_number": "US-12094145-B2",
+   "title": "Method and apparatus for combining data to construct a floor plan",
+   "assignee": "AI Incorporated",
+   "priority_date": "2017-07-27"
+  },
+  {
+   "publication_number": "US-20210089040-A1",
+   "title": "Obstacle recognition method for autonomous robots",
+   "assignee": "AI Incorporated",
+   "priority_date": "2016-02-29"
+  },
+  {
+   "publication_number": "EP-3919412-B1",
+   "title": "Transport cart and transmission device thereof",
+   "assignee": "Beijing Jingdong Qianshi Technology Co., Ltd.",
+   "priority_date": "2019-02-03"
+  },
+  {
+   "publication_number": "US-10857833-B2",
+   "title": "Caster assembly with brake assembly having low actuation force",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2018-05-23"
+  },
+  {
+   "publication_number": "US-10207403-B1",
+   "title": "Robotic platform and assembly",
+   "assignee": "Facebook Technologies, Llc",
+   "priority_date": "2017-11-30"
+  },
+  {
+   "publication_number": "US-10890913-B1",
+   "title": "Differential drive robotic platform and assembly",
+   "assignee": "Facebook, Inc.",
+   "priority_date": "2017-11-30"
+  },
+  {
+   "publication_number": "US-20210031373-A1",
+   "title": "Robotic manipulators",
+   "assignee": "Dextrous Robotics, Inc.",
+   "priority_date": "2019-08-02"
+  },
+  {
+   "publication_number": "JP-6758402-B2",
+   "title": "Autonomous robot automatic docking and energy management systems and methods",
+   "assignee": "アイロボット・コーポレーション",
+   "priority_date": "2016-07-13"
+  },
+  {
+   "publication_number": "US-12099357-B1",
+   "title": "Method for robotic devices to authenticate users",
+   "assignee": "AI Incorporated",
+   "priority_date": "2014-08-24"
+  },
+  {
+   "publication_number": "US-20220026920-A1",
+   "title": "Light weight and real time slam for robots",
+   "assignee": "AI Incorporated",
+   "priority_date": "2020-06-10"
+  },
+  {
+   "publication_number": "US-9674491-B2",
+   "title": "Audio/video entertainment system and method",
+   "assignee": "Immersion Entertainment, Llc",
+   "priority_date": "1999-05-28"
+  },
+  {
+   "publication_number": "CA-2949812-C",
+   "title": "Remote controlled mobile traffic control system and method",
+   "assignee": "Leo Beaulieu",
+   "priority_date": "2015-11-27"
+  },
+  {
+   "publication_number": "US-20200342752-A1",
+   "title": "Remote Controlled Mobile Traffic Control System and Method",
+   "assignee": "Leo Beaulieu",
+   "priority_date": "2016-11-28"
+  },
+  {
+   "publication_number": "KR-100921839-B1",
+   "title": "One piece flexible skateboard",
+   "assignee": "레이저 유에스에이 엘엘씨",
+   "priority_date": "2006-04-28"
+  },
+  {
+   "publication_number": "US-7686107-B1",
+   "title": "Zero-turn radius vehicle with steerable front wheels",
+   "assignee": "Gizmow Llc",
+   "priority_date": "2003-10-15"
+  },
+  {
+   "publication_number": "US-8651794-B2",
+   "title": "Automated bed-loaded container unloader and method",
+   "assignee": "Siemens Industry, Inc.",
+   "priority_date": "2010-04-22"
+  },
+  {
+   "publication_number": "US-11408933-B2",
+   "title": "Manipulator for moving a test head",
+   "assignee": "Reid-Ashman Manufacturing, Inc.",
+   "priority_date": "2016-10-10"
+  },
+  {
+   "publication_number": "US-9097437-B2",
+   "title": "Solar receiver and associated energy conversion apparatus",
+   "assignee": "Donald Bennett Hilliard",
+   "priority_date": "2010-01-11"
+  },
+  {
+   "publication_number": "EP-1984226-B1",
+   "title": "Operator backrest for a materials handling vehicle",
+   "assignee": "Crown Equipment Corporation",
+   "priority_date": "2006-02-03"
+  },
+  {
+   "publication_number": "US-9994416-B2",
+   "title": "Bulk wire distribution cart",
+   "assignee": "Ken Worton",
+   "priority_date": "2015-10-22"
+  },
+  {
+   "publication_number": "CN-218944330-U",
+   "title": "Foot wheel plate, personal mobile vehicle with adjustable wheel position, and",
+   "assignee": "美国锐哲有限公司",
+   "priority_date": "2021-09-30"
+  },
+  {
+   "publication_number": "US-8418786-B2",
+   "title": "Selectively powered ambulatory stretcher chair",
+   "assignee": "Transmotion Medical, Inc.",
+   "priority_date": "2010-05-06"
+  },
+  {
+   "publication_number": "US-8752855-B2",
+   "title": "Accessory mounting systems for non-highway vehicles",
+   "assignee": "Mibar Products, Ltd.",
+   "priority_date": "2008-12-29"
+  },
+  {
+   "publication_number": "US-20210206430-A1",
+   "title": "Automated Steering Control Mechanism and System for Wheeled Vehicles",
+   "assignee": "Eva, Llc",
+   "priority_date": "2020-01-05"
+  },
+  {
+   "publication_number": "US-9738466-B2",
+   "title": "Automated bed-loaded container unloader and method",
+   "assignee": "Siemens Industry, Inc.",
+   "priority_date": "2010-04-22"
+  },
+  {
+   "publication_number": "US-12239468-B2",
+   "title": "Patient couch for a medical imaging installation",
+   "assignee": "Siemens Healthineers Ag",
+   "priority_date": "2020-08-11"
+  },
+  {
+   "publication_number": "US-10773935-B2",
+   "title": "Conveying apparatus",
+   "assignee": "Kabushiki Kaisha Toshiba",
+   "priority_date": "2018-03-15"
+  },
+  {
+   "publication_number": "EP-2112965-B1",
+   "title": "Cutter device",
+   "assignee": "Rayner Design Pty.Ltd.",
+   "priority_date": "2006-08-02"
+  },
+  {
+   "publication_number": "JP-7350958-B2",
+   "title": "Automated guided vehicles and automated guided vehicle control methods",
+   "assignee": "株式会社東芝",
+   "priority_date": "2019-08-30"
+  },
+  {
+   "publication_number": "US-20160059939-A1",
+   "title": "In or relating to crawlers",
+   "assignee": "Reece Innovation Centre Limited",
+   "priority_date": "2014-08-29"
+  },
+  {
+   "publication_number": "US-8991843-B2",
+   "title": "Movable step for a materials handling vehicle",
+   "assignee": "Crown Equipment Corporation",
+   "priority_date": "2006-02-03"
+  },
+  {
+   "publication_number": "CN-115108496-B",
+   "title": "Unmanned transport vehicles, unmanned transport systems and transport",
+   "assignee": "株式会社东芝",
+   "priority_date": "2021-03-22"
+  },
+  {
+   "publication_number": "JP-7003097-B2",
+   "title": "Automated guided vehicle",
+   "assignee": "株式会社東芝",
+   "priority_date": "2019-10-30"
+  },
+  {
+   "publication_number": "US-20140173946-A1",
+   "title": "Zero-turn utility vehicle",
+   "assignee": "Briggs & Stratton Corporation",
+   "priority_date": "2012-12-20"
+  },
+  {
+   "publication_number": "US-11883347-B2",
+   "title": "Fall arresting lift machine",
+   "assignee": "Sheila M. Buswell",
+   "priority_date": "2019-11-13"
+  },
+  {
+   "publication_number": "US-11559422-B2",
+   "title": "Urine collection system for use on patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2018-05-22"
+  },
+  {
+   "publication_number": "US-12564527-B2",
+   "title": "Patient support apparatus having motorized wheels",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2022-03-07"
+  },
+  {
+   "publication_number": "EP-3967646-B1",
+   "title": "Telescopic fork mechanism and automatic handling equipment",
+   "assignee": "Hangzhou Eiorobot Technology Co., Ltd.",
+   "priority_date": "2019-09-11"
+  },
+  {
+   "publication_number": "CN-103522199-B",
+   "title": "A kind of horizontal mobile intelligence shot-blasting machine",
+   "assignee": "中船重工重庆长平机械有限责任公司",
+   "priority_date": "2013-10-29"
+  },
+  {
+   "publication_number": "US-20230391590-A1",
+   "title": "Floor service jack",
+   "assignee": "Vis, Llc",
+   "priority_date": "2022-06-07"
+  },
+  {
+   "publication_number": "US-8718898-B2",
+   "title": "Stand for holding at least one medical device, having assistively driven",
+   "assignee": "Leica Microsystems (Schweiz) Ag",
+   "priority_date": "2012-02-14"
+  },
+  {
+   "publication_number": "JP-2014516734-A",
+   "title": "Lifting and transporting device for wheeled objects including hospital beds",
+   "assignee": "オーステク アンド デザイン ピーティーワイ リミテッド",
+   "priority_date": "2011-06-17"
+  },
+  {
+   "publication_number": "WO-2023019038-A1",
+   "title": "Autonomous transport vehicle with vision system",
+   "assignee": "Symbotic Llc",
+   "priority_date": "2021-08-12"
+  },
+  {
+   "publication_number": "JP-2024522512-A",
+   "title": "Autonomous Guided Vehicles",
+   "assignee": "シムボティック エルエルシー",
+   "priority_date": "2021-05-26"
+  },
+  {
+   "publication_number": "US-12029695-B2",
+   "title": "Energy storage device management for a patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-10-24"
+  },
+  {
+   "publication_number": "US-12151922-B2",
+   "title": "Autonomous transport vehicle with synergistic vehicle dynamic response",
+   "assignee": "Symbotic Llc",
+   "priority_date": "2021-06-22"
+  },
+  {
+   "publication_number": "CN-103459166-B",
+   "title": "Vehicle wheel component",
+   "assignee": "布瑞威利私人有限公司",
+   "priority_date": "2011-03-23"
+  },
+  {
+   "publication_number": "US-12391475-B2",
+   "title": "Autonomous transport vehicle",
+   "assignee": "Symbotic Llc",
+   "priority_date": "2021-09-08"
+  },
+  {
+   "publication_number": "US-20250187887-A1",
+   "title": "Autonomous transport vehicle with power management",
+   "assignee": "Symbotic Llc",
+   "priority_date": "2021-10-01"
+  },
+  {
+   "publication_number": "CN-108032278-B",
+   "title": "Six-freedom-degree all-dimensional transfer robot based on intelligent",
+   "assignee": "天津城建大学",
+   "priority_date": "2018-01-18"
+  },
+  {
+   "publication_number": "JP-2009525553-A",
+   "title": "Automatic guided vehicle with variable travel path",
+   "assignee": "ジエービス・ビー・ウエブ・カンパニー",
+   "priority_date": "2006-02-01"
+  },
+  {
+   "publication_number": "JP-2010530837-A",
+   "title": "Automatic loading system and loading method for carrier",
+   "assignee": "ジエービス・ビー・ウエブ・インターナショナル・カンパニー",
+   "priority_date": "2007-06-21"
+  },
+  {
+   "publication_number": "US-20220111913-A1",
+   "title": "Mobile drive unit and method of operation",
+   "assignee": "Octinion Bvba",
+   "priority_date": "2018-09-21"
+  },
+  {
+   "publication_number": "US-11684886-B1",
+   "title": "Vibrating air filter for robotic vacuums",
+   "assignee": "AI Incorporated",
+   "priority_date": "2017-06-23"
+  },
+  {
+   "publication_number": "US-11642264-B2",
+   "title": "Load sensor configurations for caster assemblies of a patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-07-27"
+  },
+  {
+   "publication_number": "ES-2811321-T3",
+   "title": "Raised compartment with two substantially rigid shelves",
+   "assignee": "Boeing Co",
+   "priority_date": "2017-01-30"
+  },
+  {
+   "publication_number": "US-11944469-B2",
+   "title": "Caster system for mobile apparatus",
+   "assignee": "Mobius Imaging Llc",
+   "priority_date": "2010-03-12"
+  },
+  {
+   "publication_number": "FR-2949950-A1",
+   "title": "SOFT BAG WITH ORIENTABLE CASTERS",
+   "assignee": "Delsey Soc",
+   "priority_date": "2009-09-16"
+  },
+  {
+   "publication_number": "US-11918519-B2",
+   "title": "Systems and methods for moving a surgical table",
+   "assignee": "Verb Surgical Inc.",
+   "priority_date": "2020-03-19"
+  },
+  {
+   "publication_number": "WO-2023141656-A1",
+   "title": "Vehicle suspension system with active adjustment of wheel caster angle and ride",
+   "assignee": "Winthrop Dada",
+   "priority_date": "2022-01-24"
+  },
+  {
+   "publication_number": "KR-102198572-B1",
+   "title": "Cable Tunnel Fire Management Apparatus",
+   "assignee": "(주)금성계전",
+   "priority_date": "2019-08-22"
+  },
+  {
+   "publication_number": "DE-112021002948-B4",
+   "title": "INDEPENDENT ROBOT SAFETY SYSTEM WITH A SAFETY RATED PLC",
+   "assignee": "Omron Corporation",
+   "priority_date": "2020-05-27"
+  },
+  {
+   "publication_number": "US-20190375260-A1",
+   "title": "Suspension with active damping to tune caster dynamics",
+   "assignee": "Rivian Automotive, LLC",
+   "priority_date": "2018-06-11"
+  },
+  {
+   "publication_number": "US-20130230373-A1",
+   "title": "Automated Unloader Base Belt and Container",
+   "assignee": "Siemens Industry, Inc.",
+   "priority_date": "2010-04-22"
+  },
+  {
+   "publication_number": "US-20190161132-A1",
+   "title": "Self-balancing robotic motorcycle",
+   "assignee": "Facebook, Inc.",
+   "priority_date": "2017-11-30"
+  },
+  {
+   "publication_number": "US-20200011571-A1",
+   "title": "Solar energy conversion apparatus",
+   "assignee": "Donald Bennett Hilliard",
+   "priority_date": "2010-01-11"
+  },
+  {
+   "publication_number": "US-11097775-B2",
+   "title": "Method and control system for establishing a steering angle of a steerable",
+   "assignee": "Cnh Industrial America Llc",
+   "priority_date": "2018-11-26"
+  },
+  {
+   "publication_number": "US-11702302-B2",
+   "title": "Automated unloading speed control",
+   "assignee": "Körber Supply Chain Llc",
+   "priority_date": "2019-07-31"
+  },
+  {
+   "publication_number": "US-9452767-B2",
+   "title": "Method and apparatus for transporting carts",
+   "assignee": "Steven M. Falcaro",
+   "priority_date": "2015-01-02"
+  },
+  {
+   "publication_number": "JP-6837910-B2",
+   "title": "Omni-directional moving vehicle",
+   "assignee": "国立大学法人東京農工大学",
+   "priority_date": "2017-05-10"
+  },
+  {
+   "publication_number": "US-20210331728-A1",
+   "title": "Unmanned movable platforms",
+   "assignee": "Lingdong Technology (Beijing) Co. Ltd",
+   "priority_date": "2019-01-16"
+  },
+  {
+   "publication_number": "CN-102351135-B",
+   "title": "Self-moving lifting platform",
+   "assignee": "广东工业大学",
+   "priority_date": "2011-10-11"
+  },
+  {
+   "publication_number": "US-11794993-B2",
+   "title": "Autonomously propelled waste receptacle and associated methods",
+   "assignee": "Jamison F. Gavin",
+   "priority_date": "2020-10-19"
+  },
+  {
+   "publication_number": "US-12042316-B2",
+   "title": "Patient support apparatus with X-ray cassette positioning",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2018-11-02"
+  },
+  {
+   "publication_number": "US-20240190685-A1",
+   "title": "Electronic lifting equipment",
+   "assignee": "Vis, Llc",
+   "priority_date": "2022-06-07"
+  },
+  {
+   "publication_number": "US-20240278640-A1",
+   "title": "Steer drive wheel mechanism",
+   "assignee": "RINUC Inc.",
+   "priority_date": "2023-02-20"
+  },
+  {
+   "publication_number": "EP-3406478-B1",
+   "title": "Work vehicle",
+   "assignee": "Kubota Corporation",
+   "priority_date": "2017-05-24"
+  },
+  {
+   "publication_number": "US-20190160902-A1",
+   "title": "Driven platform with tilting suspension",
+   "assignee": "Facebook, Inc.",
+   "priority_date": "2017-11-30"
+  },
+  {
+   "publication_number": "CA-3130526-A1",
+   "title": "Harvester implement steering control system to prevent over-running harvester",
+   "assignee": "Deere & Company",
+   "priority_date": "2020-11-10"
+  },
+  {
+   "publication_number": "CN-110054109-A",
+   "title": "A kind of Internet of Things logistics supply chain cargo transparting device",
+   "assignee": "安庆易达供应链管理有限公司",
+   "priority_date": "2019-05-05"
+  },
+  {
+   "publication_number": "US-20240385619-A1",
+   "title": "Motion planning with caster constraints",
+   "assignee": "Scythe Robotics, Inc.",
+   "priority_date": "2023-05-17"
+  },
+  {
+   "publication_number": "WO-2026037061-A1",
+   "title": "Telescopic scissor leg assembly and pallet truck",
+   "assignee": "杭州海康机器人股份有限公司",
+   "priority_date": "2024-08-14"
+  },
+  {
+   "publication_number": "US-20120325593-A1",
+   "title": "Cart brake and cart with user-operable brake",
+   "assignee": "Reep Larry D",
+   "priority_date": "2011-06-27"
+  },
+  {
+   "publication_number": "CN-118524960-A",
+   "title": "Decorative article conveying device",
+   "assignee": "肖恩工业集团有限公司",
+   "priority_date": "2021-12-08"
+  },
+  {
+   "publication_number": "JP-2010269903-A",
+   "title": "Hand traveling forklifter",
+   "assignee": "Atex Co Ltd",
+   "priority_date": "2009-05-22"
+  }
+ ],
+ "G5": [
+  {
+   "publication_number": "JP-7362379-B2",
+   "title": "autonomous transport vehicle",
+   "assignee": "シムボティック エルエルシー",
+   "priority_date": "2010-12-15"
+  },
+  {
+   "publication_number": "JP-6655671-B2",
+   "title": "Storage system",
+   "assignee": "シムボティック エルエルシー",
+   "priority_date": "2009-04-10"
+  },
+  {
+   "publication_number": "US-10398995-B2",
+   "title": "Wall racer toy vehicles",
+   "assignee": "Leonard R. Clark, Jr.",
+   "priority_date": "2004-12-30"
+  },
+  {
+   "publication_number": "JP-6360029-B2",
+   "title": "Order processing station",
+   "assignee": "シンボティック リミテッドライアビリティカンパニー",
+   "priority_date": "2010-03-12"
+  },
+  {
+   "publication_number": "CN-114132678-B",
+   "title": "Order fulfillment system",
+   "assignee": "阿勒特创新股份有限公司",
+   "priority_date": "2016-05-11"
+  },
+  {
+   "publication_number": "US-10710802-B2",
+   "title": "Automated storage system and method for storing suspended goods in said storage",
+   "assignee": "Tgw Mechanics Gmbh",
+   "priority_date": "2015-10-06"
+  },
+  {
+   "publication_number": "CN-112188879-B",
+   "title": "Walking auxiliary chair",
+   "assignee": "塔马齐工业株式会社",
+   "priority_date": "2018-05-31"
+  },
+  {
+   "publication_number": "US-11396427-B2",
+   "title": "Autonomous transports for storage and retrieval systems",
+   "assignee": "Symbotic Llc",
+   "priority_date": "2009-04-10"
+  },
+  {
+   "publication_number": "JP-6816830-B2",
+   "title": "A position estimation system and a mobile body equipped with the position",
+   "assignee": "日本電産株式会社",
+   "priority_date": "2017-09-04"
+  },
+  {
+   "publication_number": "JP-6825712-B2",
+   "title": "Mobiles, position estimators, and computer programs",
+   "assignee": "日本電産株式会社",
+   "priority_date": "2017-09-04"
+  },
+  {
+   "publication_number": "EP-3076843-B1",
+   "title": "Selfpropelled and self-steering floor cleaning machine and cleaning system",
+   "assignee": "Alfred Kärcher GmbH & Co. KG",
+   "priority_date": "2013-12-06"
+  },
+  {
+   "publication_number": "JP-7183944-B2",
+   "title": "AUTONOMOUS MOBILE, CONTROL PROGRAM FOR AUTONOMOUS MOBILE, CONTROL METHOD FOR",
+   "assignee": "トヨタ自動車株式会社",
+   "priority_date": "2019-05-13"
+  },
+  {
+   "publication_number": "US-8888364-B2",
+   "title": "Anatomical imaging system with centipede scanning drive, bottom notch to",
+   "assignee": "Neurologica Corp.",
+   "priority_date": "2004-07-30"
+  },
+  {
+   "publication_number": "TWI637830B",
+   "title": "Self-propelled articulated robot",
+   "assignee": "川崎重工業股份有限公司",
+   "priority_date": "2014-12-26"
+  },
+  {
+   "publication_number": "JP-4959809-B2",
+   "title": "Robot cleaning head",
+   "assignee": "コーニンクレッカ フィリップス エレクトロニクス エヌ ヴィ",
+   "priority_date": "2007-01-22"
+  },
+  {
+   "publication_number": "US-7455130-B2",
+   "title": "Vehicle having twin transmissions for driving respective wheels",
+   "assignee": "Kanzaki Kokyukoki Mfg. Co., Ltd.",
+   "priority_date": "2003-06-06"
+  },
+  {
+   "publication_number": "TWI622540B",
+   "title": "Automated storage and handling system",
+   "assignee": "辛波提克有限責任公司",
+   "priority_date": "2011-09-09"
+  },
+  {
+   "publication_number": "JP-6359756-B2",
+   "title": "Manipulator, manipulator operation planning method, and manipulator control",
+   "assignee": "株式会社日立製作所",
+   "priority_date": "2015-02-24"
+  },
+  {
+   "publication_number": "CN-114270140-B",
+   "title": "Systems and methods for real-time control of autonomous devices",
+   "assignee": "德卡产品有限公司",
+   "priority_date": "2019-07-10"
+  },
+  {
+   "publication_number": "US-8740229-B2",
+   "title": "Slope traversing system for zero turning radius vehicles",
+   "assignee": "William D. Ellsworth",
+   "priority_date": "2011-07-26"
+  },
+  {
+   "publication_number": "JP-5848915-B2",
+   "title": "Automated guided vehicle and automated guided vehicle system using the same",
+   "assignee": "株式会社日立産機システム",
+   "priority_date": "2011-08-19"
+  },
+  {
+   "publication_number": "KR-101600367-B1",
+   "title": "Transport carriage for transport of a patient support and/or an operating table",
+   "assignee": "마쿠에트 게엠베하",
+   "priority_date": "2012-11-09"
+  },
+  {
+   "publication_number": "US-20200110410-A1",
+   "title": "Device and method for processing map data used for self-position estimation,",
+   "assignee": "Nidec Corporation",
+   "priority_date": "2018-10-04"
+  },
+  {
+   "publication_number": "JP-7081881-B2",
+   "title": "Mobiles and mobile systems",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2017-09-13"
+  },
+  {
+   "publication_number": "JP-7168211-B2",
+   "title": "Mobile object that avoids obstacles and its computer program",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2016-12-12"
+  },
+  {
+   "publication_number": "JP-4820395-B2",
+   "title": "Robot work position correction system and simple installation type robot",
+   "assignee": "川田工業株式会社",
+   "priority_date": "2008-09-11"
+  },
+  {
+   "publication_number": "US-20190294181-A1",
+   "title": "Vehicle, management device, and vehicle management system",
+   "assignee": "Nidec-Shimpo Corporation",
+   "priority_date": "2018-03-23"
+  },
+  {
+   "publication_number": "JP-7484761-B2",
+   "title": "CONTROL SYSTEM, CONTROL METHOD, AND PROGRAM",
+   "assignee": "トヨタ自動車株式会社",
+   "priority_date": "2021-02-16"
+  },
+  {
+   "publication_number": "US-20190278281-A1",
+   "title": "Vehicle, method for controlling vehicle, and computer program",
+   "assignee": "Nidec-Shimpo Corporation",
+   "priority_date": "2018-02-26"
+  },
+  {
+   "publication_number": "JP-7111424-B2",
+   "title": "Mobile object, position estimation device, and computer program",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2017-09-04"
+  },
+  {
+   "publication_number": "ES-2573097-T3",
+   "title": "Covering device of a surface comprising fixing flanges along the edges of the",
+   "assignee": "Becoflex S.A.",
+   "priority_date": "2012-10-24"
+  },
+  {
+   "publication_number": "JP-5150881-B2",
+   "title": "Riding lawn mower",
+   "assignee": "株式会社 神崎高級工機製作所",
+   "priority_date": "2007-01-15"
+  },
+  {
+   "publication_number": "JP-6109616-B2",
+   "title": "Automated guided vehicle",
+   "assignee": "株式会社日立産機システム",
+   "priority_date": "2013-03-25"
+  },
+  {
+   "publication_number": "DE-102013019726-B4",
+   "title": "Vehicle, in particular AGV or AGV",
+   "assignee": "Sew-Eurodrive Gmbh & Co Kg",
+   "priority_date": "2013-11-27"
+  },
+  {
+   "publication_number": "US-12564527-B2",
+   "title": "Patient support apparatus having motorized wheels",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2022-03-07"
+  },
+  {
+   "publication_number": "EP-3572057-A2",
+   "title": "Patient support apparatus adaptable to multiple modes of transport",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2018-05-21"
+  },
+  {
+   "publication_number": "WO-2012096570-A1",
+   "title": "Vehicle particularly transfer device",
+   "assignee": "VAN DROGENBROEK, Jan-Hein",
+   "priority_date": "2011-01-13"
+  },
+  {
+   "publication_number": "CN-113905972-B",
+   "title": "Compact autonomous omnidirectional drive unit",
+   "assignee": "加泰罗尼亚理工大学",
+   "priority_date": "2019-03-29"
+  },
+  {
+   "publication_number": "KR-20140060234-A",
+   "title": "Transport carriage for transport of a patient support and/or an operating table",
+   "assignee": "마쿠에트 게엠베하",
+   "priority_date": "2012-11-09"
+  },
+  {
+   "publication_number": "JP-2018144627-A",
+   "title": "Unmanned aerial vehicle",
+   "assignee": "株式会社プロドローン",
+   "priority_date": "2017-03-06"
+  },
+  {
+   "publication_number": "TWI588071B",
+   "title": "Replenishment and order fulfillment system",
+   "assignee": "辛波提克有限責任公司",
+   "priority_date": "2011-03-14"
+  },
+  {
+   "publication_number": "JP-2021144363-A",
+   "title": "Autonomous traveling device, autonomous traveling control method, and",
+   "assignee": "株式会社リコー",
+   "priority_date": "2020-03-10"
+  },
+  {
+   "publication_number": "US-20230248141-A1",
+   "title": "Overbed table",
+   "assignee": "Industrial Woodworking Corporation",
+   "priority_date": "2022-02-04"
+  },
+  {
+   "publication_number": "US-20250010849-A1",
+   "title": "Overrunnable small platform test vehicle with soft target mount",
+   "assignee": "Humanetics Austria Gmbh",
+   "priority_date": "2020-12-14"
+  },
+  {
+   "publication_number": "JPWO2019054209A1",
+   "title": "Map making system and map making device",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2017-09-13"
+  },
+  {
+   "publication_number": "US-11919168-B2",
+   "title": "Robot control system, robot control method, and computer readable medium",
+   "assignee": "Toyota Jidosha Kabushiki Kaisha",
+   "priority_date": "2021-02-01"
+  },
+  {
+   "publication_number": "MX-2011004956-A",
+   "title": "Device for covering a surface.",
+   "assignee": "Becoflex Sa",
+   "priority_date": "2008-11-12"
+  },
+  {
+   "publication_number": "US-20240017580-A1",
+   "title": "Robot",
+   "assignee": "Lg Electronics Inc.",
+   "priority_date": "2020-10-08"
+  },
+  {
+   "publication_number": "JP-2019156289-A",
+   "title": "Conveyance device",
+   "assignee": "株式会社東芝",
+   "priority_date": "2018-03-15"
+  },
+  {
+   "publication_number": "JPWO2019187816A1",
+   "title": "Mobiles and mobile systems",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2018-03-30"
+  },
+  {
+   "publication_number": "JP-2019079171-A",
+   "title": "Movable body",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2017-10-23"
+  },
+  {
+   "publication_number": "JPWO2019059307A1",
+   "title": "Mobiles and mobile systems",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2017-09-25"
+  },
+  {
+   "publication_number": "JP-2020166702-A",
+   "title": "Mobile system, map creation system, route creation program and map creation",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2019-03-29"
+  },
+  {
+   "publication_number": "US-20220206506-A1",
+   "title": "Robot control system, robot control method, and program",
+   "assignee": "Toyota Jidosha Kabushiki Kaisha",
+   "priority_date": "2020-12-24"
+  },
+  {
+   "publication_number": "JP-2019148871-A",
+   "title": "Movable body and movable body system",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2018-02-26"
+  },
+  {
+   "publication_number": "JP-2019148870-A",
+   "title": "Moving object management system",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2018-02-26"
+  },
+  {
+   "publication_number": "JPWO2019026761A1",
+   "title": "Mobile and computer programs",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2017-08-03"
+  },
+  {
+   "publication_number": "JP-2019175137-A",
+   "title": "Mobile body and mobile body system",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2018-03-28"
+  },
+  {
+   "publication_number": "ES-2582855-T3",
+   "title": "A surface covering device comprising a mobile drum covered with a protective",
+   "assignee": "Becoflex S.A.",
+   "priority_date": "2012-11-05"
+  },
+  {
+   "publication_number": "US-20220208328-A1",
+   "title": "Transport system, transport method, and program",
+   "assignee": "Toyota Jidosha Kabushiki Kaisha",
+   "priority_date": "2020-12-24"
+  },
+  {
+   "publication_number": "US-20070172341-A1",
+   "title": "Container driver",
+   "assignee": "Lawrence Gregory",
+   "priority_date": "2004-07-29"
+  },
+  {
+   "publication_number": "CN-118394066-A",
+   "title": "System and method for surface feature detection and traversal",
+   "assignee": "德卡产品有限公司",
+   "priority_date": "2019-02-25"
+  },
+  {
+   "publication_number": "CN-111971633-A",
+   "title": "Position estimation system, mobile object having the same, and computer program",
+   "assignee": "日本电产株式会社",
+   "priority_date": "2018-04-02"
+  },
+  {
+   "publication_number": "CN-103608238-B",
+   "title": "Automatic guided vehicle",
+   "assignee": "株式会社明电舍",
+   "priority_date": "2011-06-15"
+  },
+  {
+   "publication_number": "US-9451789-B2",
+   "title": "Breading sifting table",
+   "assignee": "Ayrking",
+   "priority_date": "2013-06-12"
+  },
+  {
+   "publication_number": "US-20230117891-A1",
+   "title": "Suspension system for electric power equipment",
+   "assignee": "Briggs & Stratton, Llc",
+   "priority_date": "2021-10-15"
+  },
+  {
+   "publication_number": "EP-3409165-A2",
+   "title": "Support assembly to a robot cleaner",
+   "assignee": "BSH Hausgeräte GmbH",
+   "priority_date": "2017-05-29"
+  },
+  {
+   "publication_number": "JP-2020183149-A",
+   "title": "Transport vehicle",
+   "assignee": "株式会社オカムラ",
+   "priority_date": "2019-05-07"
+  },
+  {
+   "publication_number": "JP-2021086217-A",
+   "title": "Autonomous mobile body system, control program of autonomous mobile body and",
+   "assignee": "トヨタ自動車株式会社",
+   "priority_date": "2019-11-25"
+  },
+  {
+   "publication_number": "JP-2021086212-A",
+   "title": "Delivery control system, delivery control program, and delivery control method",
+   "assignee": "トヨタ自動車株式会社",
+   "priority_date": "2019-11-25"
+  },
+  {
+   "publication_number": "WO-2018154819-A1",
+   "title": "Notification device for mobile unit",
+   "assignee": "アイシン精機株式会社",
+   "priority_date": "2017-02-23"
+  },
+  {
+   "publication_number": "JP-2009526557-A",
+   "title": "Robot vacuum cleaner",
+   "assignee": "コーニンクレッカ フィリップス エレクトロニクス エヌ ヴィ",
+   "priority_date": "2006-02-13"
+  },
+  {
+   "publication_number": "US-20100276905-A1",
+   "title": "Drive system for a human powered vehicle",
+   "assignee": "Andrew Ramon Brown",
+   "priority_date": "2004-07-16"
+  },
+  {
+   "publication_number": "CN-118848376-A",
+   "title": "Lifting platform for assisting robots in welding the inner girth of pipelines",
+   "assignee": "中电建十一局工程有限公司",
+   "priority_date": "2024-08-23"
+  },
+  {
+   "publication_number": "US-8967637-B2",
+   "title": "Tail wheel transporter",
+   "assignee": "Daniel S. Perry",
+   "priority_date": "2010-07-08"
+  },
+  {
+   "publication_number": "JP-2009173068-A",
+   "title": "Conveying device",
+   "assignee": "Mitsuba Corp",
+   "priority_date": "2008-01-22"
+  },
+  {
+   "publication_number": "JP-7164085-B2",
+   "title": "Work transport method using moving body, computer program, and moving body",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2018-03-20"
+  },
+  {
+   "publication_number": "US-20220197275-A1",
+   "title": "Transport system, transport method, and program",
+   "assignee": "Toyota Jidosha Kabushiki Kaisha",
+   "priority_date": "2020-12-22"
+  },
+  {
+   "publication_number": "US-11914363-B2",
+   "title": "Mobile robot, transport system, method, and computer-readable medium",
+   "assignee": "Toyota Jidosha Kabushiki Kaisha",
+   "priority_date": "2021-02-17"
+  },
+  {
+   "publication_number": "JP-2008137631-A",
+   "title": "Carrier with electric caster",
+   "assignee": "Mitsuba Corp",
+   "priority_date": "2006-11-06"
+  },
+  {
+   "publication_number": "CN-222453331-U",
+   "title": "A transport robot and its driving wheel set",
+   "assignee": "杭州海康机器人股份有限公司",
+   "priority_date": "2024-03-13"
+  },
+  {
+   "publication_number": "CN-119604829-A",
+   "title": "Control of an automated guided vehicle with forklift capability",
+   "assignee": "莫比奥工业机器人有限公司",
+   "priority_date": "2022-08-11"
+  },
+  {
+   "publication_number": "JP-6253079-B2",
+   "title": "Manual vehicle electrification unit, control method for manual vehicle",
+   "assignee": "国立大学法人東京農工大学",
+   "priority_date": "2012-09-13"
+  },
+  {
+   "publication_number": "US-20240288882-A1",
+   "title": "Automated carrier",
+   "assignee": "Toyota Jidosha Kabushiki Kaisha",
+   "priority_date": "2023-02-28"
+  },
+  {
+   "publication_number": "JP-5802415-B2",
+   "title": "Indoor mobility equipment and safety equipment for casters",
+   "assignee": "学校法人明星学苑",
+   "priority_date": "2011-03-30"
+  },
+  {
+   "publication_number": "JP-6740439-B1",
+   "title": "Luggage storage system",
+   "assignee": "トーヨーカネツ株式会社",
+   "priority_date": "2019-11-14"
+  },
+  {
+   "publication_number": "EP-4438381-A1",
+   "title": "Autonomous device for recharging a battery of a vehicle including measurement",
+   "assignee": "Mob-Energy",
+   "priority_date": "2023-03-14"
+  },
+  {
+   "publication_number": "JP-2013173500-A",
+   "title": "Dolly",
+   "assignee": "Toyota Motor East Japan Inc",
+   "priority_date": "2012-02-27"
+  },
+  {
+   "publication_number": "JP-2012074139-A",
+   "title": "Slip-ring, differential caster and electrically-driven wheelchair",
+   "assignee": "Mitsuba Corp",
+   "priority_date": "2010-09-27"
+  },
+  {
+   "publication_number": "JP-2012066007-A",
+   "title": "Differential caster and electric wheelchair",
+   "assignee": "Mitsuba Corp",
+   "priority_date": "2010-09-27"
+  },
+  {
+   "publication_number": "JP-2008212272-A",
+   "title": "Electric component arranging structure of vehicle with differential casters",
+   "assignee": "Mitsuba Corp",
+   "priority_date": "2007-03-01"
+  },
+  {
+   "publication_number": "EP-3331253-A1",
+   "title": "Sound-volume adjustment apparatus",
+   "assignee": "Aisin Seiki Kabushiki Kaisha",
+   "priority_date": "2015-07-30"
+  },
+  {
+   "publication_number": "JP-2008213570-A",
+   "title": "Differential caster",
+   "assignee": "Mitsuba Corp",
+   "priority_date": "2007-03-01"
+  },
+  {
+   "publication_number": "JP-2020131824-A",
+   "title": "Embarking-disembarking device",
+   "assignee": "Ｍｈｉ下関エンジニアリング株式会社",
+   "priority_date": "2019-02-15"
+  },
+  {
+   "publication_number": "CA-3214704-A1",
+   "title": "Automated device for controlled feeding of substances to animal containment",
+   "assignee": "Almor Ricardo RIBEIRO DE SOUSA",
+   "priority_date": "2021-04-06"
+  },
+  {
+   "publication_number": "JP-7243014-B2",
+   "title": "moving body",
+   "assignee": "日本電産シンポ株式会社",
+   "priority_date": "2018-03-28"
+  },
+  {
+   "publication_number": "JP-2008238993-A",
+   "title": "Control device of differential electric caster",
+   "assignee": "Mitsuba Corp",
+   "priority_date": "2007-03-28"
+  },
+  {
+   "publication_number": "KR-101570140-B1",
+   "title": "Automatic Repositioning System of Medical Equipment",
+   "assignee": "재단법인차세대융합기술연구원",
+   "priority_date": "2015-01-14"
+  },
+  {
+   "publication_number": "JP-2013058040-A",
+   "title": "Carrier, and control method and program for carrier",
+   "assignee": "Tsubakimoto Chain Co",
+   "priority_date": "2011-09-07"
+  },
+  {
+   "publication_number": "JP-2020203684-A",
+   "title": "Conveyance device and program",
+   "assignee": "株式会社東芝",
+   "priority_date": "2018-03-15"
+  }
+ ],
+ "G6": [
+  {
+   "publication_number": "US-8126642-B2",
+   "title": "Control and systems for autonomously driven vehicles",
+   "assignee": "Gray & Company, Inc.",
+   "priority_date": "2008-10-24"
+  },
+  {
+   "publication_number": "US-9031089-B2",
+   "title": "Operational efficiency in a vehicle-to-vehicle communications system",
+   "assignee": "Zetta Research and Development, LLC, Forc Seri",
+   "priority_date": "2012-04-24"
+  },
+  {
+   "publication_number": "US-10908617-B2",
+   "title": "Vehicle platooning system",
+   "assignee": "Toyota Jidosha Kabushiki Kaisha",
+   "priority_date": "2017-11-30"
+  },
+  {
+   "publication_number": "US-10608345-B2",
+   "title": "Slot array antenna",
+   "assignee": "Nidec Corporation",
+   "priority_date": "2017-04-13"
+  },
+  {
+   "publication_number": "US-10251805-B2",
+   "title": "Control system and device for patient assist",
+   "assignee": "GaitTronics inc.",
+   "priority_date": "2012-03-29"
+  },
+  {
+   "publication_number": "US-10959369-B2",
+   "title": "Openers for seeders",
+   "assignee": "Rotacon Engineering Limited",
+   "priority_date": "2014-09-22"
+  },
+  {
+   "publication_number": "US-9999557-B2",
+   "title": "Robotic mobility device",
+   "assignee": "Challenging Solutions, Inc.",
+   "priority_date": "2016-07-14"
+  },
+  {
+   "publication_number": "US-11172467-B2",
+   "title": "Lane data sharing in a vehicle-to-vehicle safety system",
+   "assignee": "Zetta Research and Development LLC—ForC Series",
+   "priority_date": "2012-04-24"
+  },
+  {
+   "publication_number": "US-9129532-B2",
+   "title": "Hybrid protocol transceiver for V2V communication",
+   "assignee": "Zetta Research and Development LLC, ForC series",
+   "priority_date": "2012-04-24"
+  },
+  {
+   "publication_number": "US-9300423-B2",
+   "title": "Device for synchronizing a time base for V2V communictation",
+   "assignee": "Zetta Research and Development LLC—ForC Series",
+   "priority_date": "2012-04-24"
+  },
+  {
+   "publication_number": "US-9305317-B2",
+   "title": "Systems and methods for collecting and transmitting telematics data from a",
+   "assignee": "Tourmaline Labs, Inc.",
+   "priority_date": "2013-10-24"
+  },
+  {
+   "publication_number": "US-10976413-B2",
+   "title": "LIDAR system with synchronized MEMS mirrors",
+   "assignee": "Baidu Usa Llc",
+   "priority_date": "2017-02-14"
+  },
+  {
+   "publication_number": "US-11673583-B2",
+   "title": "Wrong-way driving warning",
+   "assignee": "AutoBrains Technologies Ltd.",
+   "priority_date": "2018-10-18"
+  },
+  {
+   "publication_number": "EP-3228511-B1",
+   "title": "Driver assistance apparatus for a motor vehicle",
+   "assignee": "LG Electronics Inc.",
+   "priority_date": "2016-04-07"
+  },
+  {
+   "publication_number": "DE-102014215980-B4",
+   "title": "Motor vehicle with cooperative autonomous driving mode",
+   "assignee": "Volkswagen Aktiengesellschaft",
+   "priority_date": "2014-08-12"
+  },
+  {
+   "publication_number": "US-11868136-B2",
+   "title": "Geolocalized models for perception, prediction, or planning",
+   "assignee": "Woven By Toyota, U.S., Inc.",
+   "priority_date": "2019-12-19"
+  },
+  {
+   "publication_number": "US-11814059-B1",
+   "title": "Simulating autonomous driving using map data and driving data",
+   "assignee": "Zoox, Inc.",
+   "priority_date": "2019-04-05"
+  },
+  {
+   "publication_number": "US-11733353-B2",
+   "title": "Object detection using local (ground-aware) adaptive region proposals on point",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2019-11-14"
+  },
+  {
+   "publication_number": "US-10787177-B2",
+   "title": "Exterior rearview device with illumination functions and autonomous vehicles",
+   "assignee": "SMR Patents S.à.r.l.",
+   "priority_date": "2011-06-29"
+  },
+  {
+   "publication_number": "JP-7380409-B2",
+   "title": "Vehicle recording device, information recording method",
+   "assignee": "株式会社デンソー",
+   "priority_date": "2020-04-29"
+  },
+  {
+   "publication_number": "US-10952243-B2",
+   "title": "Method, system and device for network communications within a vehicle",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-04-10"
+  },
+  {
+   "publication_number": "US-11726474-B2",
+   "title": "Vehicle path-planner monitor and controller",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2017-10-17"
+  },
+  {
+   "publication_number": "US-10982968-B2",
+   "title": "Sensor fusion methods for augmented reality navigation",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-03-29"
+  },
+  {
+   "publication_number": "US-10683128-B1",
+   "title": "Adjustable storage compartment for a bottle",
+   "assignee": "Lawrence Michael Lau",
+   "priority_date": "2014-11-03"
+  },
+  {
+   "publication_number": "US-11520024-B2",
+   "title": "Automatic autonomous vehicle and robot LiDAR-camera extrinsic calibration",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2019-12-24"
+  },
+  {
+   "publication_number": "US-8744648-B2",
+   "title": "Integrated framework for vehicle operator assistance based on a trajectory",
+   "assignee": "Massachusetts Institute Of Technology",
+   "priority_date": "2009-03-05"
+  },
+  {
+   "publication_number": "US-10992860-B2",
+   "title": "Dynamic seam adjustment of image overlap zones from multi-camera source images",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2019-03-29"
+  },
+  {
+   "publication_number": "US-11892560-B2",
+   "title": "High precision multi-sensor extrinsic calibration via production line and",
+   "assignee": "Nio Technology (Anhui) Co., Ltd",
+   "priority_date": "2020-02-03"
+  },
+  {
+   "publication_number": "US-11815623-B2",
+   "title": "Single frame 4D detection using deep fusion of camera image, imaging RADAR and",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2020-02-04"
+  },
+  {
+   "publication_number": "US-10935978-B2",
+   "title": "Vehicle self-localization using particle filters and visual odometry",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2017-10-30"
+  },
+  {
+   "publication_number": "US-10946868-B2",
+   "title": "Methods and devices for autonomous vehicle operation",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-03-28"
+  },
+  {
+   "publication_number": "US-10576994-B1",
+   "title": "Autonomous system operator cognitive state detection and alerting",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-08-22"
+  },
+  {
+   "publication_number": "US-10551838-B2",
+   "title": "Method and system for multiple sensor correlation diagnostic and sensor fusion/",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2017-08-08"
+  },
+  {
+   "publication_number": "US-20200376927-A1",
+   "title": "Artificial intelligence in conditioning or thermal management of electrified",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2019-05-31"
+  },
+  {
+   "publication_number": "US-11691623-B2",
+   "title": "Systems and methods of autonomously controlling vehicle states",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2019-06-24"
+  },
+  {
+   "publication_number": "US-10906549-B2",
+   "title": "Systems and methods of autonomously controlling vehicle lane change maneuver",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-12-07"
+  },
+  {
+   "publication_number": "US-10369966-B1",
+   "title": "Controlling access to a vehicle using wireless access devices",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-05-23"
+  },
+  {
+   "publication_number": "US-20210006344-A1",
+   "title": "Method, system, and device for seamless fault tolerant clock synchronization in",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2019-07-01"
+  },
+  {
+   "publication_number": "US-11821990-B2",
+   "title": "Scene perception using coherent doppler LiDAR",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2019-11-07"
+  },
+  {
+   "publication_number": "US-11726189-B2",
+   "title": "Real-time online calibration of coherent doppler lidar systems on vehicles",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2019-12-09"
+  },
+  {
+   "publication_number": "US-12080160-B2",
+   "title": "Feedback performance control and tracking",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2016-11-07"
+  },
+  {
+   "publication_number": "US-10845803-B2",
+   "title": "Method and apparatus for simultaneous processing and logging of automotive",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2017-11-29"
+  },
+  {
+   "publication_number": "US-11820255-B2",
+   "title": "Predictive regenerative braking",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2020-02-03"
+  },
+  {
+   "publication_number": "US-10586254-B2",
+   "title": "Method and system for adaptive vehicle control in autonomous vehicles",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2016-11-21"
+  },
+  {
+   "publication_number": "US-10551207-B2",
+   "title": "Autonomous vehicle sensor data and map integration",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-06-18"
+  },
+  {
+   "publication_number": "US-11014569-B2",
+   "title": "Vehicle control system using nonlinear dynamic model states and steering offset",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-07-31"
+  },
+  {
+   "publication_number": "US-10870368-B2",
+   "title": "Systems and methods of battery thermal management",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-04-16"
+  },
+  {
+   "publication_number": "US-12369675-B2",
+   "title": "Soccer shoe",
+   "assignee": "Adidas Ag",
+   "priority_date": "2014-02-11"
+  },
+  {
+   "publication_number": "US-11702110-B2",
+   "title": "Methods and systems to enhance safety of bi-directional transition between",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2020-01-06"
+  },
+  {
+   "publication_number": "US-11776396-B2",
+   "title": "Intersection infrastructure warning system",
+   "assignee": "Denso International America, Inc.",
+   "priority_date": "2019-12-17"
+  },
+  {
+   "publication_number": "JP-7355902-B2",
+   "title": "Automatic driving system for work vehicles and control method for work vehicles",
+   "assignee": "ヤンマーパワーテクノロジー株式会社",
+   "priority_date": "2019-08-08"
+  },
+  {
+   "publication_number": "US-10769456-B2",
+   "title": "Systems and methods for near-crash determination",
+   "assignee": "Nauto, Inc.",
+   "priority_date": "2016-09-14"
+  },
+  {
+   "publication_number": "US-12233903-B2",
+   "title": "In-vehicle device and driving assist method",
+   "assignee": "Denso Corporation",
+   "priority_date": "2019-10-14"
+  },
+  {
+   "publication_number": "US-11636622-B2",
+   "title": "Vehicle analysis environment with displays for vehicle sensor calibration and/",
+   "assignee": "GM Cruise Holdings LLC.",
+   "priority_date": "2021-03-08"
+  },
+  {
+   "publication_number": "JP-7840588-B2",
+   "title": "vehicle",
+   "assignee": "Ｃａｓｅ特許株式会社",
+   "priority_date": "2014-11-19"
+  },
+  {
+   "publication_number": "US-10938825-B2",
+   "title": "Authenticating drivers",
+   "assignee": "Allstate Insurance Company",
+   "priority_date": "2017-03-14"
+  },
+  {
+   "publication_number": "US-11216888-B2",
+   "title": "Electronic system for dynamic, quasi-realtime measuring and identifying driver",
+   "assignee": "Swiss Reinsurance Company Ltd.",
+   "priority_date": "2017-09-06"
+  },
+  {
+   "publication_number": "US-12330782-B1",
+   "title": "Steerable rotating projectile",
+   "assignee": "Steven M. Hoffberg",
+   "priority_date": "2016-03-31"
+  },
+  {
+   "publication_number": "US-11660509-B2",
+   "title": "Ball retrieval system and method",
+   "assignee": "Court Bots, Inc.",
+   "priority_date": "2018-11-06"
+  },
+  {
+   "publication_number": "CN-209618281-U",
+   "title": "A kind of conveying device and loading system for vehicle loading",
+   "assignee": "浙江明度智控科技有限公司",
+   "priority_date": "2019-01-25"
+  },
+  {
+   "publication_number": "JP-7587953-B2",
+   "title": "Mobility information providing system, server device, and vehicle",
+   "assignee": "株式会社Subaru",
+   "priority_date": "2019-12-30"
+  },
+  {
+   "publication_number": "JP-7755894-B2",
+   "title": "system",
+   "assignee": "株式会社ユピテル",
+   "priority_date": "2016-09-07"
+  },
+  {
+   "publication_number": "US-10572640-B2",
+   "title": "System for identity verification",
+   "assignee": "Personnus",
+   "priority_date": "2015-11-16"
+  },
+  {
+   "publication_number": "US-11353577-B2",
+   "title": "Radar spatial estimation",
+   "assignee": "Zoox, Inc.",
+   "priority_date": "2018-09-28"
+  },
+  {
+   "publication_number": "JP-7843521-B2",
+   "title": "Playback device and playback method, as well as their programs, recording",
+   "assignee": "株式会社ユピテル",
+   "priority_date": "2017-08-09"
+  },
+  {
+   "publication_number": "US-11210609-B2",
+   "title": "User vehicle operation interface systems and methods",
+   "assignee": "Traxen Inc.",
+   "priority_date": "2018-06-11"
+  },
+  {
+   "publication_number": "US-10897575-B2",
+   "title": "Lidar to camera calibration for generating high definition maps",
+   "assignee": "DeepMap Inc.",
+   "priority_date": "2017-10-19"
+  },
+  {
+   "publication_number": "US-8245825-B2",
+   "title": "System for cinching a resilient luggage case",
+   "assignee": "Samsonite IP Holdings S.ar.l.",
+   "priority_date": "2007-02-07"
+  },
+  {
+   "publication_number": "US-11647164-B2",
+   "title": "Methods and systems for camera sharing between autonomous driving and in-",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2021-06-25"
+  },
+  {
+   "publication_number": "CN-105163922-B",
+   "title": "System and method for manufacturing three-dimension object",
+   "assignee": "Ddm系统有限责任公司",
+   "priority_date": "2012-11-08"
+  },
+  {
+   "publication_number": "US-8083588-B2",
+   "title": "Reconfigurable surface based video games",
+   "assignee": "Pryor Timothy R",
+   "priority_date": "2003-09-04"
+  },
+  {
+   "publication_number": "CN-104302492-B",
+   "title": "The control device of vehicle and the control method of vehicle",
+   "assignee": "日产自动车株式会社",
+   "priority_date": "2012-05-14"
+  },
+  {
+   "publication_number": "CN-104302493-B",
+   "title": "The control setup of vehicle and the control method of vehicle",
+   "assignee": "日产自动车株式会社",
+   "priority_date": "2012-05-14"
+  },
+  {
+   "publication_number": "CN-104321230-B",
+   "title": "The control setup of vehicle and the control method of vehicle",
+   "assignee": "日产自动车株式会社",
+   "priority_date": "2012-05-14"
+  },
+  {
+   "publication_number": "US-11181918-B2",
+   "title": "Moving traffic obstacle detection and avoidance",
+   "assignee": "International Business Machines Corporation",
+   "priority_date": "2017-07-01"
+  },
+  {
+   "publication_number": "EP-3437929-B1",
+   "title": "Visual system with visual field/view area display depending on the driving",
+   "assignee": "MEKRA Lang GmbH & Co. KG",
+   "priority_date": "2017-07-31"
+  },
+  {
+   "publication_number": "US-7824278-B2",
+   "title": "Putter face and golf putter having putter face inserted therein",
+   "assignee": "M-System Co., Ltd.",
+   "priority_date": "2007-10-19"
+  },
+  {
+   "publication_number": "CA-3042356-A1",
+   "title": "Fams",
+   "assignee": "Jason Marshall",
+   "priority_date": "2018-05-07"
+  },
+  {
+   "publication_number": "WO-2018196001-A1",
+   "title": "Sensing assembly for autonomous driving",
+   "assignee": "SZ DJI Technology Co., Ltd.",
+   "priority_date": "2017-04-28"
+  },
+  {
+   "publication_number": "US-9562352-B2",
+   "title": "Rotary joint, framework construction kit and method for constructing a",
+   "assignee": "Airbus Operations Gmbh",
+   "priority_date": "2014-03-19"
+  },
+  {
+   "publication_number": "US-12487091-B2",
+   "title": "Method and system for fingerprinting survey",
+   "assignee": "Invensense, Inc.",
+   "priority_date": "2017-12-05"
+  },
+  {
+   "publication_number": "US-10836346-B2",
+   "title": "Methods and systems for providing a protect occupants mode with an autonomous",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-04-27"
+  },
+  {
+   "publication_number": "US-10818110-B2",
+   "title": "Methods and systems for providing a mixed autonomy vehicle trip summary",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-04-06"
+  },
+  {
+   "publication_number": "DE-102010030466-B4",
+   "title": "Procedure for warning a driver of a collision",
+   "assignee": "Robert Bosch Gmbh",
+   "priority_date": "2010-06-24"
+  },
+  {
+   "publication_number": "DE-102008064752-B3",
+   "title": "Brake control device for a vehicle",
+   "assignee": "Advics Co., Ltd.",
+   "priority_date": "2007-04-16"
+  },
+  {
+   "publication_number": "JP-7792717-B2",
+   "title": "Systems and programs",
+   "assignee": "株式会社ユピテル",
+   "priority_date": "2018-12-25"
+  },
+  {
+   "publication_number": "US-9171211-B2",
+   "title": "Image processing for launch parameters measurement of objects in flight",
+   "assignee": "Rapsodo Pte. Ltd.",
+   "priority_date": "2013-09-20"
+  },
+  {
+   "publication_number": "CN-207090096-U",
+   "title": "A kind of stem cell transport case",
+   "assignee": "河南茵特赛尔生物技术有限公司",
+   "priority_date": "2017-08-26"
+  },
+  {
+   "publication_number": "CN-104586288-B",
+   "title": "A kind of method of heating bore exhaust oven",
+   "assignee": "周林斌",
+   "priority_date": "2014-02-14"
+  },
+  {
+   "publication_number": "ES-3059964-T3",
+   "title": "A controller and method for transporting devices",
+   "assignee": "Ocado Innovation Ltd",
+   "priority_date": "2020-07-16"
+  },
+  {
+   "publication_number": "US-11858573-B2",
+   "title": "Steerable drive wheel",
+   "assignee": "Conceptual Innovations, L.L.C.",
+   "priority_date": "2019-08-29"
+  },
+  {
+   "publication_number": "CN-116048060-A",
+   "title": "Real-world data-based 3D surface structure estimation using neural networks for",
+   "assignee": "辉达公司",
+   "priority_date": "2021-10-28"
+  },
+  {
+   "publication_number": "US-20150187224-A1",
+   "title": "Driving assessment and training method and apparatus",
+   "assignee": "Mbfarr, Llc",
+   "priority_date": "2013-10-15"
+  },
+  {
+   "publication_number": "US-20150104757-A1",
+   "title": "Driving assessment and training method and apparatus",
+   "assignee": "Mbfarr, Llc",
+   "priority_date": "2013-10-15"
+  },
+  {
+   "publication_number": "CN-101428535-B",
+   "title": "Pneumatic tire",
+   "assignee": "横滨橡胶株式会社",
+   "priority_date": "2007-11-07"
+  },
+  {
+   "publication_number": "US-11636077-B2",
+   "title": "Methods, devices, and systems for processing sensor data of vehicles",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2018-01-05"
+  },
+  {
+   "publication_number": "US-7719714-B2",
+   "title": "Color conversion definition creating method, color conversion definition",
+   "assignee": "Fujifilm Corporation",
+   "priority_date": "2006-07-04"
+  },
+  {
+   "publication_number": "US-10458463-B2",
+   "title": "Rotary joint, framework construction kit and method for manufacturing a rotary",
+   "assignee": "Airbus Operations Gmbh",
+   "priority_date": "2015-05-26"
+  },
+  {
+   "publication_number": "US-8277156-B2",
+   "title": "Cover for securing a load in an environment and related methods",
+   "assignee": "Load Control Systems Inc.",
+   "priority_date": "2009-03-02"
+  },
+  {
+   "publication_number": "CN-116051779-A",
+   "title": "3D surface reconstruction with point cloud densification using deep neural",
+   "assignee": "辉达公司",
+   "priority_date": "2021-10-28"
+  }
+ ],
+ "G7": [
+  {
+   "publication_number": "JP-6620326-B2",
+   "title": "Wheelbarrow",
+   "assignee": "Ｒｔ．ワークス株式会社",
+   "priority_date": "2015-07-02"
+  },
+  {
+   "publication_number": "JP-4640445-B2",
+   "title": "Motor vehicle",
+   "assignee": "パナソニック電工株式会社",
+   "priority_date": "2008-05-19"
+  },
+  {
+   "publication_number": "AU-2023202070-B2",
+   "title": "Electrically motorised wheel, transmission and control module, kit, vehicle and",
+   "assignee": "Concourse IP Pty Ltd",
+   "priority_date": "2016-11-15"
+  },
+  {
+   "publication_number": "JP-7389966-B2",
+   "title": "walking aid vehicle",
+   "assignee": "スズキ株式会社",
+   "priority_date": "2019-11-22"
+  },
+  {
+   "publication_number": "US-11653594-B2",
+   "title": "Walk power mower with transmission providing both forward and reverse",
+   "assignee": "The Toro Company",
+   "priority_date": "2017-03-29"
+  },
+  {
+   "publication_number": "JP-7010883-B2",
+   "title": "Auxiliary propulsion system, method and chassis",
+   "assignee": "アルジョ アイピー ホールディング アクチエボラグ",
+   "priority_date": "2013-05-21"
+  },
+  {
+   "publication_number": "US-9849901-B2",
+   "title": "Container with power assist wheels",
+   "assignee": "Dane Jackman",
+   "priority_date": "2014-09-08"
+  },
+  {
+   "publication_number": "CN-108349362-B",
+   "title": "Power-assisted carriage",
+   "assignee": "雷德福来尔有限公司",
+   "priority_date": "2015-09-29"
+  },
+  {
+   "publication_number": "JP-5073838-B2",
+   "title": "Vehicle with auxiliary power",
+   "assignee": "パナソニック株式会社",
+   "priority_date": "2009-01-29"
+  },
+  {
+   "publication_number": "CN-108372879-B",
+   "title": "Hand-push type electric carrier",
+   "assignee": "株式会社牧田",
+   "priority_date": "2017-01-31"
+  },
+  {
+   "publication_number": "US-10625818-B2",
+   "title": "Power assist device, and vehicle equipped with said power assist device",
+   "assignee": "Nidec Corporation",
+   "priority_date": "2015-09-17"
+  },
+  {
+   "publication_number": "JP-5206896-B2",
+   "title": "Bed conveyance auxiliary device and bed",
+   "assignee": "株式会社豊田自動織機",
+   "priority_date": "2011-10-13"
+  },
+  {
+   "publication_number": "US-11452662-B2",
+   "title": "Walking assist device",
+   "assignee": "Jtekt Corporation",
+   "priority_date": "2018-02-27"
+  },
+  {
+   "publication_number": "CN-105189252-B",
+   "title": "Electric Steering Assist Structures for Material Handling Vehicles",
+   "assignee": "克朗设备公司",
+   "priority_date": "2013-03-14"
+  },
+  {
+   "publication_number": "US-8327961-B2",
+   "title": "Walk-with apparatus",
+   "assignee": "Mario Peter Arpino",
+   "priority_date": "2006-11-07"
+  },
+  {
+   "publication_number": "US-20180244294-A1",
+   "title": "Carriage",
+   "assignee": "Nabtesco Corporation",
+   "priority_date": "2017-02-27"
+  },
+  {
+   "publication_number": "CN-106102582-A",
+   "title": "Mobile X-ray camera",
+   "assignee": "株式会社岛津制作所",
+   "priority_date": "2014-03-11"
+  },
+  {
+   "publication_number": "US-11021181-B2",
+   "title": "Medical transport device, auxiliary drive, and method for transporting such a",
+   "assignee": "Josh Ip Iii Bv.",
+   "priority_date": "2016-11-29"
+  },
+  {
+   "publication_number": "US-20150053042-A1",
+   "title": "Hand cart",
+   "assignee": "Funai Electric Co., Ltd.",
+   "priority_date": "2013-08-09"
+  },
+  {
+   "publication_number": "US-20130092461-A1",
+   "title": "Motion control of a transporter",
+   "assignee": "Dean L. Kamen",
+   "priority_date": "1993-02-24"
+  },
+  {
+   "publication_number": "US-20210309275-A1",
+   "title": "Smart stroller and method of controlling the same",
+   "assignee": "Lg Electronics Inc.",
+   "priority_date": "2020-04-01"
+  },
+  {
+   "publication_number": "JP-2026062749-A",
+   "title": "Stroller frame and stroller",
+   "assignee": "サイベックス ゲーエムベーハー",
+   "priority_date": "2017-07-12"
+  },
+  {
+   "publication_number": "CN-106647762-B",
+   "title": "System and method for sensing loads being transported by a materials handling",
+   "assignee": "雷蒙德股份有限公司",
+   "priority_date": "2015-10-29"
+  },
+  {
+   "publication_number": "EP-3444141-B1",
+   "title": "Method and apparatus for safety control of electric moving vehicle",
+   "assignee": "Naver Labs Corporation",
+   "priority_date": "2017-08-14"
+  },
+  {
+   "publication_number": "US-8267409-B2",
+   "title": "Methods and apparatus for manually propelling a golf pull cart",
+   "assignee": "Gross William L",
+   "priority_date": "2007-01-22"
+  },
+  {
+   "publication_number": "KR-102032373-B1",
+   "title": "Electric moving vehicle",
+   "assignee": "네이버랩스 주식회사",
+   "priority_date": "2018-04-03"
+  },
+  {
+   "publication_number": "KR-102300574-B1",
+   "title": "Method of moving in power assist mode reflecting physical characteristic of",
+   "assignee": "엘지전자 주식회사",
+   "priority_date": "2019-07-10"
+  },
+  {
+   "publication_number": "JP-6088128-B2",
+   "title": "Electric assist cart",
+   "assignee": "Ｋｙｂ株式会社",
+   "priority_date": "2011-10-13"
+  },
+  {
+   "publication_number": "US-9132848-B2",
+   "title": "Conveyance cart",
+   "assignee": "Kayaba Industry Co., Ltd.",
+   "priority_date": "2011-10-13"
+  },
+  {
+   "publication_number": "US-9045152-B2",
+   "title": "Electric assist cart",
+   "assignee": "Kayaba Industry Co., Ltd.",
+   "priority_date": "2011-10-13"
+  },
+  {
+   "publication_number": "US-9205746-B2",
+   "title": "Electric assist cart",
+   "assignee": "Kayaba Industry Co., Ltd.",
+   "priority_date": "2011-10-13"
+  },
+  {
+   "publication_number": "EP-2865364-A2",
+   "title": "Manually propelled vehicle",
+   "assignee": "Funai Electric Co., Ltd.",
+   "priority_date": "2013-08-30"
+  },
+  {
+   "publication_number": "KR-20250073877-A",
+   "title": "Electric stroller improved driving stability and safety",
+   "assignee": "주식회사 비전이노베이션",
+   "priority_date": "2023-11-20"
+  },
+  {
+   "publication_number": "CN-116534098-A",
+   "title": "Camping vehicle",
+   "assignee": "深圳市檐外科技有限公司",
+   "priority_date": "2022-11-14"
+  },
+  {
+   "publication_number": "EP-2851055-B1",
+   "title": "Manually propelled vehicle",
+   "assignee": "Funai Electric Co., Ltd.",
+   "priority_date": "2013-08-30"
+  },
+  {
+   "publication_number": "US-9315115-B2",
+   "title": "Power assist device and ambulatory assist vehicle",
+   "assignee": "Funai Electric Co., Ltd.",
+   "priority_date": "2013-05-30"
+  },
+  {
+   "publication_number": "US-10858027-B2",
+   "title": "Control of a power-assisted payload carrying vehicle using operator-applied",
+   "assignee": "Segway Inc.",
+   "priority_date": "2017-06-08"
+  },
+  {
+   "publication_number": "EP-2823795-A1",
+   "title": "Electric assisted walker",
+   "assignee": "Funai Electric Co., Ltd.",
+   "priority_date": "2013-05-23"
+  },
+  {
+   "publication_number": "US-20250289489-A1",
+   "title": "Electric wagon and electronically power assisted wagon",
+   "assignee": "Nanjing Chervon Industry Co., Ltd.",
+   "priority_date": "2022-12-08"
+  },
+  {
+   "publication_number": "US-20180162432-A1",
+   "title": "Self-charging shopping cart system with power assist",
+   "assignee": "Wal-Mart Stores, Inc.",
+   "priority_date": "2016-12-08"
+  },
+  {
+   "publication_number": "CN-113247071-A",
+   "title": "Transport vehicle and method for operating the transport vehicle",
+   "assignee": "Lg电子株式会社",
+   "priority_date": "2020-01-28"
+  },
+  {
+   "publication_number": "CN-113247072-A",
+   "title": "Baby carriage and operation method thereof",
+   "assignee": "Lg电子株式会社",
+   "priority_date": "2020-01-28"
+  },
+  {
+   "publication_number": "KR-102812143-B1",
+   "title": "Handle assembly of a cart robot having a power assist function and a cart robot",
+   "assignee": "엘지전자 주식회사",
+   "priority_date": "2019-04-08"
+  },
+  {
+   "publication_number": "WO-2012063476-A1",
+   "title": "Assist cart and control method therefor",
+   "assignee": "パナソニック株式会社",
+   "priority_date": "2010-11-09"
+  },
+  {
+   "publication_number": "CN-106314511-A",
+   "title": "Following control system of cart power assisting device and control method",
+   "assignee": "上海科源电子科技有限公司",
+   "priority_date": "2016-08-31"
+  },
+  {
+   "publication_number": "US-9162696-B2",
+   "title": "Electric assist cart",
+   "assignee": "Kayaba Industry Co., Ltd.",
+   "priority_date": "2011-09-30"
+  },
+  {
+   "publication_number": "JP-2023019525-A",
+   "title": "Carriage",
+   "assignee": "本田技研工業株式会社",
+   "priority_date": "2021-07-29"
+  },
+  {
+   "publication_number": "EP-4067205-A1",
+   "title": "Haptic control handle for carriage or similar, kit for assisting the movement",
+   "assignee": "Hublex",
+   "priority_date": "2021-03-30"
+  },
+  {
+   "publication_number": "EP-2332806-A2",
+   "title": "Multi-occupant pushchair with seating for at least two children",
+   "assignee": "Clean Mobile AG",
+   "priority_date": "2009-12-09"
+  },
+  {
+   "publication_number": "US-10889312-B2",
+   "title": "Self-balancing and power-assisted payload carrying vehicles using operator-",
+   "assignee": "Segway, Inc.",
+   "priority_date": "2016-12-21"
+  },
+  {
+   "publication_number": "DE-102017217650-A1",
+   "title": "Transport device for transporting at least one transport item",
+   "assignee": "Robert Bosch Gmbh",
+   "priority_date": "2017-10-05"
+  },
+  {
+   "publication_number": "KR-101872282-B1",
+   "title": "Cart Robot",
+   "assignee": "한국과학기술연구원",
+   "priority_date": "2017-05-24"
+  },
+  {
+   "publication_number": "CN-117043047-A",
+   "title": "Scooter that converts into a trolley",
+   "assignee": "高非特有限公司",
+   "priority_date": "2021-04-22"
+  },
+  {
+   "publication_number": "TWI915547B",
+   "title": "Vehicle reversibly convertible from a scooter mode to a push-cart mode",
+   "assignee": "以色列商高非特有限公司",
+   "priority_date": "2021-04-22"
+  },
+  {
+   "publication_number": "KR-200474422-Y1",
+   "title": "Baby stroller attached electric moving device capable of controlling the speed",
+   "assignee": "(주)한스이엔지",
+   "priority_date": "2013-03-18"
+  },
+  {
+   "publication_number": "DE-202020104319-U1",
+   "title": "Haptic control unit and drive device",
+   "assignee": "Locomotec Gmbh",
+   "priority_date": "2020-05-29"
+  },
+  {
+   "publication_number": "US-20240017757-A1",
+   "title": "Motorized wagon and operation method thereof",
+   "assignee": "Ellavate Wagon, Inc.",
+   "priority_date": "2022-07-15"
+  },
+  {
+   "publication_number": "US-20180229748-A1",
+   "title": "Carriage",
+   "assignee": "Nabtesco Corporation",
+   "priority_date": "2017-02-15"
+  },
+  {
+   "publication_number": "EP-2860083-A1",
+   "title": "Manually propelled vehicle",
+   "assignee": "Funai Electric Co., Ltd.",
+   "priority_date": "2013-08-30"
+  },
+  {
+   "publication_number": "JP-7570286-B2",
+   "title": "Transport aids and medical beds",
+   "assignee": "株式会社ジェイテクトマシンシステム",
+   "priority_date": "2021-06-04"
+  },
+  {
+   "publication_number": "JP-6984000-B2",
+   "title": "Hand-push motorized mobile device",
+   "assignee": "エフォートレス モビリティ エス アール エルEffortless Mobility S.R.L.",
+   "priority_date": "2017-04-13"
+  },
+  {
+   "publication_number": "US-8996253-B2",
+   "title": "Movable carriage",
+   "assignee": "Canon Kabushiki Kaisha",
+   "priority_date": "2012-08-08"
+  },
+  {
+   "publication_number": "EP-3957510-B1",
+   "title": "Device and system for controlling a transport vehicle",
+   "assignee": "Red Milawa Pty Ltd",
+   "priority_date": "2020-08-19"
+  },
+  {
+   "publication_number": "CN-106043397-A",
+   "title": "Power-assisted stroller",
+   "assignee": "好孩子儿童用品有限公司",
+   "priority_date": "2016-06-20"
+  },
+  {
+   "publication_number": "EP-4603363-A1",
+   "title": "Electric pull cart and electric power-assisted pull cart",
+   "assignee": "Nanjing Chervon Industry Co., Ltd.",
+   "priority_date": "2022-12-08"
+  },
+  {
+   "publication_number": "EP-3415401-A1",
+   "title": "A tracked pallet jack for handling a load on a working area",
+   "assignee": "E.H.W. GmbH",
+   "priority_date": "2017-06-14"
+  },
+  {
+   "publication_number": "US-20200346679-A1",
+   "title": "Cart robot with automatic following function",
+   "assignee": "Lg Electronics Inc.",
+   "priority_date": "2019-04-30"
+  },
+  {
+   "publication_number": "US-11584417-B2",
+   "title": "Handle assembly for cart with power assist function and cart having the same",
+   "assignee": "Lg Electronics Inc.",
+   "priority_date": "2019-05-07"
+  },
+  {
+   "publication_number": "JP-6629335-B2",
+   "title": "baby carriage",
+   "assignee": "コンビ株式会社",
+   "priority_date": "2015-09-11"
+  },
+  {
+   "publication_number": "CN-114408012-A",
+   "title": "A self-balancing method and system for the center of gravity of an assisting",
+   "assignee": "北京科技大学",
+   "priority_date": "2022-01-29"
+  },
+  {
+   "publication_number": "SI-25808-A",
+   "title": "DRIVE WHEELBARROW",
+   "assignee": "Marko MAKAROVIČ",
+   "priority_date": "2020-03-13"
+  },
+  {
+   "publication_number": "WO-2020209393-A1",
+   "title": "Handle assembly of cart having power assist function and cart",
+   "assignee": "엘지전자 주식회사",
+   "priority_date": "2019-04-08"
+  },
+  {
+   "publication_number": "KR-101502975-B1",
+   "title": "Apparatus and mehtod for controlling cart",
+   "assignee": "한국생산기술연구원",
+   "priority_date": "2013-05-21"
+  },
+  {
+   "publication_number": "EP-3444142-B1",
+   "title": "Method and apparatus for load sensor calibration of electric moving vehicle",
+   "assignee": "Naver Labs Corporation",
+   "priority_date": "2017-08-14"
+  },
+  {
+   "publication_number": "US-20210229722-A1",
+   "title": "Handle assembly having power assist function for carts and cart comprising the",
+   "assignee": "Lg Electronics Inc.",
+   "priority_date": "2019-03-29"
+  },
+  {
+   "publication_number": "US-11584416-B2",
+   "title": "Handle assembly having power assist function for carts and cart comprising the",
+   "assignee": "Lg Electronics Inc.",
+   "priority_date": "2019-03-22"
+  },
+  {
+   "publication_number": "WO-2018118856-A2",
+   "title": "Self-balancing and power-assisted payload carrying vehicles using operator-",
+   "assignee": "Segway, Inc.",
+   "priority_date": "2016-12-21"
+  },
+  {
+   "publication_number": "JP-2023144611-A",
+   "title": "trolley",
+   "assignee": "本田技研工業株式会社",
+   "priority_date": "2022-03-28"
+  },
+  {
+   "publication_number": "US-7861810-B2",
+   "title": "Mobile body",
+   "assignee": "Kabushiki Kaisha Yaskawa Denki",
+   "priority_date": "2007-10-17"
+  },
+  {
+   "publication_number": "CN-115583275-A",
+   "title": "Portable sport equipment processing transfer device",
+   "assignee": "明珩健康科技(南通)有限公司",
+   "priority_date": "2022-10-24"
+  },
+  {
+   "publication_number": "CA-3023605-C",
+   "title": "Crane for lifting and transporting loads, equipped with a drive system",
+   "assignee": "Jacques Tranchero",
+   "priority_date": "2016-05-12"
+  },
+  {
+   "publication_number": "CN-114735063-A",
+   "title": "Electric power-assisted cart applied to medical robot and control method",
+   "assignee": "苏州欧畅医疗科技有限公司",
+   "priority_date": "2022-05-10"
+  },
+  {
+   "publication_number": "US-20250304135-A1",
+   "title": "Autonomous Robot with Force Sensing User Handlebar",
+   "assignee": "Robust AI, Inc.",
+   "priority_date": "2024-03-28"
+  },
+  {
+   "publication_number": "CN-106625541-A",
+   "title": "Tool car and control method",
+   "assignee": "金华市精工工具制造有限公司",
+   "priority_date": "2017-01-25"
+  },
+  {
+   "publication_number": "KR-20100120527-A",
+   "title": "Adjusting handle for electrical type equipment",
+   "assignee": "이정철",
+   "priority_date": "2009-05-06"
+  },
+  {
+   "publication_number": "CN-115583279-A",
+   "title": "An intelligent power-assisted cart",
+   "assignee": "好孩子儿童用品有限公司",
+   "priority_date": "2022-10-21"
+  },
+  {
+   "publication_number": "DE-102009001513-A1",
+   "title": "and operating unit for detecting user parameter for speed and drive direction",
+   "assignee": "Robert Bosch Gmbh",
+   "priority_date": "2009-03-12"
+  },
+  {
+   "publication_number": "WO-2013167600-A2",
+   "title": "Manually operated transport trolley including assisted starting means",
+   "assignee": "Coutier Industrie",
+   "priority_date": "2012-05-11"
+  },
+  {
+   "publication_number": "DK-2663484-T3",
+   "title": "Multifunctional transport system with several transportable transport units",
+   "assignee": "Fraunhofer Ges Forschung",
+   "priority_date": "2011-01-10"
+  },
+  {
+   "publication_number": "EP-3807142-A1",
+   "title": "Transport device comprising a safety device",
+   "assignee": "Robert Bosch GmbH",
+   "priority_date": "2018-06-14"
+  },
+  {
+   "publication_number": "EP-4039560-B1",
+   "title": "Pallet trailer",
+   "assignee": "e2trail GmbH",
+   "priority_date": "2021-02-03"
+  },
+  {
+   "publication_number": "US-20220135102-A1",
+   "title": "Moving body",
+   "assignee": "Honda Motor Co., Ltd.",
+   "priority_date": "2019-02-08"
+  },
+  {
+   "publication_number": "US-20180194383-A1",
+   "title": "Motorized shopping trolley",
+   "assignee": "Ford Motor Company",
+   "priority_date": "2017-01-09"
+  },
+  {
+   "publication_number": "CN-116788339-A",
+   "title": "Electric power-assisted cart control method and system based on force sensor",
+   "assignee": "上海卓昕医疗科技有限公司",
+   "priority_date": "2023-05-09"
+  },
+  {
+   "publication_number": "JP-2022541204-A",
+   "title": "stroller",
+   "assignee": "サイベックス ゲーエムベーハー",
+   "priority_date": "2019-07-16"
+  },
+  {
+   "publication_number": "CN-111874074-A",
+   "title": "Power-assisted cart",
+   "assignee": "好孩子儿童用品有限公司",
+   "priority_date": "2020-07-14"
+  },
+  {
+   "publication_number": "US-20160039446-A1",
+   "title": "Driving assist unit of truck",
+   "assignee": "Kayaba Industry Co., Ltd.",
+   "priority_date": "2013-03-26"
+  },
+  {
+   "publication_number": "DE-102007043487-A1",
+   "title": "Hand-guided electric vehicle",
+   "assignee": "Robert Bosch Gmbh",
+   "priority_date": "2007-09-12"
+  },
+  {
+   "publication_number": "WO-2017136824-A1",
+   "title": "Gyroscopically-responsive power assited moment arm for load carrying devices",
+   "assignee": "Bancsec Inc.",
+   "priority_date": "2016-02-05"
+  },
+  {
+   "publication_number": "KR-102522520-B1",
+   "title": "Electric assist carrier",
+   "assignee": "이영석",
+   "priority_date": "2023-01-11"
+  }
+ ],
+ "G8": [
+  {
+   "publication_number": "US-9555778-B2",
+   "title": "Patient support apparatus with braking system",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2005-12-19"
+  },
+  {
+   "publication_number": "US-8756726-B2",
+   "title": "User interface for power drive system of a patient support apparatus",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2006-10-13"
+  },
+  {
+   "publication_number": "US-10004651-B2",
+   "title": "Patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2012-09-18"
+  },
+  {
+   "publication_number": "US-10799403-B2",
+   "title": "Patient transport apparatus with controlled auxiliary wheel deployment",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-12-28"
+  },
+  {
+   "publication_number": "US-11071662-B2",
+   "title": "Patient transport apparatus with controlled auxiliary wheel speed",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-12-28"
+  },
+  {
+   "publication_number": "JP-6839232-B2",
+   "title": "Caregiver general purpose remote cart for patient bed control",
+   "assignee": "ヒル−ロム サービシズ，インコーポレイテッド",
+   "priority_date": "2014-03-11"
+  },
+  {
+   "publication_number": "US-20230201049-A1",
+   "title": "Powered patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2012-09-18"
+  },
+  {
+   "publication_number": "US-11246776-B2",
+   "title": "Patient support with improved control",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2005-12-19"
+  },
+  {
+   "publication_number": "EP-1911429-B1",
+   "title": "User interface and control system for powered transport device of a patient",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2006-10-13"
+  },
+  {
+   "publication_number": "US-8051931-B2",
+   "title": "Motorized traction device for a patient support",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2000-05-11"
+  },
+  {
+   "publication_number": "US-9271887-B2",
+   "title": "Patient support apparatus having an auxiliary wheel",
+   "assignee": "Linet Spol S.R.O.",
+   "priority_date": "2010-05-17"
+  },
+  {
+   "publication_number": "US-7789187-B2",
+   "title": "Push handle with pivotable handle post",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2008-01-29"
+  },
+  {
+   "publication_number": "US-10251797-B2",
+   "title": "Hospital bed",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "1999-12-29"
+  },
+  {
+   "publication_number": "US-8240410-B2",
+   "title": "Patient support apparatus with powered wheel",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "1999-09-15"
+  },
+  {
+   "publication_number": "US-8442738-B2",
+   "title": "Speed control for patient handling device",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2009-10-12"
+  },
+  {
+   "publication_number": "CN-104814847-B",
+   "title": "The method of mobile medical apparatus and movement for controlling mobile",
+   "assignee": "西门子公司",
+   "priority_date": "2014-02-05"
+  },
+  {
+   "publication_number": "US-11883334-B2",
+   "title": "Deployment patient transport apparatus with controlled auxiliary wheel",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2018-11-21"
+  },
+  {
+   "publication_number": "US-11001447-B2",
+   "title": "Lifting furniture",
+   "assignee": "Sleep Number Corporation",
+   "priority_date": "2018-09-05"
+  },
+  {
+   "publication_number": "US-9931259-B2",
+   "title": "Drive system for bed",
+   "assignee": "Gendron, Inc.",
+   "priority_date": "2013-10-04"
+  },
+  {
+   "publication_number": "US-11304865-B2",
+   "title": "Patient support apparatus with adaptive user interface",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-06-27"
+  },
+  {
+   "publication_number": "EP-2819629-B1",
+   "title": "Patient support",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2012-03-02"
+  },
+  {
+   "publication_number": "US-10610426-B2",
+   "title": "Patient transport apparatus for transporting a patient over disturbances in",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2015-09-09"
+  },
+  {
+   "publication_number": "US-11039964-B2",
+   "title": "Systems and methods for facilitating movement of a patient transport apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-03-06"
+  },
+  {
+   "publication_number": "US-10588803-B2",
+   "title": "Person support apparatus power drive system",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2012-08-11"
+  },
+  {
+   "publication_number": "US-10905612-B2",
+   "title": "Systems and methods for facilitating movement of a patient transport apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2015-10-28"
+  },
+  {
+   "publication_number": "US-10603234-B2",
+   "title": "Patient support apparatuses with drive systems",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2016-03-30"
+  },
+  {
+   "publication_number": "US-9465389-B2",
+   "title": "Automated systems, devices, and methods for transporting and supporting",
+   "assignee": "Elwha Llc",
+   "priority_date": "2012-09-28"
+  },
+  {
+   "publication_number": "US-10806653-B2",
+   "title": "Patient transport apparatus with electro-mechanical braking system",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-12-21"
+  },
+  {
+   "publication_number": "US-10406044-B2",
+   "title": "Person support apparatuses with drive controls",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2015-06-25"
+  },
+  {
+   "publication_number": "US-20250158454-A1",
+   "title": "Power Transfer System With Patient Transport Apparatus And Power Transfer",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-10-24"
+  },
+  {
+   "publication_number": "US-11382813-B2",
+   "title": "Patient support with improved control",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2004-10-29"
+  },
+  {
+   "publication_number": "US-10603236-B2",
+   "title": "Motorized bearing surface transporter for an operating table system",
+   "assignee": "MAQUET GmbH",
+   "priority_date": "2015-07-28"
+  },
+  {
+   "publication_number": "CN-110177533-B",
+   "title": "Transport device and method of operating the same",
+   "assignee": "西门子医疗有限公司",
+   "priority_date": "2017-01-13"
+  },
+  {
+   "publication_number": "US-10688002-B2",
+   "title": "Combined mobile cart for sick and wounded",
+   "assignee": "Zhejiang Ouhong Technology Co., Ltd.",
+   "priority_date": "2015-12-25"
+  },
+  {
+   "publication_number": "US-11154445-B2",
+   "title": "Bed systems and methods",
+   "assignee": "Kap Medical, Inc.",
+   "priority_date": "2014-11-13"
+  },
+  {
+   "publication_number": "US-20200230001-A1",
+   "title": "Person Support Apparatuses With Selectively Coupled Foot Sections",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2014-01-15"
+  },
+  {
+   "publication_number": "US-20170143566-A1",
+   "title": "Patient support usable with bariatric patients",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2013-09-06"
+  },
+  {
+   "publication_number": "EP-2968044-B1",
+   "title": "Bed systems",
+   "assignee": "Kap Medical, Inc.",
+   "priority_date": "2013-03-15"
+  },
+  {
+   "publication_number": "US-10314754-B2",
+   "title": "Patient care and transport assembly",
+   "assignee": "B & R Holdings Company, Llc",
+   "priority_date": "2009-08-05"
+  },
+  {
+   "publication_number": "US-8260517-B2",
+   "title": "Patient support apparatus with drive wheel speed control",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2008-02-29"
+  },
+  {
+   "publication_number": "NL-2002903-C2",
+   "title": "Drive system for patient support.",
+   "assignee": "Exodus Holding B V",
+   "priority_date": "2009-01-20"
+  },
+  {
+   "publication_number": "US-12447083-B2",
+   "title": "Patient transport apparatus with controlled auxiliary wheel speed",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2019-12-30"
+  },
+  {
+   "publication_number": "US-12178757-B2",
+   "title": "Patient transport apparatus with auxiliary wheel control systems",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2019-12-30"
+  },
+  {
+   "publication_number": "US-11963910-B2",
+   "title": "System and method of braking for a patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2015-07-24"
+  },
+  {
+   "publication_number": "US-7827634-B2",
+   "title": "System and method for bed transport",
+   "assignee": "Kci Licensing, Inc.",
+   "priority_date": "2006-04-17"
+  },
+  {
+   "publication_number": "US-9205009-B2",
+   "title": "Patient support apparatus having movable handles",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2012-12-17"
+  },
+  {
+   "publication_number": "JP-5830510-B2",
+   "title": "Transport cart for transporting operating table patient support and / or",
+   "assignee": "マッケ・ゲゼルシャフトミットベシュレンクターハフトゥング",
+   "priority_date": "2012-11-09"
+  },
+  {
+   "publication_number": "US-9107788-B2",
+   "title": "Cam mechanism to raise steering wheel of patient transfer device",
+   "assignee": "MediGlider Corp.",
+   "priority_date": "2005-10-07"
+  },
+  {
+   "publication_number": "US-8418786-B2",
+   "title": "Selectively powered ambulatory stretcher chair",
+   "assignee": "Transmotion Medical, Inc.",
+   "priority_date": "2010-05-06"
+  },
+  {
+   "publication_number": "US-12564527-B2",
+   "title": "Patient support apparatus having motorized wheels",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2022-03-07"
+  },
+  {
+   "publication_number": "US-11612527-B2",
+   "title": "Patient transport apparatus with auxiliary wheel system",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2018-11-21"
+  },
+  {
+   "publication_number": "US-8757308-B2",
+   "title": "Powered transport system and control methods",
+   "assignee": "Hill-Rom Services Inc.",
+   "priority_date": "2009-09-10"
+  },
+  {
+   "publication_number": "DK-177585-B1",
+   "title": "Transport Cart configured to Transport Beds with Wheels",
+   "assignee": "Mim Holding As",
+   "priority_date": "2012-04-18"
+  },
+  {
+   "publication_number": "JP-2019163034-A",
+   "title": "Auxiliary propulsion system, method and chassis",
+   "assignee": "アルジョ アイピー ホールディング アクチエボラグＡｒｊｏ ＩＰ Ｈｏｌｄｉｎｇ Ａｋｔｉｅｂｏｌａｇ",
+   "priority_date": "2013-05-21"
+  },
+  {
+   "publication_number": "US-10617578-B2",
+   "title": "Brake assistance system for patient handling equipment",
+   "assignee": "Arjohuntleigh Ab",
+   "priority_date": "2015-06-29"
+  },
+  {
+   "publication_number": "US-20140094997-A1",
+   "title": "Automated Systems, Devices, and Methods for Transporting and Supporting",
+   "assignee": "Elwha Llc",
+   "priority_date": "2012-09-28"
+  },
+  {
+   "publication_number": "US-8845264-B2",
+   "title": "Bed transport and utility dolly",
+   "assignee": "NOA Medical Industries, Inc.",
+   "priority_date": "2007-04-02"
+  },
+  {
+   "publication_number": "US-11730400-B2",
+   "title": "Patient support apparatus with multi-sensor fusion",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2018-03-30"
+  },
+  {
+   "publication_number": "US-11090209-B2",
+   "title": "Patient support apparatus with control system and method to avoid obstacles",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-06-20"
+  },
+  {
+   "publication_number": "US-12029694-B2",
+   "title": "Patient support apparatus with hold mode",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2021-11-19"
+  },
+  {
+   "publication_number": "CN-102106776-B",
+   "title": "A further auxiliary roller that can be brought into contact with the floor",
+   "assignee": "坦特两合公司",
+   "priority_date": "2006-02-17"
+  },
+  {
+   "publication_number": "JP-5294272-B2",
+   "title": "Guide wheel assemblies, especially guide wheel assemblies for hospital beds",
+   "assignee": "リネット スポル．エスアール．オー．",
+   "priority_date": "2006-11-09"
+  },
+  {
+   "publication_number": "ES-2837833-T3",
+   "title": "Bed",
+   "assignee": "Linet Spol Sro",
+   "priority_date": "2013-08-15"
+  },
+  {
+   "publication_number": "USRE46367E1",
+   "title": "Therapy mat table and table carrier and methods of use",
+   "assignee": "Therapeutic Industries, Inc.",
+   "priority_date": "2008-02-14"
+  },
+  {
+   "publication_number": "US-12582566-B2",
+   "title": "Patient turning device for a patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-12-28"
+  },
+  {
+   "publication_number": "US-11806292-B2",
+   "title": "Techniques for controlling actuators of a patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-11-13"
+  },
+  {
+   "publication_number": "JP-5206896-B2",
+   "title": "Bed conveyance auxiliary device and bed",
+   "assignee": "株式会社豊田自動織機",
+   "priority_date": "2011-10-13"
+  },
+  {
+   "publication_number": "US-12409087-B2",
+   "title": "User controls for patient support apparatus having low height",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-12-20"
+  },
+  {
+   "publication_number": "US-11957633-B2",
+   "title": "Patient transport apparatus having powered drive system utilizing coordinated",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2018-04-30"
+  },
+  {
+   "publication_number": "CN-104717949-B",
+   "title": "Mobile elevator apparatus of the travel assist system of adjustable rotating",
+   "assignee": "韩国生产技术研究院",
+   "priority_date": "2012-10-11"
+  },
+  {
+   "publication_number": "US-20140186148-A1",
+   "title": "Lifting and Transporting Device for Wheeled Objects Including Hospital Beds",
+   "assignee": "Austech & Design Pty Ltd",
+   "priority_date": "2011-06-17"
+  },
+  {
+   "publication_number": "US-11001098-B2",
+   "title": "Mobile medical device with at least one motor-driven wheel",
+   "assignee": "Siemens Healthcare Gmbh",
+   "priority_date": "2015-04-16"
+  },
+  {
+   "publication_number": "US-20250345217-A1",
+   "title": "Braking and steering system for a mobile support",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2018-11-07"
+  },
+  {
+   "publication_number": "US-11779497-B2",
+   "title": "Patient transport apparatus having coordinated user input devices",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2019-11-20"
+  },
+  {
+   "publication_number": "EP-3340956-B1",
+   "title": "Support surface transporter with operating handle",
+   "assignee": "Maquet GmbH",
+   "priority_date": "2015-08-25"
+  },
+  {
+   "publication_number": "US-11801180-B2",
+   "title": "Patient transport apparatus with movable head section",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-12-19"
+  },
+  {
+   "publication_number": "JP-6522743-B2",
+   "title": "Wheeled carrier",
+   "assignee": "アイディーイーアソシエーツ・（アイオーエム）・リミテッド",
+   "priority_date": "2014-09-18"
+  },
+  {
+   "publication_number": "JP-2014094281-A",
+   "title": "Transport trolley for transport of patient support surface and/or operating",
+   "assignee": "MAQUET GmbH",
+   "priority_date": "2012-11-09"
+  },
+  {
+   "publication_number": "EP-4271345-B1",
+   "title": "Pendant for mobile medical platforms",
+   "assignee": "Auris Health, Inc.",
+   "priority_date": "2020-12-30"
+  },
+  {
+   "publication_number": "US-12336941-B2",
+   "title": "Patient support apparatus having detachable barrier assembly",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2018-05-21"
+  },
+  {
+   "publication_number": "US-20170020755-A1",
+   "title": "Patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2015-07-24"
+  },
+  {
+   "publication_number": "WO-2022003644-A1",
+   "title": "Patient support apparatus",
+   "assignee": "Umano Medical Inc.",
+   "priority_date": "2020-07-02"
+  },
+  {
+   "publication_number": "DK-201000173-U3",
+   "title": "Transport system comprising a towing unit",
+   "assignee": "U B Let As",
+   "priority_date": "2007-09-06"
+  },
+  {
+   "publication_number": "JP-7734195-B2",
+   "title": "Apparatus and method for transporting an object",
+   "assignee": "エイブル イノベイションズ インコーポレイティド",
+   "priority_date": "2021-01-12"
+  },
+  {
+   "publication_number": "US-20220071824-A1",
+   "title": "Pedal assembly for a patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2018-05-21"
+  },
+  {
+   "publication_number": "WO-2012055407-A1",
+   "title": "Drive system for hospital bed, and hospital bed",
+   "assignee": "Hecare Systems Aps",
+   "priority_date": "2010-10-27"
+  },
+  {
+   "publication_number": "JP-6086122-B2",
+   "title": "Lifting and conveying apparatus provided with caster for supporting forward",
+   "assignee": "オーステク アンド デザイン ピーティーワイ リミテッド",
+   "priority_date": "2011-10-12"
+  },
+  {
+   "publication_number": "CN-102149883-A",
+   "title": "Bedrail clamp",
+   "assignee": "康尔福盛2200有限公司",
+   "priority_date": "2008-09-12"
+  },
+  {
+   "publication_number": "JP-2017536150-A",
+   "title": "Operating platform and floor platform for operating table",
+   "assignee": "マッケ・ゲゼルシャフトミットベシュレンクターハフトゥング",
+   "priority_date": "2014-10-31"
+  },
+  {
+   "publication_number": "EP-3326889-B1",
+   "title": "Medical transport device and method for transporting such a transport device",
+   "assignee": "Josh Ip Iii B.V.",
+   "priority_date": "2016-11-29"
+  },
+  {
+   "publication_number": "US-20240248507-A1",
+   "title": "Patient Transport Apparatus With Asymmetric Throttle Assembly",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2021-05-27"
+  },
+  {
+   "publication_number": "US-12115117-B2",
+   "title": "Patient transport apparatus with throttle assembly damping",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2021-11-23"
+  },
+  {
+   "publication_number": "KR-20180094887-A",
+   "title": "Comprising a verticalizing device, and a movable mobility changing bed",
+   "assignee": "페트라 하라도바",
+   "priority_date": "2015-11-10"
+  },
+  {
+   "publication_number": "US-20230149233-A1",
+   "title": "Patient Support Apparatus With Ramp Transition Detection",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2021-11-12"
+  },
+  {
+   "publication_number": "US-20080101903-A1",
+   "title": "Transport system and method",
+   "assignee": "International Retail Services Group, Llc",
+   "priority_date": "2006-10-30"
+  },
+  {
+   "publication_number": "EP-3600980-A1",
+   "title": "Transport cart",
+   "assignee": "Silver & Stal Enterprises AB",
+   "priority_date": "2017-03-21"
+  },
+  {
+   "publication_number": "AU-2019246854-B2",
+   "title": "Handles for a patient conveyance apparatus",
+   "assignee": "Modsel Pty Ltd",
+   "priority_date": "2018-10-11"
+  },
+  {
+   "publication_number": "US-10828215-B2",
+   "title": "System and handling method to facilitate the maintenance of a bed unit, in",
+   "assignee": "Universite De Caen",
+   "priority_date": "2015-10-23"
+  },
+  {
+   "publication_number": "US-20140027693-A1",
+   "title": "Scissor lift apparatus",
+   "assignee": "Mopec, Inc.",
+   "priority_date": "2012-07-26"
+  },
+  {
+   "publication_number": "US-12350213-B2",
+   "title": "Energy storage device management for a patient support apparatus",
+   "assignee": "Stryker Corporation",
+   "priority_date": "2017-10-24"
+  }
+ ],
+ "G9": [
+  {
+   "publication_number": "JP-6620326-B2",
+   "title": "Wheelbarrow",
+   "assignee": "Ｒｔ．ワークス株式会社",
+   "priority_date": "2015-07-02"
+  },
+  {
+   "publication_number": "US-9849901-B2",
+   "title": "Container with power assist wheels",
+   "assignee": "Dane Jackman",
+   "priority_date": "2014-09-08"
+  },
+  {
+   "publication_number": "JP-7389966-B2",
+   "title": "walking aid vehicle",
+   "assignee": "スズキ株式会社",
+   "priority_date": "2019-11-22"
+  },
+  {
+   "publication_number": "US-10343703-B2",
+   "title": "Self-propelling trolley assembly",
+   "assignee": "Kyttinge Investment Ab",
+   "priority_date": "2016-04-05"
+  },
+  {
+   "publication_number": "US-9925999-B2",
+   "title": "Power assist wagon",
+   "assignee": "Radio Flyer Inc.",
+   "priority_date": "2015-09-29"
+  },
+  {
+   "publication_number": "JP-5073838-B2",
+   "title": "Vehicle with auxiliary power",
+   "assignee": "パナソニック株式会社",
+   "priority_date": "2009-01-29"
+  },
+  {
+   "publication_number": "US-11452662-B2",
+   "title": "Walking assist device",
+   "assignee": "Jtekt Corporation",
+   "priority_date": "2018-02-27"
+  },
+  {
+   "publication_number": "EP-2383163-B1",
+   "title": "Electric motor vehicle and method for controlling the same",
+   "assignee": "Panasonic Intellectual Property Management Co., Ltd.",
+   "priority_date": "2009-06-02"
+  },
+  {
+   "publication_number": "CN-110192968-B",
+   "title": "walking aids",
+   "assignee": "株式会社捷太格特",
+   "priority_date": "2018-02-27"
+  },
+  {
+   "publication_number": "US-9315115-B2",
+   "title": "Power assist device and ambulatory assist vehicle",
+   "assignee": "Funai Electric Co., Ltd.",
+   "priority_date": "2013-05-30"
+  },
+  {
+   "publication_number": "JP-7295086-B2",
+   "title": "stroller frames and strollers",
+   "assignee": "サイベックス ゲーエムベーハー",
+   "priority_date": "2017-07-12"
+  },
+  {
+   "publication_number": "JP-5638712-B1",
+   "title": "stroller",
+   "assignee": "シャープ株式会社",
+   "priority_date": "2014-01-17"
+  },
+  {
+   "publication_number": "EP-2865364-A2",
+   "title": "Manually propelled vehicle",
+   "assignee": "Funai Electric Co., Ltd.",
+   "priority_date": "2013-08-30"
+  },
+  {
+   "publication_number": "EP-2851055-B1",
+   "title": "Manually propelled vehicle",
+   "assignee": "Funai Electric Co., Ltd.",
+   "priority_date": "2013-08-30"
+  },
+  {
+   "publication_number": "JP-5206896-B2",
+   "title": "Bed conveyance auxiliary device and bed",
+   "assignee": "株式会社豊田自動織機",
+   "priority_date": "2011-10-13"
+  },
+  {
+   "publication_number": "KR-102032373-B1",
+   "title": "Electric moving vehicle",
+   "assignee": "네이버랩스 주식회사",
+   "priority_date": "2018-04-03"
+  },
+  {
+   "publication_number": "US-10858027-B2",
+   "title": "Control of a power-assisted payload carrying vehicle using operator-applied",
+   "assignee": "Segway Inc.",
+   "priority_date": "2017-06-08"
+  },
+  {
+   "publication_number": "KR-102812143-B1",
+   "title": "Handle assembly of a cart robot having a power assist function and a cart robot",
+   "assignee": "엘지전자 주식회사",
+   "priority_date": "2019-04-08"
+  },
+  {
+   "publication_number": "US-10889312-B2",
+   "title": "Self-balancing and power-assisted payload carrying vehicles using operator-",
+   "assignee": "Segway, Inc.",
+   "priority_date": "2016-12-21"
+  },
+  {
+   "publication_number": "JP-2015047307-A",
+   "title": "Walking assist mobile",
+   "assignee": "船井電機株式会社",
+   "priority_date": "2013-08-30"
+  },
+  {
+   "publication_number": "KR-20210007295-A",
+   "title": "Method of moving in power assist mode reflecting physical characteristic of",
+   "assignee": "엘지전자 주식회사",
+   "priority_date": "2019-07-10"
+  },
+  {
+   "publication_number": "JP-2015047298-A",
+   "title": "Walking assist moving body",
+   "assignee": "船井電機株式会社",
+   "priority_date": "2013-08-30"
+  },
+  {
+   "publication_number": "CN-105795650-A",
+   "title": "Electric power steering device",
+   "assignee": "宋博伟",
+   "priority_date": "2016-03-07"
+  },
+  {
+   "publication_number": "US-20250289489-A1",
+   "title": "Electric wagon and electronically power assisted wagon",
+   "assignee": "Nanjing Chervon Industry Co., Ltd.",
+   "priority_date": "2022-12-08"
+  },
+  {
+   "publication_number": "CN-106043397-A",
+   "title": "Power-assisted stroller",
+   "assignee": "好孩子儿童用品有限公司",
+   "priority_date": "2016-06-20"
+  },
+  {
+   "publication_number": "JP-2023019525-A",
+   "title": "Carriage",
+   "assignee": "本田技研工業株式会社",
+   "priority_date": "2021-07-29"
+  },
+  {
+   "publication_number": "DE-102013224885-A1",
+   "title": "Stroller with drive support",
+   "assignee": "Robert Bosch Gmbh",
+   "priority_date": "2013-12-04"
+  },
+  {
+   "publication_number": "JP-2015047938-A",
+   "title": "Movable body",
+   "assignee": "船井電機株式会社",
+   "priority_date": "2013-08-30"
+  },
+  {
+   "publication_number": "JP-4640445-B2",
+   "title": "Motor vehicle",
+   "assignee": "パナソニック電工株式会社",
+   "priority_date": "2008-05-19"
+  },
+  {
+   "publication_number": "JP-2015033505-A",
+   "title": "Manually-propelled vehicle",
+   "assignee": "船井電機株式会社",
+   "priority_date": "2013-08-09"
+  },
+  {
+   "publication_number": "KR-20210096478-A",
+   "title": "Stroller and method for operating the same",
+   "assignee": "엘지전자 주식회사",
+   "priority_date": "2020-01-28"
+  },
+  {
+   "publication_number": "CN-106102582-A",
+   "title": "Mobile X-ray camera",
+   "assignee": "株式会社岛津制作所",
+   "priority_date": "2014-03-11"
+  },
+  {
+   "publication_number": "CN-116461586-A",
+   "title": "A foldable electric trailer with sliding wheels",
+   "assignee": "深圳市云睿物联科技有限公司",
+   "priority_date": "2023-05-18"
+  },
+  {
+   "publication_number": "CN-108357525-A",
+   "title": "A kind of carrying flat-bed hand cart of automated steering",
+   "assignee": "上海工程技术大学",
+   "priority_date": "2018-03-28"
+  },
+  {
+   "publication_number": "US-20210284222-A1",
+   "title": "Motorized wheelbarrow",
+   "assignee": "Marko MAKAROVIC",
+   "priority_date": "2020-03-13"
+  },
+  {
+   "publication_number": "EP-2743121-B1",
+   "title": "Electric vehicle and method for controlling the same",
+   "assignee": "Panasonic Intellectual Property Management Co., Ltd.",
+   "priority_date": "2011-08-08"
+  },
+  {
+   "publication_number": "US-20250345217-A1",
+   "title": "Braking and steering system for a mobile support",
+   "assignee": "Hill-Rom Services, Inc.",
+   "priority_date": "2018-11-07"
+  },
+  {
+   "publication_number": "US-20200142397-A1",
+   "title": "Movable robot",
+   "assignee": "Lg Electronics Inc.",
+   "priority_date": "2018-11-07"
+  },
+  {
+   "publication_number": "EP-3428039-A2",
+   "title": "Forklift",
+   "assignee": "Ningbo Ruyi Joint Stock Company, Ltd.",
+   "priority_date": "2017-05-19"
+  },
+  {
+   "publication_number": "WO-2012063476-A1",
+   "title": "Assist cart and control method therefor",
+   "assignee": "パナソニック株式会社",
+   "priority_date": "2010-11-09"
+  },
+  {
+   "publication_number": "KR-102308816-B1",
+   "title": "Electric Personal Mobility including Attachable A Baby Carriage",
+   "assignee": "하욱완",
+   "priority_date": "2020-11-12"
+  },
+  {
+   "publication_number": "CN-105644602-B",
+   "title": "Portable unloading for big part express delivery all-in-one upstairs",
+   "assignee": "桑新桓",
+   "priority_date": "2016-04-13"
+  },
+  {
+   "publication_number": "WO-2018118856-A2",
+   "title": "Self-balancing and power-assisted payload carrying vehicles using operator-",
+   "assignee": "Segway, Inc.",
+   "priority_date": "2016-12-21"
+  },
+  {
+   "publication_number": "US-20180194383-A1",
+   "title": "Motorized shopping trolley",
+   "assignee": "Ford Motor Company",
+   "priority_date": "2017-01-09"
+  },
+  {
+   "publication_number": "US-20210339787-A1",
+   "title": "Wheel assembly for a trolley comprising a mechanical brake allowing for a safe",
+   "assignee": "Electro Mobility Europe Ab",
+   "priority_date": "2018-10-10"
+  },
+  {
+   "publication_number": "US-20240017757-A1",
+   "title": "Motorized wagon and operation method thereof",
+   "assignee": "Ellavate Wagon, Inc.",
+   "priority_date": "2022-07-15"
+  },
+  {
+   "publication_number": "CN-116788339-A",
+   "title": "Electric power-assisted cart control method and system based on force sensor",
+   "assignee": "上海卓昕医疗科技有限公司",
+   "priority_date": "2023-05-09"
+  },
+  {
+   "publication_number": "CN-105752139-A",
+   "title": "Power-assisted propulsion system and propulsion assisted vehicle",
+   "assignee": "深圳市宝润科技有限公司",
+   "priority_date": "2016-04-06"
+  },
+  {
+   "publication_number": "EP-3957510-A1",
+   "title": "Device and system for controlling a transport vehicle",
+   "assignee": "Red Milawa Pty Ltd",
+   "priority_date": "2020-08-19"
+  },
+  {
+   "publication_number": "JP-2022541204-A",
+   "title": "stroller",
+   "assignee": "サイベックス ゲーエムベーハー",
+   "priority_date": "2019-07-16"
+  },
+  {
+   "publication_number": "WO-2024120294-A1",
+   "title": "Electric pull cart and electric power-assisted pull cart",
+   "assignee": "南京泉峰科技有限公司",
+   "priority_date": "2022-12-08"
+  },
+  {
+   "publication_number": "US-11294415-B2",
+   "title": "Device and system for controlling a transport vehicle",
+   "assignee": "Red Milawa Pty Ltd",
+   "priority_date": "2013-12-17"
+  },
+  {
+   "publication_number": "CN-111874074-A",
+   "title": "Power-assisted cart",
+   "assignee": "好孩子儿童用品有限公司",
+   "priority_date": "2020-07-14"
+  },
+  {
+   "publication_number": "JP-2023144611-A",
+   "title": "trolley",
+   "assignee": "本田技研工業株式会社",
+   "priority_date": "2022-03-28"
+  },
+  {
+   "publication_number": "JPWO2015132911A1",
+   "title": "Bogie equipment",
+   "assignee": "エレクター株式会社",
+   "priority_date": "2014-03-05"
+  },
+  {
+   "publication_number": "CN-116409370-B",
+   "title": "Power assist device and control method thereof",
+   "assignee": "明门(中国)幼童用品有限公司",
+   "priority_date": "2021-12-29"
+  },
+  {
+   "publication_number": "CN-116278501-A",
+   "title": "A central control electric caster with buffer and shock absorption function",
+   "assignee": "逸超医疗科技(北京)有限公司",
+   "priority_date": "2023-01-31"
+  },
+  {
+   "publication_number": "ES-2377903-T3",
+   "title": "Auxiliary transport equipment with accessory",
+   "assignee": "Movexx International B.V.",
+   "priority_date": "2006-09-06"
+  },
+  {
+   "publication_number": "CN-110901713-A",
+   "title": "Electric cart and driving control system and method thereof",
+   "assignee": "佳纶生技股份有限公司",
+   "priority_date": "2018-09-17"
+  },
+  {
+   "publication_number": "DE-102007011622-A1",
+   "title": "Forklift transport trolley, on roller wheels, has a drive for the vertical",
+   "assignee": "Wincanton Midi Data Gmbh",
+   "priority_date": "2007-03-09"
+  },
+  {
+   "publication_number": "WO-2018052369-A1",
+   "title": "Device and method for moving a load",
+   "assignee": "Singapore Technologies Aerospace Ltd",
+   "priority_date": "2016-09-19"
+  },
+  {
+   "publication_number": "JP-2008127006-A",
+   "title": "Balancing device",
+   "assignee": "Won Suk Lee",
+   "priority_date": "2006-11-20"
+  },
+  {
+   "publication_number": "US-5657828-A",
+   "title": "Motor-driven cart",
+   "assignee": "Shinko Denki Kabushiki Kaisha",
+   "priority_date": "1994-07-29"
+  },
+  {
+   "publication_number": "US-6474007-B1",
+   "title": "Snow removing vehicle",
+   "assignee": "Honda Giken Kogyo Kabushiki Kaisha",
+   "priority_date": "1999-02-24"
+  },
+  {
+   "publication_number": "JP-3032698-B2",
+   "title": "Transport vehicle with power assist",
+   "assignee": "松下電工株式会社",
+   "priority_date": "1995-04-14"
+  },
+  {
+   "publication_number": "DE-69828244-T2",
+   "title": "Thrust truck with auxiliary drive",
+   "assignee": "Honda Giken Kogyo K.K.",
+   "priority_date": "1997-10-27"
+  },
+  {
+   "publication_number": "DE-69734811-T2",
+   "title": "Electrically powered handcart",
+   "assignee": "Honda Giken Kogyo K.K.",
+   "priority_date": "1996-11-06"
+  },
+  {
+   "publication_number": "US-20240375291-A1",
+   "title": "Apparatus, systems, and methods for operating robots in an assisted drive mode",
+   "assignee": "6 River Systems, Llc",
+   "priority_date": "2023-05-10"
+  },
+  {
+   "publication_number": "CN-120057080-A",
+   "title": "Electric power-assisted trailer",
+   "assignee": "南京泉峰科技有限公司",
+   "priority_date": "2022-12-08"
+  },
+  {
+   "publication_number": "JP-2025043514-A",
+   "title": "Manipulator",
+   "assignee": "本田技研工業株式会社",
+   "priority_date": "2023-09-19"
+  },
+  {
+   "publication_number": "US-20060254831-A1",
+   "title": "Power assist apparatus and movable body including the same",
+   "assignee": "Sanyo Electric Co., Ltd.",
+   "priority_date": "2005-04-27"
+  },
+  {
+   "publication_number": "JP-2023152879-A",
+   "title": "trolley",
+   "assignee": "本田技研工業株式会社",
+   "priority_date": "2022-03-30"
+  },
+  {
+   "publication_number": "JP-7844212-B2",
+   "title": "Dolly",
+   "assignee": "本田技研工業株式会社",
+   "priority_date": "2022-03-28"
+  },
+  {
+   "publication_number": "WO-2004071842-A1",
+   "title": "Force input operation device, movable body, carrying vehicle, and auxiliary",
+   "assignee": "Sanyo Electric Co., Ltd.",
+   "priority_date": "2003-02-17"
+  },
+  {
+   "publication_number": "JP-2023142772-A",
+   "title": "operating device",
+   "assignee": "本田技研工業株式会社",
+   "priority_date": "2022-03-25"
+  },
+  {
+   "publication_number": "JPH11171019A",
+   "title": "Attaching structure of body frame and axle of electric auxiliary single wheel",
+   "assignee": "Honda Motor Co Ltd",
+   "priority_date": "1997-12-08"
+  },
+  {
+   "publication_number": "JP-7853860-B2",
+   "title": "Dolly",
+   "assignee": "本田技研工業株式会社",
+   "priority_date": "2021-07-29"
+  },
+  {
+   "publication_number": "JP-2006322839-A",
+   "title": "Force detection device",
+   "assignee": "Sanyo Electric Co Ltd",
+   "priority_date": "2005-05-19"
+  },
+  {
+   "publication_number": "KR-102889976-B1",
+   "title": "Cage with low-floor rollers for container loading and unloading",
+   "assignee": "노블로지스 주식회사",
+   "priority_date": "2025-06-05"
+  },
+  {
+   "publication_number": "KR-20260041641-A",
+   "title": "Transport device",
+   "assignee": "이은홍",
+   "priority_date": "2024-09-20"
+  },
+  {
+   "publication_number": "JP-2007055480-A",
+   "title": "Power assist vehicle",
+   "assignee": "Toshiba Tec Corp",
+   "priority_date": "2005-08-25"
+  },
+  {
+   "publication_number": "SE-0801077-A0",
+   "title": "Improved sensor mounting for power-sensing controls",
+   "assignee": "Elfarm Ab",
+   "priority_date": "2008-05-13"
+  },
+  {
+   "publication_number": "JP-2004359008-A",
+   "title": "Carrying vehicle and controlling method thereof",
+   "assignee": "Sony Corp",
+   "priority_date": "2003-06-02"
+  },
+  {
+   "publication_number": "JPH11157451A",
+   "title": "Electric auxiliary single wheel carrier",
+   "assignee": "Honda Motor Co Ltd",
+   "priority_date": "1997-11-28"
+  },
+  {
+   "publication_number": "CN-114502447-A",
+   "title": "Auxiliary thrust system for carriages or loads moving generally on wheels",
+   "assignee": "瑞升诺制造有限责任公司",
+   "priority_date": "2019-10-03"
+  },
+  {
+   "publication_number": "JP-2008013154-A",
+   "title": "Shoulder belt traction type wheeled cart",
+   "assignee": "Manabu Tanaya",
+   "priority_date": "2006-07-10"
+  },
+  {
+   "publication_number": "DE-20221073-U1",
+   "title": "Control handle for powered wheelchair has switch with increasing resistance as",
+   "assignee": "Ulrich Alber Gmbh & Co. Kg",
+   "priority_date": "2001-08-24"
+  },
+  {
+   "publication_number": "DE-19723973-A1",
+   "title": "Motorised trolley",
+   "assignee": "Expresso Deutschland",
+   "priority_date": "1996-06-08"
+  },
+  {
+   "publication_number": "EP-0811469-A2",
+   "title": "Distribution or transport trolley",
+   "assignee": "EXPRESSO DEUTSCHLAND TRANSPORTGERÄTE GmbH",
+   "priority_date": "1996-06-08"
+  },
+  {
+   "publication_number": "DE-19623001-A1",
+   "title": "Motorised trolley",
+   "assignee": "Expresso Deutschland",
+   "priority_date": "1996-05-23"
+  },
+  {
+   "publication_number": "NL-1029490-C2",
+   "title": "care device, includes sensor for activating wheel drive motor when given push",
+   "assignee": "Falcon B V",
+   "priority_date": "2005-07-11"
+  }
+ ],
+ "G10": [
+  {
+   "publication_number": "US-10980598-B2",
+   "title": "Multi-electrode ablator tip having dual-mode, omni-directional feedback",
+   "assignee": "St. Jude Medical, Cardiology Division, Inc.",
+   "priority_date": "2015-11-20"
+  },
+  {
+   "publication_number": "US-12135553-B2",
+   "title": "Robotic cart",
+   "assignee": "Robust AI, Inc.",
+   "priority_date": "2021-11-30"
+  },
+  {
+   "publication_number": "US-11702110-B2",
+   "title": "Methods and systems to enhance safety of bi-directional transition between",
+   "assignee": "Nio Technology (Anhui) Co., Ltd.",
+   "priority_date": "2020-01-06"
+  },
+  {
+   "publication_number": "US-10551207-B2",
+   "title": "Autonomous vehicle sensor data and map integration",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-06-18"
+  },
+  {
+   "publication_number": "US-10369966-B1",
+   "title": "Controlling access to a vehicle using wireless access devices",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-05-23"
+  },
+  {
+   "publication_number": "US-20210280055-A1",
+   "title": "Feedback performance control and tracking",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2016-11-07"
+  },
+  {
+   "publication_number": "CN-108098738-B",
+   "title": "Method and device for controlling operation stability of mobile manipulator",
+   "assignee": "安徽工程大学",
+   "priority_date": "2017-08-30"
+  },
+  {
+   "publication_number": "US-10474157-B2",
+   "title": "Data-based control error detection and parameter compensation system",
+   "assignee": "Baidu Usa Llc",
+   "priority_date": "2017-06-06"
+  },
+  {
+   "publication_number": "RU-2756863-C2",
+   "title": "Methods and systems for manipulating objects using a robot for a specific",
+   "assignee": "Мбл Лимитед",
+   "priority_date": "2014-09-02"
+  },
+  {
+   "publication_number": "RU-2743194-C1",
+   "title": "Robotic kitchen system (embodiments), control method and kitchen module using",
+   "assignee": "Марк ОЛЕЙНИК",
+   "priority_date": "2014-02-20"
+  },
+  {
+   "publication_number": "US-9843093-B2",
+   "title": "Spatial location presentation in head worn computing",
+   "assignee": "Osterhout Group, Inc.",
+   "priority_date": "2014-02-11"
+  },
+  {
+   "publication_number": "EP-2618882-B1",
+   "title": "Proximity sensor interface in a robotic catheter system",
+   "assignee": "St. Jude Medical Atrial Fibrillation Division Inc.",
+   "priority_date": "2010-12-16"
+  },
+  {
+   "publication_number": "DE-112010000775-B4",
+   "title": "INDUSTRIAL ROBOT SYSTEM",
+   "assignee": "Kyoto University",
+   "priority_date": "2009-02-12"
+  },
+  {
+   "publication_number": "CN-106166370-B",
+   "title": "Trailing type lower extremity movement rehabilitation omni-directional mobile",
+   "assignee": "徐州工程学院",
+   "priority_date": "2016-08-16"
+  },
+  {
+   "publication_number": "US-10818110-B2",
+   "title": "Methods and systems for providing a mixed autonomy vehicle trip summary",
+   "assignee": "Nio Usa, Inc.",
+   "priority_date": "2018-04-06"
+  },
+  {
+   "publication_number": "US-12436546-B2",
+   "title": "Systems and methods for an autonomous mobile robot fleet coordination",
+   "assignee": "Robust AI, Inc.",
+   "priority_date": "2024-03-01"
+  },
+  {
+   "publication_number": "JP-2023506050-A",
+   "title": "Hand-held device, system and method for training at least one movement and at",
+   "assignee": "ワンデルボッツ ゲーエムベーハー",
+   "priority_date": "2019-12-17"
+  },
+  {
+   "publication_number": "TW-201222347-A",
+   "title": "Integrated three-dimensional input system and control method thereof",
+   "assignee": "Xun-Yue Zhang",
+   "priority_date": "2010-11-25"
+  },
+  {
+   "publication_number": "US-20240138946-A1",
+   "title": "Steerable sheath with robotic handle stand",
+   "assignee": "Nextern Innovation, Llc",
+   "priority_date": "2020-07-17"
+  },
+  {
+   "publication_number": "US-20190001966-A1",
+   "title": "Rollover control algorithm",
+   "assignee": "NextEv USA, Inc.",
+   "priority_date": "2017-06-29"
+  },
+  {
+   "publication_number": "EP-3752443-A1",
+   "title": "Vacuum adhesion system",
+   "assignee": "Biomimetic Innovations Holding B.V.",
+   "priority_date": "2018-02-12"
+  },
+  {
+   "publication_number": "KR-101902369-B1",
+   "title": "Parking management robot and parking management system using thereof",
+   "assignee": "금오공과대학교 산학협력단",
+   "priority_date": "2017-03-23"
+  },
+  {
+   "publication_number": "CN-206604096-U",
+   "title": "Trailing type lower extremity movement rehabilitation omni-directional mobile",
+   "assignee": "徐州工程学院",
+   "priority_date": "2016-08-16"
+  },
+  {
+   "publication_number": "CN-108777940-A",
+   "title": "Hand guiding gardening utensil",
+   "assignee": "罗伯特·博世有限公司",
+   "priority_date": "2016-03-17"
+  },
+  {
+   "publication_number": "WO-2025184269-A1",
+   "title": "Systems and methods for an autonomous mobile robot providing haptic feedback",
+   "assignee": "Robust AI, Inc.",
+   "priority_date": "2024-03-01"
+  },
+  {
+   "publication_number": "DE-202017001578-U1",
+   "title": "Manual guiding device and mobile platform",
+   "assignee": "Kuka Deutschland Gmbh",
+   "priority_date": "2017-03-23"
+  },
+  {
+   "publication_number": "US-20250288371-A1",
+   "title": "Surgical robotic system",
+   "assignee": "Globus Medical, Inc.",
+   "priority_date": "2024-03-13"
+  },
+  {
+   "publication_number": "US-20250288372-A1",
+   "title": "Surgical robotic system",
+   "assignee": "Globus Medical, Inc.",
+   "priority_date": "2024-03-13"
+  },
+  {
+   "publication_number": "CN-121647821-A",
+   "title": "Surgical robot operation handle device and surgical robot system",
+   "assignee": "上海微创医疗机器人（集团）股份有限公司",
+   "priority_date": "2026-02-09"
+  },
+  {
+   "publication_number": "WO-2025184263-A1",
+   "title": "Systems and methods for an autonomous mobile robot",
+   "assignee": "Robust AI, Inc.",
+   "priority_date": "2024-03-01"
+  },
+  {
+   "publication_number": "US-12416930-B1",
+   "title": "Systems and methods for an autonomous mobile robot",
+   "assignee": "Robust AI, Inc.",
+   "priority_date": "2024-03-01"
+  },
+  {
+   "publication_number": "US-20250278094-A1",
+   "title": "Systems and Methods for an Autonomous Mobile Robot Haptic Feedback",
+   "assignee": "Robust AI, Inc.",
+   "priority_date": "2024-03-01"
+  },
+  {
+   "publication_number": "CN-121217256-A",
+   "title": "Systems, methods, apparatus, electronic devices and storage media for locating",
+   "assignee": "中国移动通信集团湖南有限公司",
+   "priority_date": "2025-09-26"
+  },
+  {
+   "publication_number": "CN-117695009-A",
+   "title": "Cooperative type orthopaedics power tool auxiliary positioning device, method",
+   "assignee": "上海博进医疗器械有限公司",
+   "priority_date": "2023-12-29"
+  },
+  {
+   "publication_number": "EP-4297688-A1",
+   "title": "Steerable sheath with robotic handle stand",
+   "assignee": "Nextern Innovation, LLC",
+   "priority_date": "2021-02-26"
+  },
+  {
+   "publication_number": "WO-2022183216-A1",
+   "title": "Steerable sheath with robotic handle stand",
+   "assignee": "Nextern Innovation, Llc",
+   "priority_date": "2021-02-26"
+  },
+  {
+   "publication_number": "KR-20250115302-A",
+   "title": "Vehicle operation mode for vehicle capable of wheeled and walking motion",
+   "assignee": "현대자동차주식회사",
+   "priority_date": "2024-01-23"
+  },
+  {
+   "publication_number": "TWI836688B",
+   "title": "Mobile multifunctional intelligent gait training machine",
+   "assignee": "國立中興大學",
+   "priority_date": "2022-10-31"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+  "publication_number": "JP-7570286-B2",
+  "legal_status": "active",
+  "one_line_summary": "Retrofit transport-assist unit for a castered medical bed (or cart): two motor-driven Mecanum wheels under the frame, driven in the direction and at a speed set by the strain/force measured between bed frame and wheel unit, with gyro-based turning assist.",
+  "prior_art": {
+    "E1": {
+      "verdict": "disclosed",
+      "quote": "the bed 100 includes a bed body 101 on which a mattress or the like is placed, a frame 102 that supports the bed body 101 from below",
+      "location": "description",
+      "note": "Medical bed with four corner casters 104; heavy bed transportable by one person; cart also mentioned as alternative object."
+    },
+    "E2": {
+      "verdict": "partial",
+      "quote": "the multiple Mecanum wheels 21R, 21L are composed of two Mecanum wheels 21R, 21L aligned along the short side of the bed 100",
+      "location": "description",
+      "note": "Exactly two driven wheels, but they are Mecanum wheels with drive only and no steering axis; the document explicitly avoids swiveling wheels. Not a steer-and-drive module."
+    },
+    "E3": {
+      "verdict": "partial",
+      "quote": "or may be aligned along a diagonal direction inclined both in the short side and long side directions.",
+      "location": "description",
+      "note": "Diagonal alignment of the two driven wheels is mentioned as an option, and the bed has four casters 104, but the two driven Mecanum wheels are additional wheels in a central under-bed unit (six ground contacts), not two of the four corner wheels; casters not explicitly described as free-swivel."
+    },
+    "E4": {
+      "verdict": "partial",
+      "quote": "an X-axis force sensor Sw1 and a Y-axis force sensor Sw2 as first sensors for detecting the force applied to the bed 100",
+      "location": "description",
+      "note": "Force sensing is via strain-gauge sensors between bed frame and wheel unit, not in the push handles or a handlebar/joystick; user simply pushes the bed anywhere."
+    },
+    "E5": {
+      "verdict": "partial",
+      "quote": "The control device 4 calculates the direction and magnitude of the strain St seen in the entire XY direction by calculating the resultant vector of the two strains Sx and Sy.",
+      "location": "description",
+      "note": "Pushing force is turned into an XY direction/magnitude vector and wheel speed scales with magnitude (strain taken as estimate of pushing speed); but force measured at wheel mount not handles, no explicit use of measured instantaneous speed/acceleration, and gyro-based turning assist is added (not translation only)."
+    },
+    "E6": {
+      "verdict": "partial",
+      "quote": "The control device 4 then drives the two Mecanum wheels 21R, 21L individually so as to cancel out the calculated distortion St.",
+      "location": "description",
+      "note": "Vector converted into individual drive speeds of the two Mecanum wheels only; there is no per-wheel steering angle (Mecanum kinematics replace steering)."
+    }
+  },
+  "combination_note": "E2+E3: not disclosed - two driven wheels (optionally diagonal) exist, but they are Mecanum wheels without steering and are extra wheels in a central module rather than two diagonal corner wheels among four. E5->E6: force-to-direction/magnitude vector then per-wheel drive speed is disclosed, but without steering angles and with force sensed at the wheel mount, not the handles. Closest gap: replacing Mecanum wheels with two diagonal steer-and-drive (swerve) wheels plus free casters and handle-mounted force sensing.",
+  "claim_overlap": [
+    {
+      "claim": "1",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "A transport assist device that assists in transporting an object",
+          "met_by_idea": "yes",
+          "quote": "is set to be faster as the distortion increases. A transport auxiliary device characterized by:",
+          "reason": "Idea is a power-assist drive that assists transporting a cart/bed."
+        },
+        {
+          "limitation": "a plurality of Mecanum wheels attached to the object and pressed against a floor surface",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Idea uses steer-and-drive wheels; a Mecanum wheel is not a steer-and-drive wheel."
+        },
+        {
+          "limitation": "a motor attached to each of the plurality of Mecanum wheels and configured to drive each Mecanum wheel",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Depends on Mecanum wheels, which the idea does not use."
+        },
+        {
+          "limitation": "a first sensor detecting a distortion between the object and the plurality of Mecanum wheels parallel to the floor, thereby detecting force direction and distortion magnitude",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Idea senses force at the push handles, not strain between object and (Mecanum) wheels."
+        },
+        {
+          "limitation": "a control device electrically connected to the first sensor and controlling the motor",
+          "met_by_idea": "yes",
+          "quote": "a control device electrically connected to the first sensor and controlling the motor;",
+          "reason": "Idea has a controller driving the active wheels from the force sensors."
+        },
+        {
+          "limitation": "drive the Mecanum wheels so as to counteract the distortion and propel the object in the direction of the applied force",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Idea propels in the force direction but via swerve wheels, and does not counteract wheel-mount distortion."
+        },
+        {
+          "limitation": "drive the Mecanum wheels to reduce the distortion toward zero, with wheel speed faster as distortion increases",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Mecanum-specific, and distortion-nulling control is not part of the idea."
+        }
+      ]
+    }
+  ]
+}

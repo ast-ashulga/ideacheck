@@ -1,0 +1,1430 @@
+{
+ "DE-102004033572-A1": {
+  "publication_number": "DE-102004033572-A1",
+  "legal_status": "not_active",
+  "one_line_summary": "German application (same family content as DE202004010854U1) for a power-assisted distribution/delivery trolley with two hub-motor-driven castors controlled differentially by two handle force gauges, plus safety switching for one-hand release (brake/no drive at standstill, straight-ahead when moving).",
+  "prior_art": {
+   "E1": {
+    "verdict": "disclosed",
+    "quote": "and rigid carriers  4  for rear castors  5  and yokes pivotable about vertical axes  6  for front castors  7  includes.",
+    "location": "description",
+    "note": "Four-wheeled delivery/picking trolley chassis with load area 2: two rear fixed castors 5 and front swivel castors 7 on vertical-axis yokes 6; intended to relieve the operator when moving a heavily loaded cart. Claim 1 requires only at least one swivel castor plus two fixed castors (3 or more wheels).",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "partial",
+    "quote": "In both embodiments, with each of the rear fixed castors  5  in each case a direction of rotation reversible, under load starting electric motor  8th",
+    "location": "description",
+    "note": "Exactly two of the wheels are driven (one reversible electric motor per rear fixed castor), but they have traction drive only, with no steering drive at all, let alone 360 degree steering. Steering comes from differential motor power. The generic claim language says the driven pair may be the fixed or the swivel castors, but even then the swivel is passive, not motor-steered.",
+    "verified": true
+   },
+   "E3": {
+    "verdict": "partial",
+    "quote": "and rigid carriers  4  for rear castors  5  and yokes pivotable about vertical axes  6  for front castors  7  includes.",
+    "location": "description",
+    "note": "The non-driven wheels are free-swivel front castors 7, as in the idea. But the two driven wheels are the rear pair on a common rigid axle 9 (same side, coaxial), not placed diagonally, and they are fixed, so the cart cannot move sideways in any direction.",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "disclosed",
+    "quote": "while the push bar  12  in the embodiment according to  2  illustrated distributor or. Delivery cart with additional, the traverse  14  outstanding handles  15  Is provided.",
+    "location": "description",
+    "note": "U-shaped push bar 12 (spars 13, crossbar 14) with additional handles 15 that contain the force sensors; sensors built into the push handles.",
+    "verified": true
+   },
+   "E5": {
+    "verdict": "partial",
+    "quote": "in the handles  15  Sensors, in particular dynamometers  16  arranged by an operator on one or each of the handles  15  exerted forces, in particular tensile or shear forces, in corresponding control signals",
+    "location": "description",
+    "note": "Two spaced force gauges 16 in the handles measure push/pull force of each hand and turn it into control signals. But there is no motion vector: each hand's force simply sets its own motor's power (differential push = turning). No explicit use of instantaneous speed or acceleration, and no omnidirectional translation vector.",
+    "verified": true
+   },
+   "E6": {
+    "verdict": "partial",
+    "quote": "a control and regulating device for powering the electric motors in relation to each by each of the two hands of the operator on the car exerted shear or traction",
+    "location": "description",
+    "note": "Per-wheel commands are traction power only, proportional to the force of the corresponding hand (differential drive); steering by differential wheel speed rather than a dedicated per-wheel steering angle. Second switching device equalises both motors for straight-ahead travel when one hand is released.",
+    "verified": true
+   }
+  },
+  "combination_note": "Does not disclose E2+E3: the two driven wheels are traction-only fixed castors on one rear axle, not diagonal steer-and-drive modules; only the free-swivel passive castors match. Does not disclose E5->E6 as claimed in the idea: handle forces map directly to two motor powers (differential steering), with no translation vector, no speed/acceleration term and no steering angle. Closest overlap is the force-sensing push handles (E4) and power-assisted heavy trolley with two driven wheels plus swivel castors; the main gap is the diagonal pair of 360 degree steer-and-drive modules and vector-based steering-angle control. Status: withdrawn application, so no claim overlap analysis.",
+  "claim_overlap": [],
+  "quote_failures": []
+ },
+ "DE-202004010854-U1": {
+  "publication_number": "DE-202004010854-U1",
+  "legal_status": "not_active",
+  "one_line_summary": "German utility model for a power-assisted delivery/picking trolley whose two rear fixed castors each have a reversible electric motor driven in proportion to the push/pull force measured separately at each hand on the push bar, with safety switching that blocks drive or forces straight-ahead travel when a hand is released.",
+  "prior_art": {
+   "E1": {
+    "verdict": "disclosed",
+    "quote": "and rigid carriers  4  for rear castors  5  and yokes pivotable about vertical axes  6  for front castors  7  includes.",
+    "location": "description",
+    "note": "Four-wheeled delivery/picking trolley chassis with load area 2: two rear fixed castors 5 and front swivel castors 7 on vertical-axis yokes 6; intended to relieve the operator when moving a heavily loaded cart. Claim 1 requires only at least one swivel castor plus two fixed castors (3 or more wheels).",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "partial",
+    "quote": "In both embodiments, with each of the rear fixed castors  5  in each case a direction of rotation reversible, under load starting electric motor  8th",
+    "location": "description",
+    "note": "Exactly two of the wheels are driven (one reversible electric motor per rear fixed castor), but they have traction drive only, with no steering drive at all, let alone 360 degree steering. Steering comes from differential motor power. The generic claim language says the driven pair may be the fixed or the swivel castors, but even then the swivel is passive, not motor-steered.",
+    "verified": true
+   },
+   "E3": {
+    "verdict": "partial",
+    "quote": "and rigid carriers  4  for rear castors  5  and yokes pivotable about vertical axes  6  for front castors  7  includes.",
+    "location": "description",
+    "note": "The non-driven wheels are free-swivel front castors 7, as in the idea. But the two driven wheels are the rear pair on a common rigid axle 9 (same side, coaxial), not placed diagonally, and they are fixed, so the cart cannot move sideways in any direction.",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "disclosed",
+    "quote": "while the push bar  12  in the embodiment according to  2  illustrated distributor or. Delivery cart with additional, the traverse  14  outstanding handles  15  Is provided.",
+    "location": "description",
+    "note": "U-shaped push bar 12 (spars 13, crossbar 14) with additional handles 15 that contain the force sensors; sensors built into the push handles.",
+    "verified": true
+   },
+   "E5": {
+    "verdict": "partial",
+    "quote": "in the handles  15  Sensors, in particular dynamometers  16  arranged by an operator on one or each of the handles  15  exerted forces, in particular tensile or shear forces, in corresponding control signals",
+    "location": "description",
+    "note": "Two spaced force gauges 16 in the handles measure push/pull force of each hand and turn it into control signals. But there is no motion vector: each hand's force simply sets its own motor's power (differential push = turning). No explicit use of instantaneous speed or acceleration, and no omnidirectional translation vector.",
+    "verified": true
+   },
+   "E6": {
+    "verdict": "partial",
+    "quote": "a control and regulating device for powering the electric motors in relation to each by each of the two hands of the operator on the car exerted shear or traction",
+    "location": "description",
+    "note": "Per-wheel commands are traction power only, proportional to the force of the corresponding hand (differential drive); steering by differential wheel speed rather than a dedicated per-wheel steering angle. Second switching device equalises both motors for straight-ahead travel when one hand is released.",
+    "verified": true
+   }
+  },
+  "combination_note": "Does not disclose E2+E3: the two driven wheels are traction-only fixed castors on one rear axle, not diagonal steer-and-drive modules; only the free-swivel passive castors match. Does not disclose E5->E6 as claimed in the idea: handle forces map directly to two motor powers (differential steering), with no translation vector, no speed/acceleration term and no steering angle. Closest overlap is the force-sensing push handles (E4) and power-assisted heavy trolley with two driven wheels plus swivel castors; the main gap is the diagonal pair of 360 degree steer-and-drive modules and vector-based steering-angle control. Status: expired utility model, so no claim overlap analysis.",
+  "claim_overlap": [],
+  "quote_failures": []
+ },
+ "EP-2897566-B1": {
+  "publication_number": "EP-2897566-B1",
+  "legal_status": "active",
+  "one_line_summary": "Powered patient support apparatus (bed/stretcher/cot) with motor-driven and motor-steered wheels controlled by a force sensing system that measures magnitude, direction and location (moment) of user forces and amplifies the motion the apparatus would naturally make.",
+  "prior_art": {
+   "E1": {
+    "verdict": "disclosed",
+    "quote": "patient support apparatus 20a includes four wheels 24, which are each generally positioned adjacent the four corners of apparatus 20a",
+    "location": "description",
+    "note": "Four-wheeled hospital bed/stretcher/cot base for delicate patient transport.",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "partial",
+    "quote": "Patient support apparatus 20e differs from patient support apparatus 20d in that the two driven wheels 24a have been replaced by two steered and driven wheels 24c.",
+    "location": "description",
+    "note": "FIG. 8 has exactly two steered-and-driven wheels 24c, but on a six-wheel base (four casters 24d plus two 24c), not two of four. FIG. 3/FIG. 6 have four steer-and-drive wheels (24c), not two. 360 degree steering range is not stated.",
+    "verified": true
+   },
+   "E3": {
+    "verdict": "partial",
+    "quote": "wheels 24d of apparatus 20e are castered or otherwise free wheeling wheels that rotate to match the current direction of movement",
+    "location": "description",
+    "note": "Remaining wheels are free-swivel casters, but the two active wheels are not placed diagonally: FIG. 8 derives from FIG. 7 where the active pair sits side-by-side on a common axis. No diagonal arrangement found (grep 'diagonal' returns nothing). Claim 10 and the description only say steerable/powered wheels may be at 'one or more of the corners', a generic teaching, not a diagonal selection; no 'opposite corner' wording either.",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "disclosed",
+    "quote": "Handles 46 include one or more force sensors 52 positioned thereon, or they make pivoting contact with one or more force sensors 52 as a user manipulates them",
+    "location": "description",
+    "note": "Push handles with built-in force sensors (also side-rail and footboard sensors).",
+    "verified": true
+   },
+   "E5": {
+    "verdict": "partial",
+    "quote": "any detected force inputs from force sensors 52 will result in controller 50 causing purely translational motion of the support apparatus if the speed sensor(s) indicates that the support apparatus is currently traveling under a threshold speed",
+    "location": "description",
+    "note": "Difference: the idea is unconditionally translation-only, while EP is purely translational only below a threshold speed and otherwise adds powered rotation (claim 1 uses the moment of the force to command turning). Otherwise close: handle force (magnitude and direction) is turned into motion with 'a speed or acceleration that generally corresponds to the magnitude of the sensed forces', and the current measured speed is fed to the controller.",
+    "verified": true
+   },
+   "E6": {
+    "verdict": "disclosed",
+    "quote": "controller 50 processes those readings and outputs appropriate steering and/or drive commands to motors 54 and/or 56",
+    "location": "description",
+    "note": "Per-wheel steering motor 56 and drive motor 54 receive commands derived from the force readings (FIG. 3/4: each wheel has its own steering and power motor).",
+    "verified": true
+   }
+  },
+  "combination_note": "E2+E3 not disclosed together: the only two-steer-and-drive-wheel embodiment (FIG. 8, apparatus 20e) has four free-wheeling casters (six wheels total) and the active pair is not diagonal; four-wheel embodiments use four steer-and-drive wheels, Ackermann, or a single central wheel. E5->E6 is close: force magnitude/direction -> speed/acceleration -> steering and drive commands per wheel, with a speed-dependent purely translational mode. Closest gap to the idea: the diagonal placement of exactly two swerve modules on a four-wheel base with two free casters, and an unconditional translation-only vector (EP uses moment/rotation in its main claim).",
+  "claim_overlap": [
+   {
+    "claim": "1",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "A patient support apparatus (20) comprising:",
+      "met_by_idea": "yes",
+      "quote": "A patient support apparatus (20) comprising: a base (22); a powered wheel (24a) and a steerable wheel (24b);",
+      "reason": "The idea explicitly covers a wheeled hospital bed; for that embodiment it is a patient support apparatus.",
+      "verified": true
+     },
+     {
+      "limitation": "a base (22);",
+      "met_by_idea": "yes",
+      "quote": "A patient support apparatus (20) comprising: a base (22); a powered wheel (24a) and a steerable wheel (24b);",
+      "reason": "Four-wheeled base.",
+      "verified": true
+     },
+     {
+      "limitation": "a powered wheel (24a) and a steerable wheel (24b);",
+      "met_by_idea": "yes",
+      "quote": "a base (22); a powered wheel (24a) and a steerable wheel (24b); a patient support deck (30) supported by said base (22)",
+      "reason": "Each swerve wheel is powered and steerable (claim 2 allows the same wheel).",
+      "verified": true
+     },
+     {
+      "limitation": "a patient support deck (30) supported by said base (22), said patient support deck (30) adapted to support a patient;",
+      "met_by_idea": "yes",
+      "quote": "a patient support deck (30) supported by said base (22), said patient support deck (30) adapted to support a patient;",
+      "reason": "Met for the hospital-bed embodiment (as with the preamble); a warehouse/DIY cart would not have a patient support deck.",
+      "verified": true
+     },
+     {
+      "limitation": "a first motor (54) adapted to provide power to said powered wheel (24a);",
+      "met_by_idea": "yes",
+      "quote": "a first motor (54) adapted to provide power to said powered wheel (24a); a second motor (56) adapted to steer said steerable wheel (24b)",
+      "reason": "Traction drive of each active wheel.",
+      "verified": true
+     },
+     {
+      "limitation": "a second motor (56) adapted to steer said steerable wheel (24b), characterized in that the apparatus further includes",
+      "met_by_idea": "yes",
+      "quote": "a first motor (54) adapted to provide power to said powered wheel (24a); a second motor (56) adapted to steer said steerable wheel (24b)",
+      "reason": "360 degree steering drive of each active wheel.",
+      "verified": true
+     },
+     {
+      "limitation": "a force sensing system (50,52) adapted to detect both a direction and magnitude of forces exerted by a user and to determine a location of the applied forces relative to a reference location (90) on the patient support apparatus; and",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea measures handle force magnitude and direction, but does not specify determining the location of the force relative to a reference point (with sensors in two handles this could be computed)."
+     },
+     {
+      "limitation": "a controller (50) adapted to control said first and second motors (54, 56) in a manner that takes into account the magnitude, direction, and moment of the applied forces relative to the reference location, and to power the powered wheel (24a) and steer the steerable wheel (24b) in a manner that amplifies how the patient support apparatus would move if it were subjected to only the exerted forces.",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Claim requires using the moment of the forces and amplifying how the apparatus would move (including turning) under those forces; the idea's vector is translation only with no commanded rotation, so moment-based amplified rotation contradicts it. This is the key point to keep as a design-around."
+     }
+    ],
+    "all_met_verified": false
+   },
+   {
+    "claim": "13",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "A method of controlling movement of a patient support apparatus (20) having a steerable wheel (24b) and a powered wheel (24a), said method comprising:",
+      "met_by_idea": "yes",
+      "quote": "A method of controlling movement of a patient support apparatus (20) having a steerable wheel (24b) and a powered wheel (24a), said method comprising:",
+      "reason": "Hospital-bed embodiment with swerve wheels; method of operating it.",
+      "verified": true
+     },
+     {
+      "limitation": "providing a force sensing system (50, 52) on said patient support apparatus (20), said force sensing system (50, 52) adapted to detect a magnitude and direction of forces applied by a user to the patient support apparatus (20) and to determine a location of the applied forces relative to a reference location (90) on the patient support apparatus;",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Force magnitude and direction at the handles are measured, but determining the location of the force relative to a reference location is not specified by the idea."
+     },
+     {
+      "limitation": "providing a controller (50) on said patient support apparatus (20) adapted to control steering of said steerable wheel (24b) and to control power delivered to said powered wheel (24a), characterized by controlling said powered wheel (24a) and said steerable wheel (24a) in a manner that takes into account the magnitude, direction, and moment of the applied force relative to the reference location (90), and that amplifies how the patient support apparatus (20) would turn if it were subjected to only the applied force.",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Requires controlling with the moment of the force so as to amplify how the apparatus would turn; the idea is translation-only with no commanded rotation."
+     }
+    ],
+    "all_met_verified": false
+   }
+  ],
+  "quote_failures": []
+ },
+ "JP-2008137631-A": {
+  "publication_number": "JP-2008137631-A",
+  "legal_status": "not_active",
+  "one_line_summary": "Compact transport cart with two electric casters on one diagonal (each a 360-degree swivelling caster with two in-wheel motors, steered by wheel speed difference) and two free casters on the other diagonal.",
+  "prior_art": {
+   "E1": {
+    "verdict": "disclosed",
+    "quote": "A pair of electric casters 21 and 22, a pair of free casters 23 and 24, a battery 25 and a control device 26 are disposed on the lower surface of the vehicle body 2.",
+    "location": "description",
+    "note": "Rectangular four-caster transport cart for parts in factories/warehouses; electric bed and wheelchair are also named as applications.",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "partial",
+    "quote": "the support column 31 is supported by a support portion 27 provided on the vehicle body 2 by a bearing (not shown) so as to be able to rotate 360 ° about the vertical axis",
+    "location": "description",
+    "note": "Exactly two active wheel units that drive and swivel 360 degrees, but the steering comes from the speed difference between a pair of drive wheels inside each caster, not from a dedicated steering motor. The background prior art (JP UM 6-25224) has diagonal drive wheels steered by a steering motor, with 360 degrees not stated.",
+    "verified": true
+   },
+   "E3": {
+    "verdict": "disclosed",
+    "quote": "The free casters 23 and 24 are disposed on the other diagonal line passing through the remaining two corners of the vehicle body 2 and the vehicle body center of gravity C1",
+    "location": "description",
+    "note": "The electric casters sit on one diagonal and the free casters on the other. The free casters swivel 360 degrees about the vertical axis. Claim 2 also covers this.",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "disclosed",
+    "quote": "As the operation unit, an operation lever that can be tilted in accordance with the traveling direction, a button arranged in accordance with the moving direction, or the like can be used.",
+    "location": "description",
+    "note": "A tilting lever (joystick-like) on an operation handle on the vehicle body, or wired/wireless. No force sensors in the push handles.",
+    "verified": true
+   },
+   "E5": {
+    "verdict": "partial",
+    "quote": "the control apparatus 26 determines a traveling direction by tilting an operation lever. Further, the traveling speed is determined by the inclination angle of the operation lever.",
+    "location": "description",
+    "note": "The direction and speed command comes from lever tilt, not from measured handle push force, and nothing is said about using the instantaneous speed or acceleration. Rotation in place is also commanded.",
+    "verified": true
+   },
+   "E6": {
+    "verdict": "partial",
+    "quote": "when the transport vehicle 1 is moved in an oblique direction or a lateral direction, the two drive wheels 32 and 33 in the electric casters 21 and 23 are rotated at a predetermined rotation speed ratio",
+    "location": "description",
+    "note": "Each caster is oriented and then driven for oblique or lateral travel, but the orientation is set by the differential wheel speed ratio, not by a commanded steering angle from a steering drive.",
+    "verified": true
+   }
+  },
+  "combination_note": "E2+E3: largely yes. There are exactly two powered 360-degree swivelling units on one diagonal and two free swivel casters on the other diagonal, and the stated reason is stability when moving obliquely or laterally. The gap is that steering is by differential speed of twin in-wheel motors, with no separate steering motor. The background prior art (diagonal drive wheels steered by a steering motor plus idle wheels) is even closer on E2. E5->E6: not disclosed. The input is lever tilt, with no handle-force sensing and no speed or acceleration term. This is the closest gap to the idea.",
+  "claim_overlap": [],
+  "quote_failures": []
+ },
+ "JP-2014046890-A": {
+  "publication_number": "JP-2014046890-A",
+  "legal_status": "active",
+  "one_line_summary": "Power-assist omnidirectional trolley whose load rests on four free casters while spring-loaded, servo-driven omni wheels (four in a rectangle or three in a triangle) move it according to the force on a load-cell handle.",
+  "prior_art": {
+   "E1": {
+    "verdict": "partial",
+    "quote": "The omnidirectional mobile trolley 1 (hereinafter also referred to as “trolley”) having the power assist function of the present application normally includes four free casters under the pedestal.",
+    "location": "description",
+    "note": "A cart for heavy loads on four corner casters, but with 3-4 extra omni drive wheels underneath, so it is not a four-wheeled base.",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "absent",
+    "quote": "",
+    "location": "",
+    "note": "Drive is by omni wheels with fixed axles and no steering. The document explicitly avoids steered drive wheels. An omni wheel is not a steer-and-drive wheel."
+   },
+   "E3": {
+    "verdict": "partial",
+    "quote": "The carriage 1 of the present application is provided with the free casters 30 at the lower four corners of the carriage 40, the omni wheel 10 is arranged in a rectangular shape below the carriage 40",
+    "location": "description",
+    "note": "There are free-swivel casters, but four of them (all corners). The active wheels are four omni wheels in a rectangle (diagonal pairs with parallel axles), not two diagonal steer-and-drive wheels.",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "disclosed",
+    "quote": "The handle 20 is connected to the load cell 21 and the handle 20 is operated with three degrees of freedom of the rotation direction θ, the X axis, and the Y axis.",
+    "location": "description",
+    "note": "A push handle with a grip lever and a 3-axis load cell.",
+    "verified": true
+   },
+   "E5": {
+    "verdict": "partial",
+    "quote": "Moreover, the output torque of each drive unit connected to the shaft of the omni wheel has a power assist function that is proportional to the external force applied to the load cell.",
+    "location": "description",
+    "note": "Handle force (X, Y, rotation) is measured and turned into motion, but the drive torque is simply proportional to force. Instantaneous speed or acceleration is not considered, and rotation is commanded, so the vector is not translation-only.",
+    "verified": true
+   },
+   "E6": {
+    "verdict": "partial",
+    "quote": "arithmetic processing is performed by a control unit (not shown), and the rotation speed and rotation are applied to the drive unit connected to the shaft of each omni wheel.",
+    "location": "description",
+    "note": "Per-wheel commands are only rotation speed and direction of omni wheels. There is no steering angle.",
+    "verified": true
+   }
+  },
+  "combination_note": "E2+E3: not disclosed. The document uses four (or three) unsteered omni drive wheels plus four free casters and rejects steered drive wheels as slow. E5->E6: partial. Handle force from a load cell drives the wheels with torque proportional to force, but there is no speed/acceleration-aware translation vector and no per-wheel steering angle. The closest gap is the wheel architecture: omni wheels instead of two diagonal swerve wheels.",
+  "claim_overlap": [
+   {
+    "claim": "1",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "In an omnidirectional mobile trolley having a power assist function that is moved by an omni wheel equipped with a drive motor",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "The idea moves the cart with steer-and-drive (swerve) wheels, not omni wheels."
+     },
+     {
+      "limitation": "a plurality of free casters are provided below the chassis, and the load is supported by the free casters",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "The idea has two free-swivel casters, but its active wheels are load-bearing wheels of the four-wheel base, so the load is probably not carried by the casters alone."
+     },
+     {
+      "limitation": "four omni wheels are arranged in a rectangular shape with their rolls in contact with the ground below the trolley",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "There are no omni wheels. The idea has two diagonal swerve wheels."
+     },
+     {
+      "limitation": "the axles of the two omni wheels on each diagonal are in the same direction",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "There are no omni wheels. The active wheels' axles are steered to any angle."
+     },
+     {
+      "limitation": "the contact pressure of the roll of each omni wheel is adjusted by a spring disposed between the omni wheel and the chassis",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "This depends on omni wheels, which the idea does not have. The idea does not specify spring-loaded drive wheels."
+     },
+     {
+      "limitation": "the omni wheel axle is connected to a drive unit composed of a servo motor and a speed reducer",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "There are no omni wheels. The idea's drive motor type is also unspecified."
+     },
+     {
+      "limitation": "the rotation direction and rotation speed of each omni wheel drive unit are independently controlled according to the external force applied to the external force detection sensor",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "The idea does control drive from handle force, but it also commands a steering angle for swerve wheels. Controlling omni wheel drive units is not met."
+     },
+     {
+      "limitation": "the trolley has a power assist function",
+      "met_by_idea": "yes",
+      "quote": "An omnidirectional mobile trolley having a power assist function that is controlled and has a power assist function.",
+      "reason": "The idea is a power-assisted cart that can move in any direction thanks to its free-swivel casters.",
+      "verified": true
+     }
+    ],
+    "all_met_verified": false
+   },
+   {
+    "claim": "2",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "In an omnidirectional mobile trolley having a power assist function that is moved by an omni wheel equipped with a drive motor",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "The idea uses steer-and-drive wheels, not omni wheels."
+     },
+     {
+      "limitation": "a plurality of free casters are provided below the chassis, and the load is supported by the free casters",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "The idea has two free-swivel casters, but its active wheels probably also carry load."
+     },
+     {
+      "limitation": "three omni wheels are arranged in a triangular shape with their rolls in contact with the ground below the trolley",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "The idea has no omni wheels and uses two diagonal swerve wheels, not three wheels in a triangle."
+     },
+     {
+      "limitation": "the shaft of each omni wheel is disposed toward the center of the chassis",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "There are no omni wheels. The swerve wheel axles are steered."
+     },
+     {
+      "limitation": "the contact pressure of the roll of each omni wheel is adjusted by a spring disposed between the omni wheel and the chassis",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "This depends on omni wheels, which the idea does not have."
+     },
+     {
+      "limitation": "the omni wheel axle is connected to a drive unit composed of a servo motor and a speed reducer",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "There are no omni wheels."
+     },
+     {
+      "limitation": "the rotation direction and rotation speed of each omni wheel drive unit are independently controlled according to the external force applied to the external force detection sensor",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Force-based control is present in the idea, but of swerve wheels (steering angle plus drive), not omni wheel drive units."
+     },
+     {
+      "limitation": "the trolley has a power assist function",
+      "met_by_idea": "yes",
+      "quote": "An omnidirectional mobile trolley having a power assist function that is controlled and has a power assist function.",
+      "reason": "The idea is a power-assist cart.",
+      "verified": true
+     }
+    ],
+    "all_met_verified": false
+   }
+  ],
+  "quote_failures": []
+ },
+ "JP-2023019525-A": {
+  "publication_number": "JP-2023019525-A",
+  "legal_status": "active",
+  "one_line_summary": "Honda power-assist trolley with two rear driven omnidirectional wheels and two front casters, in which handle force sets provisional target longitudinal/lateral speeds (or a velocity vector) that are scaled by a common correction coefficient when an upper limit is exceeded, preserving travel direction.",
+  "prior_art": {
+   "E1": {
+    "verdict": "disclosed",
+    "quote": "a pair of omnidirectional wheels 3 are provided at the lower portion of the rear portion 2A of the vehicle body 2 . Left and right casters 13 are supported at the lower portion of the front portion 2B",
+    "location": "description",
+    "note": "Four-wheeled trolley (2 rear omni wheels + 2 front casters) carrying devices such as an X-ray scanner; heavy-load/hospital-bed context not stated explicitly.",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "partial",
+    "quote": "each omnidirectional wheel 3 includes a frame 17, a pair of drive discs 18 rotatably supported by the frame 17, and an annular main wheel 19 disposed between the pair of drive discs 18.",
+    "location": "description",
+    "note": "Two of four wheels are active, but they are drive-disk omnidirectional wheels, not steer-and-drive wheels with a 360 deg steering drive.",
+    "verified": true
+   },
+   "E3": {
+    "verdict": "partial",
+    "quote": "Each caster 13 has a fork 13A rotatably coupled to the arm 14 about an axis extending vertically",
+    "location": "description",
+    "note": "Passive wheels are swivel casters (front), but the two active wheels are a left/right pair on the rear, not diagonal.",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "disclosed",
+    "quote": "The handle 5 is supported by the handle holder 35 via the force sensor 6",
+    "location": "description",
+    "note": "Push handle on a three-axis force sensor.",
+    "verified": true
+   },
+   "E5": {
+    "verdict": "partial",
+    "quote": "the control device 7 sets the target speed vector provisional value vtp of the vehicle body 2 based on the load detected by the force sensor 6",
+    "location": "description",
+    "note": "Handle force is turned into a target velocity vector (with speed limiting that preserves direction), but a target angular velocity from the moment is also commanded in the embodiment, and the mapping is given as e.g. a proportional gain on force (vtp1 = k1*fs1), not dependent on measured instantaneous speed/acceleration.",
+    "verified": true
+   },
+   "E6": {
+    "verdict": "partial",
+    "quote": "The control device 7 sets the respective target rotation speeds rt of the electric motors 25 based on the target longitudinal speed vt1, the target lateral speed vt2, and the target angular speed ωt.",
+    "location": "description",
+    "note": "Vector converted into per-motor speeds of the omni-wheel drive disks; no per-wheel steering angle.",
+    "verified": true
+   }
+  },
+  "combination_note": "E2+E3 not disclosed: two driven wheels plus two swivel casters, but the driven wheels are omnidirectional wheels side by side at the rear, not diagonal swerve modules. E5->E6 partial: handle force -> target velocity vector (claim 9) -> per-motor rotation speeds, but with no steering angle per wheel and no speed/acceleration-aware interpretation; rotation is also commanded. Closest overlap is claim 9's force-to-velocity-vector concept; biggest gap is the wheel type/layout.",
+  "claim_overlap": [
+   {
+    "claim": "1",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "A trolley with a vehicle body",
+      "met_by_idea": "yes",
+      "quote": "a vehicle body; at least one omnidirectional wheel provided on the vehicle body for moving the vehicle body in all directions",
+      "reason": "Idea has a cart body (only the vehicle body part of this quote is relied on).",
+      "verified": true
+     },
+     {
+      "limitation": "at least one omnidirectional wheel provided on the body for moving it in all directions along a floor",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "The idea uses steer-and-drive (swerve) wheels plus free-swivel casters, not omnidirectional (drive-disk/roller) wheels; under a strict reading an 'omnidirectional wheel' is a distinct wheel type."
+     },
+     {
+      "limitation": "a drive unit for driving each of the omnidirectional wheels",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Depends on omnidirectional wheels, absent in the idea."
+     },
+     {
+      "limitation": "a handle provided on the vehicle body for receiving a user's operation",
+      "met_by_idea": "yes",
+      "quote": "a handle provided on the vehicle body for receiving a user's operation",
+      "reason": "Idea has push handles / handlebar.",
+      "verified": true
+     },
+     {
+      "limitation": "a force sensor that detects a longitudinal load and a lateral load applied to the handle",
+      "met_by_idea": "yes",
+      "quote": "a force sensor that detects a longitudinal load and a lateral load applied to the handle",
+      "reason": "Idea measures the user's force on the handles in the plane to derive a direction vector.",
+      "verified": true
+     },
+     {
+      "limitation": "a control device that controls the drive unit based on the longitudinal and lateral loads",
+      "met_by_idea": "yes",
+      "quote": "a control device that controls the drive unit based on the longitudinal load and the lateral load detected by the force sensor",
+      "reason": "Idea's controller drives the wheels from the measured handle force.",
+      "verified": true
+     },
+     {
+      "limitation": "sets a target longitudinal speed provisional value from the longitudinal load and a target lateral speed provisional value from the lateral load",
+      "met_by_idea": "yes",
+      "quote": "The control device sets a target longitudinal speed provisional value of the vehicle body based on the longitudinal load, and sets a target lateral speed provisional value of the vehicle body based on the lateral load",
+      "reason": "Converting force into a translation vector implies longitudinal/lateral target speed components (the idea's speed/acceleration consideration does not exclude this).",
+      "verified": true
+     },
+     {
+      "limitation": "when either provisional value is at/above its upper limit, multiply both by a common correction coefficient (0<k<=1)",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea does not specify speed limiting; a product might include it."
+     },
+     {
+      "limitation": "when both are below the limits, use the provisional values as the target speeds",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Depends on whether the idea includes the limiting scheme."
+     },
+     {
+      "limitation": "controls the drive unit based on the target longitudinal speed and target lateral speed",
+      "met_by_idea": "yes",
+      "quote": "A truck that controls the drive unit based on the target longitudinal speed and the target lateral speed.",
+      "reason": "Idea passes the translation vector to the active wheels.",
+      "verified": true
+     }
+    ],
+    "all_met_verified": false
+   },
+   {
+    "claim": "9",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "A trolley with a vehicle body",
+      "met_by_idea": "yes",
+      "quote": "a vehicle body; at least one omnidirectional wheel provided on the vehicle body for moving the vehicle body in all directions",
+      "reason": "Idea has a cart body (only the vehicle body part is relied on).",
+      "verified": true
+     },
+     {
+      "limitation": "at least one omnidirectional wheel provided on the body for moving it in all directions along a floor",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "The idea uses steer-and-drive (swerve) wheels plus free-swivel casters, not omnidirectional (drive-disk/roller) wheels; under a strict reading an 'omnidirectional wheel' is a distinct wheel type."
+     },
+     {
+      "limitation": "a drive unit for driving each of the omnidirectional wheels",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Depends on omnidirectional wheels."
+     },
+     {
+      "limitation": "a handle provided on the vehicle body for receiving a user's operation",
+      "met_by_idea": "yes",
+      "quote": "a handle provided on the vehicle body for receiving a user's operation",
+      "reason": "Idea has push handles / handlebar.",
+      "verified": true
+     },
+     {
+      "limitation": "a force sensor that detects a load applied to the handle",
+      "met_by_idea": "yes",
+      "quote": "a force sensor that detects a load applied to the handle; a control device that controls the drive unit based on the load detected by the force sensor",
+      "reason": "Idea measures the force applied to the handles.",
+      "verified": true
+     },
+     {
+      "limitation": "a control device that controls the drive unit based on the detected load",
+      "met_by_idea": "yes",
+      "quote": "a control device that controls the drive unit based on the load detected by the force sensor",
+      "reason": "Idea's controller drives the wheels from the handle force.",
+      "verified": true
+     },
+     {
+      "limitation": "sets a target velocity vector provisional value of the vehicle body based on the load",
+      "met_by_idea": "yes",
+      "quote": "The control device sets a target velocity vector provisional value of the vehicle body based on the load",
+      "reason": "Idea converts the handle force into a desired motion (velocity/direction) vector.",
+      "verified": true
+     },
+     {
+      "limitation": "if the provisional vector magnitude is at/above an upper limit, multiply it by a correction coefficient (0<k<=1)",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea does not specify vector-magnitude limiting; a product might include it."
+     },
+     {
+      "limitation": "if below the upper limit, use the provisional vector as the target vector",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Depends on whether the limiting scheme is included."
+     },
+     {
+      "limitation": "controls the drive unit based on the target velocity vector",
+      "met_by_idea": "yes",
+      "quote": "A truck that controls the drive unit based on the target velocity vector.",
+      "reason": "Idea transmits the vector to the active wheels.",
+      "verified": true
+     }
+    ],
+    "all_met_verified": false
+   }
+  ],
+  "quote_failures": []
+ },
+ "JP-2023144611-A": {
+  "publication_number": "JP-2023144611-A",
+  "legal_status": "active",
+  "one_line_summary": "Honda power-assist trolley with two rear driven omnidirectional wheels and two front casters, whose handle force/moment sensor sets target longitudinal, lateral and angular velocities, with lateral velocity reduced as angular velocity grows so turning does not cause unintended sideways drift.",
+  "prior_art": {
+   "E1": {
+    "verdict": "disclosed",
+    "quote": "a pair of omnidirectional wheels 3 are provided at the lower part of the rear portion 2A of the vehicle body 2. Further, left and right casters 13 are supported at the lower part of the front portion 2B",
+    "location": "description",
+    "note": "Four-wheeled trolley (2 rear omni wheels + 2 front casters) carrying devices such as an X-ray scanner; heavy-load/hospital-bed context is not stated explicitly.",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "partial",
+    "quote": "each omnidirectional wheel 3 includes a frame 17, a pair of drive disks 18 rotatably supported by the frame 17, and an annular main wheel 19 disposed between the pair of drive disks 18.",
+    "location": "description",
+    "note": "Exactly two of four wheels are active, but they are omnidirectional wheels driven by two drive disks each (lateral motion via roller differential), not steer-and-drive wheels with a 360 deg steering drive.",
+    "verified": true
+   },
+   "E3": {
+    "verdict": "partial",
+    "quote": "Each caster 13 has a fork 13A rotatably coupled to the arm 14 about an axis extending vertically",
+    "location": "description",
+    "note": "The two passive wheels are swivel casters (front), but the two active wheels sit side by side on the rear axle (left and right), not diagonally.",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "disclosed",
+    "quote": "A handle 5 is supported by the handle holder 35 via a force sensor 6.",
+    "location": "description",
+    "note": "Push handle mounted on a three-axis force sensor (Fx, Fy, Mz).",
+    "verified": true
+   },
+   "E5": {
+    "verdict": "partial",
+    "quote": "the control device 7 sets a target longitudinal speed vt1 of the vehicle body 2 based on the longitudinal load fs1, sets a target lateral speed vt2 of the vehicle body 2 based on the lateral load fs2",
+    "location": "description",
+    "note": "Handle force is converted into a target translational velocity (longitudinal + lateral), but a target angular velocity from the handle moment is also commanded (idea is translation only), and no use of measured instantaneous speed/acceleration is described.",
+    "verified": true
+   },
+   "E6": {
+    "verdict": "partial",
+    "quote": "The control device 7 sets each target rotational speed rt of the electric motor 25 based on the corrected target longitudinal speed vt1, corrected target lateral speed vt2, and corrected target angular speed ωt.",
+    "location": "description",
+    "note": "Target velocities are converted into per-motor rotation speeds for the drive disks of the omni wheels; there is no per-wheel steering angle command.",
+    "verified": true
+   }
+  },
+  "combination_note": "E2+E3 not disclosed together: it has exactly two driven wheels plus two swivel casters, but the driven wheels are omnidirectional wheels (no steering drive) and are placed side by side at the rear, not diagonally. E5->E6 only partially: handle force -> target longitudinal/lateral (and angular) velocity -> per-motor speeds, without steering angles and without speed/acceleration-dependent interpretation. Closest gap: replace the two rear omni wheels with two diagonal swerve modules and drop the commanded rotation.",
+  "claim_overlap": [
+   {
+    "claim": "1",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "A trolley comprising a car body",
+      "met_by_idea": "yes",
+      "quote": "The car body and left and right omnidirectional wheels that are provided on the vehicle body",
+      "reason": "Idea is a cart with a body (only the car body part of this quote is relied on).",
+      "verified": true
+     },
+     {
+      "limitation": "left and right omnidirectional wheels provided on the body that move it in all directions along the floor",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "The idea uses steer-and-drive (swerve) wheels plus free-swivel casters, not omnidirectional (drive-disk/roller) wheels; under a strict reading an 'omnidirectional wheel' is a distinct wheel type. Also the idea's active wheels are diagonal, not a left/right pair."
+     },
+     {
+      "limitation": "left and right drive units that drive each of the omnidirectional wheels",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Depends on the omnidirectional wheels, which the idea does not have."
+     },
+     {
+      "limitation": "a handle provided on the vehicle body for receiving operation by a user",
+      "met_by_idea": "yes",
+      "quote": "a handle provided on the vehicle body for receiving operation by a user",
+      "reason": "Idea has push handles / handlebar receiving the user's force.",
+      "verified": true
+     },
+     {
+      "limitation": "a sensor that detects a longitudinal load, a lateral load, and a moment around a vertical axis applied to the handle",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea measures handle force; whether a moment about the vertical axis is also sensed is not specified (not needed for translation-only control)."
+     },
+     {
+      "limitation": "a control device that controls the drive unit based on the longitudinal load, lateral load and moment about the vertical axis",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Idea commands translation only; it would not control the drive using the vertical-axis moment."
+     },
+     {
+      "limitation": "target longitudinal velocity set from the longitudinal load and target lateral velocity set from the lateral load",
+      "met_by_idea": "yes",
+      "quote": "A target longitudinal velocity of the vehicle body is set based on the longitudinal load, a target lateral velocity of the vehicle body is set based on the lateral load",
+      "reason": "Idea turns handle force into a translation vector, i.e. longitudinal and lateral target motion components.",
+      "verified": true
+     },
+     {
+      "limitation": "target angular velocity about the vertical axis set from the moment",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Idea has no commanded rotation (translation only, per clarification)."
+     },
+     {
+      "limitation": "correcting the target lateral velocity so its absolute value decreases as the absolute target angular velocity increases",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "No target angular velocity exists in the idea, so this correction cannot occur."
+     },
+     {
+      "limitation": "controlling the drive unit based on the target longitudinal velocity, corrected target lateral velocity and target angular velocity",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Idea does not use a target angular velocity."
+     }
+    ],
+    "all_met_verified": false
+   }
+  ],
+  "quote_failures": []
+ },
+ "JP-6837910-B2": {
+  "publication_number": "JP-6837910-B2",
+  "legal_status": "active",
+  "one_line_summary": "Japanese patent for an omnidirectional moving vehicle with two (or more) active casters, each having a motor-driven 360 degree steering shaft and an offset drive wheel whose drive actuator is body-mounted and geared through the steering axis, the two casters being mirror-symmetric so drive-reaction disturbance torques on the steering shafts cancel.",
+  "prior_art": {
+   "E1": {
+    "verdict": "partial",
+    "quote": "The omnidirectional moving vehicle 1 is provided with four casters with respect to the vehicle body 2, and these four casters enable the vehicle body 2 to move freely with respect to the floor surface 3.",
+    "location": "description",
+    "note": "Four-caster wheeled vehicle base, but a generic omnidirectional moving vehicle; no cart, trolley, bed, heavy-load or delicate-transport application is mentioned.",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "disclosed",
+    "quote": "Of the four casters, two are active casters 5 having drive wheels 4 to which rotational torque is transmitted, and the remaining two are driven casters 6 that are pulled from the vehicle body 2 to rotate.",
+    "location": "description",
+    "note": "Exactly two of four casters are active, each with its own steering actuator 8 (360 degree rotation of support member 51) and drive actuator 9: steer-and-drive modules. Claim 1 also covers 'a plurality'; a variant with three or more active casters is mentioned.",
+    "verified": true
+   },
+   "E3": {
+    "verdict": "partial",
+    "quote": "The two active casters 5 are provided closer to the front side of the vehicle body 2 (to the left of the paper in FIG. 2), and the two driven casters 6 are behind the vehicle body 2",
+    "location": "description",
+    "note": "The other two wheels are passive free-swivel (driven) casters 6, as in the idea, but the two active casters are both at the front side, coaxial when aligned forward (and claim 2 places them so drive axes coincide), i.e. side by side, not diagonal.",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "absent",
+    "quote": "",
+    "location": "",
+    "note": "No handlebar, joystick or handle sensors described; the user interface is not addressed."
+   },
+   "E5": {
+    "verdict": "absent",
+    "quote": "",
+    "location": "",
+    "note": "No user force sensing and no conversion of handle force into a motion vector; speed/acceleration mentioned only as wheel acceleration causing disturbance torque."
+   },
+   "E6": {
+    "verdict": "partial",
+    "quote": "the vehicle body 2 is arbitrarily controlled by coordinating the steering actuator 8 and the driving actuator 9 of the first active caster 5A and the second active caster 5B.",
+    "location": "description",
+    "note": "Coordinated control of each active caster's steering actuator and drive actuator to move the body in an arbitrary direction at any speed, i.e. per-wheel steering angle plus drive from a desired motion. But no derivation from a handle-force vector, and the control law is not detailed (also covers rotation, three DOF).",
+    "verified": true
+   }
+  },
+  "combination_note": "Discloses E2 (two 360 degree steer-and-drive active casters plus two passive free-swivel casters on a four-caster base) and, generically, E6 (coordinated steering angle and drive per active caster for arbitrary-direction motion). It does not place the active casters diagonally (they are side by side at the front, coaxial), so E2+E3 is only partially met. It has nothing on E4/E5: no push handle, no force sensing, no force-to-translation-vector conversion using speed/acceleration. Closest gap to the idea: diagonal placement and the handle-force-driven power-assist control chain E4->E5->E6.",
+  "claim_overlap": [
+   {
+    "claim": "1",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "An omnidirectional moving vehicle in which a plurality of active casters are mounted on the vehicle body and the vehicle body can be moved in all directions on the floor surface",
+      "met_by_idea": "yes",
+      "quote": "a plurality of active casters are mounted on the vehicle body and the vehicle body can be moved in all directions on the floor surface",
+      "reason": "Idea has two steer-and-drive (active caster-type) modules plus free-swivel casters, so the platform can translate in any direction.",
+      "verified": true
+     },
+     {
+      "limitation": "The active caster has a steering shaft arranged along the vertical direction",
+      "met_by_idea": "yes",
+      "quote": "The active caster is Steering shafts arranged along the vertical direction,",
+      "reason": "A 360 degree steering drive necessarily rotates the wheel about a vertical steering axis.",
+      "verified": true
+     },
+     {
+      "limitation": "A mounting portion fixed to the vehicle body that rotatably holds the steering shaft",
+      "met_by_idea": "yes",
+      "quote": "A mounting portion that is fixed to the vehicle body and rotatably holds the steering shaft,",
+      "reason": "Any steer module bolted to the cart frame has a housing that rotatably holds its steering axis.",
+      "verified": true
+     },
+     {
+      "limitation": "A support member fixed to the steering shaft that is given a steering angle according to the rotation of the steering shaft",
+      "met_by_idea": "yes",
+      "quote": "A support member that is fixed to the steering shaft and is given a steering angle according to the rotation of the steering shaft.",
+      "reason": "The wheel fork/yoke of a steer-and-drive wheel turns with the steering axis to set the steering angle.",
+      "verified": true
+     },
+     {
+      "limitation": "A drive wheel with a horizontal axle held by the support member at a position offset horizontally by a predetermined distance from the steering shaft rotation center (caster offset)",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea does not specify a caster trail/offset; many swerve modules have the contact point on the steering axis (zero offset)."
+     },
+     {
+      "limitation": "A steering actuator fixed to the mounting portion that rotationally drives the steering shaft",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea has a steering drive, but whether it is fixed to the body-side mounting portion is unspecified."
+     },
+     {
+      "limitation": "A drive actuator fixed to the mounting portion (not to the rotating support member) that rotationally drives the drive wheel",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea does not specify motor location; a hub motor on the rotating fork would not meet this."
+     },
+     {
+      "limitation": "A transmission means including at least one rotation transmitting member rotatably held relative to the steering shaft, converting vertical-axis rotation into horizontal-axis rotation and transmitting torque from the drive actuator to the drive wheel",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea does not specify the drive train (coaxial gear/bevel transmission versus in-wheel motor)."
+     },
+     {
+      "limitation": "The plurality of active casters include a first and a second active caster having structures mirror-symmetrical to each other with respect to the vertical axis",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea does not specify mirror-symmetric module construction; possible but not stated."
+     }
+    ],
+    "all_met_verified": false
+   }
+  ],
+  "quote_failures": []
+ },
+ "JP-7570286-B2": {
+  "publication_number": "JP-7570286-B2",
+  "legal_status": "active",
+  "one_line_summary": "Retrofit transport-assist unit for a castered medical bed (or cart): two motor-driven Mecanum wheels under the frame, driven in the direction and at a speed set by the strain/force measured between bed frame and wheel unit, with gyro-based turning assist.",
+  "prior_art": {
+   "E1": {
+    "verdict": "disclosed",
+    "quote": "the bed 100 includes a bed body 101 on which a mattress or the like is placed, a frame 102 that supports the bed body 101 from below",
+    "location": "description",
+    "note": "Medical bed with four corner casters 104; heavy bed transportable by one person; cart also mentioned as alternative object.",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "partial",
+    "quote": "the multiple Mecanum wheels 21R, 21L are composed of two Mecanum wheels 21R, 21L aligned along the short side of the bed 100",
+    "location": "description",
+    "note": "Exactly two driven wheels, but they are Mecanum wheels with drive only and no steering axis; the document explicitly avoids swiveling wheels. Not a steer-and-drive module.",
+    "verified": true
+   },
+   "E3": {
+    "verdict": "partial",
+    "quote": "or may be aligned along a diagonal direction inclined both in the short side and long side directions.",
+    "location": "description",
+    "note": "Diagonal alignment of the two driven wheels is mentioned as an option, and the bed has four casters 104, but the two driven Mecanum wheels are additional wheels in a central under-bed unit (six ground contacts), not two of the four corner wheels; casters not explicitly described as free-swivel.",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "partial",
+    "quote": "an X-axis force sensor Sw1 and a Y-axis force sensor Sw2 as first sensors for detecting the force applied to the bed 100",
+    "location": "description",
+    "note": "Force sensing is via strain-gauge sensors between bed frame and wheel unit, not in the push handles or a handlebar/joystick; user simply pushes the bed anywhere.",
+    "verified": true
+   },
+   "E5": {
+    "verdict": "partial",
+    "quote": "The control device 4 calculates the direction and magnitude of the strain St seen in the entire XY direction by calculating the resultant vector of the two strains Sx and Sy.",
+    "location": "description",
+    "note": "Pushing force is turned into an XY direction/magnitude vector and wheel speed scales with magnitude (strain taken as estimate of pushing speed); but force measured at wheel mount not handles, no explicit use of measured instantaneous speed/acceleration, and gyro-based turning assist is added (not translation only).",
+    "verified": true
+   },
+   "E6": {
+    "verdict": "partial",
+    "quote": "The control device 4 then drives the two Mecanum wheels 21R, 21L individually so as to cancel out the calculated distortion St.",
+    "location": "description",
+    "note": "Vector converted into individual drive speeds of the two Mecanum wheels only; there is no per-wheel steering angle (Mecanum kinematics replace steering).",
+    "verified": true
+   }
+  },
+  "combination_note": "E2+E3: not disclosed - two driven wheels (optionally diagonal) exist, but they are Mecanum wheels without steering and are extra wheels in a central module rather than two diagonal corner wheels among four. E5->E6: force-to-direction/magnitude vector then per-wheel drive speed is disclosed, but without steering angles and with force sensed at the wheel mount, not the handles. Closest gap: replacing Mecanum wheels with two diagonal steer-and-drive (swerve) wheels plus free casters and handle-mounted force sensing.",
+  "claim_overlap": [
+   {
+    "claim": "1",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "A transport assist device that assists in transporting an object",
+      "met_by_idea": "yes",
+      "quote": "is set to be faster as the distortion increases. A transport auxiliary device characterized by:",
+      "reason": "Idea is a power-assist drive that assists transporting a cart/bed.",
+      "verified": true
+     },
+     {
+      "limitation": "a plurality of Mecanum wheels attached to the object and pressed against a floor surface",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Idea uses steer-and-drive wheels; a Mecanum wheel is not a steer-and-drive wheel."
+     },
+     {
+      "limitation": "a motor attached to each of the plurality of Mecanum wheels and configured to drive each Mecanum wheel",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Depends on Mecanum wheels, which the idea does not use."
+     },
+     {
+      "limitation": "a first sensor detecting a distortion between the object and the plurality of Mecanum wheels parallel to the floor, thereby detecting force direction and distortion magnitude",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Idea senses force at the push handles, not strain between object and (Mecanum) wheels."
+     },
+     {
+      "limitation": "a control device electrically connected to the first sensor and controlling the motor",
+      "met_by_idea": "yes",
+      "quote": "a control device electrically connected to the first sensor and controlling the motor;",
+      "reason": "Idea has a controller driving the active wheels from the force sensors.",
+      "verified": true
+     },
+     {
+      "limitation": "drive the Mecanum wheels so as to counteract the distortion and propel the object in the direction of the applied force",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Idea propels in the force direction but via swerve wheels, and does not counteract wheel-mount distortion."
+     },
+     {
+      "limitation": "drive the Mecanum wheels to reduce the distortion toward zero, with wheel speed faster as distortion increases",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Mecanum-specific, and distortion-nulling control is not part of the idea."
+     }
+    ],
+    "all_met_verified": false
+   }
+  ],
+  "quote_failures": []
+ },
+ "JP-7853860-B2": {
+  "publication_number": "JP-7853860-B2",
+  "legal_status": "active",
+  "one_line_summary": "Honda power-assist trolley with two rear driven omnidirectional wheels and two front free-swivel casters, featuring a handle with a rear crossbar, a pair of forward side rails and a connecting part mounted to the body through a force sensor, so the trolley can be pushed easily both lengthwise and sideways.",
+  "prior_art": {
+   "E1": {
+    "verdict": "disclosed",
+    "quote": "In this embodiment, a pair of omnidirectional wheels 3 are provided at the lower part of the rear 2A of the vehicle body 2. Furthermore, left and right casters 13 are supported at the lower part of the front 2B",
+    "location": "description",
+    "note": "Four-wheeled trolley (2 rear omni wheels + 2 front casters) supporting devices such as an X-ray scanner; heavy-load/hospital-bed context not explicit.",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "partial",
+    "quote": "each omnidirectional wheel 3 has a frame 17, a pair of drive discs 18 rotatably supported by the frame 17, and an annular main wheel 19 positioned between the pair of drive discs 18.",
+    "location": "description",
+    "note": "Two of four wheels are active, but they are drive-disk omnidirectional wheels, not steer-and-drive wheels with 360 deg steering drive.",
+    "verified": true
+   },
+   "E3": {
+    "verdict": "partial",
+    "quote": "The fork 13A rotates freely relative to the arm 14, and the wheel 13B rotates freely relative to the fork 13A.",
+    "location": "description",
+    "note": "Passive wheels are explicitly free-swivel casters, but the two active wheels are a left/right pair at the rear, not diagonal.",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "disclosed",
+    "quote": "The handle 5 has a first part 5A that extends in the width direction and a second part 5B that extends in the front-to-back direction.",
+    "location": "description",
+    "note": "Ergonomic push handle (rear bar plus side rails) on a force sensor; the closest document to E4 of the three.",
+    "verified": true
+   },
+   "E5": {
+    "verdict": "partial",
+    "quote": "The control device 7 determines the direction and speed of the vehicle body 2 based on the signal from the force sensor 6",
+    "location": "description",
+    "note": "Handle force (2-axis, translation only in the main embodiment) becomes a desired direction and speed, very close to the idea's translation vector, but no use of instantaneous speed/acceleration is described and the control law is not detailed.",
+    "verified": true
+   },
+   "E6": {
+    "verdict": "partial",
+    "quote": "then determines the control amount for each electric motor 25 of the drive unit 4 based on the determined direction and speed of the vehicle body 2.",
+    "location": "description",
+    "note": "Direction/speed converted into per-motor commands for omni-wheel drive disks; no per-wheel steering angle.",
+    "verified": true
+   }
+  },
+  "combination_note": "E2+E3 not disclosed: two driven wheels plus two free-swivel casters, but the driven wheels are rear left/right omnidirectional wheels, not diagonal steer-and-drive modules. E5->E6 partial: 2-axis handle force -> direction and speed (translation) -> per-motor commands, without steering angles or speed/acceleration-aware interpretation. Claims focus on handle geometry; closest gap is wheel type/layout.",
+  "claim_overlap": [
+   {
+    "claim": "1",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "A trolley with a car body",
+      "met_by_idea": "yes",
+      "quote": "The car body and, The vehicle body is provided with at least one omnidirectional wheel",
+      "reason": "Idea has a cart body (only the car body part of this quote is relied on).",
+      "verified": true
+     },
+     {
+      "limitation": "at least one omnidirectional wheel that moves the body in all directions along the floor",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "The idea uses steer-and-drive (swerve) wheels plus free-swivel casters, not omnidirectional (drive-disk/roller) wheels; under a strict reading an 'omnidirectional wheel' is a distinct wheel type."
+     },
+     {
+      "limitation": "a drive unit that drives the omnidirectional wheels",
+      "met_by_idea": "no",
+      "quote": "",
+      "reason": "Depends on omnidirectional wheels."
+     },
+     {
+      "limitation": "a handle provided on the vehicle body that accepts user input",
+      "met_by_idea": "yes",
+      "quote": "A handle provided on the vehicle body that accepts user input, A force sensor",
+      "reason": "Idea has push handles / handlebar.",
+      "verified": true
+     },
+     {
+      "limitation": "a force sensor that detects loads on the handle in the width and longitudinal directions of the body",
+      "met_by_idea": "yes",
+      "quote": "A force sensor that detects loads applied to the steering wheel in the width direction and longitudinal direction of the vehicle body",
+      "reason": "Idea measures in-plane handle force to derive a translation vector.",
+      "verified": true
+     },
+     {
+      "limitation": "a control device that controls the drive unit based on the detected load",
+      "met_by_idea": "yes",
+      "quote": "The system includes a control device that controls the drive unit based on the load detected by the force sensor",
+      "reason": "Idea's controller drives wheels from the handle force.",
+      "verified": true
+     },
+     {
+      "limitation": "handle with a first part extending in the width direction, a pair of second parts extending forward from both ends, and a connecting part extending in the width direction joining the second parts",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea only says 'ergonomic handlebar / sensors in the cart handles'; this specific shape may or may not be used."
+     },
+     {
+      "limitation": "the connecting part is connected to the vehicle body via the force sensor",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Sensor mounting location is not specified in the idea."
+     }
+    ],
+    "all_met_verified": false
+   }
+  ],
+  "quote_failures": []
+ },
+ "US-12564527-B2": {
+  "publication_number": "US-12564527-B2",
+  "legal_status": "active",
+  "one_line_summary": "Hill-Rom patient support apparatus (stretcher/bed) propelled by dual-wheel differential motorized casters that swivel by differential wheel speed and drive by equal speed, controlled by a joystick (dead-band pre-swivel, drive zone) or push-handle load cells, with diagonal placement of two motorized casters and two free-swivel casters.",
+  "prior_art": {
+   "E1": {
+    "verdict": "disclosed",
+    "quote": "Patient support apparatus **20** includes a base **22** supported on an underlying floor by four casters, two of which are freely swivelable, single-wheel non-motorized casters **24** and two of which are dual-wheel motorized casters **30**",
+    "location": "description",
+    "note": "Four-caster stretcher/bed; also said applicable to other maneuverable apparatuses having casters.",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "partial",
+    "quote": "The first and second motors may be operable to rotate the first and second wheels in opposite directions to cause the caster shaft, the axle support, the axle,",
+    "location": "description",
+    "note": "Exactly two of four casters are active and each can both drive and swivel a full 360 deg, but steering is by differential wheel speed of a dual-wheel caster rather than a dedicated 360 deg steering motor ('a separate, third actuator to swivel ... is not needed').",
+    "verified": true
+   },
+   "E3": {
+    "verdict": "disclosed",
+    "quote": "the first and second single-wheel casters being coupled to the frame at first and second coupling regions that are disposed along a first diagonal of the imaginary rectangle, and the first and second dual-wheel motorized casters",
+    "location": "claim 21",
+    "note": "Two motorized casters on one diagonal, two freely swivelable single-wheel non-motorized casters on the other diagonal (claim 21 and description, FIG. 1/23).",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "disclosed",
+    "quote": "load cells such as strain-gage based load cells, capacitive-based load cells, load cells using magnetostrictive technology, and the like, are coupled to push handles **64** of patient support apparatus **20**.",
+    "location": "description",
+    "note": "Joystick 600 (claimed) and alternatively load cells in the push handles; also strain-gauge push handle 688 in the Mecanum embodiment.",
+    "verified": true
+   },
+   "E5": {
+    "verdict": "disclosed",
+    "quote": "The power drive circuitry processes the load cell signals from the two push handles **64**, such as by summing the forces and/or using trigonometric functions to determine a speed and direction of a single, virtual input command **200**.",
+    "location": "description",
+    "note": "Handle force -> magnitude+direction command vector. Vector control compares actual motion (MEMS Ax, Ay accelerations, yaw rate, wheel speeds, derived linear velocities) to the command. A no-yaw translation mode is described ('propel ... in the drive direction **172** without yawing') but tied to joystick button 622; default mode yaws the bed to align with the command. Combination of these passages within one embodiment (apparatus 20, command 200).",
+    "verified": true
+   },
+   "E6": {
+    "verdict": "disclosed",
+    "quote": "The automatic control system takes these 9DOF sensor inputs, corresponding to θ**1**, θ**2**, ω**1**, ω**2**, ω**3**, ω**4**, Ay, Ax, and Ωy, along with the user command **200** for magnitude and direction of bed or stretcher motion",
+    "location": "description",
+    "note": "Command converted into motor drive commands for each motorized caster: swivel angle (θ1, θ2, both swiveled to a common direction for no-yaw translation) and wheel drive. Steering realized via differential speed, not a separate steering drive.",
+    "verified": true
+   }
+  },
+  "combination_note": "E2+E3: disclosed together except for the steering mechanism - two diagonally placed motorized steer-and-drive casters plus two free-swivel casters on the other diagonal (claim 21, FIG. 23), but each caster swivels by differential speed of its two wheels instead of a dedicated 360 deg steering motor. E5->E6: push-handle load-cell force -> speed/direction command -> per-caster swivel angle and wheel drive, with acceleration/velocity feedback and a translation-only (no-yaw) mode, all disclosed, though the no-yaw mode is described with the joystick button and the default mode yaws. Closest gap: dedicated steering motor per wheel and translation-only as the sole mode with handle-force input; this is a very close prior-art reference.",
+  "claim_overlap": [
+   {
+    "claim": "1",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "A patient support apparatus for propelling a patient along a floor",
+      "met_by_idea": "yes",
+      "quote": "A patient support apparatus for propelling a patient along a floor, the patient support apparatus comprising a frame configured to support the patient,",
+      "reason": "Idea includes a powered hospital bed/patient transport application (not met for a plain warehouse cart).",
+      "verified": true
+     },
+     {
+      "limitation": "a frame configured to support the patient",
+      "met_by_idea": "yes",
+      "quote": "the patient support apparatus comprising a frame configured to support the patient, at least one dual-wheel motorized caster coupled to the frame",
+      "reason": "Wheeled hospital bed embodiment of the idea has such a frame.",
+      "verified": true
+     },
+     {
+      "limitation": "at least one dual-wheel motorized caster coupled to the frame, having first and second motors and first and second wheels coupled to them respectively",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea specifies a single steer-and-drive wheel with traction and 360 deg steering drive; it does not specify a dual-wheel differential module. If built with one wheel + dedicated steering motor, not met."
+     },
+     {
+      "limitation": "power drive circuitry driving the first and second motors to propel via the two wheels and to selectively swivel the caster about a caster swivel axis",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea drives and steers each active wheel, but by traction plus steering drive; met only if the module is a two-wheel differential caster."
+     },
+     {
+      "limitation": "a joystick whose handle movement into a dead band zone swivels the caster into the drive orientation without propelling, and into a drive zone propels in the drive direction",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "Idea allows a joystick but primarily uses handle force sensing; dead-band pre-swivel then drive behavior is not specified by the idea."
+     }
+    ],
+    "all_met_verified": false
+   }
+  ],
+  "quote_failures": []
+ },
+ "US-2019183707-A1": {
+  "publication_number": "US-2019183707-A1",
+  "legal_status": "not_active",
+  "one_line_summary": "L-shaped three-wheeled mover that hooks onto a hospital bed (which keeps its own four swivel wheels) and moves it omnidirectionally with two independently driven and oriented steering wheels, commanded by a joystick remote.",
+  "prior_art": {
+   "E1": {
+    "verdict": "partial",
+    "quote": "Hence, the device is normally equipped with two motor-driven steering wheels and one passive wheel, whereas a hospital bed is generally equipped with four passive swivel wheels.",
+    "location": "description",
+    "note": "The application is hospital beds. However, the mover is a separate three-wheeled L-shaped base that engages the bed, not a four-wheeled base with integrated drive.",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "partial",
+    "quote": "said first (41) and second (42) steering wheel comprise a motor (45) for driving the wheel and a motor 46 for orienting the wheel, which are independent of one another",
+    "location": "claim 11",
+    "note": "This is a true swerve module: separate drive and orient motors, and it can be oriented in any direction. There are exactly two active wheels, but on a three-wheeled mover rather than as two of four wheels on the cart itself. Claim 13 also allows a third driven wheel.",
+    "verified": true
+   },
+   "E3": {
+    "verdict": "partial",
+    "quote": "The configuration adopted with two driving steering wheels, set along the two arms of the frame, and an idle wheel located at the intersection of said arms bestows on the device the possibility of performing a holonomous movement.",
+    "location": "description",
+    "note": "The two active wheels are at the ends of the two L arms, so roughly opposite each other across the corner, with an idle swivel wheel at the corner (claim 12). The bed's four passive swivel wheels carry the load. This is not a four-wheel diagonal layout of 2 active + 2 casters.",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "disclosed",
+    "quote": "characterized in that said control means (50) comprise a joystick and push-buttons.",
+    "location": "claim 16",
+    "note": "The joystick is on a cable-tethered remote control, not on handles or a handlebar, and there are no handle force sensors.",
+    "verified": true
+   },
+   "E5": {
+    "verdict": "partial",
+    "quote": "the operator imposes on the rigid body formed by the ensemble constituted by the device and the load carried a motion, in the resting plane, of pure translation parallel to the rigid body itself.",
+    "location": "description",
+    "note": "In manoeuvre mode a pure-translation velocity vector is commanded, which matches the translation-only vector. But it comes from joystick inclination, not measured handle force, and there is no instantaneous speed or acceleration compensation. An advance mode (Ackermann) and rotation commands also exist.",
+    "verified": true
+   },
+   "E6": {
+    "verdict": "disclosed",
+    "quote": "The desired configurations are a translation, through the kinematic model of the vehicle, of the quantities desired by the user (translational and angular velocity for the entire structure) into reference values of steering and rolling velocity for each motor-driven wheel",
+    "location": "description",
+    "note": "The desired motion is converted into a steering angle and a rolling velocity per active wheel, with closed-loop feedback (claim 11).",
+    "verified": true
+   }
+  },
+  "combination_note": "E2+E3: partial. There are exactly two independent steer-and-drive (swerve) wheels plus a passive swivel wheel, but on a three-wheeled L-shaped bed mover, not as a diagonal pair on a four-wheeled cart with two casters. E5->E6: the vector-to-per-wheel steering angle and velocity part (E6) is disclosed, including a pure-translation mode, but the input is a joystick. The closest gap is the absence of force sensing on the push handles and of speed/acceleration-aware vector generation, together with the different wheel layout and the separate mover.",
+  "claim_overlap": [],
+  "quote_failures": []
+ },
+ "US-8756726-B2": {
+  "publication_number": "US-8756726-B2",
+  "legal_status": "active",
+  "one_line_summary": "Powered patient bed/stretcher with casters and a single motor-driven wheel that swivels 90 degrees between longitudinal and lateral orientations, controlled by forward/reverse and left/right user inputs on push handles, siderails and the foot end.",
+  "prior_art": {
+   "E1": {
+    "verdict": "partial",
+    "quote": "A plurality of casters **23** are coupled to base frame **16** and are in contact with the underlying floor **150** as shown in FIG.",
+    "location": "description",
+    "note": "Wheeled hospital bed/stretcher on casters for patient transport; a powered fifth wheel is added, and the number of casters (four) is not stated in the found passages.",
+    "verified": true
+   },
+   "E2": {
+    "verdict": "partial",
+    "quote": "a motor driven wheel that can be raised out of contract with the floor, lowered into contact with the floor, and swiveled by ninety degrees between a first orientation",
+    "location": "description",
+    "note": "Only ONE driven wheel, and it swivels between two discrete orientations (90 degrees, longitudinal/lateral) rather than continuous 360 degree steering; it is an extra central drive wheel, not one of the four corner wheels.",
+    "verified": true
+   },
+   "E3": {
+    "verdict": "partial",
+    "quote": "A plurality of casters **23** are coupled to base frame **16** and are in contact with the underlying floor **150** as shown in FIG.",
+    "location": "description",
+    "note": "The other wheels are casters, but there is no pair of diagonally placed active wheels; a single drive wheel is used.",
+    "verified": true
+   },
+   "E4": {
+    "verdict": "disclosed",
+    "quote": "When the push handle **414** is pushed forwardly, the inner resistors forming the load cell **432** are compressed and the outer resistors forming the load cell **432** are stretched",
+    "location": "description",
+    "note": "Push handles with load cell or pivoting switch sensors, plus buttons on handles and siderails.",
+    "verified": true
+   },
+   "E5": {
+    "verdict": "partial",
+    "quote": "the speed of the drive wheel motor **244** is proportional to the force with which one or both push handles **414** (FIG.",
+    "location": "description",
+    "note": "Handle force sets drive speed, but only along forward/reverse; lateral direction is chosen by buttons, not derived from the force vector. No instantaneous speed/acceleration feedback in the mapping (only discrete speed settings with an acceleration ramp).",
+    "verified": true
+   },
+   "E6": {
+    "verdict": "partial",
+    "quote": "then controller **30** will command swivel actuator **40** to move wheel **26** from the first orientation to the second orientation prior to commanding motor **42** to",
+    "location": "description",
+    "note": "Controller commands both a swivel (orientation) and a drive of the wheel, but the orientation is one of two discrete positions selected by buttons, for a single wheel, not a continuous steering angle per wheel computed from a force vector.",
+    "verified": true
+   }
+  },
+  "combination_note": "E2+E3 not disclosed: one central swivel drive wheel (90 degrees, two positions) plus casters, no two diagonal steer-and-drive wheels. E5->E6 not disclosed: force on the handle only sets forward/reverse speed; lateral motion is selected by buttons and the wheel is swung to a discrete orientation. Closest gap: a continuous force-to-translation-vector mapping and two diagonally placed 360 degree swerve modules.",
+  "claim_overlap": [
+   {
+    "claim": "1",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "A patient support apparatus comprising",
+      "met_by_idea": "yes",
+      "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+      "reason": "Hospital-bed embodiment of the idea.",
+      "verified": true
+     },
+     {
+      "limitation": "a frame,",
+      "met_by_idea": "yes",
+      "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+      "reason": "Cart base/frame.",
+      "verified": true
+     },
+     {
+      "limitation": "a plurality of casters coupled to the frame,",
+      "met_by_idea": "yes",
+      "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+      "reason": "Two free-swivel casters.",
+      "verified": true
+     },
+     {
+      "limitation": "a wheel coupled to the frame,",
+      "met_by_idea": "yes",
+      "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+      "reason": "At least one active wheel (the idea has two; 'a wheel' is open-ended).",
+      "verified": true
+     },
+     {
+      "limitation": "a motor coupled to the wheel and operable to rotate the wheel to propel the patient support apparatus along a floor, the wheel being movable relative to the frame so as to reorient a rotation axis of the wheel relative to the frame thereby to propel the patient support apparatus in different directions that are non-parallel with a longitudinal dimension of the frame,",
+      "met_by_idea": "yes",
+      "quote": "a motor coupled to the wheel and operable to rotate the wheel to propel the patient support apparatus along a floor, the wheel being movable relative to the frame so as to reorient a rotation axis of the wheel",
+      "reason": "Traction motor plus 360 degree steering reorients the wheel axis to propel in non-longitudinal directions.",
+      "verified": true
+     },
+     {
+      "limitation": "an electrical system comprising a controller to control operation of the motor, the controller being configured to signal operation of the motor to rotate the wheel to propel the patient support apparatus along the floor,",
+      "met_by_idea": "yes",
+      "quote": "an electrical system comprising a controller to control operation of the motor, the controller being configured to signal operation of the motor to rotate the wheel",
+      "reason": "The idea has a controller commanding traction drive.",
+      "verified": true
+     },
+     {
+      "limitation": "a push handle situated near a first end of the frame, and",
+      "met_by_idea": "yes",
+      "quote": "a push handle situated near a first end of the frame, and a plurality of user inputs coupled to the push handle",
+      "reason": "The idea uses push handles of the cart with built-in sensors.",
+      "verified": true
+     },
+     {
+      "limitation": "a plurality of user inputs coupled to the push handle, a first user input of the plurality of user inputs being operable by a user to signal the controller to operate the motor to propel the patient support apparatus in a first direction parallel with the longitudinal dimension of the frame, and a second user input of the plurality of user inputs being operable by a user to signal the controller to operate the motor to propel the patient support apparatus in a second direction that is other than the longitudinal dimension relative to the frame, the first user input being spaced apart from the second user input.",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "The idea uses one force-sensing handle/joystick that yields a continuous direction vector; it does not specify two spaced-apart inputs, one for longitudinal and one for non-longitudinal propulsion. A two-handle sensor layout could arguably be read on it, so this is uncertain."
+     }
+    ],
+    "all_met_verified": false
+   },
+   {
+    "claim": "21",
+    "all_met": false,
+    "limitations": [
+     {
+      "limitation": "A patient support apparatus comprising",
+      "met_by_idea": "yes",
+      "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+      "reason": "Hospital-bed embodiment of the idea.",
+      "verified": true
+     },
+     {
+      "limitation": "a frame,",
+      "met_by_idea": "yes",
+      "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+      "reason": "Cart base/frame.",
+      "verified": true
+     },
+     {
+      "limitation": "a plurality of casters coupled to the frame,",
+      "met_by_idea": "yes",
+      "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+      "reason": "Two free-swivel casters.",
+      "verified": true
+     },
+     {
+      "limitation": "a wheel coupled to the frame,",
+      "met_by_idea": "yes",
+      "quote": "A patient support apparatus comprising a frame, a plurality of casters coupled to the frame, a wheel coupled to the frame",
+      "reason": "At least one active wheel (the idea has two; 'a wheel' is open-ended).",
+      "verified": true
+     },
+     {
+      "limitation": "a motor coupled to the wheel and operable to rotate the wheel to propel the patient support apparatus along a floor, the wheel being movable relative to the frame so as to reorient a rotation axis of the wheel relative to the frame thereby to propel the patient support apparatus in different directions that are non-parallel with a longitudinal dimension of the frame,",
+      "met_by_idea": "yes",
+      "quote": "a motor coupled to the wheel and operable to rotate the wheel to propel the patient support apparatus along a floor, the wheel being movable relative to the frame so as to reorient a rotation axis of the wheel",
+      "reason": "Traction motor plus 360 degree steering reorients the wheel axis to propel in non-longitudinal directions.",
+      "verified": true
+     },
+     {
+      "limitation": "an electrical system comprising a controller to control operation of the motor, the controller being configured to signal operation of the motor to rotate the wheel to propel the patient support apparatus along the floor, and",
+      "met_by_idea": "yes",
+      "quote": "an electrical system comprising a controller to control operation of the motor, the controller being configured to signal operation of the motor to rotate the wheel",
+      "reason": "The idea has a controller commanding traction drive.",
+      "verified": true
+     },
+     {
+      "limitation": "a plurality of user inputs coupled to the electrical system, a first user input of the plurality of user inputs being operable by a user to signal the controller to operate the motor to propel the patient support apparatus in a first direction parallel with the longitudinal dimension of the frame, and a second user input of the plurality of user inputs being operable by a user to signal the controller to operate the motor to propel the patient support apparatus in a second direction that is other than the longitudinal dimension relative to the frame, the first user input being spaced apart from the second user input.",
+      "met_by_idea": "unclear",
+      "quote": "",
+      "reason": "The idea uses one force-sensing handle/joystick that yields a continuous direction vector; it does not specify two spaced-apart inputs, one for longitudinal and one for non-longitudinal propulsion. A two-handle sensor layout could arguably be read on it, so this is uncertain."
+     }
+    ],
+    "all_met_verified": false
+   }
+  ],
+  "quote_failures": []
+ }
+}

@@ -1,0 +1,178 @@
+{
+  "publication_number": "JP-2023019525-A",
+  "legal_status": "active",
+  "one_line_summary": "Honda power-assist trolley with two rear driven omnidirectional wheels and two front casters, in which handle force sets provisional target longitudinal/lateral speeds (or a velocity vector) that are scaled by a common correction coefficient when an upper limit is exceeded, preserving travel direction.",
+  "prior_art": {
+    "E1": {
+      "verdict": "disclosed",
+      "quote": "a pair of omnidirectional wheels 3 are provided at the lower portion of the rear portion 2A of the vehicle body 2 . Left and right casters 13 are supported at the lower portion of the front portion 2B",
+      "location": "description",
+      "note": "Four-wheeled trolley (2 rear omni wheels + 2 front casters) carrying devices such as an X-ray scanner; heavy-load/hospital-bed context not stated explicitly."
+    },
+    "E2": {
+      "verdict": "partial",
+      "quote": "each omnidirectional wheel 3 includes a frame 17, a pair of drive discs 18 rotatably supported by the frame 17, and an annular main wheel 19 disposed between the pair of drive discs 18.",
+      "location": "description",
+      "note": "Two of four wheels are active, but they are drive-disk omnidirectional wheels, not steer-and-drive wheels with a 360 deg steering drive."
+    },
+    "E3": {
+      "verdict": "partial",
+      "quote": "Each caster 13 has a fork 13A rotatably coupled to the arm 14 about an axis extending vertically",
+      "location": "description",
+      "note": "Passive wheels are swivel casters (front), but the two active wheels are a left/right pair on the rear, not diagonal."
+    },
+    "E4": {
+      "verdict": "disclosed",
+      "quote": "The handle 5 is supported by the handle holder 35 via the force sensor 6",
+      "location": "description",
+      "note": "Push handle on a three-axis force sensor."
+    },
+    "E5": {
+      "verdict": "partial",
+      "quote": "the control device 7 sets the target speed vector provisional value vtp of the vehicle body 2 based on the load detected by the force sensor 6",
+      "location": "description",
+      "note": "Handle force is turned into a target velocity vector (with speed limiting that preserves direction), but a target angular velocity from the moment is also commanded in the embodiment, and the mapping is given as e.g. a proportional gain on force (vtp1 = k1*fs1), not dependent on measured instantaneous speed/acceleration."
+    },
+    "E6": {
+      "verdict": "partial",
+      "quote": "The control device 7 sets the respective target rotation speeds rt of the electric motors 25 based on the target longitudinal speed vt1, the target lateral speed vt2, and the target angular speed ωt.",
+      "location": "description",
+      "note": "Vector converted into per-motor speeds of the omni-wheel drive disks; no per-wheel steering angle."
+    }
+  },
+  "combination_note": "E2+E3 not disclosed: two driven wheels plus two swivel casters, but the driven wheels are omnidirectional wheels side by side at the rear, not diagonal swerve modules. E5->E6 partial: handle force -> target velocity vector (claim 9) -> per-motor rotation speeds, but with no steering angle per wheel and no speed/acceleration-aware interpretation; rotation is also commanded. Closest overlap is claim 9's force-to-velocity-vector concept; biggest gap is the wheel type/layout.",
+  "claim_overlap": [
+    {
+      "claim": "1",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "A trolley with a vehicle body",
+          "met_by_idea": "yes",
+          "quote": "a vehicle body; at least one omnidirectional wheel provided on the vehicle body for moving the vehicle body in all directions",
+          "reason": "Idea has a cart body (only the vehicle body part of this quote is relied on)."
+        },
+        {
+          "limitation": "at least one omnidirectional wheel provided on the body for moving it in all directions along a floor",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "The idea uses steer-and-drive (swerve) wheels plus free-swivel casters, not omnidirectional (drive-disk/roller) wheels; under a strict reading an 'omnidirectional wheel' is a distinct wheel type."
+        },
+        {
+          "limitation": "a drive unit for driving each of the omnidirectional wheels",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Depends on omnidirectional wheels, absent in the idea."
+        },
+        {
+          "limitation": "a handle provided on the vehicle body for receiving a user's operation",
+          "met_by_idea": "yes",
+          "quote": "a handle provided on the vehicle body for receiving a user's operation",
+          "reason": "Idea has push handles / handlebar."
+        },
+        {
+          "limitation": "a force sensor that detects a longitudinal load and a lateral load applied to the handle",
+          "met_by_idea": "yes",
+          "quote": "a force sensor that detects a longitudinal load and a lateral load applied to the handle",
+          "reason": "Idea measures the user's force on the handles in the plane to derive a direction vector."
+        },
+        {
+          "limitation": "a control device that controls the drive unit based on the longitudinal and lateral loads",
+          "met_by_idea": "yes",
+          "quote": "a control device that controls the drive unit based on the longitudinal load and the lateral load detected by the force sensor",
+          "reason": "Idea's controller drives the wheels from the measured handle force."
+        },
+        {
+          "limitation": "sets a target longitudinal speed provisional value from the longitudinal load and a target lateral speed provisional value from the lateral load",
+          "met_by_idea": "yes",
+          "quote": "The control device sets a target longitudinal speed provisional value of the vehicle body based on the longitudinal load, and sets a target lateral speed provisional value of the vehicle body based on the lateral load",
+          "reason": "Converting force into a translation vector implies longitudinal/lateral target speed components (the idea's speed/acceleration consideration does not exclude this)."
+        },
+        {
+          "limitation": "when either provisional value is at/above its upper limit, multiply both by a common correction coefficient (0<k<=1)",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea does not specify speed limiting; a product might include it."
+        },
+        {
+          "limitation": "when both are below the limits, use the provisional values as the target speeds",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Depends on whether the idea includes the limiting scheme."
+        },
+        {
+          "limitation": "controls the drive unit based on the target longitudinal speed and target lateral speed",
+          "met_by_idea": "yes",
+          "quote": "A truck that controls the drive unit based on the target longitudinal speed and the target lateral speed.",
+          "reason": "Idea passes the translation vector to the active wheels."
+        }
+      ]
+    },
+    {
+      "claim": "9",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "A trolley with a vehicle body",
+          "met_by_idea": "yes",
+          "quote": "a vehicle body; at least one omnidirectional wheel provided on the vehicle body for moving the vehicle body in all directions",
+          "reason": "Idea has a cart body (only the vehicle body part is relied on)."
+        },
+        {
+          "limitation": "at least one omnidirectional wheel provided on the body for moving it in all directions along a floor",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "The idea uses steer-and-drive (swerve) wheels plus free-swivel casters, not omnidirectional (drive-disk/roller) wheels; under a strict reading an 'omnidirectional wheel' is a distinct wheel type."
+        },
+        {
+          "limitation": "a drive unit for driving each of the omnidirectional wheels",
+          "met_by_idea": "no",
+          "quote": "",
+          "reason": "Depends on omnidirectional wheels."
+        },
+        {
+          "limitation": "a handle provided on the vehicle body for receiving a user's operation",
+          "met_by_idea": "yes",
+          "quote": "a handle provided on the vehicle body for receiving a user's operation",
+          "reason": "Idea has push handles / handlebar."
+        },
+        {
+          "limitation": "a force sensor that detects a load applied to the handle",
+          "met_by_idea": "yes",
+          "quote": "a force sensor that detects a load applied to the handle; a control device that controls the drive unit based on the load detected by the force sensor",
+          "reason": "Idea measures the force applied to the handles."
+        },
+        {
+          "limitation": "a control device that controls the drive unit based on the detected load",
+          "met_by_idea": "yes",
+          "quote": "a control device that controls the drive unit based on the load detected by the force sensor",
+          "reason": "Idea's controller drives the wheels from the handle force."
+        },
+        {
+          "limitation": "sets a target velocity vector provisional value of the vehicle body based on the load",
+          "met_by_idea": "yes",
+          "quote": "The control device sets a target velocity vector provisional value of the vehicle body based on the load",
+          "reason": "Idea converts the handle force into a desired motion (velocity/direction) vector."
+        },
+        {
+          "limitation": "if the provisional vector magnitude is at/above an upper limit, multiply it by a correction coefficient (0<k<=1)",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea does not specify vector-magnitude limiting; a product might include it."
+        },
+        {
+          "limitation": "if below the upper limit, use the provisional vector as the target vector",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Depends on whether the limiting scheme is included."
+        },
+        {
+          "limitation": "controls the drive unit based on the target velocity vector",
+          "met_by_idea": "yes",
+          "quote": "A truck that controls the drive unit based on the target velocity vector.",
+          "reason": "Idea transmits the vector to the active wheels."
+        }
+      ]
+    }
+  ]
+}

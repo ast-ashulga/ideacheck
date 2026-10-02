@@ -1,0 +1,82 @@
+{
+  "publication_number": "US-12564527-B2",
+  "legal_status": "active",
+  "one_line_summary": "Hill-Rom patient support apparatus (stretcher/bed) propelled by dual-wheel differential motorized casters that swivel by differential wheel speed and drive by equal speed, controlled by a joystick (dead-band pre-swivel, drive zone) or push-handle load cells, with diagonal placement of two motorized casters and two free-swivel casters.",
+  "prior_art": {
+    "E1": {
+      "verdict": "disclosed",
+      "quote": "Patient support apparatus **20** includes a base **22** supported on an underlying floor by four casters, two of which are freely swivelable, single-wheel non-motorized casters **24** and two of which are dual-wheel motorized casters **30**",
+      "location": "description",
+      "note": "Four-caster stretcher/bed; also said applicable to other maneuverable apparatuses having casters."
+    },
+    "E2": {
+      "verdict": "partial",
+      "quote": "The first and second motors may be operable to rotate the first and second wheels in opposite directions to cause the caster shaft, the axle support, the axle,",
+      "location": "description",
+      "note": "Exactly two of four casters are active and each can both drive and swivel a full 360 deg, but steering is by differential wheel speed of a dual-wheel caster rather than a dedicated 360 deg steering motor ('a separate, third actuator to swivel ... is not needed')."
+    },
+    "E3": {
+      "verdict": "disclosed",
+      "quote": "the first and second single-wheel casters being coupled to the frame at first and second coupling regions that are disposed along a first diagonal of the imaginary rectangle, and the first and second dual-wheel motorized casters",
+      "location": "claim 21",
+      "note": "Two motorized casters on one diagonal, two freely swivelable single-wheel non-motorized casters on the other diagonal (claim 21 and description, FIG. 1/23)."
+    },
+    "E4": {
+      "verdict": "disclosed",
+      "quote": "load cells such as strain-gage based load cells, capacitive-based load cells, load cells using magnetostrictive technology, and the like, are coupled to push handles **64** of patient support apparatus **20**.",
+      "location": "description",
+      "note": "Joystick 600 (claimed) and alternatively load cells in the push handles; also strain-gauge push handle 688 in the Mecanum embodiment."
+    },
+    "E5": {
+      "verdict": "disclosed",
+      "quote": "The power drive circuitry processes the load cell signals from the two push handles **64**, such as by summing the forces and/or using trigonometric functions to determine a speed and direction of a single, virtual input command **200**.",
+      "location": "description",
+      "note": "Handle force -> magnitude+direction command vector. Vector control compares actual motion (MEMS Ax, Ay accelerations, yaw rate, wheel speeds, derived linear velocities) to the command. A no-yaw translation mode is described ('propel ... in the drive direction **172** without yawing') but tied to joystick button 622; default mode yaws the bed to align with the command. Combination of these passages within one embodiment (apparatus 20, command 200)."
+    },
+    "E6": {
+      "verdict": "disclosed",
+      "quote": "The automatic control system takes these 9DOF sensor inputs, corresponding to θ**1**, θ**2**, ω**1**, ω**2**, ω**3**, ω**4**, Ay, Ax, and Ωy, along with the user command **200** for magnitude and direction of bed or stretcher motion",
+      "location": "description",
+      "note": "Command converted into motor drive commands for each motorized caster: swivel angle (θ1, θ2, both swiveled to a common direction for no-yaw translation) and wheel drive. Steering realized via differential speed, not a separate steering drive."
+    }
+  },
+  "combination_note": "E2+E3: disclosed together except for the steering mechanism - two diagonally placed motorized steer-and-drive casters plus two free-swivel casters on the other diagonal (claim 21, FIG. 23), but each caster swivels by differential speed of its two wheels instead of a dedicated 360 deg steering motor. E5->E6: push-handle load-cell force -> speed/direction command -> per-caster swivel angle and wheel drive, with acceleration/velocity feedback and a translation-only (no-yaw) mode, all disclosed, though the no-yaw mode is described with the joystick button and the default mode yaws. Closest gap: dedicated steering motor per wheel and translation-only as the sole mode with handle-force input; this is a very close prior-art reference.",
+  "claim_overlap": [
+    {
+      "claim": "1",
+      "all_met": false,
+      "limitations": [
+        {
+          "limitation": "A patient support apparatus for propelling a patient along a floor",
+          "met_by_idea": "yes",
+          "quote": "A patient support apparatus for propelling a patient along a floor, the patient support apparatus comprising a frame configured to support the patient,",
+          "reason": "Idea includes a powered hospital bed/patient transport application (not met for a plain warehouse cart)."
+        },
+        {
+          "limitation": "a frame configured to support the patient",
+          "met_by_idea": "yes",
+          "quote": "the patient support apparatus comprising a frame configured to support the patient, at least one dual-wheel motorized caster coupled to the frame",
+          "reason": "Wheeled hospital bed embodiment of the idea has such a frame."
+        },
+        {
+          "limitation": "at least one dual-wheel motorized caster coupled to the frame, having first and second motors and first and second wheels coupled to them respectively",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea specifies a single steer-and-drive wheel with traction and 360 deg steering drive; it does not specify a dual-wheel differential module. If built with one wheel + dedicated steering motor, not met."
+        },
+        {
+          "limitation": "power drive circuitry driving the first and second motors to propel via the two wheels and to selectively swivel the caster about a caster swivel axis",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea drives and steers each active wheel, but by traction plus steering drive; met only if the module is a two-wheel differential caster."
+        },
+        {
+          "limitation": "a joystick whose handle movement into a dead band zone swivels the caster into the drive orientation without propelling, and into a drive zone propels in the drive direction",
+          "met_by_idea": "unclear",
+          "quote": "",
+          "reason": "Idea allows a joystick but primarily uses handle force sensing; dead-band pre-swivel then drive behavior is not specified by the idea."
+        }
+      ]
+    }
+  ]
+}

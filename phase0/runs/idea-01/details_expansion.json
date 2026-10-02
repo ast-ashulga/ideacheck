@@ -1,0 +1,1065 @@
+{
+ "EP-0989042-A1": {
+  "title": "Distribution or transport trolley",
+  "abstract": "The manual controls for the trolley (1) are located on the handle (6) and normally it is necessary to manually operate a main switch to connect the battery (5) to the control system. This is replaced by a proximity switch, activated by the presence of an operator, which places the control system in a ready for use condition. The manual controls include force sensors.",
+  "family_id": "7881871",
+  "priority_date": "1998-09-22",
+  "status": "Granted",
+  "legal_status": "not_active",
+  "assignee": "Expresso Deutschland Transportgerate GmbH",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "characterized, that at least one proximity detector, which detects the presence of an operator, is connected upstream of the control and regulating device which controls the energy supply of the electric motors and the sensors which convert the control and steering forces acting on the handles into control signals.",
+    "original_text": "Verteiler-bzw. Zustellerwagen, insbesondere lenkbarer, nicht schienengebundener, im Wesentlichen aus einem über wenigstens eine um eine vertikale Achse schwenkbare Lenkrolle und zwei mit einem getriebelos integrierten, unter Last anlaufenden, drehrichtungs-umkehrbaren Elektromotor ausgestatteten Bockrollen gegen den Boden abgestützten Wagenchassis und einem an dieses angeschlossenen aufragenden Griffbügel sowie einer Energiequelle bestehender Wagen, bei dem die Energieversorgung der Elektromotoren und der Bremsbetätigung durch eine mittels mindestens eines, zumindest ein Paar, die am Griffbügel in Wagenlängsrichtung ausgeübten Schub- und Zugkräfte in Steuersignale umwandelnder Kraftmessern ausgestatteten Hangriffes ansteuerbare Steuer-und Regeleinrichtung beherrscht ist, dadurch gekennzeichnet, daß dem aus der die Energieversorgung der Elektromotoren beherrschenden Steuer-und Regeleinrichtung und den die an den Handgriffen angreifenden Steuer-und Lenkkräfte in Steuersignale umwandelnden Sensoren bestehenden System wenigstens ein die Anwesenheit einer Bedienungsperson erfassender Näherungsdetektor vorgeschaltet ist.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "2",
+    "text": "",
+    "original_text": "Verteiler-bzw. Zustellerwagen nach Anspruch 1, dadurch gekennzeichnet, daß der wenigstens eine Näherungsdetektor in einem sog. Standby-Betrieb auch bei im Übrigen abgeschalteten Antriebs-und Steuersystem des Wagens ständig aktiv ist und bei Erkennung der Annäherung, insbesondere einer Bedienungsperson, die die Steuer-und Lenkkräfte in Steuersignale umwandelnden Sensoren und die die Energieversorgung der Elektromotoren beherrschende Steuer-und Regeleinrichtung in Betriebsbereitschaft versetzt.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "3",
+    "text": "",
+    "original_text": "Verteiler-bzw. Zustellerwagen nach Anspruch 1, dadurch gekennzeichnet, daß der Näherungsdetektor mit dem oder den die an dem oder den Hangriff(en) ausgeübten Kräfte in Steuersignale für die die Energieversorgung der Elektromotoren beherrschende Steuer-und Regeleinrichtung umwandelnden Kraftmessern zumindest baueinheitlich ausgebildet ist.",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "Verteiler-bzw. Zustellerwagen, insbesondere lenkbarer, nicht schienengebundener, im Wesentlichen aus einem über wenigstens eine um eine vertikale Achse schwenkbare Lenkrolle und zwei mit einem getriebelos integrierten, unter Last anlaufenden, drehrichtungs-umkehrbaren Elektromotor ausgestatteten Bockrollen gegen den Boden abgestützten Wagenchassis und einem an dieses angeschlossenen aufragenden Griffbügel sowie einer Energiequelle bestehender Wagen, bei dem die Energieversorgung der Elektromotoren und der Bremsbetätigung durch eine mittels mindestens eines, zumindest ein Paar, die am Griffbügel in Wagenlängsrichtung ausgeübten Schub- und Zugkräfte in Steuersignale umwandelnder Kraftmessern ausgestatteten Hangriffes ansteuerbare Steuer-und Regeleinrichtung beherrscht ist, dadurch gekennzeichnet, daß dem aus der die Energieversorgung der Elektromotoren beherrschenden Steuer-und Regeleinrichtung und den die an den Handgriffen angreifenden Steuer-und Lenkkräfte in Steuersignale umwandelnden Sensoren bestehenden System wenigstens ein die Anwesenheit einer Bedienungsperson erfassender Näherungsdetektor vorgeschaltet ist.Distributor or Delivery car, in particular steerable, not rail-bound, essentially consisting of a swivel castor that can be swiveled via at least one vertical axis and two fixed castors that are equipped with a gearless integrated, rotating, reversible direction of rotation electric motor, supported against the floor, and an upstanding handlebar attached to it and an energy source of existing wagons, in which the power supply of the electric motors and the brake actuation is controlled by a control device which can be controlled by at least one, at least one pair, of the handle and thrust forces exerted on the handlebar in the longitudinal direction of the wagon in control signals converting force gauges, characterized, that at least one proximity detector, which detects the presence of an operator, is connected upstream of the control and regulating device which controls the energy supply of the electric motors and the sensors which convert the control and steering forces acting on the handles into control signals."
+   ],
+   "2": [
+    "Verteiler-bzw. Zustellerwagen nach Anspruch 1, dadurch gekennzeichnet, daß der wenigstens eine Näherungsdetektor in einem sog. Standby-Betrieb auch bei im Übrigen abgeschalteten Antriebs-und Steuersystem des Wagens ständig aktiv ist und bei Erkennung der Annäherung, insbesondere einer Bedienungsperson, die die Steuer-und Lenkkräfte in Steuersignale umwandelnden Sensoren und die die Energieversorgung der Elektromotoren beherrschende Steuer-und Regeleinrichtung in Betriebsbereitschaft versetzt.Distributor or Delivery car according to claim 1, characterized in that the at least one proximity detector in a so-called standby mode even when the rest is switched off Drive and control system of the car is constantly active is and upon detection of the approach, in particular one Operator who translates the steering and steering forces into control signals converting sensors and the power supply the control device regulating the electric motors put into operation."
+   ],
+   "3": [
+    "Verteiler-bzw. Zustellerwagen nach Anspruch 1, dadurch gekennzeichnet, daß der Näherungsdetektor mit dem oder den die an dem oder den Hangriff(en) ausgeübten Kräfte in Steuersignale für die die Energieversorgung der Elektromotoren beherrschende Steuer-und Regeleinrichtung umwandelnden Kraftmessern zumindest baueinheitlich ausgebildet ist.Distributor or Delivery car according to claim 1, characterized in that the proximity detector with the or the forces exerted on the handle (s) in Control signals for the energy supply of the electric motors dominant control and converting device Force gauges is at least constructed uniformly."
+   ]
+  },
+  "source_language": null
+ },
+ "WO-2024195547-A1": {
+  "title": "Conveyance auxiliary device",
+  "abstract": "A conveyance auxiliary device (1) comprises: first and second mecanum wheels (21R, 21L); first and second motors (22R, 22L); first and second current sensors (SW1, SW2) that detect induction current flowing into the motors (22R, 22L) during rotation of the mecanum wheels (21R, 21L); and a controller (4). The controller (4) individually estimates the acceleration of each of the mecanum wheels (21R, 21L) on the basis of the detected induction current, determines the movement direction of a bed (10) on the basis of the estimated acceleration, and operates the first and second mecanum wheels (21R, 21L) so as to assist the movement thereof in the movement direction thereof.",
+  "family_id": "92842054",
+  "priority_date": "2023-03-22",
+  "status": "Ceased",
+  "legal_status": "not_active",
+  "assignee": "JTEKT Machine Systems Corp",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "first and second Mecanum wheels attached to the object; first and second motors drivingly connected to the first and second Mecanum wheels, respectively; a first current sensor for detecting an induced current flowing through the first motor when the first mecanum wheel rotates; and a second current sensor for detecting an induced current flowing through the first motor when the second mecanum wheel rotates. a controller for controlling the first and second motors, The controller: Estimating the acceleration of each of the first and second Mecanum wheels individually based on the detection signals of the first and second current sensors; determining a direction of movement of the object based on the accelerations of the first and second Mecanum wheels; a transport assist device that drives the first and second Mecanum wheels via the first and second motors, respectively, to assist the movement of the object along the movement direction.",
+    "original_text": "外力による対象物の移動をアシストするための搬送補助装置において、 前記対象物に取り付けられた第１及び第２メカナムホイールと、 前記第１及び第２メカナムホイールのそれぞれに駆動連結された第１及び第２モータと、 前記第１及び第２メカナムホイールそれぞれの回転に際して前記第１及び第２モータに流れる誘導電流をそれぞれ検出する第１及び第２電流センサと、 前記第１及び第２モータを制御するコントローラと、を備え、 前記コントローラは、 前記第１及び第２電流センサの検出信号に基づいて、前記第１及び第２メカナムホイールそれぞれの加速度を個別に推定し、 前記第１及び第２メカナムホイールそれぞれの加速度に基づいて、前記対象物の移動方向を判定し、 前記移動方向に沿った前記対象物の移動をアシストするように、前記第１及び第２モータを介して前記第１及び第２メカナムホイールをそれぞれ駆動する ことを特徴とする搬送補助装置。",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "2",
+    "text": "The first Mecanum wheel is a first wheel body that rotates about a first rotation axis; a plurality of first barrel-shaped rollers arranged along an outer periphery of the first wheel body and each of which rotates about a first inclined axis inclined with respect to the first rotation axis; The second Mecanum wheel is a second wheel body that rotates about a second rotation axis extending parallel to the first rotation axis; a plurality of second barrel-shaped rollers arranged along the outer periphery of the second wheel body and each rotating about a second inclined axis inclined in a direction different from the first inclined axis relative to the second rotation axis.",
+    "original_text": "請求項１に記載された搬送補助装置において、 前記第１メカナムホイールは、 第１回転軸まわりに回転する第１ホイール本体と、 前記第１ホイール本体の外周に沿って配置され、それぞれ前記第１回転軸に対して傾斜した第１傾斜軸まわりに回転する複数の第１樽型ローラと、を有し、 前記第２メカナムホイールは、 前記第１回転軸と平行に延びる第２回転軸まわりに回転する第２ホイール本体と、 前記第２ホイール本体の外周に沿って配置され、それぞれ前記第２回転軸に対して前記第１傾斜軸とは異なる方向に傾斜した第２傾斜軸まわりに回転する複数の第２樽型ローラと、を有する ことを特徴とする搬送補助装置。",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "3",
+    "text": "The first and second rotation axes are both perpendicular to the front-rear direction of the object and extend in a left-right direction along a conveyance surface of the object, A transport auxiliary device, wherein the first tilt axis is tilted to be linearly symmetrical with respect to the second tilt axis with respect to the front-rear direction.",
+    "original_text": "請求項２に記載された搬送補助装置において、 前記第１及び第２回転軸は、双方とも、前記対象物の前後方向に直交しかつ前記対象物の搬送面に沿った左右方向に延び、 前記第１傾斜軸は、前記第２傾斜軸に対し、前記前後方向を基準とした線対称となるように傾斜している ことを特徴とする搬送補助装置。",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "外力による対象物の移動をアシストするための搬送補助装置において、 前記対象物に取り付けられた第１及び第２メカナムホイールと、 前記第１及び第２メカナムホイールのそれぞれに駆動連結された第１及び第２モータと、 前記第１及び第２メカナムホイールそれぞれの回転に際して前記第１及び第２モータに流れる誘導電流をそれぞれ検出する第１及び第２電流センサと、 前記第１及び第２モータを制御するコントローラと、を備え、 前記コントローラは、 前記第１及び第２電流センサの検出信号に基づいて、前記第１及び第２メカナムホイールそれぞれの加速度を個別に推定し、 前記第１及び第２メカナムホイールそれぞれの加速度に基づいて、前記対象物の移動方向を判定し、 前記移動方向に沿った前記対象物の移動をアシストするように、前記第１及び第２モータを介して前記第１及び第２メカナムホイールをそれぞれ駆動する ことを特徴とする搬送補助装置。 A transport assist device for assisting the movement of an object by an external force, comprising: first and second Mecanum wheels attached to the object; first and second motors drivingly connected to the first and second Mecanum wheels, respectively; a first current sensor for detecting an induced current flowing through the first motor when the first mecanum wheel rotates; and a second current sensor for detecting an induced current flowing through the first motor when the second mecanum wheel rotates. a controller for controlling the first and second motors, The controller: Estimating the acceleration of each of the first and second Mecanum wheels individually based on the detection signals of the first and second current sensors; determining a direction of movement of the object based on the accelerations of the first and second Mecanum wheels; a transport assist device that drives the first and second Mecanum wheels via the first and second motors, respectively, to assist the movement of the object along the movement direction."
+   ],
+   "2": [
+    "請求項１に記載された搬送補助装置において、 前記第１メカナムホイールは、 第１回転軸まわりに回転する第１ホイール本体と、 前記第１ホイール本体の外周に沿って配置され、それぞれ前記第１回転軸に対して傾斜した第１傾斜軸まわりに回転する複数の第１樽型ローラと、を有し、 前記第２メカナムホイールは、 前記第１回転軸と平行に延びる第２回転軸まわりに回転する第２ホイール本体と、 前記第２ホイール本体の外周に沿って配置され、それぞれ前記第２回転軸に対して前記第１傾斜軸とは異なる方向に傾斜した第２傾斜軸まわりに回転する複数の第２樽型ローラと、を有する ことを特徴とする搬送補助装置。 2. The transport assist device according to claim 1, The first Mecanum wheel is a first wheel body that rotates about a first rotation axis; a plurality of first barrel-shaped rollers arranged along an outer periphery of the first wheel body and each of which rotates about a first inclined axis inclined with respect to the first rotation axis; The second Mecanum wheel is a second wheel body that rotates about a second rotation axis extending parallel to the first rotation axis; a plurality of second barrel-shaped rollers arranged along the outer periphery of the second wheel body and each rotating about a second inclined axis inclined in a direction different from the first inclined axis relative to the second rotation axis."
+   ],
+   "3": [
+    "請求項２に記載された搬送補助装置において、 前記第１及び第２回転軸は、双方とも、前記対象物の前後方向に直交しかつ前記対象物の搬送面に沿った左右方向に延び、 前記第１傾斜軸は、前記第２傾斜軸に対し、前記前後方向を基準とした線対称となるように傾斜している ことを特徴とする搬送補助装置。 3. The transport auxiliary device according to claim 2, The first and second rotation axes are both perpendicular to the front-rear direction of the object and extend in a left-right direction along a conveyance surface of the object, A transport auxiliary device",
+    "wherein the first tilt axis is tilted to be linearly symmetrical with respect to the second tilt axis with respect to the front-rear direction."
+   ]
+  },
+  "source_language": null
+ },
+ "WO-2024195508-A1": {
+  "title": "Transportation aid device",
+  "abstract": "This transportation aid device (1) comprises: first and second mechanam wheels (21R, 21L); first and second motors (22R, 22L) that are drive-connected to the first and second mechanam wheels (21R, 21L); first and second current sensors (SW1, SW2) for detecting signals corresponding to the rotational states of the first and second mechanam wheels (21R, 21L); a six-axis sensor (SW5) for detecting the turning of a bed (10); and a controller (4). When it is determined that the bed (10) is advancing or retreating but not turning, the controller (4) assists the manual pushing movement in the longitudinal direction, and when it is determined that the bed (10) is turning while advancing or retreating, the controller (4) assists the manual pushing movement in the longitudinal direction and the lateral direction.",
+  "family_id": "92841918",
+  "priority_date": "2023-03-22",
+  "status": "Ceased",
+  "legal_status": "not_active",
+  "assignee": "JTEKT Machine Systems Corp",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "First and second Mecanum wheels attached to a lower portion of the bed and in contact with a conveying surface of the bed; first and second motors drivingly connected to the first and second Mecanum wheels, respectively; a state sensor that detects a signal corresponding to a rotation state of the first and second Mecanum wheels; a rotation sensor that detects rotation of the bed around a rotation axis perpendicular to the conveying surface; a controller for controlling the first and second motors, The controller determines whether the bed is moving forward or backward and whether the bed is rotating based on the detection signals of the state sensor and the rotation sensor, The controller: When it is determined that the bed is moving forward or backward and not rotating, the first and second Mecanum wheels are driven via the first and second motors so as to assist the hand-pushed movement in the forward and backward directions, When it is determined that the bed is rotating while moving forward or backward, the transport assistance device drives the first and second Mecanum wheels via the first and second motors so as to assist the manual movement in both the forward/backward direction and a lateral direction perpendicular to the forward/backward direction and extending along the transport surface.",
+    "original_text": "キャスタ付きベッドの手押移動をアシストするための搬送補助装置において、 前記ベッドの下部に取り付けられ、該ベッドの搬送面に接する第１及び第２メカナムホイールと、 前記第１及び第２メカナムホイールのそれぞれに駆動連結された第１及び第２モータと、 前記第１及び第２メカナムホイールの回転状態に対応した信号を検出する状態センサと、 前記搬送面に垂直な回転軸まわりにおける前記ベッドの旋回を検出する旋回センサと、 前記第１及び第２モータを制御するコントローラと、を備え、 前記コントローラは、前記状態センサ及び前記旋回センサの検出信号に基づいて、前記ベッドが前進又は後退しているか否かの判定と、前記ベッドが旋回しているか否かの判定と、をそれぞれ実行し、 前記コントローラは、 前記ベッドが前進又は後退中であってかつ非旋回中であると判定した場合には、前記手押移動を前後方向にアシストするように、前記第１及び第２モータを介して前記第１及び第２メカナムホイールを駆動する一方、 前記ベッドが前進又は後退しながら旋回していると判定した場合には、前記前後方向と、該前後方向に直交しかつ前記搬送面に沿って延びる横方向と、の双方に前記手押移動をアシストするように、前記第１及び第２モータを介して前記第１及び第２メカナムホイールを駆動する ことを特徴とする搬送補助装置。",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "2",
+    "text": "The state sensor includes first and second current sensors that detect induced currents flowing through the first and second motors when the first and second Mecanum wheels rotate, respectively; The controller: Based on the detection signals of the first and second current sensors, a vertical acceleration indicating the acceleration of the first and second mecanum wheels in the forward/rearward direction and a lateral acceleration indicating the acceleration of the first and second mecanum wheels in the lateral direction are estimated, respectively; execute a first control for setting command rotation speeds of the first and second motors so as to follow the hand-pushing movement based on at least one of the vertical acceleration and the lateral acceleration; When the controller determines that the bed is rotating while moving forward or backward, With respect to the longitudinal direction, the first control is executed based on the longitudinal acceleration, A transport assistance device characterized in that, with respect to the lateral direction, the lateral acceleration is adjusted so as to be reduced at a predetermined rate exceeding 0, and the first control is executed based on the adjusted lateral acceleration.",
+    "original_text": "請求項１に記載された搬送補助装置において、 前記状態センサは、前記第１及び第２メカナムホイールそれぞれの回転に際して前記第１及び第２モータに流れる誘導電流を検出する第１及び第２電流センサによって構成され、 前記コントローラは、 前記第１及び第２電流センサの検出信号に基づいて、前記前後方向における前記第１及び第２メカナムホイールの加速度を示す縦加速度と、前記横方向における前記第１及び第２メカナムホイールの加速度を示す横加速度と、をそれぞれ推定し、 前記縦加速度及び前記横加速度の少なくとも一方に基づいて、前記手押移動に追従させるように前記第１及び第２モータの指令回転数を設定する第１制御を実行し、 前記コントローラは、前記ベッドが前進又は後退しながら旋回していると判定した場合、 前記前後方向については、前記縦加速度に基づいて前記第１制御を実行する一方、 前記横方向については、前記横加速度を、０を上回る所定比率で減少させるように調整の上、該調整後の横加速度に基づいて前記第１制御を実行する ことを特徴とする搬送補助装置。",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "3",
+    "text": "The transport assistance device, characterized in that the specified ratio is set so as to shift the rotation center of the bed from the center position of the first and second Mecanum wheels toward the front end of the bed.",
+    "original_text": "請求項２に記載された搬送補助装置において、 前記所定比率は、前記ベッドの旋回中心を、前記第１及び第２メカナムホイールの中央位置から前記ベッドの前端側にシフトさせるように設定されている ことを特徴とする搬送補助装置。",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "キャスタ付きベッドの手押移動をアシストするための搬送補助装置において、 前記ベッドの下部に取り付けられ、該ベッドの搬送面に接する第１及び第２メカナムホイールと、 前記第１及び第２メカナムホイールのそれぞれに駆動連結された第１及び第２モータと、 前記第１及び第２メカナムホイールの回転状態に対応した信号を検出する状態センサと、 前記搬送面に垂直な回転軸まわりにおける前記ベッドの旋回を検出する旋回センサと、 前記第１及び第２モータを制御するコントローラと、を備え、 前記コントローラは、前記状態センサ及び前記旋回センサの検出信号に基づいて、前記ベッドが前進又は後退しているか否かの判定と、前記ベッドが旋回しているか否かの判定と、をそれぞれ実行し、 前記コントローラは、 前記ベッドが前進又は後退中であってかつ非旋回中であると判定した場合には、前記手押移動を前後方向にアシストするように、前記第１及び第２モータを介して前記第１及び第２メカナムホイールを駆動する一方、 前記ベッドが前進又は後退しながら旋回していると判定した場合には、前記前後方向と、該前後方向に直交しかつ前記搬送面に沿って延びる横方向と、の双方に前記手押移動をアシストするように、前記第１及び第２モータを介して前記第１及び第２メカナムホイールを駆動する ことを特徴とする搬送補助装置。 A transport assistance device for assisting the manual movement of a bed with casters, First and second Mecanum wheels attached to a lower portion of the bed and in contact with a conveying surface of the bed; first and second motors drivingly connected to the first and second Mecanum wheels, respectively; a state sensor that detects a signal corresponding to a rotation state of the first and second Mecanum wheels; a rotation sensor that detects rotation of the bed around a rotation axis perpendicular to the conveying surface; a controller for controlling the first and second motors, The controller determines whether the bed is moving forward or backward and whether the bed is rotating based on the detection signals of the state sensor and the rotation sensor, The controller: When it is determined that the bed is moving forward or backward and not rotating, the first and second Mecanum wheels are driven via the first and second motors so as to assist the hand-pushed movement in the forward and backward directions, When it is determined that the bed is rotating while moving forward or backward, the transport assistance device drives the first and second Mecanum wheels via the first and second motors so as to assist the manual movement in both the forward/backward direction and a lateral direction perpendicular to the forward/backward direction and extending along the transport surface."
+   ],
+   "2": [
+    "請求項１に記載された搬送補助装置において、 前記状態センサは、前記第１及び第２メカナムホイールそれぞれの回転に際して前記第１及び第２モータに流れる誘導電流を検出する第１及び第２電流センサによって構成され、 前記コントローラは、 前記第１及び第２電流センサの検出信号に基づいて、前記前後方向における前記第１及び第２メカナムホイールの加速度を示す縦加速度と、前記横方向における前記第１及び第２メカナムホイールの加速度を示す横加速度と、をそれぞれ推定し、 前記縦加速度及び前記横加速度の少なくとも一方に基づいて、前記手押移動に追従させるように前記第１及び第２モータの指令回転数を設定する第１制御を実行し、 前記コントローラは、前記ベッドが前進又は後退しながら旋回していると判定した場合、 前記前後方向については、前記縦加速度に基づいて前記第１制御を実行する一方、 前記横方向については、前記横加速度を、０を上回る所定比率で減少させるように調整の上、該調整後の横加速度に基づいて前記第１制御を実行する ことを特徴とする搬送補助装置。 2. The transport assist device according to claim 1, The state sensor includes first and second current sensors that detect induced currents flowing through the first and second motors when the first and second Mecanum wheels rotate, respectively; The controller: Based on the detection signals of the first and second current sensors, a vertical acceleration indicating the acceleration of the first and second mecanum wheels in the forward/rearward direction and a lateral acceleration indicating the acceleration of the first and second mecanum wheels in the lateral direction are estimated, respectively; execute a first control for setting command rotation speeds of the first and second motors so as to follow the hand-pushing movement based on at least one of the vertical acceleration and the lateral acceleration; When the controller determines that the bed is rotating while moving forward or backward, With respect to the longitudinal direction, the first control is executed based on the longitudinal acceleration, A transport assistance device characterized in that, with respect to the lateral direction, the lateral acceleration is adjusted so as to be reduced at a predetermined rate exceeding 0, and the first control is executed based on the adjusted lateral acceleration."
+   ],
+   "3": [
+    "請求項２に記載された搬送補助装置において、 前記所定比率は、前記ベッドの旋回中心を、前記第１及び第２メカナムホイールの中央位置から前記ベッドの前端側にシフトさせるように設定されている ことを特徴とする搬送補助装置。 3. The transport auxiliary device according to claim 2, The transport assistance device, characterized in that the specified ratio is set so as to shift the rotation center of the bed from the center position of the first and second Mecanum wheels toward the front end of the bed."
+   ]
+  },
+  "source_language": null
+ },
+ "WO-2024195548-A1": {
+  "title": "Conveyance assistance device",
+  "abstract": "A conveyance assistance device (1) is provided with: first and second mecanum wheels (21R, 21L) that are attached to a bed (10); first and second motors (22R, 22L) that are drivingly connected to the first and second mecanum wheels; first and second current sensors (SW1, SW2) for detecting induction currents flowing through the motors (22R, 22L) during rotation of the wheels (21R, 21L); and a controller (4). The controller (4) estimates an acceleration of the bed (10) using the induction currents, sets a command rotational speed for each motor (22R, 22L) so as to follow the movement of the bed (10) on the basis of the acceleration, and increases the command rotational speed when the acceleration is equal to or greater than a predetermined value.",
+  "family_id": "92842056",
+  "priority_date": "2023-03-22",
+  "status": "Ceased",
+  "legal_status": "not_active",
+  "assignee": "JTEKT Machine Systems Corp",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "a wheel attached to the object; a motor drivingly connected to the wheel; a current sensor for detecting an induced current flowing through the motor when the wheel rotates; A controller for controlling the motor, The controller: Estimating an acceleration of the object based on a detection signal of the current sensor; execute a first control for setting a command rotation speed of the motor so as to follow the movement of the object based on the acceleration; When the absolute value of the acceleration is equal to or greater than a predetermined value, a second control is executed to increase the command rotation speed set in the first control.",
+    "original_text": "外力による対象物の移動をアシストするための搬送補助装置において、 前記対象物に取り付けられるホイールと、 前記ホイールに駆動連結されたモータと、 前記ホイールの回転に際して前記モータに流れる誘導電流を検出する電流センサと、 前記モータを制御するコントローラと、を備え、 前記コントローラは、 前記電流センサの検出信号に基づいて、前記対象物の加速度を推定し、 前記加速度に基づいて、前記対象物の移動に追従させるように前記モータの指令回転数を設定する第１制御を実行し、 前記加速度の絶対値が所定値以上の場合には、前記第１制御で設定された前記指令回転数を増加させる第２制御を実行する ことを特徴とする搬送補助装置。",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "4",
+    "text": "A rotation sensor is provided to detect the number of rotations of the motor, The transport auxiliary device, wherein the controller allows the wheel to be driven when the number of rotations reaches or exceeds a predetermined number based on a detection signal from the rotation sensor.",
+    "original_text": "請求項１に記載された搬送補助装置において、 前記モータの回転数を検出する回転センサを備え、 前記コントローラは、前記回転センサの検出信号に基づいて、前記回転数が所定以上になったことを条件に、前記ホイールの駆動を許容する ことを特徴とする搬送補助装置。",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "5",
+    "text": "A rotation sensor for detecting the number of rotations of the motor; a tilt sensor for detecting a tilt angle of a conveyance surface on which the object moves, The controller determines whether the conveying surface is a slope based on a detection signal from the tilt sensor, The controller: When it is determined that the conveying surface is not a slope, both of the first control and the second control are executed based on the acceleration obtained by the current sensor, When it is determined that the conveying surface is a slope, it is determined whether the object is ascending along the slope based on the detection signals of the rotation sensor and the inclination sensor, and when it is determined that the object is ascending, the acceleration obtained by the current sensor is increased, and the first control is executed based on the increased acceleration, and the second control is not executed.",
+    "original_text": "請求項１に記載された搬送補助装置において、 前記モータの回転数を検出する回転センサと、 前記対象物が移動する搬送面の傾斜角を検出する傾斜センサと、を備え、 前記コントローラは、前記傾斜センサの検出信号に基づいて、前記搬送面が坂道であるか否かを判定し、 前記コントローラは、 前記搬送面が坂道ではないと判定した場合には、前記電流センサによって得られた前記加速度に基づいて前記第１制御及び前記第２制御を双方とも実行する一方、 前記搬送面が坂道であると判定した場合には、前記回転センサ及び前記傾斜センサの検出信号に基づいて、前記坂道に沿って前記対象物が上っているか否かを判定し、該対象物が上っていると判定したときには、前記電流センサによって得られた前記加速度を増加させた上で、該増加後の加速度に基づいて前記第１制御を実行し、前記第２制御を未実行とする ことを特徴とする搬送補助装置。",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "外力による対象物の移動をアシストするための搬送補助装置において、 前記対象物に取り付けられるホイールと、 前記ホイールに駆動連結されたモータと、 前記ホイールの回転に際して前記モータに流れる誘導電流を検出する電流センサと、 前記モータを制御するコントローラと、を備え、 前記コントローラは、 前記電流センサの検出信号に基づいて、前記対象物の加速度を推定し、 前記加速度に基づいて、前記対象物の移動に追従させるように前記モータの指令回転数を設定する第１制御を実行し、 前記加速度の絶対値が所定値以上の場合には、前記第１制御で設定された前記指令回転数を増加させる第２制御を実行する ことを特徴とする搬送補助装置。 A transport assist device for assisting the movement of an object by an external force, comprising: a wheel attached to the object; a motor drivingly connected to the wheel; a current sensor for detecting an induced current flowing through the motor when the wheel rotates; A controller for controlling the motor, The controller: Estimating an acceleration of the object based on a detection signal of the current sensor; execute a first control for setting a command rotation speed of the motor so as to follow the movement of the object based on the acceleration; When the absolute value of the acceleration is equal to or greater than a predetermined value, a second control is executed to increase the command rotation speed set in the first control."
+   ],
+   "4": [
+    "請求項１に記載された搬送補助装置において、 前記モータの回転数を検出する回転センサを備え、 前記コントローラは、前記回転センサの検出信号に基づいて、前記回転数が所定以上になったことを条件に、前記ホイールの駆動を許容する ことを特徴とする搬送補助装置。 2. The transport assist device according to claim 1, A rotation sensor is provided to detect the number of rotations of the motor, The transport auxiliary device",
+    "wherein the controller allows the wheel to be driven when the number of rotations reaches or exceeds a predetermined number based on a detection signal from the rotation sensor."
+   ],
+   "5": [
+    "請求項１に記載された搬送補助装置において、 前記モータの回転数を検出する回転センサと、 前記対象物が移動する搬送面の傾斜角を検出する傾斜センサと、を備え、 前記コントローラは、前記傾斜センサの検出信号に基づいて、前記搬送面が坂道であるか否かを判定し、 前記コントローラは、 前記搬送面が坂道ではないと判定した場合には、前記電流センサによって得られた前記加速度に基づいて前記第１制御及び前記第２制御を双方とも実行する一方、 前記搬送面が坂道であると判定した場合には、前記回転センサ及び前記傾斜センサの検出信号に基づいて、前記坂道に沿って前記対象物が上っているか否かを判定し、該対象物が上っていると判定したときには、前記電流センサによって得られた前記加速度を増加させた上で、該増加後の加速度に基づいて前記第１制御を実行し、前記第２制御を未実行とする ことを特徴とする搬送補助装置。 2. The transport assist device according to claim 1, A rotation sensor for detecting the number of rotations of the motor; a tilt sensor for detecting a tilt angle of a conveyance surface on which the object moves, The controller determines whether the conveying surface is a slope based on a detection signal from the tilt sensor, The controller: When it is determined that the conveying surface is not a slope, both of the first control and the second control are executed based on the acceleration obtained by the current sensor, When it is determined that the conveying surface is a slope, it is determined whether the object is ascending along the slope based on the detection signals of the rotation sensor and the inclination sensor, and when it is determined that the object is ascending, the acceleration obtained by the current sensor is increased, and the first control is executed based on the increased acceleration, and the second control is not executed."
+   ]
+  },
+  "source_language": null
+ },
+ "US-2015066278-A1": {
+  "title": "Manually propelled vehicle",
+  "abstract": "A manually propelled vehicle may include a vehicle body, a left drive wheel and a right drive wheel, a wheel driver that drives the left and right drive wheels, a sensor that detects a user behind the vehicle body, and a controller that determines whether the user is behind the left or right drive wheel based on a detected result of the sensor. When one of the left or right drive wheel moves backward and the controller detects that the user is behind the one of the left or right drive wheel, the controller suppresses or stops the wheel driver from driving the one of the left or right drive wheel.",
+  "family_id": "51421994",
+  "priority_date": "2013-08-30",
+  "status": "Granted",
+  "legal_status": "not_active",
+  "assignee": "Funai Electric Co Ltd",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "A manually propelled vehicle, comprising: a vehicle body; a left drive wheel and a right drive wheel; a wheel driver that drives the left and right drive wheels; a sensor that detects a user behind the vehicle body; and a controller that determines whether the user is behind the left or right drive wheel based on a detected result of the sensor, wherein when one of the left or right drive wheel moves backward and the controller detects that the user is behind the one of the left or right drive wheel, the controller suppresses or stops the wheel driver from driving the one of the left or right drive wheel.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "6",
+    "text": "A method for controlling a manually propelled vehicle comprising a vehicle body, a left drive wheel and a right drive wheel, and a wheel driver that drives the left and right drive wheels, the method comprising: detecting a user behind the vehicle body; determining whether the user is behind the left or right drive wheel based on the detecting; and when one side of the left or right drive wheel moves backward and the determining determines that the user is behind the one side of the left or right drive, suppressing or stopping the wheel driver from driving the one of the left or right drive wheel.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "1 . A manually propelled vehicle, comprising:",
+    "a vehicle body;",
+    "a left drive wheel and a right drive wheel;",
+    "a wheel driver that drives the left and right drive wheels;",
+    "a sensor that detects a user behind the vehicle body; and",
+    "a controller that determines whether the user is behind the left or right drive wheel based on a detected result of the sensor, wherein",
+    "when one of the left or right drive wheel moves backward and the controller detects that the user is behind the one of the left or right drive wheel, the controller suppresses or stops the wheel driver from driving the one of the left or right drive wheel."
+   ],
+   "6": [
+    "6 . A method for controlling a manually propelled vehicle comprising a vehicle body, a left drive wheel and a right drive wheel, and a wheel driver that drives the left and right drive wheels, the method comprising:",
+    "detecting a user behind the vehicle body;",
+    "determining whether the user is behind the left or right drive wheel based on the detecting; and",
+    "when one side of the left or right drive wheel moves backward and the determining determines that the user is behind the one side of the left or right drive, suppressing or stopping the wheel driver from driving the one of the left or right drive wheel."
+   ]
+  },
+  "source_language": null
+ },
+ "US-9474678-B2": {
+  "title": "Pushcart",
+  "abstract": "A pushcart includes a main body, a pair of main wheels, a supporter, an auxiliary wheel, a blocking unit, a switching lever, a slope angle sensor, a gyrosensor, a driver unit, and a supporter rotary encoder. The supporter rotary encoder detects an intersecting angle which is an angle formed by the main body and the supporter, and outputs the detected result to a controller. The gyrosensor detects an angular velocity of the main body in a pitch direction and outputs the detected result to the controller. The controller performs inverted pendulum control in a first control mode based on the detected results of the gyrosensor and the supporter rotary encoder. The controller performs inverted pendulum control in a second control mode based on the detected result of the gyrosensor.",
+  "family_id": "52688778",
+  "priority_date": "2013-09-17",
+  "status": "Expired - Fee Related",
+  "legal_status": "not_active",
+  "assignee": "Murata Manufacturing Co Ltd",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "A pushcart comprising: a first wheel; a main body that is supported in a rotatable manner in a pitch direction with respect to the first wheel; a first driver unit that drives the first wheel; a supporter that is supported in a rotatable manner in the pitch direction with respect to the main body or a rotational shaft of the first wheel; a second wheel that is supported by the supporter in a rotatable manner on a front side relative to the first wheel in a travelling direction of the supporter being moved with rotation of the first wheel; an angle change detection unit that detects an angle change in a slope angle of the main body in the pitch direction; an intersecting angle detection unit that detects an intersecting angle formed by the main body and the supporter; a controller having a first control mode that controls the first driver unit so that an angle change of the main body in the pitch direction becomes 0 based on output of the intersecting angle detection unit and a second control mode that controls the first driver unit so that the angle change of the main body in the pitch direction becomes 0 based on output of the angle change detection unit; and a switching unit that switches between the first control mode and the second control mode.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "A pushcart comprising:",
+    "a first wheel;",
+    "a main body that is supported in a rotatable manner in a pitch direction with respect to the first wheel;",
+    "a first driver unit that drives the first wheel;",
+    "a supporter that is supported in a rotatable manner in the pitch direction with respect to the main body or a rotational shaft of the first wheel;",
+    "a second wheel that is supported by the supporter in a rotatable manner on a front side relative to the first wheel in a travelling direction of the supporter being moved with rotation of the first wheel;",
+    "an angle change detection unit that detects an angle change in a slope angle of the main body in the pitch direction;",
+    "an intersecting angle detection unit that detects an intersecting angle formed by the main body and the supporter;",
+    "a controller having a first control mode that controls the first driver unit so that an angle change of the main body in the pitch direction becomes 0 based on output of the intersecting angle detection unit and a second control mode that controls the first driver unit so that the angle change of the main body in the pitch direction becomes 0 based on output of the angle change detection unit; and",
+    "a switching unit that switches between the first control mode and the second control mode."
+   ]
+  },
+  "source_language": null
+ },
+ "WO-2016192857-A2": {
+  "title": "Robot-assisted transport of a mobile object",
+  "abstract": "The present invention relates to a robot system (1) for transporting a mobile object (2), in particular a hospital bed, wherein the robot system (1) comprises at least two robots (3) and each of the two robots (3) can be coupled to the mobile object (2), in particular to a coupling device (9) of the mobile object (2), such that a force of at least one of the robots (3) can be transmitted to the mobile object (2) so that the robots (3) can transport the mobile object (2) together. The present invention further relates to: a robot (3) for transporting a mobile object (2), in particular a hospital bed; a coupling device (9) for coupling a mobile object (2), in particular a hospital bed; a hospital bed (2); a central control system (49) for a robot (3) and/or a robot system (1); and a method for transporting a mobile object (2), in particular a hospital bed.",
+  "family_id": "56411572",
+  "priority_date": "2015-06-05",
+  "status": "Ceased",
+  "legal_status": "not_active",
+  "assignee": "Individual",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "",
+    "original_text": "Robotersystem (1 ) zum Transportieren eines verfahrbaren Gegenstands (2), insbesondere eines Krankenhausbettes, wobei das Robotersystem (1 ) mindestens zwei Roboter (3) umfasst und beide Roboter (3) jeweils an den verfahrbaren Gegenstand (2), insbesondere an eine Koppeleinrichtung (9) des verfahrbaren Gegenstands (2), derart koppelbar sind, dass eine Kraft von mindestens einem der Roboter (3) auf den verfahrbaren Gegenstand (2) übertragbar ist, so dass die Roboter (3) gemeinsam den verfahrbaren Gegenstand (2) transportieren können.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "2",
+    "text": "",
+    "original_text": "Robotersystem nach Anspruch 1, wobei beide Roboter (3) jeweils eine Kommunikationseinrichtung (14) aufweisen, die eine drahtlose Kommunikation mit der Kommunikationseinrichtung (14) des anderen Roboters (3) und/oder eines Aufzugs (45) und/oder eines zentralen Steuersystems (49) ermöglicht.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "3",
+    "text": "",
+    "original_text": "Robotersystem nach Anspruch 1 oder 2, wobei beide Roboter (3) jeweils eine Steuereinrichtung (15), insbesondere zur Steuerung eines Fahrwerks (4) des jeweiligen Roboters (3), aufweisen, wobei beide Roboter (3) so ausgebildet sind, dass Steuerbefehle der Steuereinrichtung (15) des einen Roboters (3) mit der Steuerein- richtung (15) des anderen Roboters (3) abstimmbar sind, insbesondere dass Steuerinformationen des einen Roboters (3) mittels der Kommunikationseinrichtung (14) des einen Roboters (3) an die Kommunikationseinrichtung (14) des anderen Roboters (3) drahtlos übermittelbar sind.",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "Robotersystem (1 ) zum Transportieren eines verfahrbaren Gegenstands (2), insbesondere eines Krankenhausbettes, wobei das Robotersystem (1 ) mindestens zwei Roboter (3) umfasst und beide Roboter (3) jeweils an den verfahrbaren Gegenstand (2), insbesondere an eine Koppeleinrichtung (9) des verfahrbaren Gegenstands (2), derart koppelbar sind, dass eine Kraft von mindestens einem der Roboter (3) auf den verfahrbaren Gegenstand (2) übertragbar ist, so dass die Roboter (3) gemeinsam den verfahrbaren Gegenstand (2) transportieren können. 1. Robot system (1) for transporting a movable object (2), in particular a hospital bed",
+    "wherein the robot system (1) comprises at least two robots (3) and both robots (3) respectively to the movable object (2), in particular to a Coupling device (9) of the movable object (2), can be coupled such that a force of at least one of the robots (3) on the movable object (2) is transferable, so that the robot (3) together the movable object (2) can transport."
+   ],
+   "2": [
+    "Robotersystem nach Anspruch 1, wobei beide Roboter (3) jeweils eine Kommunikationseinrichtung (14) aufweisen, die eine drahtlose Kommunikation mit der Kommunikationseinrichtung (14) des anderen Roboters (3) und/oder eines Aufzugs (45) und/oder eines zentralen Steuersystems (49) ermöglicht. The robot system according to claim 1",
+    "wherein both robots (3) each have a communication device (14) which communicates wirelessly with the communication device (14) of the other robot (3) and / or elevator (45) and / or a central robot Control system (49) allows."
+   ],
+   "3": [
+    "Robotersystem nach Anspruch 1 oder 2, wobei beide Roboter (3) jeweils eine Steuereinrichtung (15), insbesondere zur Steuerung eines Fahrwerks (4) des jeweiligen Roboters (3), aufweisen, wobei beide Roboter (3) so ausgebildet sind, dass Steuerbefehle der Steuereinrichtung (15) des einen Roboters (3) mit der Steuerein- richtung (15) des anderen Roboters (3) abstimmbar sind, insbesondere dass Steuerinformationen des einen Roboters (3) mittels der Kommunikationseinrichtung (14) des einen Roboters (3) an die Kommunikationseinrichtung (14) des anderen Roboters (3) drahtlos übermittelbar sind. 3. Robot system according to claim 1 or 2",
+    "wherein both robots (3) each have a control device (15), in particular for controlling a chassis (4) of the respective robot (3)",
+    "wherein both robots (3) are designed such that Control commands of the control device (15) of one robot (3) with the control device (15) of the other robot (3) are tunable, in particular that control information of the one robot (3) by means of the communication device (14) of the one robot (3) to the communication device (14) of the other robot (3) can be transmitted wirelessly."
+   ]
+  },
+  "source_language": null
+ },
+ "US-2019269566-A1": {
+  "title": "Moving device",
+  "abstract": "A moving device adapted to be actuated by a prime mover is disclosed. The moving device allows a caregiver to ride thereon. The moving device comprises a vehicle body and a plurality of rotors. The vehicle body includes a first frame portion and a second frame portion. The first frame portion allows the caregiver to ride thereon and the second frame portion allows a care receiver to ride thereon. The plurality of rotors are provided on the first frame portion and are rotatable in accordance with movement of the vehicle body. A wheel base defined by the plurality of rotors is constant. The second frame portion is provided on the first frame portion so as to be movable in accordance with a motion of the caregiver riding on and getting off the first frame portion.",
+  "family_id": "65628672",
+  "priority_date": "2018-03-05",
+  "status": "Granted",
+  "legal_status": "not_active",
+  "assignee": "Exedy Corp",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "A moving device adapted to be actuated by a prime mover, the moving device for allowing a caregiver to ride thereon, the moving device comprising: a vehicle body including a first frame portion and a second frame portion, the first frame portion for allowing the caregiver to ride thereon, the second frame portion for allowing a care receiver to ride thereon; and a plurality of rotors provided on the first frame portion, the plurality of rotors rotatable in accordance with movement of the vehicle body, wherein a wheel base defined by the plurality of rotors is constant, and the second frame portion is provided on the first frame portion so as to be movable in accordance with a motion of the caregiver riding on and getting off the first frame portion.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "1 . A moving device adapted to be actuated by a prime mover, the moving device for allowing a caregiver to ride thereon, the moving device comprising:",
+    "a vehicle body including a first frame portion and a second frame portion, the first frame portion for allowing the caregiver to ride thereon, the second frame portion for allowing a care receiver to ride thereon; and",
+    "a plurality of rotors provided on the first frame portion, the plurality of rotors rotatable in accordance with movement of the vehicle body, wherein",
+    "a wheel base defined by the plurality of rotors is constant, and",
+    "the second frame portion is provided on the first frame portion so as to be movable in accordance with a motion of the caregiver riding on and getting off the first frame portion."
+   ]
+  },
+  "source_language": null
+ },
+ "DE-102015110555-A1": {
+  "title": "Robot-assisted transport of a movable object",
+  "abstract": "The present invention relates to a robot system (1) for transporting a movable object (2), in particular a hospital bed, wherein the robot system (1) comprises at least two robots (3) and both robots (3) are respectively attached to the movable object (2). in particular to a coupling device (9) of the movable object (2), are coupled such that a force of at least one of the robots (3) on the movable object (2) is transferable, so that the robot (3) together the movable object (2) can transport. The present invention also relates to a robot (3) for transporting a movable object (2), in particular a hospital bed, a coupling device (9) for coupling a movable object (2), in particular a hospital bed, a hospital bed (2), a central control system (49) for a robot (3) and / or a robot system (1) and a method for transporting a movable object (2), in particular a hospital bed.",
+  "family_id": "57352748",
+  "priority_date": "2015-06-05",
+  "status": "Granted",
+  "legal_status": "active",
+  "assignee": "Individual",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "1 ) for transporting a movable object ( 2 ), in particular a hospital bed, wherein the robot system ( 1 ) at least two robots ( 3 ) and both robots ( 3 ) each to the movable object ( 2 ) are coupled so that a force from both robots ( 3 ) on the movable object ( 2 ) is transferable, so that the robots ( 3 ) together the movable object ( 2 ) can transport.",
+    "original_text": "Robotersystem (1) zum Transportieren eines verfahrbaren Gegenstands (2), insbesondere eines Krankenhausbettes, wobei das Robotersystem (1) mindestens zwei Roboter (3) umfasst und beide Roboter (3) jeweils an den verfahrbaren Gegenstand (2) derart koppelbar sind, dass eine Kraft von beiden Robotern (3) auf den verfahrbaren Gegenstand (2) übertragbar ist, so dass die Roboter (3) gemeinsam den verfahrbaren Gegenstand (2) transportieren können.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "2",
+    "text": "3 ) each have a control device ( 15 ) for controlling a chassis ( 4 ) of the respective robot ( 3 ), both robots ( 3 ) are formed so that control commands of the control device ( 15 ) of a robot ( 3 ) with the control device ( 15 ) of the other robot ( 3 ) are tunable, wherein, preferably, control information of the one robot ( 3 ) by means of a communication device ( 14 ) of a robot ( 3 ) to a communication device ( 14 ) of the other robot ( 3 ) can be transmitted wirelessly.",
+    "original_text": "Robotersystem nach Anspruch 1, wobei beide Roboter (3) jeweils eine Steuereinrichtung (15) zur Steuerung eines Fahrwerks (4) des jeweiligen Roboters (3) aufweisen, wobei beide Roboter (3) so ausgebildet sind, dass Steuerbefehle der Steuereinrichtung (15) des einen Roboters (3) mit der Steuereinrichtung (15) des anderen Roboters (3) abstimmbar sind, wobei, vorzugsweise, Steuerinformationen des einen Roboters (3) mittels einer Kommunikationseinrichtung (14) des einen Roboters (3) an eine Kommunikationseinrichtung (14) des anderen Roboters (3) drahtlos übermittelbar sind.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "3",
+    "text": "3 ) each one speaker ( 29 ), a microphone ( 30 ), a display, an input device and / or a touchscreen ( 31 ) and are set up such that an audio and / or image reproduction synchronously with the respective other robot ( 3 ) he follows.",
+    "original_text": "Robotersystem nach Anspruch 1 oder 2, wobei beide Roboter (3) jeweils einen Lautsprecher (29), ein Mikrofon (30), ein Display, eine Eingabeeinrichtung und/oder einen Touchscreen (31) aufweisen und so eingerichtet sind, dass eine Audio- und/oder Bildwiedergabe synchron mit dem jeweils anderen Roboter (3) erfolgt.",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "Robotersystem (1) zum Transportieren eines verfahrbaren Gegenstands (2), insbesondere eines Krankenhausbettes, wobei das Robotersystem (1) mindestens zwei Roboter (3) umfasst und beide Roboter (3) jeweils an den verfahrbaren Gegenstand (2) derart koppelbar sind, dass eine Kraft von beiden Robotern (3) auf den verfahrbaren Gegenstand (2) übertragbar ist, so dass die Roboter (3) gemeinsam den verfahrbaren Gegenstand (2) transportieren können. Robot system ( 1 ) for transporting a movable object ( 2 ), in particular a hospital bed",
+    "wherein the robot system ( 1 ) at least two robots ( 3 ) and both robots ( 3 ) each to the movable object ( 2 ) are coupled so that a force from both robots ( 3 ) on the movable object ( 2 ) is transferable, so that the robots ( 3 ) together the movable object ( 2 ) can transport."
+   ],
+   "2": [
+    "Robotersystem nach Anspruch 1, wobei beide Roboter (3) jeweils eine Steuereinrichtung (15) zur Steuerung eines Fahrwerks (4) des jeweiligen Roboters (3) aufweisen, wobei beide Roboter (3) so ausgebildet sind, dass Steuerbefehle der Steuereinrichtung (15) des einen Roboters (3) mit der Steuereinrichtung (15) des anderen Roboters (3) abstimmbar sind, wobei, vorzugsweise, Steuerinformationen des einen Roboters (3) mittels einer Kommunikationseinrichtung (14) des einen Roboters (3) an eine Kommunikationseinrichtung (14) des anderen Roboters (3) drahtlos übermittelbar sind. Robot system according to claim 1",
+    "wherein both robots ( 3 ) each have a control device ( 15 ) for controlling a chassis ( 4 ) of the respective robot ( 3 ), both robots ( 3 ) are formed so that control commands of the control device ( 15 ) of a robot ( 3 ) with the control device ( 15 ) of the other robot ( 3 ) are tunable",
+    "wherein , preferably, control information of the one robot ( 3 ) by means of a communication device ( 14 ) of a robot ( 3 ) to a communication device ( 14 ) of the other robot ( 3 ) can be transmitted wirelessly."
+   ],
+   "3": [
+    "Robotersystem nach Anspruch 1 oder 2, wobei beide Roboter (3) jeweils einen Lautsprecher (29), ein Mikrofon (30), ein Display, eine Eingabeeinrichtung und/oder einen Touchscreen (31) aufweisen und so eingerichtet sind, dass eine Audio- und/oder Bildwiedergabe synchron mit dem jeweils anderen Roboter (3) erfolgt. Robot system according to claim 1 or 2",
+    "wherein both robots ( 3 ) each one speaker ( 29 ), a microphone ( 30 ), a display, an input device and / or a touchscreen ( 31 ) and are set up such that an audio and / or image reproduction synchronously with the respective other robot ( 3 ) he follows."
+   ]
+  },
+  "source_language": "de"
+ },
+ "DE-102023211690-B4": {
+  "title": "User-guided semi-automatic navigation of a mobile medical device",
+  "abstract": "A mobile medical device (1) can be moved on a floor (3) within a building (9) by means of a chassis (2). The movement of the device (1) can be effected or at least assisted by at least one drive (5). The direction of travel of the movement can be varied by means of a direction influencing device (7). Both the drive (5) and the direction influencing device (7) can be controlled by a control device (12). The control device (12) knows the end stations (10) and the paths (11) leading to the end stations (10), as well as a current position (p) of the device (1). The control device (12) receives a travel request (FA) from an operator (15) and, using the travel request (FA), determines at least an approximate desired direction of the travel movement. The control device (12) only controls the drive (5) as long as it receives the travel request (FA). The control device (12) controls the direction-influencing device (7) in addition to the drive (5), so that the device (1) is moved along one of the paths (11) when it receives the travel request (FA) and the current position (p) of the device (1) is at least approximately on this path (11). Furthermore, the control device (12) continuously updates the current position (p) of the device (1) during the travel movement.",
+  "family_id": "95655608",
+  "priority_date": "2023-11-23",
+  "status": "Active",
+  "legal_status": "active",
+  "assignee": "Siemens Healthineers AG",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "characterized in that the control device (12) sends a request (SB) for can accept a reversal of direction and that in this case the control device (12) rotates the medical device (1) on the spot by 180° about a vertical axis.",
+    "original_text": "Betriebsverfahren für ein mobiles medizinisches Gerät (1), mit einem Fahrwerk (2), mittels dessen das Gerät (1) auf einem Boden (3) innerhalb eines Gebäudes (9) verfahrbar ist, mit mindestens einem Antrieb (5), mittels dessen eine Fahrbewegung des Geräts (1) bewirkt oder zumindest unterstützt werden kann, mit einer Richtungsbeeinflussungseinrichtung (7), mittels derer die Fahrtrichtung der Fahrbewegung variiert werden kann, und mit einer Steuereinrichtung (12), von der sowohl der Antrieb (5) als auch die Richtungsbeeinflussungseinrichtung (7) angesteuert werden können, - wobei der Steuereinrichtung (12) eine Anzahl von Endstationen (10) und zu den Endstationen (10) führende Wege (11) bekannt sind, - wobei der Steuereinrichtung (12) eine aktuelle Position (p) des Geräts (1) bekannt ist, - wobei die Steuereinrichtung (12) von einer Bedienperson (15) eine Fahranforderung (FA) entgegennimmt, - wobei die Steuereinrichtung (12) unter Verwertung der Fahranforderung (FA) eine zumindest ungefähre Sollrichtung der Fahrbewegung ermittelt, - wobei die Steuereinrichtung (12) den Antrieb (5) nur ansteuert, solange sie die Fahranforderung (FA) entgegennimmt, - wobei die Steuereinrichtung (12), wenn sie die Fahranforderung (FA) entgegennimmt und die aktuelle Position (p) des Geräts (1) sich zumindest in etwa auf einem der Wege (11) befindet, zusätzlich zum Antrieb (5) die Richtungsbeeinflussungseinrichtung (7) ansteuert, so dass das Gerät (1) auf dem betreffenden Weg (11) verfahren wird, und - die Steuereinrichtung (12) die aktuelle Position (p) des Geräts (1) während der Fahrbewegung laufend aktualisiert dadurch gekennzeichnet, dass die Steuereinrichtung (12) eine Anforderung (SB) zur Richtungsumkehr entgegennehmen kann und dass die Steuereinrichtung (12) in diesem Fall das medizinische Gerät (1) auf der Stelle um 180° um eine vertikale Achse dreht.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "2",
+    "text": "characterized in that the control device (12), when the device (1) encounters a path (11) during travel at an angle (α) which is at most as large as an acute limit angle (αG), automatically determines the direction in which it moves the device (1) on this path (11).",
+    "original_text": "Betriebsverfahren für ein mobiles medizinisches Gerät (1), mit einem Fahrwerk (2), mittels dessen das Gerät (1) auf einem Boden (3) innerhalb eines Gebäudes (9) verfahrbar ist, mit mindestens einem Antrieb (5), mittels dessen eine Fahrbewegung des Geräts (1) bewirkt oder zumindest unterstützt werden kann, mit einer Richtungsbeeinflussungseinrichtung (7), mittels derer die Fahrtrichtung der Fahrbewegung variiert werden kann, und mit einer Steuereinrichtung (12), von der sowohl der Antrieb (5) als auch die Richtungsbeeinflussungseinrichtung (7) angesteuert werden können, - wobei der Steuereinrichtung (12) eine Anzahl von Endstationen (10) und zu den Endstationen (10) führende Wege (11) bekannt sind, - wobei der Steuereinrichtung (12) eine aktuelle Position (p) des Geräts (1) bekannt ist, - wobei die Steuereinrichtung (12) von einer Bedienperson (15) eine Fahranforderung (FA) entgegennimmt, - wobei die Steuereinrichtung (12) unter Verwertung der Fahranforderung (FA) eine zumindest ungefähre Sollrichtung der Fahrbewegung ermittelt, - wobei die Steuereinrichtung (12) den Antrieb (5) nur ansteuert, solange sie die Fahranforderung (FA) entgegennimmt, - wobei die Steuereinrichtung (12), wenn sie die Fahranforderung (FA) entgegennimmt und die aktuelle Position (p) des Geräts (1) sich zumindest in etwa auf einem der Wege (11) befindet, zusätzlich zum Antrieb (5) die Richtungsbeeinflussungseinrichtung (7) ansteuert, so dass das Gerät (1) auf dem betreffenden Weg (11) verfahren wird, und - die Steuereinrichtung (12) die aktuelle Position (p) des Geräts (1) während der Fahrbewegung laufend aktualisiert, dadurch gekennzeichnet, dass die Steuereinrichtung (12), wenn das Gerät (1) beim Verfahren unter einem Winkel (α), der maximal so groß wie ein spitzer Grenzwinkel ((αG) ist, einen Weg (11) auftrifft, selbsttätig festlegt, in welcher Richtung sie das Gerät (1) auf diesem Weg (11) verfährt.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "6",
+    "text": "characterized in that in the case of a fork in the road, in the absence of a request (DA) for a change of direction, the control device (12) automatically selects as a further path (11) behind the fork in the road that path (11) whose travel is associated with the smallest change of direction.",
+    "original_text": "Betriebsverfahren nach einem der obigen Ansprüche, dadurch gekennzeichnet, dass die Steuereinrichtung (12) im Falle einer Weggabelung bei Ausbleiben einer Anforderung (DA) einer Richtungsänderung als weiteren Weg (11) hinter der Weggabelung selbsttätig denjenigen Weg (11) selektiert, dessen Befahren mit der kleinsten Richtungsänderung verbunden ist.",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "Betriebsverfahren für ein mobiles medizinisches Gerät (1), mit einem Fahrwerk (2), mittels dessen das Gerät (1) auf einem Boden (3) innerhalb eines Gebäudes (9) verfahrbar ist, mit mindestens einem Antrieb (5), mittels dessen eine Fahrbewegung des Geräts (1) bewirkt oder zumindest unterstützt werden kann, mit einer Richtungsbeeinflussungseinrichtung (7), mittels derer die Fahrtrichtung der Fahrbewegung variiert werden kann, und mit einer Steuereinrichtung (12), von der sowohl der Antrieb (5) als auch die Richtungsbeeinflussungseinrichtung (7) angesteuert werden können, - wobei der Steuereinrichtung (12) eine Anzahl von Endstationen (10) und zu den Endstationen (10) führende Wege (11) bekannt sind, - wobei der Steuereinrichtung (12) eine aktuelle Position (p) des Geräts (1) bekannt ist, - wobei die Steuereinrichtung (12) von einer Bedienperson (15) eine Fahranforderung (FA) entgegennimmt, - wobei die Steuereinrichtung (12) unter Verwertung der Fahranforderung (FA) eine zumindest ungefähre Sollrichtung der Fahrbewegung ermittelt, - wobei die Steuereinrichtung (12) den Antrieb (5) nur ansteuert, solange sie die Fahranforderung (FA) entgegennimmt, - wobei die Steuereinrichtung (12), wenn sie die Fahranforderung (FA) entgegennimmt und die aktuelle Position (p) des Geräts (1) sich zumindest in etwa auf einem der Wege (11) befindet, zusätzlich zum Antrieb (5) die Richtungsbeeinflussungseinrichtung (7) ansteuert, so dass das Gerät (1) auf dem betreffenden Weg (11) verfahren wird, und - die Steuereinrichtung (12) die aktuelle Position (p) des Geräts (1) während der Fahrbewegung laufend aktualisiert dadurch gekennzeichnet, dass die Steuereinrichtung (12) eine Anforderung (SB) zur Richtungsumkehr entgegennehmen kann und dass die Steuereinrichtung (12) in diesem Fall das medizinische Gerät (1) auf der Stelle um 180° um eine vertikale Achse dreht. Operating method for a mobile medical device (1), comprising a chassis (2), by means of which the device (1) can be moved on a floor (3) within a building (9), comprising at least one drive (5), by means of which a travel movement of the device (1) can be effected or at least supported, comprising a direction influencing device (7), by means of which the direction of travel of the travel movement can be varied, and comprising a control device (12), by which both the drive (5) and the direction influencing device (7) can be controlled, - wherein the control device (12) knows a number of end stations (10) and paths (11) leading to the end stations (10), - wherein the control device (12) knows a current position (p) of the device (1), - wherein the control device (12) receives a travel request (FA) from an operator (15), - wherein the control device (12), using the travel request (FA), determines an at least approximate desired direction of the Travel movement is determined, - wherein the control device (12) only controls the drive (5) as long as it receives the travel request (FA), - wherein the control device (12), when it receives the travel request (FA) and the current position (p) of the device (1) is at least approximately on one of the paths (11), in addition to the drive (5) controls the direction influencing device (7) so that the device (1) is moved on the relevant path (11), and - the control device (12) continuously updates the current position (p) of the device (1) during the travel movement, characterized in that the control device (12) sends a request (SB) for can accept a reversal of direction and that in this case the control device (12) rotates the medical device (1) on the spot by 180° about a vertical axis."
+   ],
+   "2": [
+    "Betriebsverfahren für ein mobiles medizinisches Gerät (1), mit einem Fahrwerk (2), mittels dessen das Gerät (1) auf einem Boden (3) innerhalb eines Gebäudes (9) verfahrbar ist, mit mindestens einem Antrieb (5), mittels dessen eine Fahrbewegung des Geräts (1) bewirkt oder zumindest unterstützt werden kann, mit einer Richtungsbeeinflussungseinrichtung (7), mittels derer die Fahrtrichtung der Fahrbewegung variiert werden kann, und mit einer Steuereinrichtung (12), von der sowohl der Antrieb (5) als auch die Richtungsbeeinflussungseinrichtung (7) angesteuert werden können, - wobei der Steuereinrichtung (12) eine Anzahl von Endstationen (10) und zu den Endstationen (10) führende Wege (11) bekannt sind, - wobei der Steuereinrichtung (12) eine aktuelle Position (p) des Geräts (1) bekannt ist, - wobei die Steuereinrichtung (12) von einer Bedienperson (15) eine Fahranforderung (FA) entgegennimmt, - wobei die Steuereinrichtung (12) unter Verwertung der Fahranforderung (FA) eine zumindest ungefähre Sollrichtung der Fahrbewegung ermittelt, - wobei die Steuereinrichtung (12) den Antrieb (5) nur ansteuert, solange sie die Fahranforderung (FA) entgegennimmt, - wobei die Steuereinrichtung (12), wenn sie die Fahranforderung (FA) entgegennimmt und die aktuelle Position (p) des Geräts (1) sich zumindest in etwa auf einem der Wege (11) befindet, zusätzlich zum Antrieb (5) die Richtungsbeeinflussungseinrichtung (7) ansteuert, so dass das Gerät (1) auf dem betreffenden Weg (11) verfahren wird, und - die Steuereinrichtung (12) die aktuelle Position (p) des Geräts (1) während der Fahrbewegung laufend aktualisiert, dadurch gekennzeichnet, dass die Steuereinrichtung (12), wenn das Gerät (1) beim Verfahren unter einem Winkel (α), der maximal so groß wie ein spitzer Grenzwinkel ((αG) ist, einen Weg (11) auftrifft, selbsttätig festlegt, in welcher Richtung sie das Gerät (1) auf diesem Weg (11) verfährt.Operating method for a mobile medical device (1), comprising a chassis (2), by means of which the device (1) can be moved on a floor (3) within a building (9), comprising at least one drive (5), by means of which a travel movement of the device (1) can be effected or at least supported, comprising a direction influencing device (7), by means of which the direction of travel of the travel movement can be varied, and comprising a control device (12), by which both the drive (5) and the direction influencing device (7) can be controlled, - wherein the control device (12) knows a number of end stations (10) and paths (11) leading to the end stations (10), - wherein the control device (12) knows a current position (p) of the device (1), - wherein the control device (12) receives a travel request (FA) from an operator (15), - wherein the control device (12), using the travel request (FA), determines an at least approximate desired direction of the Travel movement is determined, - wherein the control device (12) only controls the drive (5) as long as it receives the travel request (FA), - wherein the control device (12), when it receives the travel request (FA) and the current position (p) of the device (1) is at least approximately on one of the paths (11), controls the direction influencing device (7) in addition to the drive (5) so that the device (1) is moved on the relevant path (11), and - the control device (12) continuously updates the current position (p) of the device (1) during the travel movement, characterized in that the control device (12), when the device (1) encounters a path (11) during travel at an angle (α) which is at most as large as an acute limit angle (αG), automatically determines the direction in which it moves the device (1) on this path (11)."
+   ],
+   "6": [
+    "Betriebsverfahren nach einem der obigen Ansprüche, dadurch gekennzeichnet, dass die Steuereinrichtung (12) im Falle einer Weggabelung bei Ausbleiben einer Anforderung (DA) einer Richtungsänderung als weiteren Weg (11) hinter der Weggabelung selbsttätig denjenigen Weg (11) selektiert, dessen Befahren mit der kleinsten Richtungsänderung verbunden ist.Operating method according to one of the above claims, characterized in that in the case of a fork in the road, in the absence of a request (DA) for a change of direction, the control device (12) automatically selects as a further path (11) behind the fork in the road that path (11) whose travel is associated with the smallest change of direction."
+   ]
+  },
+  "source_language": "de"
+ },
+ "JP-2016202609-A": {
+  "title": "Walking aid vehicle",
+  "abstract": "The present invention provides a walking assistance vehicle that prevents falling. A walking assistance vehicle 1 includes motors 5A and 5B, distance sensors 7 and 8, a control unit 10, grip sensors 12 and 13, and a hall sensor 30. The control unit 10 includes a CPU 11. The processing executed by the CPU 11 is used when determining the state of the user of the walking assistance vehicle 1 based on the signal input to the control unit 10 and when the user is likely to fall down. In order to prevent the person from falling down, the step of driving the brake or driving the walking auxiliary vehicle 1 close to the vicinity of the user, and when there is no input from the grip sensor when sitting Activating a brake and executing an electric wheelchair mode when there is an input from a grip sensor. [Selection] Figure 3",
+  "family_id": "57143940",
+  "priority_date": "2015-04-23",
+  "status": "Granted",
+  "legal_status": "active",
+  "assignee": "Sharp Corp",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "A motor for driving the walking auxiliary vehicle; Brakes, A first operation unit that receives a grip by a left hand of a user of the walking assistance vehicle; A second operating unit that receives gripping by the right hand of the user of the walking assistance vehicle; A first detection unit disposed in the vicinity of the first operation unit for detecting a first distance between the user and the walking assistance vehicle; A second detection unit disposed in the vicinity of the second operation unit, for detecting a second distance between the user and the walking assistance vehicle; A control device for controlling the walking auxiliary vehicle, The controller is A walking assistance vehicle configured to control driving of the walking assistance vehicle based on the first distance and the second distance.",
+    "original_text": "歩行補助車であって、 前記歩行補助車を駆動するためのモータと、 ブレーキと、 前記歩行補助車の使用者の左手による把持を受ける第１の操作部と、 前記歩行補助車の使用者の右手による把持を受ける第２の操作部と、 前記第１の操作部の近傍に配置され、前記使用者と前記歩行補助車との第１の距離を検出するための第１の検出部と、 前記第２の操作部の近傍に配置され、前記使用者と前記歩行補助車との第２の距離を検出するための第２の検出部と、 前記歩行補助車を制御するための制御装置とを備え、 前記制御装置は、 前記第１の距離と、前記第２の距離とに基づいて、前記歩行補助車の駆動を制御するように構成されている、歩行補助車。",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "2",
+    "text": "Determining the possibility of falling includes determining the possibility of the user falling based on the first distance, the second distance, and the direction in which the force acts. The walking auxiliary vehicle according to claim 1.",
+    "original_text": "前記歩行補助車に作用する力を検出するためのグリップセンサをさらに備え、 前記転倒の可能性を判断することは、前記第１の距離と、前記第２の距離と、前記力が作用する方向とに基づいて、前記使用者の転倒の可能性を判断することを含む、請求項１に記載の歩行補助車。",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "3",
+    "text": "",
+    "original_text": "前記力が前記歩行補助車の前進方向に作用している場合において、前記第１の距離または前記第２の距離が、使用者と前記歩行補助車との間隔として予め定められた標準間隔を下回るとき、前記制御装置は、前記モータを制御して前記歩行補助車を前進させるように構成されている、請求項２に記載の歩行補助車。",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "歩行補助車であって、 前記歩行補助車を駆動するためのモータと、 ブレーキと、 前記歩行補助車の使用者の左手による把持を受ける第１の操作部と、 前記歩行補助車の使用者の右手による把持を受ける第２の操作部と、 前記第１の操作部の近傍に配置され、前記使用者と前記歩行補助車との第１の距離を検出するための第１の検出部と、 前記第２の操作部の近傍に配置され、前記使用者と前記歩行補助車との第２の距離を検出するための第２の検出部と、 前記歩行補助車を制御するための制御装置とを備え、 前記制御装置は、 前記第１の距離と、前記第２の距離とに基づいて、前記歩行補助車の駆動を制御するように構成されている、歩行補助車。 A walking assistance vehicle, A motor for driving the walking auxiliary vehicle; Brakes, A first operation unit that receives a grip by a left hand of a user of the walking assistance vehicle; A second operating unit that receives gripping by the right hand of the user of the walking assistance vehicle; A first detection unit disposed in the vicinity of the first operation unit for detecting a first distance between the user and the walking assistance vehicle; A second detection unit disposed in the vicinity of the second operation unit, for detecting a second distance between the user and the walking assistance vehicle; A control device for controlling the walking auxiliary vehicle, The controller is A walking assistance vehicle configured to control driving of the walking assistance vehicle based on the first distance and the second distance."
+   ],
+   "2": [
+    "前記歩行補助車に作用する力を検出するためのグリップセンサをさらに備え、 前記転倒の可能性を判断することは、前記第１の距離と、前記第２の距離と、前記力が作用する方向とに基づいて、前記使用者の転倒の可能性を判断することを含む、請求項１に記載の歩行補助車。 A grip sensor for detecting a force acting on the walking auxiliary vehicle; Determining the possibility of falling includes determining the possibility of the user falling based on the first distance, the second distance, and the direction in which the force acts. The walking auxiliary vehicle according to claim 1."
+   ],
+   "3": [
+    "前記力が前記歩行補助車の前進方向に作用している場合において、前記第１の距離または前記第２の距離が、使用者と前記歩行補助車との間隔として予め定められた標準間隔を下回るとき、前記制御装置は、前記モータを制御して前記歩行補助車を前進させるように構成されている、請求項２に記載の歩行補助車。 In the case where the force is acting in the forward direction of the walking assistance vehicle, the first distance or the second distance is less than a standard interval predetermined as an interval between the user and the walking assistance vehicle. The walking control vehicle according to claim 2",
+    "wherein the control device is configured to control the motor to advance the walking assistance vehicle."
+   ]
+  },
+  "source_language": "ja"
+ },
+ "DE-202023103766-U1": {
+  "title": "Mobile medical patient couch",
+  "abstract": "Mobile patient bed (1) for receiving and transporting a patient, comprising a chassis (10) with a plurality of rolling elements (12), which roll over a surface when the patient bed (1) moves, at least one of the rolling elements (12) being used for adjustment a direction of travel for the patient couch (1) is designed as a wheel (81) with an adjustable angle between the wheel axis (RA) and the longitudinal axis of the patient couch (LA).",
+  "family_id": "87759653",
+  "priority_date": "2023-07-06",
+  "status": "Active",
+  "legal_status": "active",
+  "assignee": "Siemens Healthcare GmbH",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "",
+    "original_text": "Mobile Patientenliege (1) zur Aufnahme und zum Transport eines Patienten, umfassend ein Fahrwerk (10) mit einer Mehrzahl von Rollelementen (12), welche bei einer Fahrbewegung der Patientenliege (1) über einen Untergrund abrollen, wobei wenigstens eines der Rollelemente (12) zum Einstellen einer Fahrtrichtung für die Patientenliege (1) als Rad (81) mit zwischen Radachse (RA) und Patientenliegenlängsachse (LA) einstellbarem Winkel ausgebildet ist.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "9",
+    "text": "",
+    "original_text": "Mobile Patientenliege (1) nach einem der vorherigen Ansprüche, wobei die übrigen Rollelemente (12) als passive Nachlaufrollen (80) ausgebildet sind, wobei wenigstens eine der Nachlaufrollen (80) eine Bremseinheit (82) zum Feststellen oder Abbremsen der Nachlaufrolle (80) umfasst.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "10",
+    "text": "",
+    "original_text": "Mobile Patientenliege (1) nach einem der vorherigen Ansprüche, wobei das wenigstens eine Rad (81) mit einstellbarem Winkel eine erste Antriebseinheit (A1) umfasst, welche ausgebildet ist, das wenigstens eine Rad (81) um eine Vertikalachse (VA) zum Einstellen des Winkels zu rotieren.",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "Mobile Patientenliege (1) zur Aufnahme und zum Transport eines Patienten, umfassend ein Fahrwerk (10) mit einer Mehrzahl von Rollelementen (12), welche bei einer Fahrbewegung der Patientenliege (1) über einen Untergrund abrollen, wobei wenigstens eines der Rollelemente (12) zum Einstellen einer Fahrtrichtung für die Patientenliege (1) als Rad (81) mit zwischen Radachse (RA) und Patientenliegenlängsachse (LA) einstellbarem Winkel ausgebildet ist.Mobile patient bed (1) for receiving and transporting a patient, comprising a chassis (10) with a plurality of rolling elements (12), which roll over a surface when the patient couch (1) moves",
+    "wherein at least one of the rolling elements (12) for adjusting a direction of travel for the patient couch (1) is designed as a wheel (81) with an adjustable angle between the wheel axis (RA) and the longitudinal axis of the patient couch (LA)."
+   ],
+   "9": [
+    "Mobile Patientenliege (1) nach einem der vorherigen Ansprüche, wobei die übrigen Rollelemente (12) als passive Nachlaufrollen (80) ausgebildet sind, wobei wenigstens eine der Nachlaufrollen (80) eine Bremseinheit (82) zum Feststellen oder Abbremsen der Nachlaufrolle (80) umfasst.Mobile patient couch (1) according to one of the preceding claims",
+    "wherein the remaining rolling elements (12) are designed as passive caster rollers (80), at least one of the caster rollers (80) comprising a braking unit (82) for locking or braking the caster roller (80). ."
+   ],
+   "10": [
+    "Mobile Patientenliege (1) nach einem der vorherigen Ansprüche, wobei das wenigstens eine Rad (81) mit einstellbarem Winkel eine erste Antriebseinheit (A1) umfasst, welche ausgebildet ist, das wenigstens eine Rad (81) um eine Vertikalachse (VA) zum Einstellen des Winkels zu rotieren.Mobile patient couch (1) according to one of the preceding claims",
+    "wherein the at least one wheel (81) with an adjustable angle comprises a first drive unit (A1), which is designed to move the at least one wheel (81) about a vertical axis (VA) for adjusting the to rotate angle."
+   ]
+  },
+  "source_language": "de"
+ },
+ "DE-10309621-A1": {
+  "title": "Motor-powered, hand-guided transport vehicle, especially electric wheelchair, with intuitive grip control has sensors that detect forces/torques, pass measurement data to evaluation and control device",
+  "abstract": "The device has a chassis with a drive and at least one handle arrangement (2) for pushing the vehicle by controlled force application and sensors on the handle arrangement and/or connecting points at which forces are transferred that detect forces and/or torques and pass measurement data to an evaluation and control device (7) that controls the drive depending on the measurement data.",
+  "family_id": "32920671",
+  "priority_date": "2003-03-05",
+  "status": "Ceased",
+  "legal_status": "not_active",
+  "assignee": "Fraunhofer Gesellschaft zur Foerderung der Angewandten Forschung eV",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "4 ) and at least one handle ( 2 ) for pushing the transport vehicle by directional force, characterized in that on the handle ( 2 ) and / or at connection points where the handle ( 2 ) forces and / or moments exerted on the chassis and / or the drive ( 4 ) are transmitted, one or more sensors ( 5 . 6 ) are arranged, which detected the forces and / or moments and recorded measurement data to an evaluation and control device ( 7 ) forward the drive ( 4 ) depending on the acquired measurement data at least to support the movement of the transport vehicle caused by the forces and / or moments.",
+    "original_text": "Motorgetriebenes, handgeführtes Transportfahrzeug, insbesondere elektrischer Rollstuhl, das ein Fahrgestell mit einem Antrieb (4) und zumindest einen Haltegriff (2) zum Schieben des Transportfahrzeuges durch gerichtete Krafteinwirkung umfasst, dadurch gekennzeichnet, dass am Haltegriff (2) und/oder an Verbindungsstellen, an denen auf den Haltegriff (2) ausgeübte Kräfte und/oder Momente auf das Fahrgestell und/oder den Antrieb (4) übertragen werden, ein oder mehrere Sensoren (5, 6) angeordnet sind, die die Kräfte und/oder Momente erfassen und erfasste Messdaten an eine Auswerte- und Steuereinrichtung (7) weiterleiten, die den Antrieb (4) in Abhängigkeit von den erfassten Messdaten zumindest zur Unterstützung der durch die Kräfte und/oder Momente verursachten Bewegung des Transportfahrzeuges ansteuert.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "2",
+    "text": "2 ) are provided.",
+    "original_text": "Transportfahrzeug nach Anspruch 1, dadurch gekennzeichnet, dass zwei voneinander beabstandete, annähernd parallel verlaufende Haltegriffe (2) vorgesehen sind.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "3",
+    "text": "2 ) when operating the transport vehicle by an operator ( 8th ) towards the operator ( 8th ) are directed.",
+    "original_text": "Transportfahrzeug nach Anspruch 2, dadurch gekennzeichnet, dass die beiden Haltegriffe (2) bei der Führung des Transportfahrzeuges durch eine Bedienperson (8) in Richtung auf die Bedienperson (8) gerichtet sind.",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "Motorgetriebenes, handgeführtes Transportfahrzeug, insbesondere elektrischer Rollstuhl, das ein Fahrgestell mit einem Antrieb (4) und zumindest einen Haltegriff (2) zum Schieben des Transportfahrzeuges durch gerichtete Krafteinwirkung umfasst, dadurch gekennzeichnet, dass am Haltegriff (2) und/oder an Verbindungsstellen, an denen auf den Haltegriff (2) ausgeübte Kräfte und/oder Momente auf das Fahrgestell und/oder den Antrieb (4) übertragen werden, ein oder mehrere Sensoren (5, 6) angeordnet sind, die die Kräfte und/oder Momente erfassen und erfasste Messdaten an eine Auswerte- und Steuereinrichtung (7) weiterleiten, die den Antrieb (4) in Abhängigkeit von den erfassten Messdaten zumindest zur Unterstützung der durch die Kräfte und/oder Momente verursachten Bewegung des Transportfahrzeuges ansteuert.Motor-driven, hand-held transport vehicle, in particular an electric wheelchair, which has a chassis with a drive ( 4 ) and at least one handle ( 2 ) for pushing the transport vehicle by directional force, characterized in that on the handle ( 2 ) and / or at connection points where the handle ( 2 ) forces and / or moments exerted on the chassis and / or the drive ( 4 ) are transmitted, one or more sensors ( 5 . 6 ) are arranged, which detected the forces and / or moments and recorded measurement data to an evaluation and control device ( 7 ) forward the drive ( 4 ) depending on the acquired measurement data at least to support the movement of the transport vehicle caused by the forces and / or moments."
+   ],
+   "2": [
+    "Transportfahrzeug nach Anspruch 1, dadurch gekennzeichnet, dass zwei voneinander beabstandete, annähernd parallel verlaufende Haltegriffe (2) vorgesehen sind.Transport vehicle according to claim 1, characterized in that two mutually spaced, approximately parallel handles ( 2 ) are provided."
+   ],
+   "3": [
+    "Transportfahrzeug nach Anspruch 2, dadurch gekennzeichnet, dass die beiden Haltegriffe (2) bei der Führung des Transportfahrzeuges durch eine Bedienperson (8) in Richtung auf die Bedienperson (8) gerichtet sind.Transport vehicle according to claim 2, characterized in that the two handles ( 2 ) when operating the transport vehicle by an operator ( 8th ) towards the operator ( 8th ) are directed."
+   ]
+  },
+  "source_language": "de"
+ },
+ "DE-10336303-A1": {
+  "title": "Method for transporting a patient support plate and transport device for carrying out the method",
+  "abstract": "The invention relates to a method for transporting a patient support plate, in particular an operating table top, and / or medical supply devices by means of a transport device. In order to design the method such that the transport device can be moved as free as possible along a ground surface, wherein the transport device and the bottom surface can be cleaned in a simple manner, it is proposed that the Transpsortvorrichtung rail-bound and sensor-controlled along a predetermined trajectory. In addition, a transport device for carrying out the method is proposed.",
+  "family_id": "33521557",
+  "priority_date": "2003-07-31",
+  "status": "Ceased",
+  "legal_status": "not_active",
+  "assignee": "Trumpf Medizin Systeme GmbH and Co KG",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "characterized in that one moves the transport device unbound and sensor-controlled along a predeterminable trajectory.",
+    "original_text": "Verfahren zum Transport einer Patiententragplatte, insbesondere einer Operationstischplatte, und/oder medizinischer Versorgungsgeräte mittels einer Transportvorrichtung, dadurch gekennzeichnet, daß man die Transportvorrichtung schienenungebunden und sensorgesteuert entlang einer vorgebbaren Bahnkurve verfährt.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "2",
+    "text": "",
+    "original_text": "Verfahren nach Anspruch 1, dadurch gekennzeichnet, daß man die Transportvorrichtung selbsttätig entlang einer sich über die Bahnkurve erstreckenden Wegmarkierung verfährt.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "3",
+    "text": "",
+    "original_text": "Verfahren nach einem der voranstehenden Ansprüche, dadurch gekennzeichnet, daß man die Transportvorrichtung mittels eines Sensorelementes selbsttätig entlang eines stromdurchflossenen elektrischen Leiters verfährt, wobei man mittels des Sensorelementes ein Magnetfeld oder ein elektromagnetisches Feld, das vom Leiter erzeugt wird, detektiert.",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "Verfahren zum Transport einer Patiententragplatte, insbesondere einer Operationstischplatte, und/oder medizinischer Versorgungsgeräte mittels einer Transportvorrichtung, dadurch gekennzeichnet, daß man die Transportvorrichtung schienenungebunden und sensorgesteuert entlang einer vorgebbaren Bahnkurve verfährt.Method for transporting a patient support plate, in particular an operating table top, and / or medical supply devices by means of a transport device, characterized in that one moves the transport device unbound and sensor-controlled along a predeterminable trajectory."
+   ],
+   "2": [
+    "Verfahren nach Anspruch 1, dadurch gekennzeichnet, daß man die Transportvorrichtung selbsttätig entlang einer sich über die Bahnkurve erstreckenden Wegmarkierung verfährt.Method according to claim 1, characterized in that that he the transport device automatically along one over the trajectory extending path marker moves."
+   ],
+   "3": [
+    "Verfahren nach einem der voranstehenden Ansprüche, dadurch gekennzeichnet, daß man die Transportvorrichtung mittels eines Sensorelementes selbsttätig entlang eines stromdurchflossenen elektrischen Leiters verfährt, wobei man mittels des Sensorelementes ein Magnetfeld oder ein elektromagnetisches Feld, das vom Leiter erzeugt wird, detektiert.Method according to one of the preceding claims, characterized characterized in that the transport device by means of a sensor element along automatically a current-carrying electrical conductor moves",
+    "wherein by means of the sensor element, a magnetic field or an electromagnetic Field generated by the conductor detected."
+   ]
+  },
+  "source_language": "de"
+ },
+ "DE-10352324-B4": {
+  "title": "Two-wheeled transport cart",
+  "abstract": "For a mainly consisting of a two uprights and these interconnecting trusses and equipped with handles frame, a load-bearing element, such as a shovel or fork or the like. Furthermore, an over two wheels supported against the ground axle existing two-wheeled transport cart, which to facilitate the Ankippens the trolley from a receiving position is provided in a driving position with an arranged in the region between the rollers Auskröpfung is to facilitate handling and transporting goods proposed that the cart equipped with a regenerable energy source and the rollers of the cart at least one arbitrarily switched , Direction reversible drive motor is associated and that the energy supply of the at least one drive motor by means of a tilt sensor in response to a change in the inclination of the frame of the cart gege is controlled above a first employed to the vertical, in particular a driving position corresponding starting position.",
+  "family_id": "34559525",
+  "priority_date": "2003-11-06",
+  "status": "Expired - Fee Related",
+  "legal_status": "not_active",
+  "assignee": "Expresso Deutschland Transportgerate GmbH",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "1 ), consisting mainly of a towering spars ( 3 ) and these interconnecting trusses ( 2 ) and with handles ( 5 ) ( 4 ), a load support ( 6 ), For example, a blade or fork or the like. And also one of two rollers ( 9 . 10 ) against the ground supported axis ( 8th ), which for facilitating the tilting of the transport cart ( 1 ) from a receiving position to a driving position with one in the area between the rollers ( 9 . 10 ) arranged Auskröpfung, characterized in that the cart ( 1 ) with a regenerable energy source ( 13 ) and the rollers ( 9 . 10 ) the cart ( 1 ) at least one arbitrarily switchable, reversible drive motor ( 12 ), and that the power supply of the at least one drive motor ( 12 ) by means of a tilt sensor ( 15 ) in response to a change in the inclination of the frame ( 4 ) the cart ( 1 ) is controlled relative to a first employee employed to the vertical, in particular a driving position corresponding starting position.",
+    "original_text": "Zweirädrige Transportkarre (1), hauptsächlich bestehend aus einem durch zwei aufragende Holme (3) sowie diese untereinander verbindende Traversen (2) gebildeten und mit Handgriffen (5) ausgestatteten Rahmen (4), einem Lasttraglement (6), beispielsweise Schaufel oder Gabel oder dergl. und ferner einer über zwei Laufrollen (9, 10) gegen den Boden abgestützten Achse (8), welche zur Erleichterung des Ankippens der Transportkarre (1) aus einer Aufnahmeposition in eine Fahrposition mit einer im Bereich zwischen den Laufrollen (9, 10) angeordneten Auskröpfung versehen ist, dadurch gekennzeichnet, dass die Karre (1) mit einer regenierbaren Energiequelle (13) ausgestattet und den Laufrollen (9, 10) der Karre (1) mindestens ein willkürlich einschaltbarer, drehrichtungsumkehrbarer Antriebsmotor (12) zugeordnet ist, und dass die Energieversorgung des wenigstens einen Antriebsmotors (12) mittels eines Neigungssensors (15) in Abhängigkeit von einer Veränderung der Neigung des Rahmens (4) der Karre (1) gegenüber einer ersten zur Vertikalen angestellten, insbesondere einer Fahrposition entsprechenden Ausgangsposition gesteuert wird.",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "Zweirädrige Transportkarre (1), hauptsächlich bestehend aus einem durch zwei aufragende Holme (3) sowie diese untereinander verbindende Traversen (2) gebildeten und mit Handgriffen (5) ausgestatteten Rahmen (4), einem Lasttraglement (6), beispielsweise Schaufel oder Gabel oder dergl. und ferner einer über zwei Laufrollen (9, 10) gegen den Boden abgestützten Achse (8), welche zur Erleichterung des Ankippens der Transportkarre (1) aus einer Aufnahmeposition in eine Fahrposition mit einer im Bereich zwischen den Laufrollen (9, 10) angeordneten Auskröpfung versehen ist, dadurch gekennzeichnet, dass die Karre (1) mit einer regenierbaren Energiequelle (13) ausgestattet und den Laufrollen (9, 10) der Karre (1) mindestens ein willkürlich einschaltbarer, drehrichtungsumkehrbarer Antriebsmotor (12) zugeordnet ist, und dass die Energieversorgung des wenigstens einen Antriebsmotors (12) mittels eines Neigungssensors (15) in Abhängigkeit von einer Veränderung der Neigung des Rahmens (4) der Karre (1) gegenüber einer ersten zur Vertikalen angestellten, insbesondere einer Fahrposition entsprechenden Ausgangsposition gesteuert wird.Two-wheeled transport cart ( 1 ), consisting mainly of a towering spars ( 3 ) and these interconnecting trusses ( 2 ) and with handles ( 5 ) ( 4 ), a load support ( 6 ), For example, a blade or fork or the like. And also one of two rollers ( 9 . 10 ) against the ground supported axis ( 8th ), which for facilitating the tilting of the transport cart ( 1 ) from a receiving position to a driving position with one in the area between the rollers ( 9 . 10 ) arranged Auskröpfung, characterized in that the cart ( 1 ) with a regenerable energy source ( 13 ) and the rollers ( 9 . 10 ) the cart ( 1 ) at least one arbitrarily switchable, reversible drive motor ( 12 ), and that the power supply of the at least one drive motor ( 12 ) by means of a tilt sensor ( 15 ) in response to a change in the inclination of the frame ( 4 ) the cart ( 1 ) is controlled relative to a first employee employed to the vertical, in particular a driving position corresponding starting position."
+   ]
+  },
+  "source_language": "de"
+ },
+ "WO-2015185232-A1": {
+  "title": "Load cart provided with two motor-driven running wheels and a controller",
+  "abstract": "The invention relates to a load cart (1) provided with two motor-driven running wheels (5) and a controller. The controller converts manual operation of a user for setting a travel speed and/or travel direction into an application of voltage or current to an electric motor that drives the running wheel (5). The running wheels (5) can be driven independently of each other. Within a specified range, different travel speeds of the running wheels (5) set by the user according to the manual operation can be converted by the controller into an equal travel speed of both running wheels (5). Furthermore, alternatively or in combination, in the case of manual operation directed only at the travel driving of one running wheel (5), half or less of the voltage or of the current can also be applied to the other running wheel (5) by the controller in such a way that the travel speed corresponds to half or less, preferably 1/3 to 1/100, of the travel speed of the one running wheel (5).",
+  "family_id": "52779610",
+  "priority_date": "2014-06-05",
+  "status": "Ceased",
+  "legal_status": "not_active",
+  "assignee": "Tente GmbH and Co KG",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "",
+    "original_text": "Mit zwei motorisch angetriebenen Laufrädern (5, 5') und einer Steuerung versehener Lastenwagen (1), wobei die Steuerung eine Handbetätigung eines Benutzers zur Einstellung einer Fahrgeschwindigkeit und/ oder Fahrrichtung in eine Spannungs- oder Strombeaufschlagung eines das Laufrad (5, 5') antreibenden Elektromotors übersetzt, wobei die Laufräder (5, 5') unabhängig voneinander antreibbar sind, wobei innerhalb einer vorgegebenen Bandbreite unterschiedliche vom Benutzer zufolge der Handbetätigung eingestellte Fahrgeschwindigkeiten der Laufräder (5, 5') durch die Steuerung in eine gleiche Fahrgeschwindigkeit beider Laufräder (5, 5') umsetzbar ist. Lastenwagen nach Anspruch 1, dadurch gekennzeichnet, dass die Bandbreite 10% oder weniger einer maximalen Fahrgeschwindigkeit beträgt. Mit zwei motorisch angetriebenen Laufrädern (5, 5') und einer Steuerung versehener Lastenwagen (1), wobei die Steuerung eine Handbetätigung eines Benutzers zur Einstellung einer Fahrgeschwindigkeit und/ oder Fahrrichtung in eine Spannungs- oder Strombeaufschlagung eines das Laufrad (5, 5') antreibenden Elektromotors übersetzt, wobei die Laufräder (5, 5') unabhängig voneinander antreibbar sind, wobei bei einer nur auf den Fahrantrieb eines Laufrades (5, 5') gerichteten Handbetätigung durch die Steuerung auch das andere Laufrad (5', 5) mit der Hälfte oder weniger der Spannung oder des Stromes so beaufschlagt wird, dass die Fahrgeschwindigkeit der Hälfte oder weniger, bevorzugt 1/3 bis 1/100 der Fahrgeschwindigkeit des einen Laufrades (5, 5') entspricht. Lastenwagen nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass die Steuerung die Drehzahl der Laufräder (5, 5') überwacht und dass eine gleiche oder unterschiedliche Einstellung der Lauf- räder (5, 5') hinsichtlich der diesbezüglichen Drehzahlen gesteuert bzw. geregelt wird. Lastenwagen nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass zur Umsetzung der Steuerung in einem Laufrad (5, 5') eine Steuerungsschaltung aufgenommen ist. Lastenwagen nach Anspruch 5, dadurch gekennzeichnet, dass in jedem der Laufräder (5, 5') eine Steuerungs Schaltung aufgenommen ist. Lastenwagen nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass die Steuerungs Schaltungen so eingerichtet sind, dass eine als Master-Steuerungsschaltung und die andere als Sla- ve-Steuerungsschaltung arbeitet. Lastenwagen nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass bei einer eine Kurvenfahrt bezweckenden Handbetätigung, die sich in dem Fahrantrieb nur eines Laufrades (5, 5') auswirkt, unabhängig von der Fahrtrichtung das selbe Laufrad (5, 5') beaufschlagt wird.",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "Mit zwei motorisch angetriebenen Laufrädern (5, 5') und einer Steuerung versehener Lastenwagen (1), wobei die Steuerung eine Handbetätigung eines Benutzers zur Einstellung einer Fahrgeschwindigkeit und/ oder Fahrrichtung in eine Spannungs- oder Strombeaufschlagung eines das Laufrad (5, 5') antreibenden Elektromotors übersetzt, wobei die Laufräder (5, 5') unabhängig voneinander antreibbar sind, wobei innerhalb einer vorgegebenen Bandbreite unterschiedliche vom Benutzer zufolge der Handbetätigung eingestellte Fahrgeschwindigkeiten der Laufräder (5, 5') durch die Steuerung in eine gleiche Fahrgeschwindigkeit beider Laufräder (5, 5') umsetzbar ist. With two motor-driven wheels (5, 5 ') and a control provided cargo carriage (1)",
+    "wherein the control of a manual operation of a user for setting a driving speed and / or driving direction in a voltage or current loading of the impeller (5, 5') translated",
+    "wherein the wheels (5, 5 ') are independently driven",
+    "wherein within a predetermined bandwidth set by the user according to the manual operation driving speeds of the wheels (5, 5') by the controller in a same driving speed of both wheels (5, 5 ') can be implemented.",
+    "Lastenwagen nach Anspruch 1, dadurch gekennzeichnet, dass die Bandbreite 10% oder weniger einer maximalen Fahrgeschwindigkeit beträgt. A freight cart according to claim 1, characterized in that the bandwidth is 10% or less of a maximum traveling speed.",
+    "Mit zwei motorisch angetriebenen Laufrädern (5, 5') und einer Steuerung versehener Lastenwagen (1), wobei die Steuerung eine Handbetätigung eines Benutzers zur Einstellung einer Fahrgeschwindigkeit und/ oder Fahrrichtung in eine Spannungs- oder Strombeaufschlagung eines das Laufrad (5, 5') antreibenden Elektromotors übersetzt, wobei die Laufräder (5, 5') unabhängig voneinander antreibbar sind, wobei bei einer nur auf den Fahrantrieb eines Laufrades (5, 5') gerichteten Handbetätigung durch die Steuerung auch das andere Laufrad (5', 5) mit der Hälfte oder weniger der Spannung oder des Stromes so beaufschlagt wird, dass die Fahrgeschwindigkeit der Hälfte oder weniger, bevorzugt 1/3 bis 1/100 der Fahrgeschwindigkeit des einen Laufrades (5, 5') entspricht. With two motor-driven wheels (5, 5 ') and a control provided cargo carriage (1)",
+    "wherein the control of a manual operation of a user for setting a driving speed and / or driving direction in a voltage or current loading of the impeller (5, 5') translated, the impellers (5, 5 ') are independently driven",
+    "wherein in a directed only on the drive of an impeller (5, 5') manual operation by the controller and the other impeller (5 ', 5) with the Half or less of the voltage or the current is applied so that the driving speed of half or less, preferably 1/3 to 1/100 of the travel speed of the one impeller (5, 5 ') corresponds.",
+    "Lastenwagen nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass die Steuerung die Drehzahl der Laufräder (5, 5') überwacht und dass eine gleiche oder unterschiedliche Einstellung der Lauf- räder (5, 5') hinsichtlich der diesbezüglichen Drehzahlen gesteuert bzw. geregelt wird. Load cart according to one of the preceding claims, characterized in that the controller monitors the speed of the wheels (5, 5 ') and that an identical or different setting of the running wheels (5, 5 ') is controlled or regulated with respect to the respective rotational speeds.",
+    "Lastenwagen nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass zur Umsetzung der Steuerung in einem Laufrad (5, 5') eine Steuerungsschaltung aufgenommen ist. A freight wagon according to one of the preceding claims, characterized in that a control circuit is incorporated to implement the control in an impeller (5, 5 ').",
+    "Lastenwagen nach Anspruch 5, dadurch gekennzeichnet, dass in jedem der Laufräder (5, 5') eine Steuerungs Schaltung aufgenommen ist. A freight wagon according to claim 5, characterized in that in each of the wheels (5, 5 ') a control circuit is received.",
+    "Lastenwagen nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass die Steuerungs Schaltungen so eingerichtet sind, dass eine als Master-Steuerungsschaltung und die andere als Sla- ve-Steuerungsschaltung arbeitet. A freight cart according to any one of the preceding claims, characterized in that the control circuits are arranged so that one operates as master control circuit and the other as slave control circuit.",
+    "Lastenwagen nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass bei einer eine Kurvenfahrt bezweckenden Handbetätigung, die sich in dem Fahrantrieb nur eines Laufrades (5, 5') auswirkt, unabhängig von der Fahrtrichtung das selbe Laufrad (5, 5') beaufschlagt wird. A freight wagon according to one of the preceding claims, characterized in that, in the case of a manual operation intended for cornering, which effects only one impeller (5, 5 ') in the traction drive, the same impeller (5, 5') is acted upon independently of the direction of travel."
+   ]
+  },
+  "source_language": null
+ },
+ "DE-29508100-U1": {
+  "title": "Distribution or delivery car",
+  "abstract": "",
+  "family_id": "8008108",
+  "priority_date": "1995-05-17",
+  "status": "Expired - Lifetime",
+  "legal_status": "not_active",
+  "assignee": "Expresso Deutschland Transportgerate GmbH",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "",
+    "original_text": "1) Verteiler-bzw. Zustellerwagen, bestehend aus einem aus Rahmenholmen und Quertraversen gebildeten und mit einem angeschlossenen Griffbügel ausgestatteten Wagenchassis, der über eine Bockroüen tragende starre Laufradachse und zwei voneinander unabhängige und um je eine vertikale Achse schwenkbar am Wagenchassis aufgehängte Lenkrollen gegen den Boden abgestützt und mit einem insbesondere kastenartigen Aufbau zur Aufnahme des zu transportierenden Zustell-oder Verteilgutes versehen ist und welcher aus einem mit einem Antrieb und einer Lenkeinrichtung ausgestatteten Wagenchassis und einem Wechselaufbau besteht, wobei wenigstens eine der Rollen (Bock-oder Lenkrolle) des Wagenchassis vermittels eines unter Last anlaufenden und drehrichtungsumkehrbaren Elektromotors antreibbar und dem Elektromotor eine stufenlos regelbare Energieversorgung zugeordnet ist, wobei der Regelung der Energieversorgung ein die am Griffbügel angreifende Schub-oder Zugkraft erfassender Sensor zugeordnet ist, dadurch gekennzeichnet, daß jeweils beide Rollen einer Laufradachse des Wagens angetrieben sind und die angetriebenen Rollen der in Vorwärtsfahrtrichtung vorne liegenden Laufradachse zugeordnet sind. -2-",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "2",
+    "text": "",
+    "original_text": "2) Verteiler-bzw.ZusteUerwagen nach Anspruch 1, dadurch gekennzeichnet, daß die angetriebenen Rollen der Antriebsachse größer oder wenigstens gleich groß sind als die Rollen der geschleppten Achse.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "3",
+    "text": "",
+    "original_text": "3) Verteüer-bzw.Zustellerwagen nach Anspruch 1 und 2, dadurch gekennzeichnet, daß das Wagenchassis an seinen beiden Stirnenden mit untereinander gleichen Einrichtungen zum Anschluß eines Griffbügels samt Anschlüssen für die Regelung bzw. Steuerung der Energieversorgung des die Rollen der Antriebsachse antreibenden Elektromotors ausgestattet ist.",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "1) Verteiler-bzw. Zustellerwagen, bestehend aus einem aus Rahmenholmen und Quertraversen gebildeten und mit einem angeschlossenen Griffbügel ausgestatteten Wagenchassis, der über eine Bockroüen tragende starre Laufradachse und zwei voneinander unabhängige und um je eine vertikale Achse schwenkbar am Wagenchassis aufgehängte Lenkrollen gegen den Boden abgestützt und mit einem insbesondere kastenartigen Aufbau zur Aufnahme des zu transportierenden Zustell-oder Verteilgutes versehen ist und welcher aus einem mit einem Antrieb und einer Lenkeinrichtung ausgestatteten Wagenchassis und einem Wechselaufbau besteht, wobei wenigstens eine der Rollen (Bock-oder Lenkrolle) des Wagenchassis vermittels eines unter Last anlaufenden und drehrichtungsumkehrbaren Elektromotors antreibbar und dem Elektromotor eine stufenlos regelbare Energieversorgung zugeordnet ist, wobei der Regelung der Energieversorgung ein die am Griffbügel angreifende Schub-oder Zugkraft erfassender Sensor zugeordnet ist, dadurch gekennzeichnet, daß jeweils beide Rollen einer Laufradachse des Wagens angetrieben sind und die angetriebenen Rollen der in Vorwärtsfahrtrichtung vorne liegenden Laufradachse zugeordnet sind.1) Distributor or Delivery trolley, consisting of a trolley chassis formed from frame beams and crossbeams and equipped with a connected handle bar, which is supported against the ground by a rigid wheel axle carrying trestle wheels and two independent swivel castors suspended on the trolley chassis so as to be pivotable about a vertical axis, and is provided with a particularly box-like structure for receiving the goods to be delivered or distributed and which consists of a trolley chassis equipped with a drive and a steering device and an interchangeable structure, whereby at least one of the rollers (trestle or swivel castor) of the trolley chassis can be driven by means of an electric motor that starts under load and can be reversed in direction of rotation, and the electric motor is assigned a continuously adjustable power supply, whereby the control of the power supply is assigned a sensor that detects the thrust or tensile force acting on the handle bar, characterized in that both rollers of a wheel axle of the trolley are driven and the driven rollers of the Forward direction of travel are assigned to the front wheel axle.",
+    "-2--2-"
+   ],
+   "2": [
+    "2) Verteiler-bzw.ZusteUerwagen nach Anspruch 1, dadurch gekennzeichnet, daß die angetriebenen Rollen der Antriebsachse größer oder wenigstens gleich groß sind als die Rollen der geschleppten Achse.2) Distribution or delivery vehicle according to claim 1, characterized in that the driven rollers of the drive axle are larger or at least the same size as the rollers of the towed axle."
+   ],
+   "3": [
+    "3) Verteüer-bzw.Zustellerwagen nach Anspruch 1 und 2, dadurch gekennzeichnet, daß das Wagenchassis an seinen beiden Stirnenden mit untereinander gleichen Einrichtungen zum Anschluß eines Griffbügels samt Anschlüssen für die Regelung bzw. Steuerung der Energieversorgung des die Rollen der Antriebsachse antreibenden Elektromotors ausgestattet ist.3) Distribution or delivery vehicle according to claim 1 and 2, characterized in that the vehicle chassis is equipped at both of its ends with identical devices for connecting a handle bar together with connections for regulating or controlling the energy supply of the electric motor driving the rollers of the drive axle."
+   ]
+  },
+  "source_language": "de"
+ },
+ "DE-102011087069-A1": {
+  "title": "Electrically operated transport carriage has wheel support, which is mounted on frame using mounting sleeve, such that wheel supports are freely rotatable around axis of wheel support",
+  "abstract": "The electrically operated transport carriage (10) has a frame (1) made of multiple frame portions (1T) and two electrically driven wheels (2) sitting on an axis (A), where one guide wheel (4) is mounted in a wheel support (5) rotatable around another axis (B). The wheel support is mounted on the frame using a mounting sleeve, such that the wheel supports are freely rotatable around an axis of wheel support (7). The mounting sleeve includes a sensor system for detecting the extent of pivotal movement of the wheel support around the axis of wheel support. An independent claim is included for a method for controlling movement of an electrically operated transport carriage.",
+  "family_id": "48287725",
+  "priority_date": "2011-11-25",
+  "status": "Granted",
+  "legal_status": "not_active",
+  "assignee": "Schaeffler Technologies AG and Co KG",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "10 ) With; a frame ( 1 ), which consists of several frame parts ( 1T ) is constructed; two wheels (A) seated and electrically driven ( 2 ); at least one guide wheel ( 4 ) in a wheel mount ( 5 ) is rotatably supported about an axis (B); characterized in that by means of a mounting bush ( 51 ) the wheel mount ( 5 ) on the frame ( 1 ) is mounted such that the wheel support ( 5 ) about an axis ( 7 ) is freely rotatable and the mounting bush ( 51 ) a sensor system ( 60 ) for detecting the extent of a pivotal movement of the wheel support ( 5 ) around the axis ( 7 ) includes.",
+    "original_text": "Elektrisch betriebener Transportwagen (10) mit; einem Rahmen (1), der aus mehreren Rahmenteilen (1T) aufgebaut ist; zwei auf einer Achse (A) sitzenden und elektrisch antreibbaren Rädern (2); mindestens einem Führungsrad (4), das in einer Radhalterung (5) drehbar um eine Ache (B) gehaltert ist; dadurch gekennzeichnet, dass mittels einer Montagebuchse (51) die Radhalterung (5) am Rahmen (1) derart montiert ist, dass die Radhalterung (5) um eine Achse (7) frei drehbar ist und die Montagebuchse (51) ein Sensorsystem (60) zur Detektion des Ausmaßes einer Schwenkbewegung der Radhalterung (5) um die Achse (7) beinhaltet.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "3",
+    "text": "10 ) according to one of the preceding claims, wherein one of the guide wheel ( 4 ) opposite cover ( 52 ) stationary in the mounting socket ( 51 ) and the wheel mount ( 5 ) by means of at least one warehouse ( 53 ) in the mounting socket ( 51 ) freely rotatable about the axis ( 7 ) is held.",
+    "original_text": "Elektrisch betriebener Transportwagen (10) nach einem der vorangehenden Ansprüche, wobei eine dem Führungsrad (4) gegenüberliegende Abdeckung (52) ortsfest in der Montagebuchse (51) befestigt ist und die Radhalterung (5) mittels mindestens eines Lagers (53) in der Montagebuchse (51) frei drehbar um die Achse (7) gehaltert ist.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "9",
+    "text": "10 ) characterized by the following steps: that a desired directional vector ( 19 ) of the trolley ( 10 ) via a motion-sensitive operating element ( 36 ) of the trolley ( 10 ) is adjusted and / or changed; that with a sensor system ( 60 ) is an actual direction vector ( 18 ) at least one guide wheel ( 4 ) of the trolley ( 10 ), the guide wheel ( 4 ) in a wheel mount ( 5 ) is supported freely rotatable about an axis (B); and that in dependence on a deviation of the actual direction vector ( 18 ) from the desired direction vector ( 19 ) a drive torque for each of the two electrically driven wheels ( 2 ) is set such that the drive of the trolley ( 10 ) in the direction of the desired direction vector ( 19 ).",
+    "original_text": "Verfahren zur Bewegungssteuerung eines elektrisch betriebenen Transportwagens (10) gekennzeichnet durch die folgenden Schritte: dass ein Soll-Richtungsvektor (19) des Transportwagens (10) über ein bewegungssensitives Bedienelement (36) des Transportwagens (10) eingestellt und/oder verändert wird; dass mit einem Sensorsystem (60) ein Ist-Richtungsvektor (18) mindestens eines Führungsrades (4) des Transportwagens (10) ermittelt wird, wobei das Führungsrad (4) in einer Radhalterung (5) frei drehbar um eine Ache (B) gehaltert wird; und dass in Abhängigkeit von einer Abweichung des Ist-Richtungsvektors (18) vom Soll-Richtungsvektor (19) ein Antriebsmoment für jedes der beiden elektrisch angetriebenen Räder (2) derart eingestellt wird, dass die Fahrt des Transportwagens (10) in Richtung des Soll-Richtungsvektor (19) gerichtet wird.",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "Elektrisch betriebener Transportwagen (10) mit; einem Rahmen (1), der aus mehreren Rahmenteilen (1T) aufgebaut ist; zwei auf einer Achse (A) sitzenden und elektrisch antreibbaren Rädern (2); mindestens einem Führungsrad (4), das in einer Radhalterung (5) drehbar um eine Ache (B) gehaltert ist; dadurch gekennzeichnet, dass mittels einer Montagebuchse (51) die Radhalterung (5) am Rahmen (1) derart montiert ist, dass die Radhalterung (5) um eine Achse (7) frei drehbar ist und die Montagebuchse (51) ein Sensorsystem (60) zur Detektion des Ausmaßes einer Schwenkbewegung der Radhalterung (5) um die Achse (7) beinhaltet.Electrically operated transport trolley ( 10 ) With; a frame ( 1 ), which consists of several frame parts ( 1T ) is constructed; two wheels (A) seated and electrically driven ( 2 ); at least one guide wheel ( 4 ) in a wheel mount ( 5 ) is rotatably supported about an axis (B); characterized in that by means of a mounting bush ( 51 ) the wheel mount ( 5 ) on the frame ( 1 ) is mounted such that the wheel support ( 5 ) about an axis ( 7 ) is freely rotatable and the mounting bush ( 51 ) a sensor system ( 60 ) for detecting the extent of a pivotal movement of the wheel support ( 5 ) around the axis ( 7 ) includes."
+   ],
+   "3": [
+    "Elektrisch betriebener Transportwagen (10) nach einem der vorangehenden Ansprüche, wobei eine dem Führungsrad (4) gegenüberliegende Abdeckung (52) ortsfest in der Montagebuchse (51) befestigt ist und die Radhalterung (5) mittels mindestens eines Lagers (53) in der Montagebuchse (51) frei drehbar um die Achse (7) gehaltert ist.Electrically operated transport trolley ( 10 ) according to one of the preceding claims",
+    "wherein one of the guide wheel ( 4 ) opposite cover ( 52 ) stationary in the mounting socket ( 51 ) and the wheel mount ( 5 ) by means of at least one warehouse ( 53 ) in the mounting socket ( 51 ) freely rotatable about the axis ( 7 ) is held."
+   ],
+   "9": [
+    "Verfahren zur Bewegungssteuerung eines elektrisch betriebenen Transportwagens (10) gekennzeichnet durch die folgenden Schritte: dass ein Soll-Richtungsvektor (19) des Transportwagens (10) über ein bewegungssensitives Bedienelement (36) des Transportwagens (10) eingestellt und/oder verändert wird; dass mit einem Sensorsystem (60) ein Ist-Richtungsvektor (18) mindestens eines Führungsrades (4) des Transportwagens (10) ermittelt wird, wobei das Führungsrad (4) in einer Radhalterung (5) frei drehbar um eine Ache (B) gehaltert wird; und dass in Abhängigkeit von einer Abweichung des Ist-Richtungsvektors (18) vom Soll-Richtungsvektor (19) ein Antriebsmoment für jedes der beiden elektrisch angetriebenen Räder (2) derart eingestellt wird, dass die Fahrt des Transportwagens (10) in Richtung des Soll-Richtungsvektor (19) gerichtet wird.Method for controlling the movement of an electrically operated transport vehicle ( 10 ) characterized by the following steps: that a desired directional vector ( 19 ) of the trolley ( 10 ) via a motion-sensitive operating element ( 36 ) of the trolley ( 10 ) is adjusted and / or changed; that with a sensor system ( 60 ) is an actual direction vector ( 18 ) at least one guide wheel ( 4 ) of the trolley ( 10 ), the guide wheel ( 4 ) in a wheel mount ( 5 ) is supported freely rotatable about an axis (B); and that in dependence on a deviation of the actual direction vector ( 18 ) from the desired direction vector ( 19 ) a drive torque for each of the two electrically driven wheels ( 2 ) is set such that the drive of the trolley ( 10 ) in the direction of the desired direction vector ( 19 )."
+   ]
+  },
+  "source_language": "de"
+ },
+ "DE-102019102967-A1": {
+  "title": "Control of a stair-climbing driven transport device",
+  "abstract": "Stair-climbing transport device (1), comprising a drive unit (2) and a receiving unit (3) for receiving a load (11), wherein a power source (4) for the drive unit (2) is provided, wherein the transport device (1) further comprises a guide unit (6) with an operating unit (7) for an operator (9) for operating the transport device (1), characterized in that at least one sensor (8) is provided which continuously determines a movement specification of the operator (9), wherein the at least one sensor (8) is connected to a control unit (5) of the transport device (1), wherein furthermore the control unit (5) is connected to the drive unit (2) and the drive unit (2) is connected to the transport device (1) in dependence on the continuous movement of the operator (9) drives.",
+  "family_id": "67308966",
+  "priority_date": "2018-02-06",
+  "status": "Ceased",
+  "legal_status": "not_active",
+  "assignee": "KS Kolbenschmidt GmbH",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "characterized in that at least one sensor (8) is provided which continuously determines a movement specification of the operator (9), wherein the at least one sensor (8) is connected to a control unit (5) of the transport device (1), wherein furthermore the control unit (5) is connected to the drive unit (2) and the drive unit (2) is connected to the transport device (1) as a function of continuous movement of the operator (9) drives.",
+    "original_text": "Treppensteigfähiges Transportgerät (1), aufweisend eine Antriebseinheit (2) sowie eine Aufnahmeeinheit (3) zur Aufnahme einer Last (11), wobei eine Energiequelle (4) für die Antriebseinheit (2) vorgesehen ist, wobei das Transportgerät (1) weiterhin eine Führungseinheit (6) mit einer Bedieneinheit (7) für eine Bedienperson (9) zur Bedienung des Transportgerätes (1) aufweist, dadurch gekennzeichnet, dass zumindest ein Sensor (8) vorhanden ist, der eine Bewegungsvorgabe der Bedienperson (9) kontinuierliche ermittelt, wobei der zumindest eine Sensor (8) mit einer Steuereinheit (5) des Transportgerätes (1) verbunden ist, wobei weiterhin die Steuereinheit (5) mit der Antriebseinheit (2) verbunden ist und die Antriebseinheit (2) das Transportgerät (1) in Abhängigkeit von der kontinuierlichen Bewegungsvorgabe der Bedienperson (9) antreibt.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "5",
+    "text": "characterized in that the transport device (1) has a further sensor which is suitable and designed to detect an obstacle during the movement of the transport device.",
+    "original_text": "Transportgerät (1) nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass das Transportgerät (1) einen weiteren Sensor aufweist, der dazu geeignet und ausgebildet ist, ein Hindernis während der Bewegung des Transportgerätes zu erkennen.",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "6",
+    "text": "characterized in that the at least one sensor (8) comprises an on / off function.",
+    "original_text": "Transportgerät (1) nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass der zumindest eine Sensor (8) eine Ein-/Ausschaltfunktion umfasst.",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "Treppensteigfähiges Transportgerät (1), aufweisend eine Antriebseinheit (2) sowie eine Aufnahmeeinheit (3) zur Aufnahme einer Last (11), wobei eine Energiequelle (4) für die Antriebseinheit (2) vorgesehen ist, wobei das Transportgerät (1) weiterhin eine Führungseinheit (6) mit einer Bedieneinheit (7) für eine Bedienperson (9) zur Bedienung des Transportgerätes (1) aufweist, dadurch gekennzeichnet, dass zumindest ein Sensor (8) vorhanden ist, der eine Bewegungsvorgabe der Bedienperson (9) kontinuierliche ermittelt, wobei der zumindest eine Sensor (8) mit einer Steuereinheit (5) des Transportgerätes (1) verbunden ist, wobei weiterhin die Steuereinheit (5) mit der Antriebseinheit (2) verbunden ist und die Antriebseinheit (2) das Transportgerät (1) in Abhängigkeit von der kontinuierlichen Bewegungsvorgabe der Bedienperson (9) antreibt.Stair-climbing transport device (1), comprising a drive unit (2) and a receiving unit (3) for receiving a load (11)",
+    "wherein a power source (4) for the drive unit (2) is provided",
+    "wherein the transport device (1) further comprises a guide unit (6) with an operating unit (7) for an operator (9) for operating the transport device (1), characterized in that at least one sensor (8) is provided which continuously determines a movement specification of the operator (9)",
+    "wherein the at least one sensor (8) is connected to a control unit (5) of the transport device (1)",
+    "wherein furthermore the control unit (5) is connected to the drive unit (2) and the drive unit (2) is connected to the transport device (1) as a function of continuous movement of the operator (9) drives."
+   ],
+   "5": [
+    "Transportgerät (1) nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass das Transportgerät (1) einen weiteren Sensor aufweist, der dazu geeignet und ausgebildet ist, ein Hindernis während der Bewegung des Transportgerätes zu erkennen.Transport device (1) according to one of the preceding claims, characterized in that the transport device (1) has a further sensor which is suitable and designed to detect an obstacle during the movement of the transport device."
+   ],
+   "6": [
+    "Transportgerät (1) nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass der zumindest eine Sensor (8) eine Ein-/Ausschaltfunktion umfasst.Transport device (1) according to one of the preceding claims, characterized in that the at least one sensor (8) comprises an on / off function."
+   ]
+  },
+  "source_language": "de"
+ },
+ "US-2025304135-A1": {
+  "title": "Autonomous Robot with Force Sensing User Handlebar",
+  "abstract": "An autonomous robot drive assembly includes a force sensing assembly. The force sensing assembly is a force sensing handlebar that is mounted in a specific orientation to allow for a user to manipulate the robot. The handlebar is configured to allow a user to manipulate the handlebar by providing force to the handlebar to move the handlebar from a neutral position. The manipulation of the handlebar causes instructions to be determined for operation of the robot. Based on the manipulation of the handlebar, a drive assembly of the robot moves the robot in accordance with the instructions.",
+  "family_id": "97177773",
+  "priority_date": "2024-03-28",
+  "status": "Pending",
+  "legal_status": "active",
+  "assignee": "Robust AI Inc",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "An autonomous robot comprising: a drive assembly; a controller; and a handle assembly, comprising: a handlebar; a first fixture coupled to the handlebar at a first end of the handlebar; a second fixture coupled to the handlebar at a second end of the handlebar; a first sensor comprising a first sensor first portion coupled to the handlebar proximate the first end of the handlebar and a first sensor second portion disposed proximate the first sensor first portion, wherein the first sensor first portion is configured to move relative to the first sensor second portion in response to movement of the handlebar, and wherein the first sensor second portion is configured to detect the relative movement of the first sensor first portion and output first sensor data to the controller; and a second sensor comprising a second sensor first portion coupled to the handlebar proximate the second end of the handlebar and a second sensor second portion disposed proximate the second sensor first portion, wherein the second sensor first portion is configured to move relative to the second sensor second portion in response to movement of the handlebar, and wherein the second sensor second portion is configured to detect the relative movement of the second sensor first portion and output second sensor data to the controller.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "11",
+    "text": "A handle assembly comprising: a handlebar; a first fixture coupled to the handlebar at a first end of the handlebar; a second fixture coupled to the handlebar at a second end of the handlebar; a first sensor comprising a first sensor first portion coupled to the handlebar proximate the first end of the handlebar and a first sensor second portion disposed proximate the first sensor first portion, wherein the first sensor first portion is configured to move relative to the first sensor second portion in response to movement of the handlebar, and wherein the first sensor second portion is configured to detect the relative movement of the first sensor first portion and output first sensor data; and a second sensor comprising a second sensor first portion coupled to the handlebar proximate the second end of the handlebar and a second sensor second portion disposed proximate the second sensor first portion, wherein the second sensor first portion is configured to move relative to the second sensor second portion in response to movement of the handlebar, and wherein the second sensor second portion is configured to detect the relative movement of the second sensor first portion and output second sensor data.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "1 . An autonomous robot comprising:",
+    "a drive assembly;",
+    "a controller; and",
+    "a handle assembly, comprising:",
+    "a handlebar;",
+    "a first fixture coupled to the handlebar at a first end of the handlebar;",
+    "a second fixture coupled to the handlebar at a second end of the handlebar;",
+    "a first sensor comprising a first sensor first portion coupled to the handlebar proximate the first end of the handlebar and a first sensor second portion disposed proximate the first sensor first portion",
+    "wherein the first sensor first portion is configured to move relative to the first sensor second portion in response to movement of the handlebar, and wherein the first sensor second portion is configured to detect the relative movement of the first sensor first portion and output first sensor data to the controller; and",
+    "a second sensor comprising a second sensor first portion coupled to the handlebar proximate the second end of the handlebar and a second sensor second portion disposed proximate the second sensor first portion",
+    "wherein the second sensor first portion is configured to move relative to the second sensor second portion in response to movement of the handlebar, and wherein the second sensor second portion is configured to detect the relative movement of the second sensor first portion and output second sensor data to the controller."
+   ],
+   "11": [
+    "11 . A handle assembly comprising:",
+    "a handlebar;",
+    "a first fixture coupled to the handlebar at a first end of the handlebar;",
+    "a second fixture coupled to the handlebar at a second end of the handlebar;",
+    "a first sensor comprising a first sensor first portion coupled to the handlebar proximate the first end of the handlebar and a first sensor second portion disposed proximate the first sensor first portion",
+    "wherein the first sensor first portion is configured to move relative to the first sensor second portion in response to movement of the handlebar, and wherein the first sensor second portion is configured to detect the relative movement of the first sensor first portion and output first sensor data; and",
+    "a second sensor comprising a second sensor first portion coupled to the handlebar proximate the second end of the handlebar and a second sensor second portion disposed proximate the second sensor first portion",
+    "wherein the second sensor first portion is configured to move relative to the second sensor second portion in response to movement of the handlebar, and wherein the second sensor second portion is configured to detect the relative movement of the second sensor first portion and output second sensor data."
+   ]
+  },
+  "source_language": null
+ },
+ "US-2017166231-A1": {
+  "title": "Pushcart",
+  "abstract": "A pushcart includes a left wheel, a right wheel, a left wheel driver, a right wheel driver, a control unit, a left wheel rotary encoder, and a right wheel rotary encoder. The left wheel driver rotates the left wheel. The right wheel driver rotates the right wheel. The left wheel rotary encoder detects a rotational angle of the left wheel. The right wheel rotary encoder detects a rotational angle of the right wheel. The pushcart performs feedback control on angular velocities of the left wheel and the right wheel at least using an integral operation. The control unit calculates a weighted average of an integral element with respect to the angular velocity of the left wheel and an integral element with respect to the angular velocity of the right wheel, and then separately controls the left wheel driver and the right wheel driver based on the weighted average.",
+  "family_id": "55439789",
+  "priority_date": "2014-09-03",
+  "status": "Granted",
+  "legal_status": "not_active",
+  "assignee": "Murata Manufacturing Co Ltd",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "A pushcart comprising: a main body; a first wheel provided at a left side of the main body; a second wheel provided at a right side of the main body; a first wheel driver that rotates the first wheel about a rotational shaft of the first wheel; a second wheel driver that rotates the second wheel about a rotational shaft of the second wheel; a controller that separately controls the first wheel driver and the second wheel driver; and a wheel angular velocity detector that detects an angular velocity of each of the first wheel and the second wheel about the respective rotational shafts, wherein the controller performs a feedback control using at least an integral operation on the angular velocities of the first wheel and the second wheel about the rotational shafts thereof, wherein the controller calculates a weighted average of an integral element with respect to the angular velocity of the first wheel about the rotational shaft of the first wheel and an integral element with respect to the angular velocity of the second wheel about the rotational shaft of the second wheel, and wherein the controller separately controls the first wheel driver and the second wheel driver based on the weighted average.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "1 . A pushcart comprising:",
+    "a main body;",
+    "a first wheel provided at a left side of the main body;",
+    "a second wheel provided at a right side of the main body;",
+    "a first wheel driver that rotates the first wheel about a rotational shaft of the first wheel;",
+    "a second wheel driver that rotates the second wheel about a rotational shaft of the second wheel;",
+    "a controller that separately controls the first wheel driver and the second wheel driver; and",
+    "a wheel angular velocity detector that detects an angular velocity of each of the first wheel and the second wheel about the respective rotational shafts,",
+    "wherein the controller performs a feedback control using at least an integral operation on the angular velocities of the first wheel and the second wheel about the rotational shafts thereof,",
+    "wherein the controller calculates a weighted average of an integral element with respect to the angular velocity of the first wheel about the rotational shaft of the first wheel and an integral element with respect to the angular velocity of the second wheel about the rotational shaft of the second wheel, and",
+    "wherein the controller separately controls the first wheel driver and the second wheel driver based on the weighted average."
+   ]
+  },
+  "source_language": null
+ },
+ "JP-6471715-B2": {
+  "title": "Standing type mobile device",
+  "abstract": "",
+  "family_id": "59969746",
+  "priority_date": "2016-03-24",
+  "status": "Active",
+  "legal_status": "active",
+  "assignee": "Toyota Motor Corp",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "Wheels respectively disposed on the left and right of the front side and the rear side of the board in the traveling direction; First and second driving units that respectively independently rotate and drive wheels disposed on the left and right of at least one of the front side and the rear side in the traveling direction of the board; A first sensor for detecting a center of gravity movement of a passenger who has boarded the board; A steering board provided on any one of the front side and the rear side in the traveling direction of the board, and rotatable about a rotation axis extending in the vertical direction; A second sensor for acquiring rotation information of the steering board; A control unit for controlling the first and second drive units, The controller is Controlling the rotational speed of the first and second drive units according to the center of gravity movement of the occupant detected by the first sensor to control the speed in the traveling direction of the board; The board is turned in a direction corresponding to the rotation information by independently controlling the rotation speeds of the first and second drive units according to the rotation information acquired by the second sensor, When controlling the speed in the traveling direction of the board, if the rotational position of the steering board is not in the neutral position, the absolute value of the acceleration of the board is set more than in the case where the rotational position of the steering board is in the neutral position. Make it smaller, Standing type mobile device.",
+    "original_text": "搭乗者が搭乗するボードと、 前記ボードの進行方向の前側および後側の各々の左右にそれぞれ配置された車輪と、 前記ボードの進行方向の前側および後側の少なくとも一方の左右にそれぞれ配置された車輪を各々独立に回転駆動する第１および第２の駆動部と、 前記ボードに搭乗した搭乗者の重心移動を検出する第１のセンサと、 前記ボードの進行方向の前側および後側のうちのいずれか一方に設けられ、鉛直方向に伸びる回転軸を中心に回転可能なステアリングボードと、 前記ステアリングボードの回転情報を取得する第２のセンサと、 前記第１および第２の駆動部を制御する制御部と、を備え、 前記制御部は、 前記第１のセンサで検出した前記搭乗者の重心移動に応じて前記第１および第２の駆動部の回転速度を制御して前記ボードの進行方向における速度を制御し、 前記第２のセンサで取得した回転情報に応じて前記第１および第２の駆動部の回転速度を各々独立に制御することで前記ボードを前記回転情報と対応する方向に旋回させ、 前記ボードの進行方向における速度を制御する際、前記ステアリングボードの回転位置が中立位置にない場合は、前記ステアリングボードの回転位置が前記中立位置にある場合よりも、前記ボードの加速度の絶対値を小さくする、 立ち乗り型移動装置。",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "搭乗者が搭乗するボードと、 前記ボードの進行方向の前側および後側の各々の左右にそれぞれ配置された車輪と、 前記ボードの進行方向の前側および後側の少なくとも一方の左右にそれぞれ配置された車輪を各々独立に回転駆動する第１および第２の駆動部と、 前記ボードに搭乗した搭乗者の重心移動を検出する第１のセンサと、 前記ボードの進行方向の前側および後側のうちのいずれか一方に設けられ、鉛直方向に伸びる回転軸を中心に回転可能なステアリングボードと、 前記ステアリングボードの回転情報を取得する第２のセンサと、 前記第１および第２の駆動部を制御する制御部と、を備え、 前記制御部は、 前記第１のセンサで検出した前記搭乗者の重心移動に応じて前記第１および第２の駆動部の回転速度を制御して前記ボードの進行方向における速度を制御し、 前記第２のセンサで取得した回転情報に応じて前記第１および第２の駆動部の回転速度を各々独立に制御することで前記ボードを前記回転情報と対応する方向に旋回させ、 前記ボードの進行方向における速度を制御する際、前記ステアリングボードの回転位置が中立位置にない場合は、前記ステアリングボードの回転位置が前記中立位置にある場合よりも、前記ボードの加速度の絶対値を小さくする、 立ち乗り型移動装置。 A board on which the passenger boarded, Wheels respectively disposed on the left and right of the front side and the rear side of the board in the traveling direction; First and second driving units that respectively independently rotate and drive wheels disposed on the left and right of at least one of the front side and the rear side in the traveling direction of the board; A first sensor for detecting a center of gravity movement of a passenger who has boarded the board; A steering board provided on any one of the front side and the rear side in the traveling direction of the board, and rotatable about a rotation axis extending in the vertical direction; A second sensor for acquiring rotation information of the steering board; A control unit for controlling the first and second drive units, The controller is Controlling the rotational speed of the first and second drive units according to the center of gravity movement of the occupant detected by the first sensor to control the speed in the traveling direction of the board; The board is turned in a direction corresponding to the rotation information by independently controlling the rotation speeds of the first and second drive units according to the rotation information acquired by the second sensor, When controlling the speed in the traveling direction of the board, if the rotational position of the steering board is not in the neutral position, the absolute value of the acceleration of the board is set more than in the case where the rotational position of the steering board is in the neutral position. Make it smaller, Standing type mobile device."
+   ]
+  },
+  "source_language": "ja"
+ },
+ "CN-110371170-B": {
+  "title": "Intelligent power assisting device, system and method for controlling intelligent power assisting device to provide power assistance",
+  "abstract": "The present invention provides an intelligent booster device, a system and a method for controlling it to provide booster power. The smart booster device includes: a booster controller, a manipulation component and a state sampling mechanism, wherein the state sampling mechanism is connected to the manipulation component, the state sampling mechanism is configured to sense the state change of the manipulation component and generate a corresponding electric signal according to the state change of the manipulation component; the booster controller is configured to receive the state sampling mechanism The electric signal is generated, and in response to the electric signal, the intelligent power assist device is controlled to provide assist. The invention greatly reduces the cost and complexity of the power assist control of the intelligent power booster through the operating components and the state sampling mechanism, and effectively improves the reliability and stability of the power boost control.",
+  "family_id": "68243010",
+  "priority_date": "2018-04-13",
+  "status": "Active",
+  "legal_status": "active",
+  "assignee": "Lingdong Technology Beijing Co Ltd",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "An intelligent booster, characterized in that, the intelligent booster includes: a power-assisted controller, an operating part, a state sampling mechanism and an inertial measurement unit, wherein, the state sampling mechanism is connected to the control component, the state sampling mechanism is configured to sense the state change of the control component and generate corresponding electric signals according to the state change of the control component, the control component is a pull rod or a rocker, the state sampling mechanism is arranged at the tail end of the pull rod or the rocker, the state change of the control component at least comprises that the control component inclines for a certain angle or rotates at a certain angular speed, the state sampling mechanism can generate corresponding electric signals along with the inclination or the rotation of the pull rod or the rocker, and when the state sampling mechanism senses that the angle of the control component relative to the axis of the horizontal direction is smaller than a set angle, the power assisting controller controls the intelligent power assisting device to enter a power assisting mode; or when the state sampling mechanism senses that the angle of the axis of the operating part relative to the horizontal direction is restored to be larger than the set angle, the power assisting controller controls the intelligent power assisting device to enter a non-power assisting mode; Wherein the state sampling mechanism comprises a slide rheostat comprising a resistive wire and a slide end, the slide end being directly or indirectly connected to the manipulation member and the slide end moving over the resistive wire following a change in position of the manipulation member to generate a corresponding voltage sample value, wherein the state sampling mechanism further comprises a linkage mechanism disposed between the slide rheostat and the manipulation member, the linkage mechanism comprising at least one linkage capable of transmitting a change in state of the manipulation member to the slide end of the slide rheostat; the inertial measurement unit is configured to measure a state of motion of the intelligent power assist device, wherein the measuring the state of motion of the intelligent power assist device includes measuring an acceleration of the intelligent power assist device in at least one direction and an angular velocity or an angular acceleration in at least one direction; and the assist controller is configured to receive the electric signal generated by the state sampling mechanism, control the intelligent assist device to provide assist in response to the electric signal, and is further configured to obtain a motion state of the intelligent assist device measured by the inertia measurement unit and determine that the intelligent assist device is currently in one of a horizontal advance state, a climbing state, a turning state, or other state according to the motion state, and thereby determine a type of assist applied to the intelligent assist device to provide assist, Wherein the assist controller is further configured to provide at least one of a forward assist force and a steering assist force to the intelligent assist device in accordance with the movement state of the intelligent assist device measured by the inertia measurement unit, and wherein the magnitude of the steering assist force is positively correlated with the angular velocity measured by the inertia measurement unit, the magnitude of the forward assist force is positively correlated with the inclination angle of a steering member in the form of a tie rod or a rocker, or the magnitude of the forward assist force is positively correlated with the forward rate of the intelligent assist device.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "10",
+    "text": "A method for controlling an intelligent power assist device to provide power assist, the intelligent power assist device comprising: a booster controller, a steering component, a state sampling mechanism and an inertial measurement unit, wherein the method comprises: the state sampling mechanism obtains the state of the control component and generates corresponding electric signals according to the state change of the control component, the control component is a pull rod or a rocker, the state sampling mechanism is arranged at the tail end of the pull rod or the rocker, the state change of the control component at least comprises that the control component inclines for a certain angle or rotates at a certain angular speed, the state sampling mechanism can generate corresponding electric signals along with the inclination or the rotation of the pull rod or the rocker, and when the state sampling mechanism senses that the angle of the control component relative to the axis of the horizontal direction is smaller than a set angle, the power assisting controller controls the intelligent power assisting device to enter a power assisting mode; or when the state sampling mechanism senses that the angle of the axis of the operating part relative to the horizontal direction is restored to be larger than the set angle, the power assisting controller controls the intelligent power assisting device to enter a non-power assisting mode; Wherein the state sampling mechanism comprises a slide rheostat comprising a resistance wire and a slide end, the slide end being directly or indirectly connected to the manipulation member, the state sampling mechanism obtaining a state of the manipulation member, and generating a corresponding electrical signal according to a change in state of the manipulation member comprises: the sliding end moves on the resistance wire along with the position change of the operating component so as to generate corresponding voltage sampling values, wherein the state sampling mechanism further comprises a link mechanism arranged between the slide rheostat and the operating component, the link mechanism comprising at least one link, the link mechanism being capable of transmitting a state change of the operating component to a sliding end of the slide rheostat; the inertial measurement unit measures a state of motion of the intelligent power assist device, wherein the measuring the state of motion of the intelligent power assist device includes measuring an acceleration of the intelligent power assist device in at least one direction and an angular velocity or an angular acceleration in at least one direction; and the assist controller receives the electric signal generated by the state sampling mechanism, controls the intelligent power assist device to provide assist in response to the electric signal, and obtains a motion state of the intelligent power assist device measured by the inertia measurement unit and determines that the intelligent power assist device is currently in one of a horizontal advance state, a climbing state, a turning state, or other states according to the motion state, and thereby determines a type of assist applied to the intelligent power assist device to provide assist, Wherein the assist controller is further configured to provide at least one of a forward assist force and a steering assist force to the intelligent assist device in accordance with the movement state of the intelligent assist device measured by the inertia measurement unit, and wherein the magnitude of the steering assist force is positively correlated with the angular velocity measured by the inertia measurement unit, the magnitude of the forward assist force is positively correlated with the inclination angle of a steering member in the form of a tie rod or a rocker, or the magnitude of the forward assist force is positively correlated with the forward rate of the intelligent assist device.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "15",
+    "text": "A smart booster comprising a memory, a processor and a computer program stored on the memory and executable on the processor, the processor being capable of implementing the functions of the booster controller in the method according to any one of claims 10-14 when the computer program is executed.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "An intelligent booster, characterized in that, the intelligent booster includes: a power-assisted controller, an operating part, a state sampling mechanism and an inertial measurement unit, wherein,",
+    "the state sampling mechanism is connected to the control component, the state sampling mechanism is configured to sense the state change of the control component and generate corresponding electric signals according to the state change of the control component, the control component is a pull rod or a rocker, the state sampling mechanism is arranged at the tail end of the pull rod or the rocker, the state change of the control component at least comprises that the control component inclines for a certain angle or rotates at a certain angular speed, the state sampling mechanism can generate corresponding electric signals along with the inclination or the rotation of the pull rod or the rocker, and when the state sampling mechanism senses that the angle of the control component relative to the axis of the horizontal direction is smaller than a set angle, the power assisting controller controls the intelligent power assisting device to enter a power assisting mode; or when the state sampling mechanism senses that the angle of the axis of the operating part relative to the horizontal direction is restored to be larger than the set angle, the power assisting controller controls the intelligent power assisting device to enter a non-power assisting mode;",
+    "Wherein the state sampling mechanism comprises a slide rheostat comprising a resistive wire and a slide end, the slide end being directly or indirectly connected to the manipulation member and the slide end moving over the resistive wire following a change in position of the manipulation member to generate a corresponding voltage sample value",
+    "wherein the state sampling mechanism further comprises a linkage mechanism disposed between the slide rheostat and the manipulation member, the linkage mechanism comprising at least one linkage capable of transmitting a change in state of the manipulation member to the slide end of the slide rheostat;",
+    "the inertial measurement unit is configured to measure a state of motion of the intelligent power assist device",
+    "wherein the measuring the state of motion of the intelligent power assist device includes measuring an acceleration of the intelligent power assist device in at least one direction and an angular velocity or an angular acceleration in at least one direction; and",
+    "the assist controller is configured to receive the electric signal generated by the state sampling mechanism, control the intelligent assist device to provide assist in response to the electric signal, and is further configured to obtain a motion state of the intelligent assist device measured by the inertia measurement unit and determine that the intelligent assist device is currently in one of a horizontal advance state, a climbing state, a turning state, or other state according to the motion state, and thereby determine a type of assist applied to the intelligent assist device to provide assist,",
+    "Wherein the assist controller is further configured to provide at least one of a forward assist force and a steering assist force to the intelligent assist device in accordance with the movement state of the intelligent assist device measured by the inertia measurement unit, and wherein the magnitude of the steering assist force is positively correlated with the angular velocity measured by the inertia measurement unit, the magnitude of the forward assist force is positively correlated with the inclination angle of a steering member in the form of a tie rod or a rocker, or the magnitude of the forward assist force is positively correlated with the forward rate of the intelligent assist device."
+   ],
+   "10": [
+    "A method for controlling an intelligent power assist device to provide power assist, the intelligent power assist device comprising: a booster controller, a steering component, a state sampling mechanism and an inertial measurement unit, wherein the method comprises:",
+    "the state sampling mechanism obtains the state of the control component and generates corresponding electric signals according to the state change of the control component, the control component is a pull rod or a rocker, the state sampling mechanism is arranged at the tail end of the pull rod or the rocker, the state change of the control component at least comprises that the control component inclines for a certain angle or rotates at a certain angular speed, the state sampling mechanism can generate corresponding electric signals along with the inclination or the rotation of the pull rod or the rocker, and when the state sampling mechanism senses that the angle of the control component relative to the axis of the horizontal direction is smaller than a set angle, the power assisting controller controls the intelligent power assisting device to enter a power assisting mode; or when the state sampling mechanism senses that the angle of the axis of the operating part relative to the horizontal direction is restored to be larger than the set angle, the power assisting controller controls the intelligent power assisting device to enter a non-power assisting mode;",
+    "Wherein the state sampling mechanism comprises a slide rheostat comprising a resistance wire and a slide end, the slide end being directly or indirectly connected to the manipulation member, the state sampling mechanism obtaining a state of the manipulation member, and generating a corresponding electrical signal according to a change in state of the manipulation member comprises:",
+    "the sliding end moves on the resistance wire along with the position change of the operating component so as to generate corresponding voltage sampling values,",
+    "wherein the state sampling mechanism further comprises a link mechanism arranged between the slide rheostat and the operating component, the link mechanism comprising at least one link, the link mechanism being capable of transmitting a state change of the operating component to a sliding end of the slide rheostat;",
+    "the inertial measurement unit measures a state of motion of the intelligent power assist device",
+    "wherein the measuring the state of motion of the intelligent power assist device includes measuring an acceleration of the intelligent power assist device in at least one direction and an angular velocity or an angular acceleration in at least one direction; and",
+    "the assist controller receives the electric signal generated by the state sampling mechanism, controls the intelligent power assist device to provide assist in response to the electric signal, and obtains a motion state of the intelligent power assist device measured by the inertia measurement unit and determines that the intelligent power assist device is currently in one of a horizontal advance state, a climbing state, a turning state, or other states according to the motion state, and thereby determines a type of assist applied to the intelligent power assist device to provide assist,",
+    "Wherein the assist controller is further configured to provide at least one of a forward assist force and a steering assist force to the intelligent assist device in accordance with the movement state of the intelligent assist device measured by the inertia measurement unit, and wherein the magnitude of the steering assist force is positively correlated with the angular velocity measured by the inertia measurement unit, the magnitude of the forward assist force is positively correlated with the inclination angle of a steering member in the form of a tie rod or a rocker, or the magnitude of the forward assist force is positively correlated with the forward rate of the intelligent assist device."
+   ],
+   "15": [
+    "A smart booster comprising a memory, a processor and a computer program stored on the memory and executable on the processor, the processor being capable of implementing the functions of the booster controller in the method according to any one of claims 10-14 when the computer program is executed."
+   ]
+  },
+  "source_language": null
+ },
+ "US-2003079923-A1": {
+  "title": "Hospital bed power-assist",
+  "abstract": "The present invention, in one embodiment, is a device for moving a hospital bed. The device comprises a body, a motor driven wheel coupled to the body, and a hitch coupled to the body and adapted for engaging the hospital bed. Finally, the present invention, in yet another embodiment, is a method for moving a hospital bed with a motorized device. The method comprises maneuvering the device into position next to the hospital bed, hitching the device to the hospital bed, and moving the hospital bed with the device.",
+  "family_id": "23315690",
+  "priority_date": "2001-10-26",
+  "status": "Granted",
+  "legal_status": "not_active",
+  "assignee": "Individual",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "A device for moving a hospital bed comprising: a body; a motor driven wheel coupled to the body; and a hitch coupled to the body and adapted for engaging the hospital bed.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "16",
+    "text": "A method for moving a hospital bed, the method comprising using a device having a body, a motor driven wheel coupled to the body, and a hitch coupled to the body and adapted for engaging the hospital bed.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "17",
+    "text": "A method for moving a hospital bed with a motorized device, the method comprising: maneuvering the device into position next to the hospital bed; hitching the device to the hospital bed; and moving the hospital bed with the device.",
+    "original_text": null,
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "1 . A device for moving a hospital bed comprising:",
+    "a body;",
+    "a motor driven wheel coupled to the body; and",
+    "a hitch coupled to the body and adapted for engaging the hospital bed."
+   ],
+   "16": [
+    "16 . A method for moving a hospital bed, the method comprising using a device having a body, a motor driven wheel coupled to the body, and a hitch coupled to the body and adapted for engaging the hospital bed."
+   ],
+   "17": [
+    "17 . A method for moving a hospital bed with a motorized device, the method comprising:",
+    "maneuvering the device into position next to the hospital bed;",
+    "hitching the device to the hospital bed; and",
+    "moving the hospital bed with the device."
+   ]
+  },
+  "source_language": null
+ },
+ "JP-WO2011036849-A1": {
+  "title": "Bed and coalescence method",
+  "abstract": "The moving unit that forms a bed with the fixed unit includes a contact sensor (50), a wheel (44) that can move in all directions, a vehicle body drive unit (31) that drives the wheel (44), and a contact sensor. The avoidance command unit (51) that generates an avoidance command according to the detection result of (50), the rotation center setting unit (52) that sets the rotation center Q2 of the avoidance command, and the avoidance command and the rotation center Q2 as a movement command An avoidance command conversion unit (54) for conversion and a position detection unit (34) for detecting the positional relationship between the storage unit (20) and according to the positional relationship detected by the position detection unit (34), The rotation center of the rotation center setting unit (52) is set.",
+  "family_id": "43795619",
+  "priority_date": "2009-09-24",
+  "status": "Granted",
+  "legal_status": "not_active",
+  "assignee": "Panasonic Corp",
+  "independent_claims": [
+   {
+    "number": "1",
+    "text": "The moving unit is A contact sensor for detecting a contact force generated upon contact with another object; An avoidance command unit that generates an avoidance command that is information related to rotation of the moving unit according to a contact force obtained from the contact sensor; A position detection unit that detects a positional relationship of the moving unit with respect to the housing unit; A rotation center setting unit for setting a rotation center of an avoidance command generated by the avoidance command unit according to the positional relationship detected by the position detection unit; And a control unit that moves the moving unit around the rotation center set by the rotation center setting unit.",
+    "original_text": "固定部と、前記固定部に設けられた凹状の収容部に収容される移動部とを備えるベッドであって、 前記移動部は、 他の物体との接触の際に発生する接触力を検出する接触センサと、 前記接触センサから得られる接触力に応じて前記移動部の回転に関する情報である回避指令を生成する回避指令部と、 前記収容部に対する前記移動部の位置関係を検出する位置検出部と、 前記位置検出部で検出された位置関係に応じて前記回避指令部が生成する回避指令の回転中心を設定する回転中心設定部と、 前記回転中心設定部で設定された回転中心周りに前記移動部を移動させる制御部と を備えるベッド。",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "3",
+    "text": "",
+    "original_text": "それぞれ異なる回転中心と対応づけられた複数の接触センサを備える 請求項１または２に記載のベッド。",
+    "type": "independent",
+    "depends_on": null
+   },
+   {
+    "number": "4",
+    "text": "A contact sensor provided in the moving unit detects a contact force generated when the moving unit is in contact with another object; According to the contact force obtained from the contact sensor, an avoidance command that is information related to rotation of the moving unit is generated, Detecting the positional relationship of the moving part with respect to the accommodating part; According to the detected positional relationship, the rotation center of the avoidance command is set as the rotation center, A coalescing method for performing an avoidance operation around the set rotation center.",
+    "original_text": "固定部と、前記固定部に設けられた凹状の収容部と、前記収容部に収容される移動部とを備えるベッドにおいて、前記収容部に前記移動部を収容して前記固定部と前記移動部とを合体させる合体方法であって、 前記移動部が備える接触センサにより前記移動部と他の物体との接触の際に発生する接触力を検出し、 前記接触センサから得られる接触力に応じて前記移動部の回転に関する情報である回避指令を生成し、 前記収容部に対する前記移動部の位置関係を検出し、 検出された前記位置関係に応じて前記回避指令の回転中心を回転中心を設定し、 設定された前記回転中心周りに回避動作を行う 合体方法。",
+    "type": "independent",
+    "depends_on": null
+   }
+  ],
+  "structured_limitations": {
+   "1": [
+    "固定部と、前記固定部に設けられた凹状の収容部に収容される移動部とを備えるベッドであって、 前記移動部は、 他の物体との接触の際に発生する接触力を検出する接触センサと、 前記接触センサから得られる接触力に応じて前記移動部の回転に関する情報である回避指令を生成する回避指令部と、 前記収容部に対する前記移動部の位置関係を検出する位置検出部と、 前記位置検出部で検出された位置関係に応じて前記回避指令部が生成する回避指令の回転中心を設定する回転中心設定部と、 前記回転中心設定部で設定された回転中心周りに前記移動部を移動させる制御部と を備えるベッド。A bed comprising a fixed part and a moving part accommodated in a concave accommodating part provided in the fixed part, The moving unit is A contact sensor for detecting a contact force generated upon contact with another object; An avoidance command unit that generates an avoidance command that is information related to rotation of the moving unit according to a contact force obtained from the contact sensor; A position detection unit that detects a positional relationship of the moving unit with respect to the housing unit; A rotation center setting unit for setting a rotation center of an avoidance command generated by the avoidance command unit according to the positional relationship detected by the position detection unit; And a control unit that moves the moving unit around the rotation center set by the rotation center setting unit."
+   ],
+   "3": [
+    "それぞれ異なる回転中心と対応づけられた複数の接触センサを備える 請求項１または２に記載のベッド。The bed according to claim 1, further comprising a plurality of contact sensors respectively associated with different rotation centers."
+   ],
+   "4": [
+    "固定部と、前記固定部に設けられた凹状の収容部と、前記収容部に収容される移動部とを備えるベッドにおいて、前記収容部に前記移動部を収容して前記固定部と前記移動部とを合体させる合体方法であって、 前記移動部が備える接触センサにより前記移動部と他の物体との接触の際に発生する接触力を検出し、 前記接触センサから得られる接触力に応じて前記移動部の回転に関する情報である回避指令を生成し、 前記収容部に対する前記移動部の位置関係を検出し、 検出された前記位置関係に応じて前記回避指令の回転中心を回転中心を設定し、 設定された前記回転中心周りに回避動作を行う 合体方法。In a bed comprising a fixed part, a concave accommodating part provided in the fixed part, and a moving part accommodated in the accommodating part, the moving part is accommodated in the accommodating part, and the fixed part and the movable part A coalescing method for coalescing and A contact sensor provided in the moving unit detects a contact force generated when the moving unit is in contact with another object; According to the contact force obtained from the contact sensor, an avoidance command that is information related to rotation of the moving unit is generated, Detecting the positional relationship of the moving part with respect to the accommodating part; According to the detected positional relationship, the rotation center of the avoidance command is set as the rotation center, A coalescing method for performing an avoidance operation around the set rotation center."
+   ]
+  },
+  "source_language": "ja"
+ }
+}

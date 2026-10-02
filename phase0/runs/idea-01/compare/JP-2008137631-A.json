@@ -1,0 +1,45 @@
+{
+  "publication_number": "JP-2008137631-A",
+  "legal_status": "not_active",
+  "one_line_summary": "Compact transport cart with two electric casters on one diagonal (each a 360-degree swivelling caster with two in-wheel motors, steered by wheel speed difference) and two free casters on the other diagonal.",
+  "prior_art": {
+    "E1": {
+      "verdict": "disclosed",
+      "quote": "A pair of electric casters 21 and 22, a pair of free casters 23 and 24, a battery 25 and a control device 26 are disposed on the lower surface of the vehicle body 2.",
+      "location": "description",
+      "note": "Rectangular four-caster transport cart for parts in factories/warehouses; electric bed and wheelchair are also named as applications."
+    },
+    "E2": {
+      "verdict": "partial",
+      "quote": "the support column 31 is supported by a support portion 27 provided on the vehicle body 2 by a bearing (not shown) so as to be able to rotate 360 ° about the vertical axis",
+      "location": "description",
+      "note": "Exactly two active wheel units that drive and swivel 360 degrees, but the steering comes from the speed difference between a pair of drive wheels inside each caster, not from a dedicated steering motor. The background prior art (JP UM 6-25224) has diagonal drive wheels steered by a steering motor, with 360 degrees not stated."
+    },
+    "E3": {
+      "verdict": "disclosed",
+      "quote": "The free casters 23 and 24 are disposed on the other diagonal line passing through the remaining two corners of the vehicle body 2 and the vehicle body center of gravity C1",
+      "location": "description",
+      "note": "The electric casters sit on one diagonal and the free casters on the other. The free casters swivel 360 degrees about the vertical axis. Claim 2 also covers this."
+    },
+    "E4": {
+      "verdict": "disclosed",
+      "quote": "As the operation unit, an operation lever that can be tilted in accordance with the traveling direction, a button arranged in accordance with the moving direction, or the like can be used.",
+      "location": "description",
+      "note": "A tilting lever (joystick-like) on an operation handle on the vehicle body, or wired/wireless. No force sensors in the push handles."
+    },
+    "E5": {
+      "verdict": "partial",
+      "quote": "the control apparatus 26 determines a traveling direction by tilting an operation lever. Further, the traveling speed is determined by the inclination angle of the operation lever.",
+      "location": "description",
+      "note": "The direction and speed command comes from lever tilt, not from measured handle push force, and nothing is said about using the instantaneous speed or acceleration. Rotation in place is also commanded."
+    },
+    "E6": {
+      "verdict": "partial",
+      "quote": "when the transport vehicle 1 is moved in an oblique direction or a lateral direction, the two drive wheels 32 and 33 in the electric casters 21 and 23 are rotated at a predetermined rotation speed ratio",
+      "location": "description",
+      "note": "Each caster is oriented and then driven for oblique or lateral travel, but the orientation is set by the differential wheel speed ratio, not by a commanded steering angle from a steering drive."
+    }
+  },
+  "combination_note": "E2+E3: largely yes. There are exactly two powered 360-degree swivelling units on one diagonal and two free swivel casters on the other diagonal, and the stated reason is stability when moving obliquely or laterally. The gap is that steering is by differential speed of twin in-wheel motors, with no separate steering motor. The background prior art (diagonal drive wheels steered by a steering motor plus idle wheels) is even closer on E2. E5->E6: not disclosed. The input is lever tilt, with no handle-force sensing and no speed or acceleration term. This is the closest gap to the idea.",
+  "claim_overlap": []
+}
