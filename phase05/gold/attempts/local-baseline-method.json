@@ -1,0 +1,208 @@
+{
+ "method": "Local only. Cached lowercased title+abstract and joined CPC/IPC/FI codes to work/txt.parquet. Per case: translated idea to patent vocabulary, ran weighted regex scoring in DuckDB (with code-group or must-match term filters), grouped by family_id, read the top abstracts by hand, and picked the best candidates in order. The rest of the 50 interleaves keyword hits (2 per step) with embedding_v1 cosine neighbours of the #1 pick (1 per step), one publication per family. When a first pass missed, I tried other wordings (e.g. 'supersonic' for ultrasonic, 'reference state'/'leftward' for steering), title-only rows and embedding expansion from partial matches.",
+ "per_case": {
+  "case-01": {
+   "top_terms_used": [
+    "tilt",
+    "mast",
+    "fork",
+    "slide/slip",
+    "load weight",
+    "vehicle speed",
+    "brake/decrease output",
+    "fall"
+   ],
+   "codes_used": [
+    "B66F"
+   ],
+   "confidence": "high",
+   "notes": "US-10155646-B2: abstract matches all features (fork/mast tilt from load and speed, sliding detection, reduce output/brake if max back-tilt is not enough). Sibling family US-9981835-B2 (friction/slope variant) ranked #2."
+  },
+  "case-02": {
+   "top_terms_used": [
+    "wheelchair",
+    "drive wheel moved rearward",
+    "seat slide left-right",
+    "guide portion",
+    "bed transfer",
+    "self-propelled or care"
+   ],
+   "codes_used": [
+    "A61G5"
+   ],
+   "confidence": "high",
+   "notes": "JP-2013123510-A, whose abstract also covers F5 (self-propelled or assisted). Near-duplicate family JP-2014147661-A ranked #2."
+  },
+  "case-03": {
+   "top_terms_used": [
+    "pallet truck",
+    "force sensor/load cell",
+    "wireless",
+    "handle/operating arm",
+    "separate power supply",
+    "display"
+   ],
+   "codes_used": [
+    "B62B3/06"
+   ],
+   "confidence": "high",
+   "notes": "US-10899375-B2 matches every feature."
+  },
+  "case-04": {
+   "top_terms_used": [
+    "auxiliary drive device",
+    "dock wheelchair",
+    "pull",
+    "lifting device",
+    "pivotable wheels lifted off ground",
+    "steering"
+   ],
+   "codes_used": [
+    "A61G5/047",
+    "A61G5/1051"
+   ],
+   "confidence": "high",
+   "notes": "DE-102006032842-B4 (claim text matches F1-F5). Other close hits: SE-521112-C2 (servo lifts the front wheels) and sibling Alber families."
+  },
+  "case-05": {
+   "top_terms_used": [
+    "IR receiver",
+    "supersonic/ultrasonic detector",
+    "front frame",
+    "lateral frame",
+    "remote control",
+    "tracking/follow"
+   ],
+   "codes_used": [
+    "G01S15",
+    "G05D1",
+    "B62B5/0026",
+    "A63B55/60"
+   ],
+   "confidence": "high",
+   "notes": "First passes missed it because the abstract says 'supersonic' rather than 'ultrasonic'. US-9250627-B2 / US-2015346719-A1 (forward and lateral tracking system) matches every feature."
+  },
+  "case-06": {
+   "top_terms_used": [
+    "pinch/obstruction",
+    "patient support",
+    "modes of operation",
+    "speed",
+    "current supplied to motor",
+    "analyze differently per mode"
+   ],
+   "codes_used": [
+    "A61G7/018",
+    "A61G7/015"
+   ],
+   "confidence": "high",
+   "notes": "US-10206834-B2 matches every feature."
+  },
+  "case-07": {
+   "top_terms_used": [
+    "steering wheel reference state",
+    "first/second traveling mode",
+    "face leftward",
+    "mode change-over switch",
+    "rotation amount",
+    "forklift"
+   ],
+   "codes_used": [
+    "B62D6/00",
+    "B62D7/15",
+    "B66F9/075"
+   ],
+   "confidence": "high",
+   "notes": "JP-2015098246-A / JP-5630794-B1 (cargo handling vehicle) matches F1-F5 exactly. Found with phrase search for neutral/reference state plus leftward."
+  },
+  "case-08": {
+   "top_terms_used": [
+    "brake caster",
+    "signal receiver",
+    "locking device",
+    "rotary damper",
+    "shell with limiting structure",
+    "damper wheel",
+    "pushed slowly"
+   ],
+   "codes_used": [
+    "B60B33",
+    "B62B5/04"
+   ],
+   "confidence": "high",
+   "notes": "WO-2010037328/US-8464843-B2 family and CN-201291713-Y (same housing + damper-wheel wording). CN-101695893/CN-201520161 are a variant (first and second damper parts). All four are in the top 4."
+  },
+  "case-09": {
+   "top_terms_used": [
+    "patient lifting",
+    "adaptive control",
+    "motor wear",
+    "operating temperature",
+    "reference values",
+    "maximum current for a given load"
+   ],
+   "codes_used": [
+    "A61G7/10"
+   ],
+   "confidence": "high",
+   "notes": "US-11007101-B2 matches every feature."
+  },
+  "case-10": {
+   "top_terms_used": [
+    "self-balancing electric wheelchair",
+    "Hooke's hinge/universal joint",
+    "electric push rods L-R and F-B",
+    "two gyroscopes",
+    "hub motor locking switch",
+    "direction switch"
+   ],
+   "codes_used": [
+    "A61G5/04",
+    "A61G5/10"
+   ],
+   "confidence": "high",
+   "notes": "CN-105078672 family (B used) matches every feature."
+  },
+  "case-11": {
+   "top_terms_used": [
+    "electric vehicle",
+    "driving module",
+    "sub-frame detachable from body frame",
+    "suspension",
+    "brake",
+    "connection unit signal lines",
+    "control unit"
+   ],
+   "codes_used": [
+    "B60K1/04",
+    "B62D21/11",
+    "B60G13"
+   ],
+   "confidence": "high",
+   "notes": "US-2015027795-A1 / US-9168818-B2 family matches every feature."
+  },
+  "case-12": {
+   "top_terms_used": [
+    "mobile radiography",
+    "deceleration control unit",
+    "continues to accelerate",
+    "braking control unit",
+    "slope"
+   ],
+   "codes_used": [
+    "A61B6/4405",
+    "B62B5/0069",
+    "B62B5/04"
+   ],
+   "confidence": "high",
+   "notes": "CN-105142522 / US-9743894-B2 family matches every feature."
+  }
+ },
+ "time_spent_minutes": 45,
+ "problems": [
+  "Empty abstracts are stored as '' rather than NULL, so the first noabs flag was wrong. Fixed by rebuilding the cache.",
+  "Rows with an empty embedding_v1 broke list_cosine_similarity. Filtered with len(embedding_v1)=64.",
+  "Machine-translated wording ('supersonic' for ultrasonic, 'reference state' for centre position) hid cases 05 and 07 from the first keyword passes.",
+  "Ranks 2-50 are padded with keyword and embedding neighbours. They are prior-art-style candidates, not curated."
+ ]
+}

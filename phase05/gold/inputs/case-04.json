@@ -1,0 +1,26 @@
+{
+  "case_id": "case-04",
+  "idea_text": "People in a push-along chair for the disabled, or whoever pushes them, often need extra power for longer trips or hills. My idea is a small motorised unit that latches onto the front of an ordinary chair and tows it along. The unit has its own powered wheel or wheels, an electric motor and a way to steer, plus fittings that hook it onto the chair frame. The clever part comes after it is hooked on: a lifting mechanism presses the unit's own wheel downward compared with the chair, which raises the chair's small swivelling front wheels clear of the ground. From then on the chair rides on its big rear wheels plus the add-on's wheel, so the wobbly little front wheels can't catch on kerbs or gravel, and steering is done entirely by the add-on. Unhook it and you have a normal chair again.",
+  "features": [
+    {
+      "id": "F1",
+      "text": "A detachable add-on that hooks onto a hand-propelled chair and tows it."
+    },
+    {
+      "id": "F2",
+      "text": "At least one wheel on the add-on is driven by an electric motor."
+    },
+    {
+      "id": "F3",
+      "text": "The add-on has its own steering arrangement."
+    },
+    {
+      "id": "F4",
+      "text": "Fittings hold the add-on to the chair frame."
+    },
+    {
+      "id": "F5",
+      "text": "After hooking on, a lifting mechanism presses the add-on's wheel downward compared with the chair frame so the chair's small swivel front wheels leave the ground."
+    }
+  ]
+}

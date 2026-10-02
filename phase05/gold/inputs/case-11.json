@@ -1,0 +1,26 @@
+{
+  "case_id": "case-11",
+  "idea_text": "Battery-powered cars are usually designed as one integrated whole, so changing how they are driven means redesigning the body. My idea is to put everything that makes the car go and stop into a removable undercarriage pack. The pack has its own small frame carrying the driven wheels, the electric motor that turns them, the springs and dampers for those wheels, and the wheel brakes. It attaches to the main body's frame from underneath. A joining arrangement both locks the pack in the right place relative to the body and plugs in the signal cables between them. A controller then runs the pack's motor and brakes according to commands that come from the pedals and controls in the passenger part, over those cables. That way the same pack could sit under different bodies or be swapped out quickly for servicing.",
+  "features": [
+    {
+      "id": "F1",
+      "text": "A car body with its own main frame."
+    },
+    {
+      "id": "F2",
+      "text": "A removable drive pack built on a separate small frame that attaches under the body frame."
+    },
+    {
+      "id": "F3",
+      "text": "The pack carries the driven wheels, an electric motor, wheel suspension and wheel brakes."
+    },
+    {
+      "id": "F4",
+      "text": "A joining arrangement fixes the pack's position relative to the body and connects signal cables between them."
+    },
+    {
+      "id": "F5",
+      "text": "A controller runs the pack using commands sent over those cables from the passenger part."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "case_id": "case-03",
+  "idea_text": "I want a hand-pulled lifting trolley for moving pallets that also tells you what the load weighs, without fragile cables running up the steering handle. Load sensors under the lifting platform feel the weight and send an electrical reading. They are wired to an electronics box mounted down in the low body of the trolley, and that box has its own battery. The weight readout lives in a separate small box up at or near the hand grip on the steering bar, also with its own battery. Instead of threading wires through the moving pull handle, the boxes talk to each other by radio. So the sensor-to-electronics link is a cable down low, and the electronics-to-readout link is wireless. The operator sees the weight right where their hands are, and the handle can swing and steer freely with nothing to snag or wear out.",
+  "features": [
+    {
+      "id": "F1",
+      "text": "Load sensors detect how much weight is on the lifting platform and give an electrical reading."
+    },
+    {
+      "id": "F2",
+      "text": "An electronics box with its own battery is built into the lower body of the trolley."
+    },
+    {
+      "id": "F3",
+      "text": "A readout box with a separate battery sits at or near the grip of the steering handle."
+    },
+    {
+      "id": "F4",
+      "text": "The sensors are connected to the lower electronics box by wire."
+    },
+    {
+      "id": "F5",
+      "text": "The lower box and the readout box communicate by radio."
+    }
+  ]
+}

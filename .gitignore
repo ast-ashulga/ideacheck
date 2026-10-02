@@ -1,7 +1,6 @@
+.env
 .venv/
-.DS_Store
+data/
 __pycache__/
-*.pyc
-.claude/settings.local.json
-# large local DuckDB extract (>100MB GitHub limit risk)
-data/*.duckdb
+phase0/runs/*/work/
+phase05/**/work/

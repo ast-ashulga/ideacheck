@@ -1,0 +1,26 @@
+{
+  "case_id": "case-01",
+  "idea_text": "I drive a lift truck in a warehouse, and the scary moment is when a load starts creeping toward the tips of the prongs because I braked or the floor was bumpy. My idea is to have the truck watch for this itself. It knows how heavy the load is and how fast the truck is going, and it can sense when the goods begin to slip toward the front. When that happens, it automatically leans the upright tower and the prongs back toward the driver so the load settles against the backrest. How far it leans depends on the weight and the speed. If leaning back as far as it will go still doesn't make things safe, the truck takes over further: it cuts motor or engine power, or applies the brakes, to slow the whole vehicle down so nothing ends up on the floor. The point is to stop goods falling without relying on the operator reacting in time.",
+  "features": [
+    {
+      "id": "F1",
+      "text": "The truck knows how heavy the carried load is."
+    },
+    {
+      "id": "F2",
+      "text": "The truck keeps track of its own travel speed."
+    },
+    {
+      "id": "F3",
+      "text": "It notices when the load starts sliding toward the tips of the prongs."
+    },
+    {
+      "id": "F4",
+      "text": "It automatically leans the upright and prongs backward, choosing how much from the weight and the speed."
+    },
+    {
+      "id": "F5",
+      "text": "If leaning back all the way is not enough, it reduces drive power or brakes to slow the truck."
+    }
+  ]
+}

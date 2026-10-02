@@ -1,0 +1,716 @@
+{
+ "answers": [
+  {
+   "case_id": "case-01",
+   "stratum": "S2",
+   "s2_code_group": "B66F9",
+   "publication_number": "US-10155646-B2",
+   "family_id": "53493531",
+   "family_members": [
+    "CN-105873849-A",
+    "CN-105873849-B",
+    "EP-3090979-A1",
+    "EP-3090979-A4",
+    "EP-3090979-B1",
+    "KR-102075808-B1",
+    "KR-20150077910-A",
+    "US-10155646-B2",
+    "US-2017043988-A1",
+    "WO-2015102209-A1"
+   ],
+   "country": "US",
+   "kind": "B2",
+   "priority_date": 20131230,
+   "assignees": [
+    "DOOSAN CORP"
+   ],
+   "codes": {
+    "cpc": [
+     "B66F9/24",
+     "B66F9/12",
+     "B66F9/12",
+     "B66F17/003",
+     "B66F9/22",
+     "B66F17/003",
+     "B66F9/24",
+     "B66F9/12",
+     "B66F9/24",
+     "B66F9/22",
+     "B66F17/003",
+     "B66F9/12",
+     "B66F9/20"
+    ],
+    "ipc": [
+     "B66F9/24",
+     "B66F17/00",
+     "B66F9/12",
+     "B66F9/22"
+    ],
+    "fi": []
+   },
+   "abstract_translated": false,
+   "title_en": "Forklift including an apparatus for controlling the forklift",
+   "abstract_en": "The present disclosure relates to an apparatus and a method for controlling a forklift. The apparatus and the method for controlling the forklift according to the present disclosure adjusts a fork/mast inclination by referring to cargo load and forklift speed, and particularly, when a movement direction of a cargo when the cargo slides on a fork in a forward direction, thereby preventing the cargo from falling. Further, when a degree of danger is not decreased even when a fork/mast inclination is tilted backward to the largest extent, the apparatus and the method for controlling the forklift according to the present disclosure may decrease a travelling speed of a vehicle by decreasing an output of the forklift or operating a brake, thereby remarkably decreasing the danger of the cargo falling.",
+   "features_derived": [
+    "F1: Fork/mast tilt control referencing cargo load and vehicle speed",
+    "F2: Detection of cargo sliding forward on the fork",
+    "F3: Automatic backward tilt of fork/mast to prevent cargo falling",
+    "F4: Danger-degree evaluation after maximum backward tilt",
+    "F5: Reduce engine/motor output or operate brake to lower travel speed if danger persists"
+   ]
+  },
+  {
+   "case_id": "case-02",
+   "stratum": "S3",
+   "s2_code_group": null,
+   "publication_number": "JP-5022514-B1",
+   "family_id": "46980529",
+   "family_members": [
+    "JP-2013123510-A",
+    "JP-5022514-B1"
+   ],
+   "country": "JP",
+   "kind": "B1",
+   "priority_date": 20111214,
+   "assignees": [],
+   "codes": {
+    "cpc": [],
+    "ipc": [
+     "A61G5/02",
+     "A61G5/00"
+    ],
+    "fi": [
+     "A61G5/00,509",
+     "A61G5/02,701",
+     "A61G5/12,701",
+     "A61G5/02,506"
+    ]
+   },
+   "abstract_translated": true,
+   "title_en": "wheelchair",
+   "abstract_en": "[PROBLEMS] To enable a wheelchair user to smoothly slide in the direction of a bed or the like while a wheelchair user is sitting, regardless of whether the wheelchair user can drive the wheelchair or needs care. .   A seat portion having a seating surface, a frame portion that supports the seat portion, a pair of drive wheels located on the left and right sides of the frame portion, and a front side of the pair of drive wheels. In a wheelchair provided with a pair of front wheels 6 positioned, at least one of the pair of driving wheels 4 is provided so that at least one of the pair of driving wheels 4 can be moved rearward from the seat portion 23, and the driving wheels are retracted. After one of the drive wheels 4 is moved rearward by the means 5, the seat 23 provided on the seat portion 23 is slidable so that the seat portion 23 can slide outward in the left-right direction on the side where the drive wheel 4 is moved. Corresponding to the guide portion 312, the frame portion 1 includes a seat portion lateral slide mechanism portion 31 configured to be provided with a guide portion 311 extending in the left-right direction.   [Selection] Figure 1",
+   "features_derived": [
+    "F1: Wheelchair with seat, frame, left/right drive wheels and front wheels",
+    "F2: At least one drive wheel movable rearward of the seat portion (retraction means)",
+    "F3: Seat lateral slide mechanism with guide portions extending left-right in the frame",
+    "F4: Seat slides outward on the side where the drive wheel was retracted",
+    "F5: Smooth sideways transfer to a bed while seated, self-propelled or attended"
+   ]
+  },
+  {
+   "case_id": "case-03",
+   "stratum": "S1",
+   "s2_code_group": null,
+   "publication_number": "US-10899375-B2",
+   "family_id": "60813935",
+   "family_members": [
+    "CN-109937168-A",
+    "CN-109937168-B",
+    "EP-3538414-A1",
+    "EP-3538414-B1",
+    "ES-2959737-T3",
+    "FI-3538414-T3",
+    "NL-2017784-B1",
+    "PL-3538414-T3",
+    "PT-3538414-T",
+    "US-10899375-B2",
+    "US-2019270468-A1",
+    "WO-2018088895-A1"
+   ],
+   "country": "US",
+   "kind": "B2",
+   "priority_date": 20161114,
+   "assignees": [
+    "RAVAS EUROPE B V"
+   ],
+   "codes": {
+    "cpc": [
+     "B62B3/06",
+     "B62B2203/10",
+     "B62B3/0618",
+     "B62B2203/50",
+     "B62B3/0606",
+     "B62B2203/10",
+     "B62B3/06",
+     "B62B2203/50",
+     "B62B2203/50",
+     "B62B3/0618",
+     "B62B3/0606",
+     "B62B2203/10",
+     "B62B3/06"
+    ],
+    "ipc": [
+     "B62B3/06"
+    ],
+    "fi": []
+   },
+   "abstract_translated": false,
+   "title_en": "Pallet truck",
+   "abstract_en": "A pallet truck comprises a rolling frame (10) and at least one force sensor (51, 52) for registering and generating as electronic output signal a loading of a load platform (20). The force sensor is coupled to electronic processing means for receiving and processing the output signal, and display means (65) are provided for generating a visual weight indication. At least a part of the processing means is accommodated together with a first electronic power supply in a first housing (50) forming part of the frame (10). The display means (65) are arranged together with a second electronic power supply in a second housing (60) on or close to a handle (45) of an operating arm. A wired first connection (56) is provided between the force sensor (51, 52) and the processing means. Telecommunication means are provided for establishing and maintaining a wireless second connection (57) between the first housing (50) and the second housing (60).",
+   "features_derived": [
+    "F1: Pallet truck with rolling frame and force sensor(s) for load-platform loading",
+    "F2: Processing means plus first power supply in a first housing forming part of the frame",
+    "F3: Display means plus second power supply in a second housing on/near the operating-arm handle",
+    "F4: Wired first connection from force sensor to processing means",
+    "F5: Wireless second connection between first and second housings"
+   ]
+  },
+  {
+   "case_id": "case-04",
+   "stratum": "S4",
+   "s2_code_group": null,
+   "publication_number": "DE-102006032842-B4",
+   "family_id": "38523818",
+   "family_members": [
+    "DE-102006032842-A1",
+    "DE-102006032842-B4",
+    "EP-1878417-A2",
+    "EP-1878417-A3",
+    "NO-20072941-L"
+   ],
+   "country": "DE",
+   "kind": "B4",
+   "priority_date": 20060714,
+   "assignees": [
+    "ALBER ULRICH GMBH"
+   ],
+   "codes": {
+    "cpc": [
+     "A61G5/047",
+     "A61G5/1051",
+     "A61G5/1054"
+    ],
+    "ipc": [
+     "A61G5/02",
+     "A61G5/04"
+    ],
+    "fi": []
+   },
+   "abstract_translated": true,
+   "title_en": "Additional driving device for manual wheelchairs",
+   "abstract_en": "An auxiliary drive device adapted to be connected to a wheelchair (600) having two large wheels (601) at the rear and two pivotable wheels (602) at the front and to pull the wheelchair in the docked condition thereof, the auxiliary drive device having the following features:   at least one drive wheel (1, 2),   a drive motor (5),   a steering device (6, 7) and   Fastening elements (210, 220) for docking to a wheelchair,   marked by   a lifting device (320-323) which is adapted to move the at least one drive wheel (1, 2) in the docked state vertically relative to the wheelchair so that the two pivotable wheels (602) of the wheelchair are lifted off the ground.",
+   "features_derived": [
+    "F1: Auxiliary drive device connectable to a wheelchair with large rear wheels and pivotable front wheels, pulling it",
+    "F2: At least one drive wheel",
+    "F3: Drive motor",
+    "F4: Steering device",
+    "F5: Fastening elements for docking",
+    "F6: Lifting device moving drive wheel vertically relative to wheelchair so front castors are lifted off the ground"
+   ]
+  },
+  {
+   "case_id": "case-05",
+   "stratum": "S2",
+   "s2_code_group": "B62D51",
+   "publication_number": "US-9250627-B2",
+   "family_id": "54701626",
+   "family_members": [
+    "US-2015346719-A1",
+    "US-9250627-B2"
+   ],
+   "country": "US",
+   "kind": "B2",
+   "priority_date": 20140528,
+   "assignees": [
+    "ACROX TECHNOLOGIES CO LTD"
+   ],
+   "codes": {
+    "cpc": [
+     "B62D51/04",
+     "G01S15/04",
+     "G01S15/42",
+     "G01S15/86",
+     "G01S15/42",
+     "G01C22/00",
+     "G01S15/86",
+     "G06Q10/00",
+     "G06Q10/00",
+     "G01S15/04",
+     "B62D51/04",
+     "G06Q10/00",
+     "G01C22/00",
+     "G05D1/0011",
+     "G05D1/0011",
+     "G05D1/0242",
+     "G05D1/0255",
+     "G05D1/0242",
+     "G05D1/0255"
+    ],
+    "ipc": [
+     "G01S15/04",
+     "G06Q10/00",
+     "G01C22/00",
+     "G05D1/00",
+     "B62D51/04",
+     "G01S15/86"
+    ],
+    "fi": []
+   },
+   "abstract_translated": false,
+   "title_en": "Forward and lateral tracking system and control method thereof",
+   "abstract_en": "The forward and lateral tracking system contains a moving carrier and a remote control device. The moving carrier contains a front frame, a first lateral frame, a second lateral frame, and at least a driving unit. The front frame has a first IR (infra-red) receiver and a second IR receiver for detecting left and right movement, and a first supersonic detector for detecting forward distance. The first lateral frame has a second supersonic detector and a third supersonic detector for detecting left and right movement, and a third IR receiver. The second lateral frame has a fourth supersonic detector and a fifth supersonic detector for detecting left and right movement, and a fourth IR receiver. The remote control device contains at least an IR transmitter signally linked to the IR receivers.",
+   "features_derived": [
+    "F1: Moving carrier with front frame, two lateral frames and a driving unit",
+    "F2: Remote control device with IR transmitter",
+    "F3: IR receivers on front frame for left/right detection, plus IR receivers on each lateral frame",
+    "F4: Supersonic (ultrasonic) detector on front frame for forward distance",
+    "F5: Pairs of supersonic detectors on each lateral frame for left/right movement"
+   ]
+  },
+  {
+   "case_id": "case-06",
+   "stratum": "S1",
+   "s2_code_group": null,
+   "publication_number": "US-10206834-B2",
+   "family_id": "56110076",
+   "family_members": [
+    "US-10206834-B2",
+    "US-10687999-B2",
+    "US-11013651-B2",
+    "US-11638668-B2",
+    "US-12048659-B2",
+    "US-2016166453-A1",
+    "US-2019240094-A1",
+    "US-2020276067-A1",
+    "US-2021236358-A1",
+    "US-2023263676-A1"
+   ],
+   "country": "US",
+   "kind": "B2",
+   "priority_date": 20141211,
+   "assignees": [
+    "STRYKER CORP"
+   ],
+   "codes": {
+    "cpc": [
+     "A61G2203/32",
+     "A61G2203/36",
+     "A61G2203/30",
+     "A61G2203/726",
+     "A61G7/018",
+     "A61G7/015",
+     "A61G2203/726",
+     "A61G2203/36",
+     "A61G2203/32",
+     "A61G2203/30",
+     "A61G7/015",
+     "A61G2203/726",
+     "A61G2203/36",
+     "A61G2203/32",
+     "A61G2203/30",
+     "A61G7/015",
+     "A61G7/018",
+     "A61G7/018"
+    ],
+    "ipc": [
+     "A61G7/015",
+     "A61G7/018"
+    ],
+    "fi": []
+   },
+   "abstract_translated": false,
+   "title_en": "Obstruction detection system and method",
+   "abstract_en": "Systems and methods for detecting a pinch event or obstruction to a movable component of a patient support. In some embodiments, the patient support apparatus may include a control system capable of controlling one or more actuator systems coupled to one or more movable components of the patient support apparatus. The control system may operate according to one or more modes of operation in controlling the actuator system to move a component from a first position to a second position. In one embodiment, the control system may receive sensor feedback indicative of one or more operating characteristics of an actuator system, and analyze the sensor feedback differently in one mode than in another. In one embodiment, the controller may receive sensor feedback indicative of both a speed of a component coupled to the movable component and a current of power supplied to an electric motor of the actuator system.",
+   "features_derived": [
+    "F1: Patient support with control system controlling actuator systems coupled to movable components",
+    "F2: Multiple modes of operation for moving a component between positions",
+    "F3: Sensor feedback indicative of actuator operating characteristics",
+    "F4: Feedback analysed differently in one mode than another to detect pinch/obstruction",
+    "F5: Feedback includes speed of component and current supplied to the electric motor"
+   ]
+  },
+  {
+   "case_id": "case-07",
+   "stratum": "S3",
+   "s2_code_group": null,
+   "publication_number": "JP-5630794-B1",
+   "family_id": "52144980",
+   "family_members": [
+    "JP-2015098246-A",
+    "JP-5630794-B1"
+   ],
+   "country": "JP",
+   "kind": "B1",
+   "priority_date": 20131119,
+   "assignees": [],
+   "codes": {
+    "cpc": [],
+    "ipc": [
+     "B62D6/00",
+     "B62D9/00"
+    ],
+    "fi": [
+     "B62D6/00",
+     "B62D7/15@A",
+     "B62D9/00"
+    ]
+   },
+   "abstract_translated": true,
+   "title_en": "Cargo handling vehicle",
+   "abstract_en": "An object of the present invention is to provide a cargo handling vehicle that allows an operator to easily drive using a single steering wheel in a plurality of driving modes.   A forklift includes a drive wheel that can change a rudder angle, a steering wheel that can be rotated from a reference state (hereinafter referred to as “handle 42”), and a drive wheel that is driven based on the amount of rotation of the handle. To switch between a first traveling mode in which the driving wheels 21 and the like face forward and a second traveling mode in which the driving wheels 21 and the like face leftward when the steering wheel 42 is in the reference state. Mode change-over switch 43. When the handle 42 is rotated within an arbitrary rotation range and the first travel mode is switched to the second travel mode, the control unit rotates the handle 42 at the time of switching to the second travel mode. Based on the amount, the steering angle of the drive wheels 21 and the like is controlled so that the drive wheels 21 and the like turn to the left when the handle 42 is returned to the reference state.   [Selection] Figure 1",
+   "features_derived": [
+    "F1: Forklift with drive wheels whose steering (rudder) angle can change",
+    "F2: Single steering handle rotatable from a reference state; wheels driven based on handle rotation amount",
+    "F3: Mode change-over switch between first (forward) and second (leftward) travel modes",
+    "F4: In reference state wheels face forward in first mode, leftward in second mode",
+    "F5: Control unit uses handle rotation amount at switching time so wheels turn left when handle returns to reference"
+   ]
+  },
+  {
+   "case_id": "case-08",
+   "stratum": "S2",
+   "s2_code_group": "B60B33",
+   "publication_number": "US-8464843-B2",
+   "family_id": "42073010",
+   "family_members": [
+    "US-2011023267-A1",
+    "US-8464843-B2",
+    "WO-2010037328-A1"
+   ],
+   "country": "US",
+   "kind": "B2",
+   "priority_date": 20080930,
+   "assignees": [
+    "QIU YING",
+    "FANG LIMING",
+    "XU JINYUAN",
+    "MA JIE",
+    "ROCATEQ INTERNAT B V"
+   ],
+   "codes": {
+    "cpc": [
+     "B60B33/0007",
+     "B60B33/0028",
+     "B60B33/0057",
+     "B60B33/0049",
+     "B60B33/0021",
+     "B60B33/0092",
+     "B62B5/0452",
+     "B60B33/0068",
+     "B62B5/0452",
+     "B60B33/021",
+     "B60B33/0068",
+     "B60B33/0028",
+     "B60B33/021",
+     "B62B5/0423",
+     "B60B33/0039",
+     "B62B5/0423",
+     "B60B33/0073",
+     "B60B33/0049",
+     "B60B33/0039",
+     "B60B33/0092",
+     "B60B33/0057",
+     "B60B33/0021",
+     "B60B33/0007",
+     "B60B33/0073"
+    ],
+    "ipc": [
+     "B60B33/00"
+    ],
+    "fi": []
+   },
+   "abstract_translated": false,
+   "title_en": "Lockable caster wheels",
+   "abstract_en": "The invention relates a lockable caster wheel. The lockable caster wheel can be widely used in shopping carts, luggage carts, strollers, turnover carts, stretcher cars and many other trolleys. The controlling mechanism of the lockable caster wheel comprises a controller which comprises a signal receiving device and a locking device which is controlled by the controller. The locking mechanism further comprises a revolving damper which comprises a shell having a restricting structure and a damping wheel located inside the shell. The shell, through its restricting structure, separates from or connects with the locking device to form unlocked or locked states. The damping wheel connects with the wheel assembly. The caster wheel uses a damper. Beyond the allowed area of use, the trolleys can be slowly pushed for a few of meters because of the damper effect, but it will not suddenly stop completely. Therefore it will not present danger to the users. It can also prevent the casters from being damaged by a forceful push when they are locked.",
+   "features_derived": [
+    "F1: Lockable caster wheel for trolleys",
+    "F2: Controller with signal receiving device controlling a locking device",
+    "F3: Revolving damper with shell having restricting structure and damping wheel inside",
+    "F4: Shell connects/separates with locking device for locked/unlocked states; damping wheel connected to wheel assembly",
+    "F5: Trolley can be pushed slowly a few metres beyond allowed area instead of stopping abruptly"
+   ]
+  },
+  {
+   "case_id": "case-09",
+   "stratum": "S1",
+   "s2_code_group": null,
+   "publication_number": "US-11007101-B2",
+   "family_id": "64013488",
+   "family_members": [
+    "US-11007101-B2",
+    "US-2018318161-A1"
+   ],
+   "country": "US",
+   "kind": "B2",
+   "priority_date": 20170502,
+   "assignees": [
+    "LIKO RES & DEV AB"
+   ],
+   "codes": {
+    "cpc": [
+     "A61G7/1073",
+     "A61G7/1042",
+     "A61G7/1015",
+     "A61G7/1061",
+     "A61G2203/46",
+     "A61G2203/30",
+     "A61G7/1061",
+     "A61G7/1051",
+     "A61G7/1015",
+     "A61G7/1067",
+     "A61G7/1046",
+     "A61G7/1017",
+     "A61G7/1017",
+     "A61G7/1059",
+     "A61G7/1042",
+     "A61G2203/46",
+     "A61G7/1073",
+     "A61G2203/30",
+     "A61G7/1073",
+     "A61G7/1042",
+     "A61G7/1017",
+     "A61G2203/46",
+     "A61G7/1051",
+     "A61G7/1061",
+     "A61G7/1015",
+     "A61G7/1067",
+     "A61G2203/30",
+     "A61G7/1046",
+     "A61G7/1059"
+    ],
+    "ipc": [
+     "A61G7/10"
+    ],
+    "fi": []
+   },
+   "abstract_translated": false,
+   "title_en": "Adaptive compensation of wear in person lifting assemblies",
+   "abstract_en": "A motive system for a patient lifting assembly, a patient lifting assembly and a method of operating a patient lifting assembly. The motive system includes an electric motor, numerous sensors and an adaptive control unit cooperative with one another so that a memory and processor that are part of the control unit that can respectively store and execute a computer readable and executable instruction set. By comparing collected data from the sensors during operation of the motor to corresponding reference values associated with one or more motor operational parameters—such as accumulated motor wear over time or differences in operating temperature of the motor—the system can selectively adjust the maximum amount of current available for use by the motor. In this way, changes in motor efficiencies that arise with these parametric changes can be taken into consideration when determining an upper limit on how much electrical current may be delivered to the motor for a given load.",
+   "features_derived": [
+    "F1: Motive system for patient lifting assembly with electric motor",
+    "F2: Numerous sensors cooperating with an adaptive control unit",
+    "F3: Control unit with memory and processor executing instruction set",
+    "F4: Compare sensor data against reference values of motor parameters (accumulated wear, temperature differences)",
+    "F5: Selectively adjust maximum current available to the motor for a given load"
+   ]
+  },
+  {
+   "case_id": "case-10",
+   "stratum": "S4",
+   "s2_code_group": null,
+   "publication_number": "CN-106667679-B",
+   "family_id": "54560620",
+   "family_members": [
+    "CN-105078672-A",
+    "CN-105078672-B",
+    "CN-106667679-A",
+    "CN-106667679-B"
+   ],
+   "country": "CN",
+   "kind": "B",
+   "priority_date": 20150831,
+   "assignees": [],
+   "codes": {
+    "cpc": [
+     "A61G5/041",
+     "A61G2200/20",
+     "A61G5/10",
+     "A61G2203/42",
+     "A61G2203/70"
+    ],
+    "ipc": [
+     "A61G5/10",
+     "A61G5/04"
+    ],
+    "fi": []
+   },
+   "abstract_translated": true,
+   "title_en": "A self-balancing electric wheelchair",
+   "abstract_en": "A self-balancing electric wheelchair of the present invention comprises a vehicle body, two rear wheels and two front wheels, a direction drive switch and a hub motor lock switch, two pedals, two hub motors, left and right electric push rods and front and rear Electric push rod, battery rack and battery pack, controller, first gyro sensor and second gyro sensor, Hooke hinge, balance seat, the present invention is provided with left and right electric push rods and front and rear electric push rods to ensure The balance seat is in a horizontal position and has high stability; the first gyro sensor and the second gyro sensor are provided to respectively detect the levelness of the vehicle body and the balance seat, so that the effect of the present invention is double guaranteed; The invention has low cost and is suitable for market promotion.",
+   "features_derived": [
+    "F1: Vehicle body with rear and front wheels, hub motors, battery rack/pack and controller",
+    "F2: Direction drive switch and hub motor lock switch; pedals",
+    "F3: Balance seat mounted via Hooke hinge (universal joint)",
+    "F4: Left/right and front/rear electric push rods keeping the balance seat horizontal",
+    "F5: First gyro sensor detecting body levelness",
+    "F6: Second gyro sensor detecting seat levelness (double guarantee)"
+   ]
+  },
+  {
+   "case_id": "case-11",
+   "stratum": "S2",
+   "s2_code_group": "B60K7",
+   "publication_number": "US-9168818-B2",
+   "family_id": "49005481",
+   "family_members": [
+    "CN-104136250-A",
+    "CN-104136250-B",
+    "EP-2818349-A1",
+    "EP-2818349-A4",
+    "IN-2014MN01583-A",
+    "JP-2013169946-A",
+    "US-2015027795-A1",
+    "US-9168818-B2",
+    "WO-2013125287-A1"
+   ],
+   "country": "US",
+   "kind": "B2",
+   "priority_date": 20120222,
+   "assignees": [
+    "NTN TOYO BEARING CO LTD"
+   ],
+   "codes": {
+    "cpc": [
+     "B60K7/0007",
+     "B60G3/00",
+     "B60T8/17",
+     "B60G13/003",
+     "B60T7/02",
+     "B60K17/356",
+     "B60T2260/06",
+     "B60K26/02",
+     "B60K1/00",
+     "B60K2007/0061",
+     "B60K2001/0411",
+     "B60K2007/0046",
+     "B60K2001/001",
+     "B60K1/04",
+     "B62D21/11",
+     "B60K17/354",
+     "B62D21/11",
+     "B60L15/2036",
+     "Y02T10/64",
+     "B60L58/20",
+     "B60L50/51",
+     "B60T2260/06",
+     "B60K1/00",
+     "B60L2240/24",
+     "B60T8/17",
+     "B60L2220/44",
+     "B60L2270/145",
+     "Y02T10/70",
+     "B60L15/2036",
+     "B60L2240/421",
+     "Y02T10/72",
+     "B60K7/0007",
+     "B60K17/356",
+     "B60L2240/24",
+     "B60L2220/44",
+     "B62D63/025",
+     "Y02T10/72",
+     "B60L2240/12",
+     "B60K2007/0046",
+     "B60T8/17",
+     "B60T7/02",
+     "B60G13/003",
+     "B60L50/51",
+     "B60K2001/001",
+     "B60K2001/001",
+     "B60L2240/12",
+     "B62D63/025",
+     "B60L2240/461",
+     "B60G3/00",
+     "B60L2240/421",
+     "B60L2250/26",
+     "B60L2270/145",
+     "B60K17/356",
+     "B60K1/04",
+     "B60L2240/423",
+     "B60L2240/423",
+     "Y02T10/70",
+     "B60L58/20",
+     "B60K1/00",
+     "B60L2250/26",
+     "Y02T10/64",
+     "B60K2007/0046",
+     "B60K2001/0411",
+     "B60K26/02",
+     "B60K2007/0061",
+     "B60L2240/461",
+     "B60T2260/06",
+     "B60K2007/0061",
+     "B60K7/0007"
+    ],
+    "ipc": [
+     "B60T7/02",
+     "B60K17/356",
+     "B60K1/00",
+     "B60K26/02",
+     "B60G13/00",
+     "B60K1/04",
+     "B60K7/00",
+     "B60T8/17",
+     "B62D21/11",
+     "B60G3/00"
+    ],
+    "fi": []
+   },
+   "abstract_translated": false,
+   "title_en": "Electric vehicle",
+   "abstract_en": "An electric vehicle includes: a body that includes a body frame; a driving module that includes a sub-frame detachable from the body frame, driving wheels, a driving device provided with a motor mounted on the sub-frame and applying driving force to the driving wheels to start or accelerate the electric vehicle, a driving-wheel suspension device attached to the sub-frame, a driving-wheel brake device stopping or decelerating the electric vehicle, and some other components; a connection unit that maintains the relative position relationship between the body and driving module upon attachment of the sub-frame to the body frame and connects the body to the driving module with signal lines; and a control unit that controls the driving module under an input signal input from the body side through the signal lines connected with the connection unit.",
+   "features_derived": [
+    "F1: Electric vehicle body with body frame",
+    "F2: Driving module with sub-frame detachable from the body frame",
+    "F3: Module includes driving wheels, motor-driven driving device, driving-wheel suspension and brake device",
+    "F4: Connection unit maintaining relative position and connecting signal lines",
+    "F5: Control unit controlling the driving module by input signals from the body side"
+   ]
+  },
+  {
+   "case_id": "case-12",
+   "stratum": "S1",
+   "s2_code_group": null,
+   "publication_number": "US-9743894-B2",
+   "family_id": "51791166",
+   "family_members": [
+    "CN-105142522-A",
+    "CN-105142522-B",
+    "EP-2974659-A1",
+    "EP-2974659-A4",
+    "EP-2974659-B1",
+    "JP-6090435-B2",
+    "JP-WO2014174554-A1",
+    "US-2016058402-A1",
+    "US-9743894-B2",
+    "WO-2014174554-A1"
+   ],
+   "country": "US",
+   "kind": "B2",
+   "priority_date": 20130425,
+   "assignees": [
+    "SHIMADZU CORP"
+   ],
+   "codes": {
+    "cpc": [
+     "B62B5/0069",
+     "A61B6/4405",
+     "A61B6/4429",
+     "A61B6/4476",
+     "B62B5/04",
+     "A61B6/105",
+     "A61B6/54",
+     "A61B6/467",
+     "A61B6/4429",
+     "A61B6/54",
+     "A61B6/54",
+     "A61B6/105",
+     "B62B5/04",
+     "B62B5/04",
+     "A61B6/4476",
+     "A61B6/4405",
+     "B62B5/0069",
+     "B62B5/0069",
+     "A61B6/4405",
+     "A61B6/467"
+    ],
+    "ipc": [
+     "A61B6/10",
+     "A61B6/00",
+     "B62B5/04",
+     "B62B5/00"
+    ],
+    "fi": []
+   },
+   "abstract_translated": false,
+   "title_en": "Mobile-type radiographic image pick up device",
+   "abstract_en": "An improved configuration of a mobile-type radiographic image pickup device reliably stops on a flat path without play. More specifically, the prevent invention stops reliably on an inclined path. Where a carriage accelerates regardless of that fact that a deceleration control unit has begun to restrict the movement of the carriage, a brake control unit causes a brake device to operate. According to the present invention, if the carriage accelerates regardless of the fact that a deceleration control unit has begun to restrict the movement of the carriage, the brake device is promptly operated, and prevents concern regardless of the application of an instruction to stop the carriage which is travelling on an incline, and prevents the carriage from running for a long period to time.",
+   "features_derived": [
+    "F1: Mobile radiographic imaging device with motor-driven carriage",
+    "F2: Deceleration control unit restricting carriage movement on stop instruction",
+    "F3: Detection of carriage acceleration despite deceleration control having begun",
+    "F4: Brake control unit operating a brake device promptly in that case",
+    "F5: Reliable stopping on an inclined path, no prolonged running"
+   ]
+  }
+ ]
+}

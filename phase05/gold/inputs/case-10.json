@@ -1,0 +1,30 @@
+{
+  "case_id": "case-10",
+  "idea_text": "Power chairs for people who can't walk tilt the rider uncomfortably on slopes, ramps and rough ground. My idea keeps the seat level by itself. The chair rolls on front and rear wheels, with motors built into the hubs of the driven wheels, a battery pack in a holder, a control box, a forward/reverse selector and a switch that locks the hub motors, plus footrests. The seat is not bolted flat to the frame: it sits on a universal joint, like the cross-shaped joint in a car's drive shaft, so it can tip in any direction. Electric linear pushers, one set working side to side and another working front to back, tilt the seat to cancel out the slope. One gyroscope measures how the chair body is leaning and another measures the seat itself, so the control box can cross-check that the seat really is level. It is meant to be cheap to build.",
+  "features": [
+    {
+      "id": "F1",
+      "text": "A chair body on front and rear wheels, with motors inside the driven wheel hubs, a battery and a control box."
+    },
+    {
+      "id": "F2",
+      "text": "The seat is carried on a universal joint so it can tip in any direction."
+    },
+    {
+      "id": "F3",
+      "text": "Electric linear pushers acting side to side and front to back adjust the seat's tilt."
+    },
+    {
+      "id": "F4",
+      "text": "A gyroscope measures how the chair body is leaning."
+    },
+    {
+      "id": "F5",
+      "text": "A further gyroscope on the seat confirms it stays level."
+    },
+    {
+      "id": "F6",
+      "text": "A forward/reverse selector and a switch for locking the hub motors."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "case_id": "case-05",
+  "idea_text": "I'd like a motorised carrier, something like a golf trolley or a luggage cart, that follows me around by itself while I hold a small handheld beacon. The beacon sends out an invisible infrared signal. The carrier has infrared receivers on its front and on both of its sides, so it can tell whether I am ahead of it, off to the left or off to the right, and it steers its powered wheels to keep me in view. It also has ultrasonic distance sensors at the front to judge how far ahead I am, so it can speed up or hold back to keep a steady gap, and more ultrasonic sensors along each side to sense movement sideways. Putting the infrared direction readings together with the sound-based distance readings lets it keep up with me whether I walk in front of it or beside it.",
+  "features": [
+    {
+      "id": "F1",
+      "text": "A carrier that drives itself on powered wheels."
+    },
+    {
+      "id": "F2",
+      "text": "A handheld remote that emits an infrared signal."
+    },
+    {
+      "id": "F3",
+      "text": "Infrared receivers on the front and on both sides of the carrier tell left from right."
+    },
+    {
+      "id": "F4",
+      "text": "Ultrasonic sensors at the front measure the distance ahead."
+    },
+    {
+      "id": "F5",
+      "text": "Ultrasonic sensors on each side sense sideways movement."
+    }
+  ]
+}

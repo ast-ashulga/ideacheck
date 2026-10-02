@@ -1,0 +1,26 @@
+{
+  "case_id": "case-07",
+  "idea_text": "Some warehouse lift trucks can drive sideways as well as forwards, because their wheels can all be turned to point in a new direction. The trouble is that the driver has just the usual steering wheel for every mode and gets muddled when changing between normal driving and sideways driving. My idea: the wheels are turned electrically according to how far the steering wheel is rotated away from its centre position. A selector switch picks the mode. In the normal mode, with the steering wheel centred, the wheels point straight ahead; in the sideways mode, with the steering wheel centred, they point to the left. If the driver flips the switch while the steering wheel is already turned some way, the controller takes that turned amount into account and sets the wheel angles so that, once the driver brings the steering wheel back to centre, the wheels end up pointing left. That way the change feels natural.",
+  "features": [
+    {
+      "id": "F1",
+      "text": "Powered wheels whose pointing direction can be changed electrically."
+    },
+    {
+      "id": "F2",
+      "text": "The same steering wheel serves both modes and has a centre rest position; the wheels follow how far it is turned."
+    },
+    {
+      "id": "F3",
+      "text": "A switch chooses between a straight-ahead travel mode and a sideways travel mode."
+    },
+    {
+      "id": "F4",
+      "text": "With the steering wheel centred, the wheels face forward in one mode and face left in the other."
+    },
+    {
+      "id": "F5",
+      "text": "When the mode is changed while the steering wheel is already turned, the controller uses that turned amount so the wheels face left once the steering wheel returns to centre."
+    }
+  ]
+}

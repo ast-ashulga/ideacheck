@@ -1,0 +1,26 @@
+{
+  "case_id": "case-08",
+  "idea_text": "Supermarkets and airports want their trolleys to stop working once someone pushes them off the premises, but a wheel that jams instantly can throw a person forward or get wrecked if they shove hard. My idea is a swivel wheel unit with a built-in lock that is triggered from outside: a small receiver in the wheel unit picks up a signal at the boundary, and a controller then engages the lock. The lock doesn't clamp the wheel dead, though. It works through a rotary damper, a housing with a little damping rotor inside that is linked to the wheel. When the lock engages, a stop feature on the housing catches the locking part, so the wheel can still turn but only against heavy resistance. You can still push the trolley along at a crawl for a short distance before it comes to a gentle halt, so nobody gets hurt and hard shoving can't break the wheel.",
+  "features": [
+    {
+      "id": "F1",
+      "text": "A swivel wheel unit for shopping, luggage or similar trolleys."
+    },
+    {
+      "id": "F2",
+      "text": "A receiver in the wheel unit picks up a boundary signal and a controller operates a lock."
+    },
+    {
+      "id": "F3",
+      "text": "A rotary damper: a housing with a damping rotor inside that is coupled to the wheel."
+    },
+    {
+      "id": "F4",
+      "text": "When locked, a stop on the damper housing holds the locking part, so the wheel turns only against resistance instead of stopping dead."
+    },
+    {
+      "id": "F5",
+      "text": "The gentle stop protects the user and stops hard shoving from breaking the wheel."
+    }
+  ]
+}

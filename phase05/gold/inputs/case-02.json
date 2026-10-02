@@ -1,0 +1,26 @@
+{
+  "case_id": "case-02",
+  "idea_text": "My mother gets around in a wheeled chair, and getting her across onto her bed is the hardest part of the day, whether she manages it alone or a helper does it. My idea is a chair where one of the big side wheels slides backwards, out of the way behind the seat. Once that flank is clear, the seat itself glides sideways along a track built into the chair's frame, carrying the person over toward the bed or another seat while they stay seated. The small front wheels stay put for support. The steps happen in order: first the big wheel moves back, then the seat slides out on that same side, so the path is open before anything moves across. This makes the move smooth, and nobody has to lift themselves over a wheel or be hoisted by a carer.",
+  "features": [
+    {
+      "id": "F1",
+      "text": "A chair frame holding a seat, big side wheels and small front wheels."
+    },
+    {
+      "id": "F2",
+      "text": "At least one of the big side wheels shifts backward so that flank of the seat is open."
+    },
+    {
+      "id": "F3",
+      "text": "A guide track running left to right in the frame lets the seat travel sideways."
+    },
+    {
+      "id": "F4",
+      "text": "The seat slides out toward the side whose big wheel was moved back."
+    },
+    {
+      "id": "F5",
+      "text": "Usable both by someone moving on their own and by someone being helped."
+    }
+  ]
+}

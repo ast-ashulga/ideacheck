@@ -1,0 +1,26 @@
+{
+  "case_id": "case-09",
+  "idea_text": "Hoists that raise people out of bed in care homes run on an electric motor, and motors alter over the years: they wear, get weaker and behave differently when hot or cold. If the hoist's power cap is fixed once at the factory, an old motor may struggle with a heavy resident, or a fresh one may be allowed more than it needs. My idea is a smarter drive for the hoist. Several detectors watch the motor while it works, and a small built-in chip stores baseline figures and checks what it sees against them, for instance how many hours the motor has run in total, or how warm it gets. From that check, it raises or lowers the ceiling on how many amps the motor may pull when carrying a particular weight, so the hoist keeps doing its job reliably and safely as the motor ages.",
+  "features": [
+    {
+      "id": "F1",
+      "text": "A motor drives a hoist used to raise people in care."
+    },
+    {
+      "id": "F2",
+      "text": "Detectors gather readings while the motor is working."
+    },
+    {
+      "id": "F3",
+      "text": "A built-in chip keeps baseline figures for how the motor should behave."
+    },
+    {
+      "id": "F4",
+      "text": "Readings such as total running hours or how warm the motor gets are checked against those baselines."
+    },
+    {
+      "id": "F5",
+      "text": "The ceiling on amps the motor may pull for a particular weight is raised or lowered from that check."
+    }
+  ]
+}

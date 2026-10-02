@@ -1,0 +1,26 @@
+{
+  "case_id": "case-12",
+  "idea_text": "Portable X-ray machines in hospitals are rolled from ward to ward on a motorised cart. When the operator asks it to stop, the cart is meant to slow down and halt, but on a sloping corridor or ramp gravity can keep it rolling or even make it go faster, and a heavy machine running away is dangerous. In my idea the cart's electronics still slow the motor down as usual when a stop is requested. On top of that, a separate safety part keeps watching the cart's speed during that slowing phase. If the cart is actually gaining speed even though slowing has already begun, the safety part immediately applies a mechanical brake on the wheels. That way the machine stops for sure on a slope and doesn't creep along for ages, while on a level floor it still comes to rest firmly without any looseness.",
+  "features": [
+    {
+      "id": "F1",
+      "text": "A motor-driven wheeled cart that carries an X-ray imaging unit."
+    },
+    {
+      "id": "F2",
+      "text": "A slowing control that reduces the cart's movement when a stop is requested."
+    },
+    {
+      "id": "F3",
+      "text": "Monitoring of whether the cart speeds up after slowing has begun."
+    },
+    {
+      "id": "F4",
+      "text": "A separate brake control that applies a brake device when such speeding up is detected."
+    },
+    {
+      "id": "F5",
+      "text": "Prevents the cart from running on down an incline."
+    }
+  ]
+}

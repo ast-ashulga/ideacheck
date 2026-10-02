@@ -1,0 +1,279 @@
+{
+ "description": "Phase 0.5 gold set: 12 known-answer cases. Inputs are blind plain-language idea descriptions; answers are hidden in answers/answers.json.",
+ "source": "data/extract_v2.duckdb (table publications, opened read_only)",
+ "eligibility": {
+  "kind": "granted: B, B1, B2, C (CN: B). Exception for the DE stratum: B3/B4 (see compromises)",
+  "priority_date": "20050101-20221231",
+  "abstract_en": "non-empty, >= 400 characters (picked from 450-1300 for readability)",
+  "embedding_v1": "64-dim",
+  "similar": "non-empty",
+  "excluded_phase0": "every publication and family_id in phase0/runs/idea-01/{candidates,expansion,details,details_expansion}.json and phase0/runs/control-01/candidates.json, plus the family of JP-4616127-B2; publications mapped to their family via the extract",
+  "excluded_counts": {
+   "publications": 1667,
+   "families": 1810,
+   "note": "union of key-based parse and a regex sweep of publication numbers anywhere in the raw files (incl. knn:/sim: hit strings), each mapped to family via the extract; no selected family collides"
+  }
+ },
+ "pool_sizes": {
+  "eligible_after_exclusion": 72027,
+  "S1_primary_cpc_B62B": 9897,
+  "S1_primary_cpc_A61G": 16082,
+  "S2_primary_cpc_B60B33": 1052,
+  "S2_primary_cpc_B60K7": 564,
+  "S2_primary_cpc_B62D51": 112,
+  "S2_primary_cpc_B66F9": 4528,
+  "S3_JP_empty_cpc": 1086,
+  "S4_CN_translated": 24907,
+  "S4_DE_B3_B4_translated": 2671,
+  "note": "primary code = first element of the cpc array"
+ },
+ "selection_method": "Per stratum, deterministic pseudo-random samples (order by hash(publication_number||seed)) of eligible documents, optionally narrowed by keywords such as sensor/motor/control/brake to favour technically substantive abstracts, then hand-picked for a concrete solution with 4-6 identifiable features, topic diversity, and no shared family or assignee+topic between cases. Case numbers were shuffled across strata.",
+ "candidates_considered": {
+  "screened_title_and_abstract": 176,
+  "read_in_full_shortlist": 30,
+  "selected": 12
+ },
+ "strata": {
+  "S1": "core: hand carts / patient beds and lifts, primary CPC B62B or A61G (4)",
+  "S2": "outside usual starting codes: one each of B60B33, B60K7, B62D51, B66F9 as primary CPC (4)",
+  "S3": "Japanese documents with empty CPC, IPC/FI only (2)",
+  "S4": "machine-translated English abstract: one CN, one DE (2)"
+ },
+ "cases": [
+  {
+   "case_id": "case-01",
+   "stratum": "S2",
+   "country": "US"
+  },
+  {
+   "case_id": "case-02",
+   "stratum": "S3",
+   "country": "JP"
+  },
+  {
+   "case_id": "case-03",
+   "stratum": "S1",
+   "country": "US"
+  },
+  {
+   "case_id": "case-04",
+   "stratum": "S4",
+   "country": "DE"
+  },
+  {
+   "case_id": "case-05",
+   "stratum": "S2",
+   "country": "US"
+  },
+  {
+   "case_id": "case-06",
+   "stratum": "S1",
+   "country": "US"
+  },
+  {
+   "case_id": "case-07",
+   "stratum": "S3",
+   "country": "JP"
+  },
+  {
+   "case_id": "case-08",
+   "stratum": "S2",
+   "country": "US"
+  },
+  {
+   "case_id": "case-09",
+   "stratum": "S1",
+   "country": "US"
+  },
+  {
+   "case_id": "case-10",
+   "stratum": "S4",
+   "country": "CN"
+  },
+  {
+   "case_id": "case-11",
+   "stratum": "S2",
+   "country": "US"
+  },
+  {
+   "case_id": "case-12",
+   "stratum": "S1",
+   "country": "US"
+  }
+ ],
+ "counts": {
+  "S1": 4,
+  "S2": 4,
+  "S3": 2,
+  "S4": 2,
+  "total": 12,
+  "by_country": {
+   "CN": 1,
+   "DE": 1,
+   "JP": 2,
+   "US": 8
+  }
+ },
+ "leak_check": {
+  "script": "scripts/gold_leak_check.py",
+  "method": "source = html-unescaped abstract_en + title_en with boilerplate and reference numerals stripped; input = idea_text + feature texts; lower-cased word tokens with light plural folding; shared n-grams n>=3 excluding stop-word-only n-grams (the report lists maximal shared spans; every shared 3+-gram is contained in one of them); distinctive overlap = unique source word types of >=6 letters (non-stop) that reappear in the input / all such types",
+  "flag_rules": "shared n-gram of >=4 words; distinctive overlap > 35%; full title or any non-stop title 2-gram in input; any digit in input; idea_text outside 120-200 words; features outside 4-6",
+  "rounds": 2,
+  "round1_flagged": 7,
+  "final_flagged": 0,
+  "final_max_shared_ngram": 3,
+  "final_max_distinctive_overlap": 0.296,
+  "final_mean_distinctive_overlap": 0.174,
+  "per_case": [
+   {
+    "case_id": "case-01",
+    "idea_words": 161,
+    "n_features": 5,
+    "max_shared_ngram": 0,
+    "shared_3grams": 0,
+    "distinctive_overlap": 0.088,
+    "title_bigrams_present": 0,
+    "digits": 0,
+    "flagged": false
+   },
+   {
+    "case_id": "case-02",
+    "idea_words": 142,
+    "n_features": 5,
+    "max_shared_ngram": 0,
+    "shared_3grams": 0,
+    "distinctive_overlap": 0.08,
+    "title_bigrams_present": 0,
+    "digits": 0,
+    "flagged": false
+   },
+   {
+    "case_id": "case-03",
+    "idea_words": 144,
+    "n_features": 5,
+    "max_shared_ngram": 0,
+    "shared_3grams": 0,
+    "distinctive_overlap": 0.212,
+    "title_bigrams_present": 0,
+    "digits": 0,
+    "flagged": false
+   },
+   {
+    "case_id": "case-04",
+    "idea_words": 145,
+    "n_features": 5,
+    "max_shared_ngram": 0,
+    "shared_3grams": 0,
+    "distinctive_overlap": 0.16,
+    "title_bigrams_present": 0,
+    "digits": 0,
+    "flagged": false
+   },
+   {
+    "case_id": "case-05",
+    "idea_words": 146,
+    "n_features": 5,
+    "max_shared_ngram": 0,
+    "shared_3grams": 0,
+    "distinctive_overlap": 0.208,
+    "title_bigrams_present": 0,
+    "digits": 0,
+    "flagged": false
+   },
+   {
+    "case_id": "case-06",
+    "idea_words": 151,
+    "n_features": 5,
+    "max_shared_ngram": 0,
+    "shared_3grams": 0,
+    "distinctive_overlap": 0.171,
+    "title_bigrams_present": 0,
+    "digits": 0,
+    "flagged": false
+   },
+   {
+    "case_id": "case-07",
+    "idea_words": 157,
+    "n_features": 5,
+    "max_shared_ngram": 3,
+    "shared_3grams": 2,
+    "distinctive_overlap": 0.231,
+    "title_bigrams_present": 0,
+    "digits": 0,
+    "flagged": false
+   },
+   {
+    "case_id": "case-08",
+    "idea_words": 156,
+    "n_features": 5,
+    "max_shared_ngram": 0,
+    "shared_3grams": 0,
+    "distinctive_overlap": 0.234,
+    "title_bigrams_present": 0,
+    "digits": 0,
+    "flagged": false
+   },
+   {
+    "case_id": "case-09",
+    "idea_words": 147,
+    "n_features": 5,
+    "max_shared_ngram": 3,
+    "shared_3grams": 1,
+    "distinctive_overlap": 0.02,
+    "title_bigrams_present": 0,
+    "digits": 0,
+    "flagged": false
+   },
+   {
+    "case_id": "case-10",
+    "idea_words": 154,
+    "n_features": 6,
+    "max_shared_ngram": 3,
+    "shared_3grams": 1,
+    "distinctive_overlap": 0.194,
+    "title_bigrams_present": 0,
+    "digits": 0,
+    "flagged": false
+   },
+   {
+    "case_id": "case-11",
+    "idea_words": 140,
+    "n_features": 5,
+    "max_shared_ngram": 3,
+    "shared_3grams": 3,
+    "distinctive_overlap": 0.296,
+    "title_bigrams_present": 0,
+    "digits": 0,
+    "flagged": false
+   },
+   {
+    "case_id": "case-12",
+    "idea_words": 146,
+    "n_features": 5,
+    "max_shared_ngram": 3,
+    "shared_3grams": 2,
+    "distinctive_overlap": 0.194,
+    "title_bigrams_present": 0,
+    "digits": 0,
+    "flagged": false
+   }
+  ]
+ },
+ "scorer": {
+  "script": "scripts/score_gold.py",
+  "hit": "any publication of the answer family (answers family_members, or family_id via the extract)",
+  "metrics": [
+   "rank of first family hit",
+   "recall@20",
+   "recall@50",
+   "MRR (ranks <= 50)",
+   "per stratum"
+  ]
+ },
+ "compromises": [
+  "S4 DE: no DE document with kind B/B1/B2/C has a machine-translated abstract in the extract (DE B: 1255, B2: 884, C: 3623 rows, all untranslated; C2 has 230 translated but none meet the other criteria), so the DE case uses a B4 (German granted patent, no prior A publication);  Pool of eligible translated DE B3/B4: 2671.",
+  "S1 is read broadly as 'carts or patient-handling equipment' with primary CPC in B62B/A61G: it includes a patient hoist and a powered medical-equipment carriage, not only carts and beds, to keep topics diverse.",
+  "Some topics recur across strata (patient chairs, industrial trucks), but no two cases share a family or an assignee+topic.",
+  "Family sizes in the extract vary (2 to 12 members); larger families are easier to hit."
+ ]
+}

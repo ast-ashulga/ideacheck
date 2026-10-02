@@ -44,7 +44,7 @@ def main(run: Path) -> None:
                 item["verified"] = True
 
         for feat, f in cmp["prior_art"].items():
-            check(f, f["verdict"] in ("disclosed", "partial"), f"prior_art.{feat}")
+            check(f, f["verdict"] in ("disclosed", "equivalent", "partial"), f"prior_art.{feat}")
             if f.get("verified") is False:
                 f["verdict"] = "unverified"
         for claim in cmp.get("claim_overlap", []):

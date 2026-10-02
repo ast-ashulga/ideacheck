@@ -1,0 +1,26 @@
+{
+  "case_id": "case-06",
+  "idea_text": "Hospital beds have motors that raise, lower and tilt their sections, and something, a hand, a foot or a piece of equipment, can get squeezed underneath or between parts while they move. I want the bed to notice that quickly and stop or back off. The bed's electronics already run the motors that move each part, so my idea is to watch how each motor behaves while it works. In particular it keeps an eye on how fast the moving piece is travelling and how much electric current the motor is drawing. If the piece slows down while the current climbs, something is probably in the way. The tricky bit is that normal behaviour differs depending on what the bed is doing, so the bed judges those same readings by different rules in different working situations, for example when raising versus lowering, to avoid false alarms while still catching real trapping.",
+  "features": [
+    {
+      "id": "F1",
+      "text": "Motorised drives move parts of the bed between positions under electronic control."
+    },
+    {
+      "id": "F2",
+      "text": "The bed has several working situations, each moving a part in its own way."
+    },
+    {
+      "id": "F3",
+      "text": "Feedback from each drive is watched while it is moving."
+    },
+    {
+      "id": "F4",
+      "text": "The readings include the moving piece's speed and the electric current fed to the motor."
+    },
+    {
+      "id": "F5",
+      "text": "The same readings are judged with different rules depending on the working situation, to recognise something trapped."
+    }
+  ]
+}

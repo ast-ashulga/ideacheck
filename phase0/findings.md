@@ -56,3 +56,31 @@
   - Ranks 1, 2 and 4 are Panasonic "electric vehicle" patents (2009–2011) that also use a virtual repulsive force. They are plausible genuine near-matches, not noise.
 - Limitation: the ranking used **titles and metadata only**. Google Patents returned 503 for every detail fetch for over an hour, from about 20:31. So this tests retrieval plus title-level triage, not abstract- or claim-level ranking.
 - Rate limiting is now the main operational risk. It hit twice in one day, each time after about 10 searches plus a few lookups. Phase 1 needs a second source for detail text (an EPO OPS key, or USPTO PPUBS for US documents) and a persistent fetch cache.
+
+## Phase 0.5 groundwork (2026-10-02, no network except free BigQuery dry runs)
+- **Shared cache** (`ideacheck/cache.py`, `data/cache.sqlite`):
+  - 97 Phase 0 records imported (13 full, 84 partial).
+  - A cross-process rate governor and throttle cooldown are shared by every script and agent.
+  - `ideacheck/sources.get_record()` reads the cache first, and new Google fetches now also store `cpc`.
+- **Dependent-claim parser** (`ideacheck/claims.py`): 16 of 16 tests, including the hand-checked independent claims of all 13 Phase 0 documents.
+  - Key fact: `structured_limitations` holds the **original-language claims**, complete and with references (請求項１に記載…, nach Anspruch 1).
+  - The machine-translated `claims` text is often empty (JP, DE) or starts mid-sentence. Parse dependency from the original first.
+- **CPC scope selection** (`ideacheck/cpc_select.py`, `scripts/cpc_scope.py`). On idea 01's top 20:
+  - B62D51/00 (hand-guided motor vehicles) and A61G2203/00 (device characteristics, sensors) each appear in 35% of seeds but are **missing from the extract scope**.
+  - 3 seeds have no known codes yet (JP-2008137631-A, JP-2014046890-A, JP-6837910-B2).
+- **Extract v2 dry runs** (`scripts/extract_v2.py`):
+  - `research` variant: **307.3 GB**. English title and abstract, machine-translated where needed, so it covers all languages.
+  - `localized` variant: 410.9 GB (original English only).
+  - The cost is independent of scope (B62B only: 307.3 GB too).
+- **Verdict rubric** v1 draft: `docs/verdict-rubric.md`.
+- **Japanese documents often have no CPC.**
+  - JP-2014046890-A, JP-2008137631-A and JP-6837910-B2 carry only IPC/FI codes, or a Y02T tag. Google Patents shows no CPC for them either.
+  - This is why they were missing from extract v1, which filtered on CPC only.
+  - Extract v2 filters on **CPC OR IPC OR FI**: 314.6 GB, +7 GB over CPC only.
+- **Extract v2:** job `9315ec42…`, billed 314.6 GB. The query took 25 s. The download took 24.5 min via `scripts/download_table.py`, because `to_arrow()` in one call hung for more than 30 min.
+  - Result: `data/extract_v2.duckdb` (1.28 GB), **1,140,266 publications / 756,284 families**. It covers all 117,264 v1 families plus the 3 missing seeds.
+  - Fill rates: English title 95.3%, English abstract 79.6% (53.8% of them machine-translated), `embedding_v1` 100%. Latest publication 2026-09-24.
+  - 45.5% of rows have no CPC in the research table (IPC/FI only); 23% of those are JP.
+  - Country mix: CN 490k, JP 156k, US 125k, DE 60k, EP 56k.
+- **The scope check now sees all 20 of idea 01's top-20 seeds.** Only B60L15/00 (traction-motor control, 15%) is outside the scope. It's EV-heavy, so it's left out for now.
+- BigQuery October usage so far: 197.1 + 314.6 = 511.7 GB, so about 488 GB of the 1 TB remain.
